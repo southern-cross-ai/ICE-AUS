@@ -1,6 +1,4 @@
-
-
-# International Corpus of English (ICE)
+# Australian Component of the International Corpus of English (ICE-AUS)
 
 ## Overview
 
