@@ -1,0 +1,350 @@
+<S1B-066><2016>
+
+<I><$A> <#\>Ah Mr <@>surname1</@> er do you or have you held a 
+licence as a private private inquiry agent or as a commercial 
+agent
+<$B> <#\>No
+<$A> <#\><,>Mr <@>surname1</@> perhaps ah I should just tell
+you 
+that ah <,> a number of witnesses have already been called before 
+the Commission from the <@>companyname1</@> group <{1><[1>and 
+ah</[1> those include <,> persons I think you would know such as 
+Miss ah or Mrs <@>Surname2</@> <{2><[2>and ah</[2> <,> Miss 
+<@>surname3</@> and Mr <@>surname4</@> himself <{3><[3><,,></[3> 
+<#\>Now <,>during your time at <@>companyname1</@> have you ever 
+obtained either directly or indirectly any confidential 
+information from any government department or authority
+<$B> <#\><[1>mmm</[1></{1> 
+  <#\><[2>mmhmm</[2></{2>
+  <#\><[3>Yeah, right</[3></{3>
+  <#\>I object to answering that but yes I have
+<$C> <#\>Yes well <,> Mr <@>surname1</@> to avoid the
+necessity of 
+your continuing to object when asked questions on that subject 
+I'll make a declaration under section thirty eight <#\>Is that 
+something you're familiar with
+<$B> <#\>No but it's a continuing objection is it
+<$C> <#\>It has <{><[>that effect</[>
+<$B> <#\><[>I understand that</[></{>
+<$C> <#\>Under the provisions of section thirty eight of the
+I C A 
+C act nineteen eighty-eight as amended I declare that all answers 
+made by the witness to questions relating to his handling of 
+information emanating from government departments or authorities 
+be regarded as having been given over objection
+<$B> <#\>Thank you
+<$C> <#\>Yes Mr <@>surname5</@> 
+<$A> <#\>Ah what types of information
+<$B> <#\>Um motor transport information
+<$A> <#\><,> Yes anything else
+<$B> <#\>No
+<$A> <#\>Criminal history records
+<$B> <#\>No
+<$A> <#\><,> Ah <,> information from electricity
+authorities
+<$B> <#\>No
+<$A> <#\><,,> So it's purely motor transport and nothing
+else
+<$B> <#\>Sure
+<$C> <#\><,> Well were were you aware
+while 
+working at <@>companyname1</@> of other types of government
+information <{><[>being obtained</[>
+<$B> <#\><[>I was just thinking</[></{> while you said
+that 
+<#\>I was aware in relation to electricity I was aware of maybe 
+over over three or four years one or two 
+instances of an agent and quite honestly I wouldn't remember
+which 
+one it was who obtained information over the telephone from one
+of 
+the county councils <#\>But I think it was the way
+I 
+recall it it was just simply a phone call in um seeking
+the
+information that was given over the phone freely
+<$C> <#\>Yes
+<$B> <#\>But that's the only instance I can recall otherwise
+<$C> <#\>No no knowledge of criminal 
+histories
+<$B> <#\>No
+<$C> <#\>No knowledge of anyone else in the office dealing
+with 
+<@>fullname6</@> 
+<$B> <#\>I knew <@>fullname6</@> <{><[>by</[> sight only
+as and I knew him as only as 
+being a friend of ah <@>fullname4</@> 's
+<$C> <#\><[>Yes</[></{>
+  <#\>Yes
+<$B> <#\>And probably over the six years that I was at 
+<@>companyname1</@> I would have seen <@>surname6</@> <,> maybe 
+<,> once a year <,,>
+<$C> <#\>Do you know <@>fullname7</@> 
+<$B> <#\>Yes<,,>
+<$C> <#\>Know him as someone who use to work there
+<$B> <#\>Yes <#\>That's how I know him <#\>I didn't know him 
+before that
+<$C> <#\>Didn't know him when he <{><[>was a</[> police 
+officer
+<$B> <#\><[>And I haven't</[></{>
+  <#\>No <#\>And I I and I haven't 
+seen him since he left the office
+<$C> <#\>You have no knowledge of ah <,> information being 
+provided by him to Mr <@>surname4</@> before<@>surname6</@> was 
+used
+<$B> <#\>No I've got no information concern I've
+got 
+no knowledge of that <#\>Sorry
+<$C> <#\>Yeah <#\>Yes Mr <@>surname5</@> 
+<$A> <#\>Well now in relation to the motor transport
+information 
+that was obtained who was the source for that information
+<$B> <#\>I only knew that person as <@>firstname8</@> 
+<$A> <#\><,> Well how were the requests made of him
+<$B> <#\> By the telephone <#\>Oh well
+he he would ring in
+<$A> <#\>Yes <,> <#\>And over what period of time was he the 
+source of the R T A information
+<$B> <#\>Well he was the source over
+the all 
+of the years that I was in the position of being the manager of 
+the surveillance area <#\>Prior to that um <,> it was all sort
+of 
+hi hi higgledy-piggledy and I think he possibly was one of a 
+number um but um what happened when I took over as the manager
+is 
+that the business had grown to where it actually needed some 
+monitoring ah in terms of <#\>People were virtually falling over
+each 
+other doing picking up or duplicating jobs
+and 
+things like that <#\>And ah <O>clears throat</O><,>
+I I think ah 
+at that stage and this would be going back three and a 
+half three three and a half years ago that
+um 
+I was just told by one or two maybe even more of the agents there 
+at the time and quite honestly I don't know I
+wouldn't 
+know who that was that that there was 
+a source that they had named <@>firstname8</@> and that he would 
+ring in <,> <#\>And prior to that prior to
+that 
+time I was unaware of even the R T A information coming in <,> 
+<#\>I but no I feel it was but ah
+<$A> <#\>Well until when did <@>firstname8</@> continue to
+be the 
+source
+<$B> <#\>Um oh
+<$C> <#\>Just just a moment Mr Mr <@>surname1</@> before you <{1><[1>go on</[1> 
+<#\>You said prior to being told <,> of <@>firstname8</@> 
+<{2><[2>you</[2> didn't know of R T A but you said it was 
+higgledy-piggledy prior 
+<$B> <#\><[1>Sorry</[1></{1>
+  <#\><[2>Sure</[2></{2>
+  <#\>Well I think the agents were getting it themselves 
+<{1><[1><,,></[1> at that stage <#\>I mean it was a prior to that it we it had had been a not a lar not as large 
+an organisation as it it had then grown to
+be 
+<#\><{2><[2>Um</[2> and ah I think that if any of the op operators at that stage were getting that type of 
+<{3><[3>information</[3> they were they were 
+arranging it themselves <,> <#\><{4><[4>Because</[4> I I saw no indication of it coming through the office
+<$C> <#\><[1>Yes</[1></{1>
+  <#\><[2>Yes</[2></{2>
+  <#\><[3>Mmm</[3></{3>
+  <#\><[4>Yes</[4></{4>
+  <#\>Yes <#\>Yes Mr <@>surname5</@> <,,>
+<$B> <#\>I mean if it did it may have been rung into them
+while 
+they were there but I I wasn't aware of it
+<$A> <#\>Did <@>firstname8</@> er at some stage er cease to
+be the 
+source for R T A information
+<$B> <#\>Yes um
+<$A> <#\>When was that
+<$B> <#\>That was a while oh <,,> maybe twelve months before
+I 
+left it <#\>Around um anything from maybe fifteen to nine months
+um 
+<#\>My memory's not so clear on that
+<$A> <#\><,>And ah when exactly did you leave
+<@>companyname1</@> 
+<$B> <#\>In August <O>cough</O> nineteen ninety
+<$A> <#\><,,> Well now you said he would ring in <,> <#\>Was
+that 
+to obtain requests for the information
+<$B> <#\>Sure
+<$A> <#\>And how was the information supplied
+<$B> <#\>The same way
+<$A> <#\>Was he paid for the information
+<$B> <#\>Ah yes
+ <$A>  <#\>And how was he paid
+<$B> <#\>In cash <,>
+<$A> <#\>And how was the cash given to him
+<$B> <#\>By hand
+<$A> <#\>By whom
+<$B> <#\>Um usually by myself <#\><{><[>Well I</[>
+<#\>Sorry 
+I know of no other instance than by myself
+<$A> <#\><[> well now</[></{>
+  <#\>Well what about when you were um away or on holidays or 
+sick if that ever occurred <#\>Who would look after
+<$B> <#\>I had three weeks holiday in nineteen eighty-nine
+and 
+that's the only holiday I ever had at <@>companyname1</@> 
+<$A> <#\>And how er <O>cough</O> what 
+was the 
+arrangement in relation to how you would transfer the cash to
+him
+<$B> <#\>Um there was no regular basis um <#\>Although the
+formula 
+was always the same there was no regular like there 
+was no weekly monthly or thing like that um and so 
+the er just on a ring in situation um he
+would 
+say um um <quote>can I get some money now</quote> 
+<#\><{1><[1>And  would</[1> <#\>Ah would give a number of um items and I would've 
+probably kept a rough tally of what that was and ah 
+<{2><[2>that</[2> ah <#\>He'd be outside the office 
+or on the corner or something like or usually on the corner 
+of the office where it was at the time ah at such and such a time 
+and he would arrive and um <,,>
+<$A> <#\><[1>Right</[1></{1>
+  <#\><[2>Right</[2></{2>
+  <#\>Now how often did you pay him
+<$B> <#\>It varied um <#\>Probably never less frequently
+than a 
+month but sometimes it would run to six six 
+to 
+eight weeks <,,>
+<$A> <#\>And was that er <,,> over what 
+period of time did you actually look after the payments
+<$B> <#\>The three probably the three
+years
+<$A> <#\>Right <#\>Do you know how he was paid before that
+<$B> <#\>No <,> <#\>Although as I sayI was I 
+suspect possibly by by individual 
+agents if that <#\>But to answer your question no I don't know
+<$A> <#\>And where was <@>firstname8</@> employed
+<$B> <#\>I have no idea of that
+<$A> <#\>Well where did you think he was employed
+<$B> <#\>Somewhere that had a computer
+<$A> <#\>Yes
+<$B> <#\>I mean honestly I have no idea whether he was
+police R T 
+A or I mean even an insurance company who had that access <#\>I 
+don't know
+<$A> <#\>Well what did <@>firstname8</@> look like
+<$B> <#\>Um he'd be about five ten ah he had dark hair oh 
+aged 
+about <,>middle thirties <#\>The I the 
+description I'm giving you now would be say um two years 
+old
+<$A> <#\>Yes
+<$B> <#\>Um <#\>Then aged middle thirties um um <,,> ah
+medium 
+to slight build um no distinguishing features on his <#\>Did I 
+give you his hair colour dark
+<$A> <#\>Um yes I think you did mention dark hair
+<$B> <#\>No real distinguishing features <#\>He never had a 
+moustache at any stage that I knew him or a beard or scars um 
+<#\>Always always when I saw him he had
+casual 
+clothes on <,,>um um
+<$C> <#\>Complexion
+<$B> <#\>Ahin sum he was always
+suntanned in 
+summer and a normal about my skin colouring
+in 
+winter <#\>But normally alway I mean in 
+Summer he'd turn up in shorts and you could see he spent
+a 
+lot of time at the beach
+<$C> <#\>Well was he ah did he have a
+swarthy 
+<{1><[1>Mediterranean</[1> look or did he look <{2><[2>like</[2> 
+the typical sun drenched Australian or what
+<$B> <#\><[1>no</[1></{1>
+  <#\><[2>no he was</[2></{2>
+  <#\>Um <,> not ah I didn't pick him as 
+being immediate migrant <{><[>look</[> <#\>You know I wouldn't 
+say that you know he had a Slavic look or a or 
+a Levantine look or a Spanish look um <,> but I on the other hand I suppose he didn't look like a 
+Bondi Beach life saver either <#\>Um he was um
+<$C> <#\><[>Yes</[></{>
+  <#\>More like a Manly one
+<$B> <#\>Yeah <O>laughter</O> <#\>No he was
+quite I 
+mean he he had a a 
+strong 
+looking face <{><[>um</[> um <#\>He didn't speak with any 
+accent <,> <#\>I mean our conversations I mean this 
+is from phone conversations um
+<$C> <#\><[>Yes</[></{>
+  <#\>How did you know him the first time you saw him to pay 
+him
+<$B> <#\>He knew me and I mean I <#\>so for all that
+if if it if he hadn't walked up to me and 
+said to me<@>firstname1</@> I'm <@>firstname8</@> and that was
+it 
+<#\>He I mean the arrangement was I 
+would be standing on the corner in um in<@>streetname1</@> and 
+whatever the little side street was there where the office block 
+er at um three thirty in the afternoon and that he would meet me 
+there <,> <#\>And I sa I I something that would have gone along the lines of
+how 
+will I know know you because I there was no other thing and he said <quote>I'll know 
+you</quote> <,>
+ <$C>  <#\>And what sort of money did you pay him when you met 
+him
+<$A> <#\>It was four dollars an inquiry 
+<$B>  <#\>Oh well originally it was three <O>clears
+throat</O>two fif <#\>I can't recall 
+<#\>Look it was either two fifty or three to start but I can't
+remember but 
+it the last um six months or so it was four
+<$C> <#\>And how much what what 
+was the 
+range of payment each time you saw him
+<$B> <#\>Oh look it varied because as I said he didn't
+always ring 
+up when it was an exact amount
+<$C> <#\>Yeah but it varied over what range
+<$B> <#\>Oh the largest amount I probably had ever given him 
+would be <,> <#\>Oh under it would be under under nine <#\>It would be maybe six hundred and 
+something would be the largest but that wouldn't be very often
+<$C> <#\>And what was it usually then
+<$B> <#\>Oh one around two hundred 
+seemed to be 
+be <#\>When it had built up to that he would generally want it 
+<#\>And I mean that could be that could be 
+um 
+maybe um three weeks <#\>It might be might be 
+eight weeks
+<$C> <#\><O>clears throat</O>We've we've 
+been told in evidence 
+that ah he was doing something like twenty a day that sort of 
+figure <{><[><,></[> <#\>That would be
+<$B> <#\><[>Ah</[></{> that would be high
+<$C> <#\>Well what would
+<$B> <#\>That would be the high um
+<$C> <#\>Well see that would be fifty sixty a day five day
+week 
+two fifty three hundred a week would bring you up to
+<$B> <#\>Fifty sixty a day
+<$C> <#\>Mmm <#\>No no no dollars
+<$B> <#\>Oh sorry sorry <{><[>um</[> 
+<$C> <#\><[>Dollars</[> </{> <#\>Twenty inquiries a day
+<{><[>or a little less</[>
+<$B> <#\><[>Well I mean that</[></{> that number of
+inquiries 
+sir would be the very very top per day and I would 
+put it at much lower than that per day in numbers <,> I mean
+<#\><O>cough</O> The thing ah the thing is 
+that <O>cough</O>I mean other age other um um and
+without 
+criticising or contradicting any other witnesses other
+information 
+of the same type was coming to the office but from say the
+clients</I>
+

@@ -1,0 +1,119 @@
+<W1B-017>  <2019>
+
+<I><#\><h>Australian Copyright Council</h>
+
+<p><#\>Mrs P H Peters 
+Senior Lecturer in Linguistics
+<#\>Macquarie University
+SYDNEY  NSW  2109</p>
+
+<#\>Ref:  92/0050 Usr Org Txt Prm
+
+<#\>26th May 1992
+
+<p><#\>Dear Pam Peters,</p>
+
+<p><#\>Thank you for your letter of 14 April. <#\>I apologise for the delay in my reply. <#\>I also apologise for not being able to attend the class for your graduate students in book editing. <#\>I hope the evening was useful for the students.</p>
+
+<p><#\>I enclose a list of our more detailed publications. <#\>Bulletin 78, Computers and Copyright, would be of particular interest to you as it deals with questions of electrocopying and databases.</p>
+
+<p><#\>I understand from your letter that you are concerned that there may be copyright implications in a project involving entering extracts of certain print and broadcast materials onto a database for the purposes of linguistic research. <#\>I shall now outline the relevant principles.</p>
+
+<p><#\>The materials that you are dealing with are 2,000 word extracts from a variety of sources. <#\>These include printed material, including books and magazines, and language from broadcast materials from television and radio. <#\>To be protected by copyright, a work must be reduced to some material form, that is written down or recorded in some way. <#\>The fact that you are recording the interviews or monologues means that this requirement is satisfied. <#\>A written or recorded interview or monologue may be protected by copyright as a literary work, provided it is sufficiently original. <#\>Arguably a simple conversation or series of short questions and answers would not have the requisite skill and labour on behalf of the authors to be regarded as a literary work. <#\>If, however, its creation involves narrative skill and structure, it would be protected.</p>
+
+<p><#\>It is likely that the majority of sources for the extracts will be protected as either literary or dramatic works. <#\>There may also be a copyright in the published edition of the works in print. <#\>All of these materials are recent and copyright would not have expired.</p>
+
+<p><#\>It is then a question of whether the extracts constitute a 'substantial part' of their respective works. <#\>While the 2,000-word sample does not correspond to any structural unit of the original and ends abruptly, it still may constitute a substantial part of the original work. <#\>The test is whether or not the portion taken constitutes an important, recognisable, or distinctive part of the original. <#\>It is likely that this would be the case in many of the samples. <#\>Indeed, newspapers and other shorter pieces will be included in their entirety.</p>
+
+<p><#\>It then must be asked whether the entry and manipulation of such extracts of text into the database would constitute copyright uses. <#\>You state in your letter that you will be transcribing the words of the audio-visual material in to a computer readable form that will then be entered on the database. <#\>The means of entering the data will be relevant in determining whether the copyright in the published edition will be relevant. <#\>Data is generally put into electronic storage in two ways:
+
+<#\>1.<space>registration by keyboard, that is by transcribing the 
+works.
+<#\>2.<space>optical registration (scanning)</p>
+
+<p><#\><it>analogue registration</it> <longdash> is analogous to photocopying. <#\>A scanner registers  whole page and once copied, the page and its contents can be manipulated. <#\>This form of manipulation is often used in desk top publishing.</p>
+
+<p><#\><it>optical reading</it> <longdash> a scanner recognises and identifies certain letters or characters and stores them as text. <#\>It is possible to edit or manipulate the text as if it had been registered by way of keyboard.</p>
+
+<p><#\>Both systems of optical registration can be used simultaneously in the one system. <#\>Only in analogue registration is the actual typeface copied.</p>
+
+
+<h><#\><bold>Reproduction</bold></h>
+
+<p><#\>The significant use of the material in a computer storage and retrieval system will be by way of reproduction in a material form. <#\>This use may occur either when the information is stored in the computer ("input" stage) or when it is retrieved ("output" stage) or both. <#\>Copyright owners can control the input of their materials onto computer storage and retrieval systems if the input is <quote>a reproduction in a material form</quote> . <#\>In the Apple case, the High Court confirmed that computer storage of copyright works is a reproduction in a material form and will generally require permission of the copyright owner.</p>
+
+<p><#\>It is not clear whether a publisher is able to control the making of a machine readable copy of the edition by exercise of the published edition copyright. <#\>This is because it is possible that this right refers only to reproduction involving a photographic process. <#\>Section 88 of the Copyright Act describes the copyright in the published edition as follows:
+
+<X><quote>For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a published edition of a literary, dramatic, musical or artistic work or of two or more literary, dramatic, musical or artistic works, is the exclusive right to make, by a means that includes a photographic process, a reproduction of the edition.</quote> </X></p>
+
+<p><#\>If the restrictive interpretation is accepted, electronic or machine reproduction will not be able to be controlled by a publisher holding only an interest in the published edition. <#\>If a wider view is taken <longdash> that photographic process is one of the processes by which edition may be reproduced <longdash> publishers will retain this control.</p>
+
+<p><#\>I am not sure from your letter whether the texts can be accessed after they have been entered onto the database. <#\>If they are to be used for linguistic research or the extraction of data such as frequency statistics of certain key words and the user has no access to the works themselves, then the only activity which may require the copyright owner's licence is the initial reproduction of the work for the purpose of selecting and tabulating the frequency of key words. <#\>Whether a licence is required depends upon whether a reproduction is made during this process and whether it is in a "material form". <#\>If the work is reproduced transitorily so that, once the process of selection is completed, it cannot be reproduced, it is unlikely to be in the requisite material form to require the copyright owner's licence. <#\>Where the whole or a substantial part of the materials input into the system are capable of being retrieved the input is likely to be a copyright use as even though not all the information is reproduced in the output.</p>
+
+<p><#\>There may also be other copyright uses of the material in the databases, especially the international database, such as transmission by cable to subscribers, broadcast and adaptation.</p>
+
+
+<h><#\><bold>The fair dealing exception</bold></h>
+
+<p><#\>While the use of the materials in this fashion would probably constitute acts comprised in the copyright, you may be able to rely on the fair dealing provisions for research and study. <#\>Section 40 allows a fair dealing to be made with a work for the purposes of research or study, without permission from the copyright owners. <#\>This use of the work would seem not to involve any reproduction other than the initial input, and would have no effect on the potential market for, or value of the works. <#\>Therefore it cold be argued that as the use of the works was purely for linguistic research, this fair dealing section would apply.</p>
+
+<p><#\>Thank you for your enquiry. <#\>If you have further questions, please let me know.</p>
+
+<p><#\>Yours sincerely,
+
+
+
+Scot Morris,
+Legal Officer</p>
+
+<#\>Encl:.  </I>
+
+	<I><#\><h>LETTERHEAD</h>
+
+
+<#\>Mrs. P.H. Peters,
+<#\>Macquarie University,
+SYDNEY NSW 2109
+<#\>15th August, 1991
+
+<p><#\>Dear Pam Peters,</p>
+
+<p><#\>Thankyou for your letter of the 15 July. <#\>I apologise for the delay in my reply. <#\>I enclose Bulletin 47, "Writers and Copyright", and our free pamphlet "Copyright in Australia" together with a list of our more detailed publications.</p>
+
+<p><#\>I understand from our telephone conversation and your letter 
+that you wish to establish how the American version of your work on style and usage fits in with your publishing contract with Macquarie Library Pty. Ltd. <#\>The important issues are:
+
+<#\>1)<space>is the American version still the "work"?
+
+<#\>2)<space>is the sub-licence covered by the subsidiary rights?
+
+<#\>3)<space>are you <ul>obliged</ul> to do the American version?
+
+<#\>4)<space>are you entitled to additional payment for this?</p>
+
+<p><#\>I shall now outline my view of the relevant clauses.</p>
+
+<p><#\>The subject matter of the agreement which you enclose in your letter is defined in clause 1.1(c) as <quote>the Macquarie Guide to Style & Usage</quote> which under 1.1(c) <quote>shall mean and include the first and all subsequent editions thereof including material which may be added in any subsequent edition.</quote> You state in your letter that while the arrangements for the Australian edition have yet to be finalised, an American sub-licensing deal has already been entered into. <#\>This is an unusual state of affairs in that normally sub-licensing overseas editions takes place after the original Australian edition has been published. <#\>Nevertheless, the rights which are granted to the publisher under 8.1 are exclusive world wide rights for publishing the work in any form. <#\>There is no clause obliging the publisher to publish within a certain date and no restriction on them sub-licensing overseas publishers before publishing the Australian edition. <#\>The Australian Society of Authors recommends that the Publishers should be under an express obligation to exercise the rights and publish within a specified time <longdash> no later than eighteen months from the date of delivery, for example.</p>
+
+<p><#\>As to whether the alterations you are to make for the American version render it another work which should then be the subject of another agreement, it is a question of fact and degree. <#\>If the work is the text written in accordance with the synopsis attached to the publishing contract with minor alterations for the American market, it would not be considered a new work. <#\>If the work had been re-written to the extent that it was substantially different to the manuscript, then arguably it may constitute a separate work and thus require a fresh agreement. <#\>From my discussion with you I do not believe this is the case.</p>
+
+<p><#\>The question of the additional skill and labour on your behalf in adapting the work for the American market is not directly addressed in the contract. <#\>It is unlikely that clause 16.1 relating to revisions to keep the work up-to-date would enable them to require you to adapt the work. <#\>Clause 3.1, which refers to the Publisher being able to request the Author to <quote>make such amendments and corrections as it considers advisable</quote> is much broader but still would not extend to the American adaptation, in my view.</p>
+
+<p><#\>If the publisher were to employ someone else to edit and adapt the work for the American market, they would need to pay for that skill and labour. <#\>As such adaptation was not specifically contemplated in the original contract, you may wish to attempt to negotiate additional payment for doing the adaptation.</p>
+
+<h><#\><ul>Royalties</ul></h>
+
+<p><#\>The royalties payable on an edition licensed to another publisher overseas would come within clause 10.1(i), 50% of net receipts. <#\>There is no definition of net receipts nor what deductions the publishers will make before calculating the royalty.</p>
+
+<p><#\>If the American publisher is affiliated with Macquarie Library, what then is the basis of payment of licence fees to your publisher? <#\>There is no clause requiring your consent to licensing agreements. <#\>They are under no legal obligation to disclose sublicensing details, but should, as a matter of courtesy give you that information.</p>
+
+<p><#\>The royalty payable on the editions published by Macquarie Library (eg: the Australian edition), is 10% of net receipts under clause 9.1. <#\>There is no information on the publisher's discounting practices, nor on the deductions made before determining the net receipts. <#\>The royalty rate could potentially be quite low. <#\>The ASA recommends that authors are paid an escalating royalty between 10-15% of the <ul>recommended retail price.</ul></p>
+
+<p><#\>In answer to your specific questions:
+
+<#\>a)The fact that the publishers have sub-licensed to another publisher and you are to adapt the original manuscript for this purpose does not change the status of the work. <#\>Both the original and the American version are the work for purposes of the agreement, in my opinion.
+
+<#\>b)The royalty rates for any version of the work sub-licensed to another publisher are 50% of the net receipts of the licence fees. <#\>(clause 10.1(i)). <#\>The royalty for any version published by Macquarie Library (ie: the Australian version) is 10% of the net receipts.
+
+<#\>c)As the contract did not specifically contemplate adapting the work for other markets, you may wish to attempt to negotiate payment for your work of doing the adaptation.</p></I>
+

@@ -1,0 +1,383 @@
+<S1A-058> <2001>
+<I><$A> <#\>You're going to a Tupperware party<,> <#\>You must be
+joking <O>ABLaugh</O>
+<$B> <#\>I knew you'd laugh when I'd tell you<,,> <#\>Oh dear<,>
+I
+was wondering <#\>I said to <@>forename1</@> <,> <quote>what does
+one
+wear <O>laughing</O> when you go to <{><[>a Tupperware party</quote></[> 
+<$A> <#\><[>Oh well</[></{> you must be dressed correctly <{><[>for a Tupperware party</[> mustn't you <#\>Oh dear <#\>Wouldn't it be
+dreadful if you turned up in something that wasn't quite
+suitable <O>ABlaugh</O> <#\>Now I've got the timer on for five
+minutes OK<,,>
+<$B> <#\><[>Well you do</[></{> 
+     <#\>OK what dish do you want this in
+<$A> <#\>What d'you mean what dish do I want this in
+<$B> <#\>Haven't you got any nice<,> serving bowl<,,> or are we
+<{><[>gonna eat out of this</[> 
+<$A> <#\><[>Well we're</[></{> going to eat hot pate are we<,> I thought
+it was supposed to chill
+<$B> <#\>Yeah <#\>In the in the dish<,,> then put it in the
+fridge
+<$A> <#\>OK<,> OK <#\>The dish
+<$B> <#\>You mean to say I<,> I'm not going to get to try this
+out <#\><{><[><O>inaudible</O></[> 
+<$A> <#\><[>Do you want</[></{> the wide one one like that where it cools
+sooner <,,> <{><[>it cools more quickly</[> <#\>There you go<,> <#\>Is
+that suitable for you <#\>Is that pretty enough <O>Alaughs</O>
+<$B> <#\><[>Yes <#\>Yes</[></{> 
+     No <#\>There's no pattern on the bottom <O>Blaughs</O>
+<$A> <#\>There's no what on the bottom
+<$B> <#\>Pattern<,> on the bowl
+<$A> <#\>Pattern <{><[><,></[> <O>inaudible</O>
+<$B> <#\><[>Yes</[></{> 
+     <#\>You asked me if I wanted something pretty
+<$A> <#\>Oh dear dear dear<,,>
+<$B> <#\>Life is hard at the top<,,> <#\>Who was that on the
+phone
+may I ask
+<$A> <#\>Um<,,> <@>forename2</@> <@>surname2</@> <,> I think
+<$B> <#\><@>forename2</@> <@>surname2</@> 
+<$A> <#\><@>forename2</@> <,> from um<,> soccer
+<$B> <#\>Oh yeah<,>
+<$A> <#\>I gave her a fifty dollar voucher for<,,> something or
+other<,> for the soccer club <{1><[1><,></[1> <#\>And <{2><[2>she was</[2> making
+sure that it was OK because it was over the time etcetera
+etcetera so <{3><[3><,,></[3> <#\>So I'd better cut up some bread rolls
+hadn't I
+<$B> <#\><[1>Mmhmm</[1></{1> 
+     <[2><O>inaudible</O></[2></{2> 
+     <#\><[3>Oh that's no good</[3></{3> 
+     <#\>For the children<,,> mmm
+<$A> <#\>Keep talking please <@>forename3</@> 
+<$B> <#\>Oh we're on are <{><[>we</[> 
+<$A> <#\><[>We're</[></{> on now <#\>I'm sorry to tell you
+<$B> <#\>Can't<,> turn it turn it off and we'll have intermission
+and then start again
+<$A> <#\>We might have to if we don't if you don't keep talking
+<$B> <#\>Oh right it's like that <#\>Well I should've written
+notes
+<O>ABlaugh</O> <#\>Brandy<,> <#\>Where did you put the brandy
+please
+<$A> <#\>The brandy <{1><[1><,></[1> <#\>The brandy's coming <#\>I don't
+think we
+can handle brandy <#\><{2><[2><O>inaudible</O></[2> 
+<$B> <#\><[1>Yes</[1></{1> 
+     <#\><[2>Oh no</[2></{2> I've already had<,,>
+<$A> <#\>We're we're putting some brandy on <#\>I thought you
+said it
+had to cool
+<$B> <#\>We're cheating<,> <#\>We can do that
+<$A> <#\>Brandy<,> <#\>That's more than a tablespoon
+<O>Alaughs</O>
+<$B> <#\>Oh alright<,,> <#\>Oh I tell you <#\>I think the
+champagne's
+having an effect on me <#\>I only had<,> a schooner of beer last
+night
+<$A> <#\>A schoon <#\>You <{><[>had beer</[> 
+<$B> <#\><[>Last night</[></{> <#\>Yes <#\>I had beer
+<$A> <#\>That's dreadful
+<$B> <#\>Isn't it just<,> <#\>Well that's what happens when you
+go
+out drinking with these men <#\>Do you know <@>forename4</@> <@>surname4</@> 
+<$A> <#\>No <#\>I don't
+<$B> <#\>Oh dear <#\>Womaniser he is <#\><{1><[1>Hands all</[1> over you
+before
+you <{2><[2>can say no</[2> 
+<$A> <#\><[1>Is he</[1></{1> 
+     <#\><[2>Does he have</[2></{2> a wife
+<$B> <#\>Yes he has
+<$A> <#\>He does <#\><{><[>Oh that's nice</[> 
+<$B> <#\><[>She knows him well</[></{> thank goodness<,> <{1><[1>and</[1> everybody
+else and<,,> <#\>He asks you <quote>would you like to come and
+have a a
+little drink with me <#\>Let's go</quote> <#\>I said <quote>I
+haven't answered
+yet</quote> <#\><quote>Oh<,> oh</quote><,,> <#\>Anyway<,> I know
+him <#\>He's you know
+<{2><[2><,>he's he's he's harmless</[2> 
+<$A> <#\><[1>Right</[1></{1> 
+     <#\><[2>So was that was that</[2></{2> the disco night
+<$B> <#\>Last night <#\>Yeah
+<$A> <#\>Right<,>
+<$B> <#\>So off we went<,,> <#\>Before I know it there was a
+schooner
+placed in front of me<,> <#\><{><[>He didn't even ask<,> <#\>Yes</[> 
+<$A> <#\><[>A schooner of beer</[></{> <#\>And he didn't ask you
+<$B> <#\>Didn't ask me <#\>No
+<$A> <#\>Yuk
+<$B> <#\>And I tell you I drank it <O>laughter&inaudible</O>
+<$A> <#\>Yuk
+<$B> <#\>I was so hot and bothered<,> then we went and
+danced<,,>
+then I was whistled at<,> and I turned around and I thought
+<quote>who's whistling <O>ABlaughing</O> <#\>Which good
+sort</quote> 
+<$A> <#\>Who was it<,> <#\>Some one you know<,>
+<$B> <#\>Girls<,,> <#\>The girls that were sitting at the same
+table
+<{><[><O>inaudible</O></[> and I thought <quote>shoosh up</quote>
+<$A> <#\><[>Oh those women <#\>Yeah.</[></{> 
+     <#\>They're just frustrated
+<$B> <#\>Yeah <#\>I thought<,,> <quote>I'm the one that's dancing
+girls<,>
+not you</quote><,> <#\>Oh dear<,,>
+<$C> <#\>OK <#\>The tickets to Macbeth<,>
+<$B> <#\>Oh yes
+<$C> <#\>Um<,,> you must<,> if you can<,> give me the money now
+because I have to buy the tickets<,> on Monday
+<$B> <#\>How much for
+<$C> <#\>Eight dollars each
+<$B> <#\>Eight dollars each
+<$A> <#\>And the children<,> eight dollars <{><[>also</[> 
+<$C> <#\><[>Yes</[></{> I think so <#\>Yep
+<$A> <#\>Are you sure<,,> <#\>That's dreadful
+<$B> <#\>I'm a pensioner <O>Blaughs</O>
+<$C> <#\>But eight dollars is good for a um um um show though
+<{><[>um a a play</[> 
+<$A> <#\><[>It's only a school</[></{> show 
+<$C> <#\>I know but we have to have the theatre and we have to
+pay
+for the um<,,> what's a name
+<$B> <#\>Which theatre
+<$A> <#\>That's thirty six for <@>forename3</@> <#\>That's too
+much<,,>
+<$C> <#\>Eight and eight and eight
+<$A> <#\><{><[>Yeah <#\>Oh</[> 
+<$B> <#\><[>No</[></{> Thirty two
+<$A> <#\>Thirty two<,> I think it's the champagne
+<$B> <#\>Twenty four <{><[><,></[> <#\>Twenty four
+<$A> <#\><[>Is it</[> 
+<$C> <#\><[>Yeah</[></{> 
+<$A> <#\>Isn't eight threes thirty two<,> <{><[>thirty six</[> 
+<$B> <#\><[><O>inaudible</O></[></{> You're adding in one extra person
+there <O>laughter</O> <#\>You know
+<$A> <#\>I thought you could pay for me <O>ABlaugh</O>
+<$C> <#\>Twenty four that is
+<$B> <#\>No way <#\>It would have to be <{><[><O>inaudible</O></[> 
+<$C> <#\><[>I'm sorry to</[></{> I'm sorry <{><[>if it's</[> 
+<$B> <#\><[>So that's it</[></{> 
+<$A> <#\>So twenty four<,,> <#\>How does twenty four <{><[>sound</[> 
+<$C> <#\><[>And and</[></{> and think about what day and everything<,>
+<$B> <#\>Think about what day<,>
+<$C> <#\>Mmm<,> <#\>It's on Thursday and Friday night<,,>
+<$A> <#\>Oh no <#\>It'll be Friday night with us
+<$B> <#\>Yeah <#\>I'm not going to
+<$A> <#\>It'll be <{><[>Friday night</[> with us
+<$B> <#\><[>Now listen</[></{> 
+<$A> <#\>You can go Thursday night with <@>forename5</@> if you
+like<,>
+<$B> <#\>Why isn't he going Friday
+<$A> <#\>'Cos he's going<,> 'cos he's going out Friday
+<$C> <#\>'Cos he goes to the city to Oxford street on Fridays
+<$B> <#\>Oh <#\>Who's he meeting there may I ask
+<$A> <#\>His gay friends I'd say
+<$B> <#\>Ooo<,,>
+<$A> <#\>He doesn't say that
+<$B> <#\>Not as much<,,>
+<$A> <#\>Yeah<,> but<,,>
+<$B> <#\>Where's my<,,> drinkie<,,>
+<$A> <#\>Um<,,> this one<,,> <#\>Your drinkie is that one there
+<#\>I've
+had heaps more than you<,,> <#\>Am I slurring yet <O>ABlaugh</O>
+<$B> <#\>Yeah mate
+<$A> <#\>How am I go how am I going to transcribe slurring
+<O>ABlaugh</O>
+<$B> <#\>Have to stop<,,> laughing and<,> carrying on<,> being
+a
+sensible mother here
+<$A> <#\>Oh sensible mother<,,> <#\>Give me a break
+<O>ABlaugh</O>
+<#\>Been sensible for forty years <@>forename3</@> 
+<$B> <#\>Oh actually I had a good time this afternoon <&>timer
+goes off</&>
+<$A> <#\>Oh that'd be the timer
+<$B> <#\><@>forename6</@> went to ah<,> Werrington to ah<,> fly
+his glider and ah<,,> he was busy and I was chit-chatting to
+four chaps <O>inaudible</O>
+<$A> <#\>Four<,> you had to yourself
+<$B> <#\>Yes <O>Blaughs</O> <#\>Well which happened to be
+married<,>
+and<,> <{><[>basic husbands</[> 
+<$A> <#\><[>Can't hear</[></{> you over here
+<$B> <#\>Basic husbands <O>ABlaugh</O> <#\>Yes <#\>Wives that
+work on
+weekends <#\>They're lonely so they go flying gliders
+<$A> <#\>Do they <O>Alaughs</O>
+<$B> <#\><quote>Haven't you got anything to do<,> <#\>This is<,>
+what sort
+of a hobby is this</quote><,,> <#\>Oh they were most irate
+<#\><quote>This isn't
+a hobby <#\>This is a sport <#\>We've got stop
+watches</quote><,,>
+<$A> <#\>Is is gliding a sport<,> <#\>Can you explain gliding to
+me<,,> <#\>Please
+<$B> <#\>God<,> <#\>You know aeroplanes<,> and you have a little
+remote control<,> and you go up into the air
+<$A> <#\>Oh<,> it's not the person gliding <#\><{><[>It's</[> the
+aeroplane
+<#\><[>I'm thinking of</[></{> 
+<$B> <#\><{><[>No</[> 
+     <#\><[>It's the</[></{> it's the radio control<,> <#\>No <#\>Not
+that they
+get in and off they go
+<$A> <#\>Right<,> OK <#\>And does<,> <@>forename6</@> do that
+also
+<$B> <#\>Mmhmm <#\>Yes<,,>
+<$A> <#\>OK<,,>
+<$B> <#\>Yeah<,> <@>forename6</@> built himself<,> what that two
+metre<,,> ah<,>
+<$A> <#\>What <#\>The one you damaged<,,> <#\><{><[>Is that the one you mean</[> 
+<$B> <#\><[>Damage<,> I didn't damage</[></{> a thing
+<$A> <#\>No
+<$B> <#\>No no no no no no no
+<$A> <#\>Didn't you damage his plane
+<$B> <#\>Would I do such a thing
+<$A> <#\>Yes <#\>You would <O>Blaughs</O>
+<$B> <#\>That sounds woeful<,,>
+<$A> <#\>Listen<,> <#\>Did we put the timer on for the taping<,,>
+'cos this<,> I'm s'pose to do half an hour<,,> <#\><{><[>How long's it been going</[> 
+<$B> <#\><[>Well how long's the tape go</[></{> <,> <#\>The tape is
+what<,,>
+<#\>A half an hour tape<,>
+<$A> <#\>Is it half hour on one side<,>
+<$B> <#\>Normally<,> <#\><{><[>Are you a half an hour tape<,> <#\>We're gonna stop you <#\>Where are</[> you 
+<$A> <#\><[>Stop it for a second<,> and we'll just see<O>inaudible</O></[></{> <#\>We're gonna stop you<,> OK <#\>Just for a second alright
+
+          <&>Break in recording</&>
+
+<$B> <#\>Oh hello that'd be the timer
+<$A> <#\>That's too early <O>inaudible</O> <#\>Turn it off please
+<$C> <#\>How'm I sup <#\>Which one<,>
+<$A> <#\>Well just<,,> switch the thing over<,,> <#\>Look<,>
+<#\>That's
+it <#\><O>inaudible</O> <#\>This one's cooked<,><#\>Yeah
+<#\>Dinner's
+cooked 
+<$B> <#\><O>inaudible</O> And ah<,,> I met her as I said to you
+when<,> I went to Jindabyne <#\>She's invited us to go to her
+place<,,> and she's such a knowledgable lady<,,>
+<$A> <#\>In what way knowledgable<,>
+<$B> <#\>Well er in as<,> you're talking about politics maths<,>
+er history<,,> <#\>Any avenue
+<$A> <#\>What's her field<,,>
+<$B> <#\>Retired<,> housewife<,> divorcee<,,> <#\>That's it<,,>
+<$A> <#\>Retired housewife what
+<$B> <#\>Divorcee
+<$A> <#\>Divorcee <{><[><,></[> <#\>Is that where she got her
+knowledge<,>
+being a divorcee
+<$B> <#\><[>Yeah</[></{> 
+     I<,,> well<,,> <#\>She wouldn't say a great deal<,> about
+her
+past<,> but as I said<,> sitting each night chit-chatting with
+her and each time <{><[>we're together</[> 
+<$A> <#\><[>Oh sugar</[></{> <#\>We've burnt it <#\>What are they doing
+over
+there
+<$B> <#\>You put it there
+<$A> <#\>Oh<,,> silly woman<,,> <#\><{><[>Oh no</[> 
+<$B> <#\><[>Aren't you</[></{> just
+<$A> <#\>Oh <{><[><,,> damn</[> 
+<$B> <#\><[>Oh the cream</[></{> Oh the cream
+<$A> <#\>That was beautiful <O>inaudible</O> <#\>Oh
+<$B> <#\>We could salvage that <#\>No <{1><[1>problems</[1> <#\>Of course
+we <{2><[2>can</[2> 
+<$A> <#\><[1>Can we</[1></{1> 
+     <#\><[2>How</[2></{2> can we do that
+<$B> <#\>Leave it to us<,> <#\>We're very clever ladies <#\>Come
+on<,,>
+<#\>Oh first of all<,> turn off the power
+<$A> <#\>I don't<,> <#\>Which power
+<$B> <#\>Well it's still on isn't it
+<$A> <#\>Yes
+<$B> <#\>Well turn it off<,> <#\><{><[>This is</[> your stove
+<$A> <#\><[>Oh don't</[></{> 
+     <#\>Oh damn <#\>It's<,> you see I turned<,> I thought I
+turned
+that one on but I<,> <#\><{><[>It's the other</[> way around
+<$B> <#\><[>Mmm<,> <#\>Yes</[></{> 
+     <#\>Ha ha <#\>This is your kitchen <O>Blaughs</O>
+<$A> <#\>Oh<,,> no <#\>The kids'll laugh<,,> <#\>They're used to
+my
+burnt<,> cooking<,,> <{><[>OK</[> 
+<$B> <#\><[>Oh look</[></{> It's still alright <#\><{1><[1>That's not burnt <#\>That's fine</[1> <#\>It's not <{2><[2>burnt</[2> 
+<$A> <#\><[1><O>inaudible</O></[1></{1> 
+     <#\><[2>I'm so so</[2></{2> glad<,,>
+<$B> <#\>OK <#\>What're you adding to it now<,>
+<$A> <#\>Nothing <#\><{><[>Cream<,> now</[> 
+<$B> <#\><[><O>inaudible</O></[></{> <#\>Don't worry about it<,> <#\>It's
+fine
+<$A> <#\>Now don't put it back on that heat
+<$B> <#\>No <#\>It's hot enough<,,>
+<$A> <#\>Yes mother<,,> <#\>Oh deary me<,,> I'm so sorry<,>
+<O>Blaughs</O> <#\>I'm in the process of draining the pasta
+<#\><{><[>I hope the pasta will be OK</[> 
+<$B> <#\><[>Well that's why it's still not boiling</[></{> <#\>What about
+if
+we put the lid on <{><[><,></[> <#\>It'll be another ten minutes
+<$A> <#\><[>Yeah</[></{> 
+     <#\>Well that's fine <#\>We can start on this one can't
+we<,>
+<$B> <#\>Yeah <#\>That's ready<,> <#\>Yeah<,,> <#\>Perhaps
+drinking
+champagne and cooking don't quite go together<,,> <#\><{1><[1>And then having a tape going</[1> in the background <O>Alaughs</O> that you're not aware of <{2><[2><O>inaudible</O></[2> 
+<$A> <#\><[1>Do you think that's the problem</[1></{1> 
+     <#\><[2>Don't blame</[2></{2> the tape
+<$B> <#\>Oh<,> would I do such a thing<,,> <#\>Here I'm trying to have a normal conversation<,,> <{><[>which is impossible</[> 
+<$A> <#\><[>They warned me</[></{> <#\>They warned me that the people are
+generally stiff at the beginning<,> but we're not <{><[>stiff</[> 
+<$B> <#\><[>Oh no</[></{> truly we're not
+<$A> <#\>We're very very relaxed
+<$B> <#\>I could do a song and dance act <O>Alaughs</O> 
+<$A> <#\><{><[>Too much laughing</[> <#\>Too much laughing <#\>Remember
+it's<,>
+difficult to transcribe laughter
+<$B> <#\><[>Are you laughing at me</[></{> 
+     <#\>Laughter<,> <#\>Well you do all the talking<,> and then
+I'll
+have a<,> you know<,> transcribe what you are doing
+<$A> <#\>I can't wait till this tape finishes
+<$B> <#\>Oh there is<,,> five more minutes<,,> <#\>Four<,>
+<$A> <#\>I don't know
+<$B> <#\>Oh<,,> not to worry
+<$A> <#\>They wanted a normal conversation <{><[><O>inaudible</O> normal con</[> 
+<$B> <#\><[>We are taping a normal</[></{> conversation
+<$A> <#\>We are really<,,> 
+<$B> <#\>Can we put that sauce in there<,,> <#\>Now
+<$A> <#\><O>inaudible</O>
+<$B> <#\>Yes it's ready
+<$A> <#\>OK<,,> <#\>By all means<,> <#\>Go for it<,,>
+<$B> <#\>Oh dear<,,> <#\>Oh<,,> lovely<,,> <#\>Oh <O>Blaughs</O>
+what
+about the other
+<$A> <#\>I was gonna say<,> <quote>did you get rid of the
+water</quote>
+<$B> <#\>What about the other pasta <#\>It's not gonna have any
+sauce<,> <#\>They can have that with butter and cheese can't
+they <#\><O>ABlaugh</O>
+<$A> <#\>We're really good cooks
+<$B> <#\>My boys love it with butter and cheese
+<$A> <#\>Oh<,> I'm glad
+<$B> <#\>Do your children like butter and <{><[>cheese</[> 
+<$A> <#\><[>Cheese</[></{> <#\>You see this pasta was sufficient<,>
+<#\>Look
+<#\>Look at the amount<,,> <#\><{><[>Quite sufficient</[> 
+<$B> <#\><[>For seven</[></{> <,,> <#\>You wait and see <#\>It'll all <{><[>go <,></[>  <#\>It will
+<$A> <#\><[>That's true</[></{> <#\>It's not a lot is it
+<$B> <#\>You know <@>forename6</@> <#\>Did we put salt in the
+pasta
+<#\>No <#\>We didn't<,,>
+<$A> <#\>Now what's this we business <O>Blaughs</O> <#\>I don't
+like
+that<,> all the time<,> <#\>You<,,>
+<$B> <#\>I'm the visitor remember <#\>I should be sitting over
+there
+<$A> <#\>No no no <#\>You're not just a visitor <#\>Whoops
+<#\><{><[>I'm</[> 
+throwing it all out <O>ABlaugh</O>
+<$B> <#\><[>Well</[></{> 
+     <#\>You are throwing it all out <#\>Look at it<,,>
+<$A> <#\>I want my tea</I>
+
+

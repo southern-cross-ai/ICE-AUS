@@ -1,0 +1,402 @@
+<S1A-090> <2000>
+<&>Ling 110</&>
+<I><$A>   <#\>So um <,> didja have a good time last night
+<$B> <#\>Yeah it was o k <#\>I didn't like the band though
+<$A> <#\>The band
+<$B> <#\>Yeah <,> I didn't like all of them <#\>No the first
+one was o k <#\> <{><[>The</[> second one was <,>
+<$A> <#\><[>The </[></{>
+     <#\>What were they called again <,>
+<$B> <#\>Um badloves or something I 
+<$A> <#\>No the first band
+<$B> <#\>The first yeah badloves
+<$A> <#\>Badloves <,,>
+<$B> <#\>Don't do that yuk <,> <#\><@>forenameA</@> <,>  <{><[><@>forenameA</@> </[>
+<$A> <#\><[>It's </[></{> just a caterpillar
+<$B> <#\>Don't do that
+<$A> <#\>It's a nice  <{><[>caterpillar</[>
+<$B> <#\><[>No don't </[></{> <,> don't <O>laughter</O>
+vicious human being aren't you<,,> <#\>So <,> what time did
+you get home last night
+<$A> <#\>Um I got home about <,> ah five to twelve
+<$B> <#\>Five to twelve
+<$A> <#\>It didn't take me long at all <#\> <{><[>Why did you go</[> right <@>forenameB</@> 
+<$B> <#\><[>So you must </[></{>
+     <#\>Because I thought it was the right way didn't I <#\>I
+thought it was the fastest way to get home 
+<$A> <#\>Didn't you trust <@>forenameA</@> 
+<$B> <#\>No I don't trust <@>forenameA</@> <O>laughter</O> not after what
+he drank last night
+<$A> <#\>I didn't sorry <#\>I didn't drink much <,>
+<$B> <#\>Didn't you <#\>Fine <#\>You didn't drink that much
+<,> no
+<$A> <#\>No I was alright <#\>I just went straight home
+<$B> <#\>Oh that's good <#\> <{><[><O>inaudible</O></[>
+<$A> <#\><[>Which way did you </[></{> actually go 
+<$B> <#\>Well I took <,> um 
+<$A> <#\>Victoria  <{><[>road</[>
+<$B> <#\><[>Road </[></{> yeah <{1><[1>Victoria road</[1>
+<#\>No the other direction <,> <#\>You know towards the city
+<{2><[2><,></[2> and then <#\>You know how it splits into two
+directions one into the city one   into the um like  into Ashfield   and <,> Strathfield
+<$A> <#\><[1>Back to Ryde</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\>Oh yeah I know I know
+<$B> <#\>Yeah I took that road
+<$A> <#\>Oh yeah <,>
+<$B> <#\>It was o k <,> <#\> <{><[>There was no
+traffic</[> 
+<$A> <#\><[>You didn't have </[></{> to do that
+<#\><{1><[1>You</[1> should've just gone where I went
+<#\><{2><[2>That was</[2>
+<$B> <#\><[1>Why</[1></{1> 
+     <#\><[2>I didn't</[2></{2> know where you were going
+<#\>You didn't told me to follow you  or anything <#\>I didn't
+want to go all the way to Lidcombe and find myself
+<O>laughter</O>
+<$A> <#\>Oh I would'nt've gone to Lidcombe <,,> <#\>  That
+road goes like  all you have to do   is do one
+right  <{1><[1><,></[1> and the road goes straight onto
+Parramatta Road <{2><[2>and you</[2> would've been at Ashfield
+straight away
+<$B> <#\><[1>Yeah </[1></{1>
+     <#\><[2>Oh does it</[2></{2>
+     <#\>Oh right <#\><{><[>It would've been much</[>
+<$A> <#\><[>Like in</[></{> five to ten minutes 
+<$B> <#\>Oh <,,> shucks <#\>No because <@>forename1</@> was really
+worried yesterday
+<$A> <#\>How come
+<$B> <#\>No she just thought that <,>  <{><[>you should take care</[> <#\>Yeah
+<$A> <#\><[>That I drank too much </[></{>
+     <#\>No I was fine <,,>
+<$B> <#\>We should do that after our exam finishes <#\>Do it
+again <,,> <#\>Birds are chipping <,>
+<$A> <#\>Such pretty birds
+<$B> <#\>Oh definitely <,,>
+<$A> <#\>Um don't you think people just take nature for
+granted these days
+<$B> <#\>Pardon
+<$A> <#\>Don't you think people take nature for granted these
+days
+<$B> <#\>Oh definitely
+<$A> <#\>It's pretty horrid
+<$B> <#\>How
+<$A> <#\>Oh I dunno <#\>People kill caterpillars
+<O>laughter</O>
+<$B> <#\>People like you <@>forenameA</@> <O>laughter</O> <#\>People like
+you are um for destruction   and  <,>
+  <{><[>and</[>    
+<$A> <#\><[>What's </[></{> one caterpillar 
+<$B> <#\>That's true <#\>What's one bird  <{><[>one tree</[>
+<$A> <#\><[>Exactly </[></{> one cow <,> one human
+<O>laughter</O> <,,>
+<$B> <#\>Do you think it will rain today <,>
+<$A> <#\>Probably not
+<$B> <#\>No <,> I want it to rain
+<$A> <#\>How come
+<$B> <#\>Because it  <{><[>you know</[>
+<$A> <#\><[>Do you like </[></{> it when it rains
+<$B> <#\>Yeah 
+<$A> <#\>Yeah
+<$B> <#\> <{1><[1>Everyone likes it when it rains</[1> <#\>No
+I'm not a depressing type of person <#\><{2><[2>It's like</[2>
+<#\>No no <O>laughter</O> <#\>Um no it's that <,> it looks as
+if it's gonna rain <{3><[3>and</[3> it's been like this for a
+few days <{4><[4>you know</[4> 
+<$A> <#\><[1>You're a depressing type of person </[1></{1>
+     <#\><[2>Yes you are</[2></{2>
+     <#\><[3>Mmm</[3></{3>
+     <#\><[4>Yeah it hasn't</[4></{4> rained
+<$B> <#\>Yeah if it rained maybe you know <,> the sun would
+ <{1><[1>come out</[1> <#\>Actually it's a good thing so we
+can actually study <#\>Like if it's <,> <{2><[2>if it's
+really</[2> good weather 
+<$A> <#\><[1>It'd go away </[1></{1>
+     <#\><[2>Yeah I understand</[2></{2>
+     <#\>Yeah people will be tempted to go 
+<$B> <#\>Oh I don't mind people being tempted <#\>It's that
+I'll be tempted <O>laughter</O> <,,> <#\>What're you going to
+do this weekend
+<$A> <#\>Study <#\>I've gotta do the ah soc exam  <{><[>and
+give it in</[> by Monday
+<$B> <#\><[>Oh yeah that's right </[></{>
+     <#\>Monday <#\>Have you started <,>
+<$A> <#\>Yeah    <{1><[1>I've just</[1>  I've just
+gotta do like  I think   I'll do one more draft
+<{2><[2>and then write it out</[2> and give it in on Monday
+<$B> <#\><[1>Yeah </[1></{1>
+     <#\><[2>Oh one more oh right</[2></{2>
+     <#\>Oh
+<$A> <#\>There's three essays <#\> <{><[>I just </[>
+have to do it <,,>
+<$B> <#\><[>Yeah </[></{> 
+     <#\>The questions were hard <#\>It's like five hundred
+words are not enough to write like to answer the question
+<$A> <#\>Well they are
+<$B> <#\>They are?<,> o k <,><#\>That's about a page and a
+half isn't it <,,> <#\>What're you going to do next year <,>
+<#\>What subjects are you gonna do next year
+<$A> <#\>I dunno <,> <#\>I think I'm gonna do um <,,> ah <#\>I
+dunno <#\>Politics
+<$B> <#\>Which one
+<$A> <#\>One and three
+<$B> <#\>One and three
+<$A> <#\>I dunno <,>
+<$B> <#\>Do politics um two six nine with us <,,>
+<$A> <#\>I think   I  I'll   do politics and
+history 
+<$B> <#\>Politics and history <#\>What kind of history
+<$A> <#\>I dunno <#\>Modern
+<$B> <#\>Modern <,> <#\>Why modern
+<$A> <#\>I dunno <#\>Well I don't like ancient <#\>  it's  it's   boring <,>
+<$B> <#\>I beg your pardon <,>
+<$A> <#\>It is
+<$B> <#\>It is not <#\>It's not boring 
+<$A> <#\>It is
+<$B> <#\>It isn't <,> <#\>It's <,> not <,> boring
+<$A> <#\>It's a load of crap <,,> <#\>You know   honest  let's face it   <#\>Who gives a shit about two
+thousand years ago <,>
+<$B> <#\>Well then who gives a shit what happened thirty years
+ago or forty years ago
+<$A> <#\>My dad <O>laughter</O>
+<$B> <#\>Besides your dad <,,>
+<$A> <#\>I dunno <,>
+<$B> <#\>Have you done any history <,> 
+<$A> <#\>Um <,> yeah I did two histories   last year  last semester  
+<$B> <#\>Oh which one did you do
+<$A> <#\>Um world history and modern European
+<$B> <#\>How was that
+<$A> <#\>Well world history's a bit <,> like disconnected
+ <{1><[1><,></[1> <#\>We did biology and <,> anthropology and
+<,> <{2><[2>astrology</[2> 
+<$B> <#\><[1>Yuk </[1></{1>
+     <#\>  <[2>In his</[2></{2>  in history   
+<$A> <#\>It's about from the beginning of the universe till now
+so
+<$B> <#\>Oh I was gonna do that actually instead of doing
+politics
+<$A> <#\>It's a bit hard to follow
+<$B> <#\>Oh <,> thank god I didn't do it <,,> so
+<$A> <#\>Friendly birdie 
+<$B> <#\>It's an ugly bird <,>
+<$A> <#\><O>inaudible</O> told ya <#\>The birdie got the
+caterpillar instead of me <,>
+<$B> <#\>Oh shucks <#\>Tony could've made a gourmet
+<O>laughter</O> <,>
+<$A> <#\>Are they it's eyes or not
+<$B> <#\>Far out this is the first time I've actually seen a
+bird eating a caterpillar <,,> <#\>Flew away <#\>It's scared of
+you <@>forenameA</@> 
+<$A> <#\>Must have good eyes to see that <O>laughter</O> <,>
+     <#\>Do you wanna hear a joke
+<$B> <#\>No not if it's rude no no <@>forenameA</@> 
+<$A> <#\>You don't want a rude  <{><[>joke</[> <#\>Not if
+it's rude
+<$B> <#\><[>No </[></{>
+     <#\>No <,>   don't  don't   twist my words
+around 
+<$A> <#\>O k <,> <#\>No jokes then
+<$B> <#\>Mmm no jokes <O>laughter</O> <#\>No noises either
+<@>forenameA</@> no no no don't 
+<$A> <#\>Alright <,,> <#\>So what d'you think of the state of
+the economy at the moment
+<$B> <#\>It's down the tube <O>laughter</O> <#\>It can't go
+any lower <,,> <#\>So <@>forenameA</@> talk to me in politics
+<$A> <#\>Politics
+<$B> <#\>Yeah <,>
+<$A> <#\>I dunno <#\>Politics is like <,,> ah sort of
+interesting sometimes  <{><[>and</[> boring sometimes <,,> 
+<$B> <#\><[>Mmm </[></{>
+     <#\>Therefore <,>
+<$A> <#\>Therefore we come to the conclusion 
+<$B> <#\>Yeah
+<$A> <#\>That I dunno politics <,,> is alright <O>laughter</O>
+<$B> <#\>Gee that took a long time didn't it 
+<$A> <#\>Hang on <O>cough</O> <,> <#\>I don't really know what
+you can do with it but <#\>That's the problem <#\>Sort of
+ <{><[><,></[> um you know a lot about government but what
+can you really do with it <,>
+<$B> <#\><[>Mmm </[></{>
+     <#\>What can they do 
+<$A> <#\>Mmm what can you do with the knowledge <#\>  You
+can't really  <,,>  you could sort of criticise the
+government and that but that's about it really
+<$B> <#\>That's true
+<$A> <#\>You can't really change anything 
+<$B> <#\>Oh don't think pessimistically though
+<$A> <#\>That's not being pessimistic
+<$B> <#\>Yes you are <,,> <#\>You are being pessimistic
+<$A> <#\>I just think that um <,,> <#\>  I don't  I
+don't   think there should be any government <#\>Should
+be just something that controls the economy and that's it
+<$B> <#\>And what are you gonna call those people who actually
+control the economy 
+<$A> <#\>Scum
+<$B> <#\>Scum <O>laughter</O>
+<$A> <#\>Just like they have <O>inaudible</O> government <,>
+and let people take care of themselves
+<$B> <#\>How
+<$A> <#\>What
+<$B> <#\>How
+<$A> <#\>I dunno<,> just local communities <,> people who work
+together <,,> um <,,> <#\>I dunno <#\>  Just have  <w>'cause</w>   it's only a few people <#\>Like at
+the top there's all these cocksuckers <O>laughter</O> all
+these rich you know<,> selfish greedy power-hungry peoples and
+like they don't do anything for anyone except you know <,,>
+help their buddies
+<$B> <#\>Help their buddies
+<$A> <#\>Yeah <,>   they're not really  they're not
+there   because they want to help people <#\>They're
+there   because  <,,> you know  because  
+they're <O>inaudible</O> power-hungry and they've got massive
+egos that need to be satisfied <,,> <#\>So that's why I think
+government's full of shit 
+<$B> <#\>Yeah but if we don't have any government
+<$A> <#\>Ah <O>inaudible</O> government <#\>We should have
+something that controls certain like <,> parts of society but
+  not  <,>  not   control but just sort of
+  stable them  stabilise   <,> and try to
+improve things
+<$B> <#\>  I mean that  isn't that   also
+government <#\>Like wouldn't the power-hungries scumbags all
+go into those kind of um area as well
+<$A> <#\>Um oh it should be worked more on <,> consensus more
+on input from other people not just people who go into
+politics  <{><[>probably</[>
+<$B> <#\><[>Yeah </[></{> but isn't that ideally what
+government's supposedly do like 
+<$A> <#\>Oh god look the only reason there's   like
+Hawke  like Labor or liberal   is because <,> you
+know there's nothing else <#\>People don't want to choose
+either of them but they have to because they're the only ones
+there
+<$B> <#\>True <,,> are you on your fourth <O>inaudible</O>
+Tony
+<$A> <#\>Sorry
+<$B> <#\>Are you going to <O>inaudible</O>
+<$A> <#\>I'm going to take over 
+<$B> <#\>Oh are you
+<$A> <#\>Yeah <,> and then   I'm gonna   <{><[><,> I'm gonna</[>   remake the constitution and go how ya
+going mate <O>laughter</O> <#\>And then   I'm gonna knock
+out  <,> I'm gonna <,> create   <,> the new world
+order <O>laughter</O>
+<$B> <#\><[>Help your mates </[></{> <O>laughter</O>
+     <#\>We have a new world order 
+<$A> <#\>Oh <,,> America
+<$B> <#\>Get rid of America
+<$A> <#\>Oh gonna nuke America 
+<$B> <#\>Yeah
+<$A> <#\>Nuke Indonesia
+<$B> <#\>Yeah <,>
+<$A> <#\>Get all the world on our side
+ <{><[><w>'cause</w></[> <O>laughter</O>
+<$B> <#\><[>There </[></{> won't be any left
+<$A> <#\>No just not <O>inaudible</O>  <{><[>the</[> right
+people <,,> <#\>I don't wanna create like a community
+<#\>  I just want ah <,,>  people should be  
+something more for everyone to do for society I guess <#\>Go
+to work shit around 
+<$B> <#\><[><O>inaudible</O> </[></{>
+     <#\>You're an idealist <#\>You know that
+<$A> <#\>Why
+<$B> <#\>Your an idealist
+<$A> <#\>I'm not <#\>I just believe that um
+<$B> <#\>Idealism
+<$A> <#\>Society's very cruel <O>laughter</O> <,,>
+<$B> <#\>What're you gonnna do after you graduate
+<$A> <#\>Don't know <#\>Shoot up <O>laughter</O> <,,>
+<$B> <#\>You're majoring in politics aren't you <,>
+<$A> <#\>Probably <,>
+<$B> <#\>Mmm
+<$A> <#\>Not for any <O>inaudible</O>
+<$B> <#\>Pardon
+<$A> <#\>I haven't got any real reason why it's just sort
+of <,>
+<$B> <#\>You started off with it
+<$A> <#\>Yeah <O>laughter</O> <#\> <{><[>There's not</[>
+much else <#\>There's <,> you know <,,>to do really
+<$B> <#\><[>Therefore you </[></{>
+     <#\>That's true
+<$A> <#\>But sort of <,,> <O>inaudible</O><,,> <#\>Meaning
+<$B> <#\>Nothing meaningful <O>laughter</O> <#\>You have no
+passion for life <@>forenameA</@> 
+<$A> <#\>What
+<$B> <#\>You have no passion for life
+<$A> <#\>What passion
+<$B> <#\>Exactly <O>laughter</O>]
+<$A> <#\>I have passion <,> <#\>I have passion for
+<O>inaudible</O>
+<$B> <#\>Get off the subject <@>forenameA</@> <O>laughter</O>
+<$A> <#\>What about you <@>forenameB</@> 
+<$B> <#\>What about me
+<$A> <#\>What kind of passion for life do you have <,>
+<$B> <#\>I'm not saying
+<$A> <#\>Go on
+<$B> <#\>No
+<$A> <#\><@>forename2</@> 
+<$B> <#\>No <O>laughter</O> no <,> no no no no no no
+<$A> <#\>What is it
+<$B> <#\>Nothing <#\> <{><[>I</[> have no passion
+<$A> <#\><[>Well </[></{> 
+     <#\>Yes you must have a passion
+<$B> <#\>No <{><[>I don't</[> <#\>I have none
+<$A> <#\><[>I mean </[></{>
+     <#\>Don't you wanna be a movie star 
+<$B> <#\>Oh yeah <O>laughter</O> <#\>That's always been my
+dream <,,> <#\> <{><[>I have never</[>
+<$A> <#\><[>  Don't  don't   you </[></{>
+feel that there's like <,> something more that you wanna do
+than you're already doing <,> or
+<$B> <#\>I wanna get out of here <#\>That's what I wanna do
+<O>laughter</O> <#\>That's the only passion I have to get out
+of here <,,>
+<$A> <#\>Yeah but you've gotta have a passion after that
+<$B> <#\>Well I'll find it after I get out of here <,> which
+shouldn't be very hard
+<$A> <#\>What <#\>Become a housewife <,> <O>laughter</O>
+<$B> <#\>Funny <@>forenameA</@> <#\>Where were you when the woman
+liberation started 
+<$A> <#\>  What  what  what   woman's
+liberation <O>laughter</O>
+<$B> <#\>Well I think <O>inaudible name</O>'s got a few things
+to say about that
+<$A> <#\>I know <#\>She'd probably bash the shit out of me
+<O>laughter</O> <,,>
+<$B> <#\>Come to uni with a black eye <O>laughter</O> <,,>
+<$A> <#\>Um<,> so   what  do you   think you'll
+have a family and
+<$B> <#\>Huh
+<$A> <#\>Do you think you'll have children and that later on
+<$B> <#\>Get out of here <O>laughter</O> <#\>Do you think I'm
+mad 
+<$A> <#\>What
+<$B> <#\>Children
+<$A> <#\>Do you believe in sterility <O>laughter</O>
+<$B> <#\>I don't believe in anything <,,>
+<$A> <#\>Are you a Christian
+<$B> <#\>Yah
+<$A> <#\>Well you believe in god
+<$B> <#\>Yeah <,> therefore
+<$A> <#\>Therefore we come to the conclusion again <,> that
+ <{><[><,> it's</[> alright
+<$B> <#\><[>That what </[></{>
+     <#\>What <,,> <#\>It's alright for what
+<$A> <#\>I dunno <,,> <#\>I've got a joke
+<$B> <#\>oh no
+<$A> <#\>What d'you call a gay dinosaur
+<$B> <#\>Oh no we've had that
+<$A> <#\>No we haven't
+<$B> <#\>No 
+<$A> <#\>Mega-saur-arse <O>laughter</O>
+<$B> <#\>I told you <#\>No dirty jokes
+<$A> <#\>That wasn't dirty
+<$B> <#\>Yes it was
+<$A> <#\>It was just <,>  <{><[>descriptive</[>
+<$B> <#\><[>Dirty </[></{> 
+     <#\>Oh yeah <,,> too descriptive <,,>
+<$A> <#\>What did you think of the hotel last night <#\>Did
+you think it was <,> good <,> or a good place
+<$B> <#\>it was o k <,> <#\>It wasn't fantastic but it was
+o k</I>
+
+

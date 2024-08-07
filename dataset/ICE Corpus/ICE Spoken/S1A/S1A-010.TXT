@@ -1,0 +1,298 @@
+<S1A-010> <2005>
+ <I><$A> <#\>Ahh what would you like for dinner
+ <$B> <#\>You cooking
+ <$A> <#\>Am I cooking <#\>Yeah all right
+ <$B> <#\>What are you cooking
+ <$A> <#\>Well what do you want me <{><[>to cook</[> 
+<$B> <#\><[>A lean</[></{> steak <#\>How does that commercial go
+<O>laugh</O>
+ <$A> <#\>The <{><[>yeah</[> 
+<$B> <#\><[>Steak</[></{> parmesian parmeshnan
+ <$A> <#\>Or <quote>mum's cooking a lamb roast
+tonight</quote>
+ <$B> <#\><O>laugh</O> Yeah
+ <$A> <#\><quote>Gave up a date with Tom Cruise</quote>
+ <$B> <#\>I'd give up a date with Tom Cruise
+ <$A> <#\><O>laugh</O> Why <#\>You wouldn't give a give up a date with
+say umm <,,> who's that woman you like umm <,,> what's her
+name <#\>Phoebe Cates
+ <$B> <#\><O>laugh</O> <,,> Well it depends
+ <$A> <#\>On what
+ <$B> <#\>On on on on on the circumstances I guess
+ <$A> <#\>Yeah and I left teeth marks there oh no
+ <$B> <#\>No it's my bag you see I put my <{><[>bag on my
+shoulder</[> 
+<$A> <#\><[>Just as well</[></{> <O>inaudible 3 or 4 words</O> I could do
+that you know
+ <$B> <#\>Oh I know you could <#\><,,>
+ <$A> <#\>There are people watching
+ <$B> <#\>As always
+ <$A> <#\>As always
+ <$B> <#\><O>laugh</O>
+ <$A> <#\>Oh dear<,,> <#\>So what are we going to do in the
+holidays <O>laugh</O> <#\>Haven't got through exams yet but what are
+we going to do during holidays
+ <$B> <#\>I haven't thought about it <,,> <#\>I know
+<@>Forename1</@> 's having a party
+ <$A> <#\>Birthday <#\>When's his birthday
+ <$B> <#\>His birthday's on Boxing Day
+ <$A> <#\>Oh <{><[>yeah</[> 
+<$B> <#\><[>But</[></{> he's going to the <#\>He's going to Hong Kong I
+think <#\>So he's having it earlier in the year sometime
+ <$A> <#\>he's twenty-one
+ <$B> <#\>Uhhuh
+ <$A> <#\>Oh Wow and where is it going to be at his place or
+at the disco
+ <$B> <#\>It's going to be at his place I think
+ <$A> <#\>Oh wow
+ <$B> <#\>He's already planned
+ <$A> <#\>Gee <#\>Oh did I tell you <@>Forename2</@> met umm
+<@>Forename1</@> in in the library
+ <$B> <#\>Oh really <#\>What happened
+ <$A> <#\>Well she walked past him and she said <quote>Don't I
+know you</quote> and he said <quote>Yeah <@>Forename3</@> yeah
+yeah</quote> and then she goes <quote>Oh yeah that's
+right</quote> and <@>Forename2</@> says he wasn't any charming
+more charming than you know before <#\>So
+ <$B> <#\>He's a big jerk
+ <$A> <#\>Yeah I sup <#\>Did I tell you <@>Forename2</@> rang me too
+<#\>She rang me on Saturday <#\>She's umm <#\>Dykewood is wonderful
+ <$B> <#\>She's what
+ <$A> <#\>Sh she rang me
+ <$B> <#\>Yeah and what's <{><[>dyke</[> 
+<$A> <#\><[>Dyke</[></{> Dykewood is won-der-ful <#\>And um she hasn't
+like got with anybody or anything like that but she's making a
+a nice circle of friends you know <#\>And she's going <quote>What
+did <@>Forename4</@> think <O>inaudible 2 words</O> <#\>What did you think
+when I told you <#\>Were you shocked or what</quote> 
+ <$B> <#\>Not shocked <#\>I mean I'm respectful of her decision
+ <$A> <#\>Yeah but did it surprise you <#\>Nah <#\>Yes <,,>
+ <$B> <#\>A little bit I guess <#\>I mean I never really expected
+anyone I knew to be <,,>
+ <$A> <#\>gay
+ <$B> <#\>to be so inclined
+ <$A> <#\><O>laugh</O>
+ <$B> <#\>But yeah I respect their wishes
+ <$A> <#\>Yeah but you didn't guess that she was before
+ <$B> <#\>No
+ <$A> <#\>No <,,> so <{><[>wh</[> 
+<$B> <#\><[>Not</[></{> that I ever put characteristics to people
+anyway <#\>Just depends <{><[>on <O>inaudible 4 words</O></[> 
+<$A> <#\><[>No 'cause she</[></{> asked me that <#\>She says <quote>Well
+what did <@>forenameB</@> think when you know you told him or when he found
+out</quote> and I said <quote>I don't think he thought
+anything <#\>He just accepted it <#\>Just you know</quote>
+ <$B> <#\><O>laugh</O> I do that a lot of the time
+ <$A> <#\>Just yeah I don't think he was in major shock in or
+that <#\>I don't know whether you actually figured out that that
+she could have been inclined in that way before but um she
+says <quote>Ohhh no you know he's only known me for a short
+while and if he's already guessed gee</quote>
+ <$B> <#\>Within my with like the conversations that you two
+had when I was there I sort of figured out she was leaning
+toward like she wanted to be part of that group
+ <$A> <#\>When was this
+ <$B> <#\>Like when we were at Redfern <,,> Station on our way
+home from Sydney Uni <,,>
+ <$A> <#\>Oh yeah <{><[>yeah</[> 
+<$B> <#\><[>Yeah</[></{> 
+<$A> <#\>I remember <#\>Sorry I can't remem
+ <$B> <#\>Um
+ <$A> <#\>Gee my mi memory <#\>Yeah I remember
+ <$B> <#\>And um yeah during that conversation I f I I that
+seemed to be a crucial point in where she she was asking a lot
+of what your opinion was was of it
+ <$A> <#\>Yeah
+ <$B> <#\>And that that was the time when she was making her
+decision
+ <$A> <#\>Yeah <#\><{><[><O>inaudible 2 words</O> now</[> 
+<$B> <#\><[>Uh so that point</[></{> of time I figured out that she
+wanted she she wanted to be more part of that <{><[><O>inaudible 1
+word</O></[> 
+<$A> <#\><[>It's not</[></{> it's not she wanted to but it's more
+that it's it's actually her natural self <#\>She's been
+suppressing that for years and years and years and this is
+what she um she has now come to accept
+ <$B> <#\>Well that I never figured out
+ <$A> <#\>Yeah
+ <$B> <#\>I mean even with talking to her at parties and the
+time when she drove me home
+ <$A> <#\>Yeah
+ <$B> <#\>Um all those other times
+ <$A> <#\>Yeah
+ <$B> <#\>I never figured that out
+ <$A> <#\>Yeah 
+ <$B> <#\><{><[>But</[> 
+<$A> <#\><[>But</[></{> She spoke to <@>Forename4</@> about it
+ <$B> <#\><{><[>Yeah</[> 
+ <$A> <#\><[>Did</[></{> I tell you about that <#\>No <#\><@>Forename4</@> <#\>Uhh
+thi <@>Forename4</@> uhh she spoke she told <@>Forename4</@> because
+<@>Forename4</@> was going <quote>Oooh yuckk ickk</quote> about
+you know about that blue jean day
+ <$B> <#\>Mm hmm
+ <$A> <#\>blue jeans and so <@>Forename2</@> sort of stepped in
+and defended the you know lesbianism and umm and then that
+brought so she brought out you know she's inclined that way
+and <@>Forename4</@> was like Uhh shock horror and <@>Forename4</@> 's
+very religious
+ <$B> <#\>Mm hmm
+ <$A> <#\>You know so there's a chance she's um very Korean
+very religious and Koreans all fanatics <#\>Put the music back
+on <#\>So <,,> but um
+ <$B> <#\>Yeah I saw the Korean you know the the time when the
+world was gonna end <#\>Supposed to be gonna end <#\>They had they
+had um clips from South Korea
+ <$A> <#\>Yeah 
+ <$B> <#\>and they were all like really into it and um really
+<{><[>believe</[> 
+<$A> <#\><[>you</[></{> just can't expect you know God to like
+prepare yourself so that God's just gonna lift you up into the
+world into the skies and yeah <,,> <#\>That's gonna pick up more
+than our voices
+ <$B> <#\>I like this song
+ <$A> <#\>Well that's going in the background now
+ <$B> <#\>You know the dance of it <#\>I did that in the in the
+like umm ohh what's it called <#\>The camps<,> the camps at umm
+like overseas and umm all the all the all the talent shows and
+stuff <#\><{><[>Usually they play the Timewarp</[> 
+<$A> <#\><[>Do they know that</[></{> <#\>No they do know that <,,> <#\>Oh
+well she's getting along O K <#\>Her parents sort of forgot about
+her birthday
+ <$B> <#\>What
+ <$A> <#\>What happened was see I rang her up a couple of days
+before her birthday to say <quote>Look let me take you out to
+lunch or dinner or something</quote>
+ <$B> <#\>Yeah
+ <$A> <#\>Right and she goes <quote>Oh look we've got exams so
+we we'll wait till afterwards</quote>
+ <$B> <#\>Uh huh
+ <$A> <#\>And I said <quote>O K and then she apparently she
+rang me that that week on on her birthday and but see I didn't
+get a message</quote>
+ <$B> <#\>Mm hmm
+ <$A> <#\>Because she told my dad dad took the an the call and
+she told my dad that you know it's O K I won't le she didn't
+want to leave a message and she didn't say that she wanted me
+to ring her back so dad sort of forgot <{><[>about it</[> 
+<$B> <#\><[>Forgot</[></{> 
+<$A> <#\>and besides he dad told me that she didn't want me
+to call her back anyway so you know it was alright <#\>Anyway a
+week after she rang me this is what this is on Saturday last
+Saturday and said that <quote>So how was your
+birthday</quote> you know expecting huge surprise all these
+presents and things
+ <$B> <#\>Yeah 
+ <$A> <#\>And she said <quote>Oh well mum and dad sort of
+forgot about it <#\>They didn't give me anything</quote> and her
+sister took her to Kentucky Fried Chicken for lunch <#\>And that
+was it <#\>That was her birthday
+ <$B> <#\>Like her parents were at home <#\>Were there <{><[>any
+<O>inaudible 1 word</O></[> 
+<$A> <#\><[>No well</[></{> <#\>It's just that they made no big deal no
+sort of Happy Birthday <@>Forename2</@> and
+ <$B> <#\>She turned <{><[>nineteen right</[> 
+<$A> <#\><[>nothing like</[></{> <#\>Yeah <#\>This is s<{><[>ooo awful</[> 
+<$B> <#\><[>That's</[></{> not nice
+ <$A> <#\>It's just umm <{><[><O>inaudible 3 words</O></[> 
+<$B> <#\><[>Is she being</[></{> ostracised or what
+ <$A> <#\>No her parents don't know anything about this other
+s other double life of hers right and she doesn't wish them to
+know
+ <$B> <#\>No <{><[>but um</[> 
+<$A> <#\><[>But it's</[></{> just because <@>Forename2</@> 's always been
+very independent
+ <$B> <#\>Yeah that's what I was <{><[>thinking</[> 
+<$A> <#\><[>No no</[></{> no but not not not from her own will <#\>It's
+because her parents have sort of from the beginning have left
+<{><[>her</[> 
+<$B> <#\><[>told her</[></{> that
+ <$A> <#\>no no no have left her to do her own to make her own
+rules and live by her own rules
+ <$B> <#\>She told me that when she like she's allowed to take
+the car basically wherever she goes takes it goes away <#\>I mean
+she said that um during a couple of weeks she only saw her dad
+and mum maybe maybe ten minutes for the whole week because
+<{><[>they</[> 
+<$A> <#\><[>Yeah</[></{> 
+<$B> <#\>just didn't didn't meet
+ <$A> <#\>Yeah the family bond there isn't there <#\>It isn't
+there <#\>So well her brother is gonna they're expecting another
+baby second child <#\>Anyway she's<,,> she's not excited about
+it <#\>Her mother is but she's not <#\>And um her sister who's about
+twenty-eight <@>Forename5</@> she's still living at home she's a
+doctor<,> still living at home they want to move out but they
+for some odd reason they won't they don't <#\>They're not going
+to move out because I suppose they're saving up all their
+money or something <#\>And one of her good friends <@>Forename6</@> 
+you see um <@>Forename5</@> 's never had any boyfriends or anything
+and it's unlikely that she'll every get married she'll ever
+have any relationship with a man but and her friend
+<@>Forename6</@> have moved <@>Forename5</@> 's friend <@>Forename6</@> has
+moved in whole family
+ <$B> <#\>Oh wow
+ <$A> <#\>So she says she's sleeping in with um <@>Forename5</@> 
+like in her room and all that but she shares all the
+facilities and stuff <{><[>like that</[> 
+<$B> <#\><[>How old's</[></{> <@>Forename5</@> 
+ <$A> <#\><@>Forename5</@> 's twenty-eight
+ <$B> <#\>O K
+ <$A> <#\>Right <#\>So she she should've been like if I was
+twenty I would be out of the house years and years and <{><[>years
+before right</[> 
+<$B> <#\><[>Tell tell me</[> </{>about it
+ <$A> <#\>And see that really pisses <@>Forename2</@> off because
+it's she has the money to go and but she's not <#\><@>Forename2</@> 
+wants to go but she doesn't have the money you know <#\>But she's
+working now and she's getting about sixty-four a week from
+work plus pocket money which keeps being delayed like it
+ <$B> <#\>But that's not ge that's <{><[>not enough</[> 
+<$A> <#\><[>No it's not</[></{><#\>She can't <{><[>move out</[> 
+<$B> <#\><[>She has to</[></{> get a job
+ <$A> <#\>Yeah 
+ <$B> <#\>that pays three hundred a week before she can
+actually move out
+ <$A> <#\>Yeah I know but she won't be moving out by herself
+as in she'll be sharing accomm<{><[>odation</[> 
+<$B> <#\><[>Even then</[></{> 
+<$A> <#\>and stuff yeah
+ <$B> <#\>Even then three hundred is the base minimum
+ <$A> <#\>I know I know I know <#\>So if if she had um she was
+inclined to have a girlfriend sort of sort of thing and move
+in then she'll just tell her parents you know I'm moving out
+and that will be OK <,,> <O>singing</O>and you're mine
+ <$B> <#\>I wish I knew the words to this song
+ <$A> <#\><O>singing</O>You're sixteen well I'm eighteen
+<{><[>actually</[> 
+<$B> <#\><O>singing</O><[>You're beautiful</[></{> and <{><[>you're
+mine</[> 
+ <$A> <#\><[>You're mine</[></{> <O>laugh</O>
+ <$B> <#\>You are beautiful <#\>You don't realise that do <{><[>you</[> 
+<$A> <#\><[>No</[></{> I don't <#\>I think you're totally blind <#\>You're
+clouded by visions of<,,>
+ <$B> <#\>I am not
+ <$A> <#\>of like love and just not <{><[>you're not looking</[> 
+<$B> <#\><[>I hate to destroy your ego,</[></{> you are not the most
+beautiful creature in the world
+ <$A> <#\>Of course not
+ <$B> <#\><O>inaudible</O><,,>
+ <$A> <#\>Well thank you very much <#\><{><[>Now I'm not going to
+<O>inaudible 1 word</O></[> 
+<$B> <#\><[>You've got all the curves</[></{> in the right places
+ <$A> <#\>Ohhhh golly all the wrong places <#\>It curves like it
+comes out here and it goes back in and out again like that
+<#\>That's the way it sort of curls like <#\>Curves not curls
+ <$B> <#\>I guess beauty is a relative thing
+ <$A> <#\>Ahhhh 
+ <$B> <#\>See I love your cheek it is just so beautiful
+ <$A> <#\>Well I've got big cheeks got really big full cheeks
+<O>inaudible 3 words</O> sort of blows me up
+ <$B> <#\>They're beautiful and the way you blush
+<$AB>   <#\><O>laugh</O>
+ <$A> <#\>Don't make me blush <,,>
+ <$B> <#\>Open your eyes <,,> and see all the different
+variety out there
+ <$A> <#\>I suppose if <@>Forename2</@> ever had met a guy that
+lived up to her standards
+ <$B> <#\>Well you said she had very high standards
+ <$A> <#\>She does <#\>I think they're very unrealistic
+standards</I>

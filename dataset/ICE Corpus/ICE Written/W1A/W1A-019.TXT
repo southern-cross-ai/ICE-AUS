@@ -1,0 +1,108 @@
+<W1A-019>  <2010>
+
+
+<I><#\><h><ul>Question 4</ul> <#\><ul>the Australian workplace industrial relations survey</ul></h>
+
+<p><#\>The Australian Workplace Industrial Relations Survey (<smallcaps>awirs</smallcaps>) was a much need piece of research to fill the gaps in the understanding of how Australian workplaces are structed and operate. <#\>This is particularly so in the current climate where the trend is towards a workplace focus for Industrial Relations (<smallcaps>ir</smallcaps>). <#\>The study encompassed a broad spectrum of industries, sectors and firm sizes where previous studies had been typically industry based.</p>
+
+<p><#\>The survey examined first the characteristics of Australian workplaces with classification based on the traditional industry, size and sector groupings. <#\>Findings of note under this first pass investigation <del>were</del> included: 
+
+<*>dash</*>	The degree of unionisation contrasts between large and smaller firms (large firms being more highly unionised.
+
+<*>dash</*>The contrast in degree of unionisation between the public and private sectors (public being higher).
+
+<*>dash</*>The different union densities in different industries; with higher densities for example in mining and manufacturing and lower in retail, tourism and agriculture.
+
+<*>dash</*>The trend towards declining union density was noted across the board.
+
+<*>dash</*>The relative industrial peace, with a large proportion of workplaces never experiencing a strike action.</p>
+
+<p><#\>The study moved on to examine the organisation of industrial relations at the workplace. <#\>The organisation of management, unions and the interaction between them in the industrial relations arena were examined. <#\>It was concluded in terms of management that managers are significantly influenced and restricted by corporate headquarters when the workplace is merely a division of a larger company. <#\>Management at the workplace was found to often be restricted by a lack of autonomy to conduct relations with employees and unions at the workplace level.</p>
+
+<p><#\><smallcaps>awirs</smallcaps> discovered that a large number of Australian so-called "unionised" workplaces lack a union delegate. <#\>It was also found that were such delegates exist they spend a majority of time dealing with individual issues rather than employee-union business. <#\>The union was found not to be the line of communication between employee & employer as usually expected.</p>
+
+<p><#\>The level of interaction was found to be relatively low between union and management at the workplace level, further reinforcing the above point regarding lines of communication. <#\>External influences such as senior management, union officials, the <del>Arbitrain</del> Industrial Relations Commission and government were found to significantly influence the industrial relations interaction and agenda at the workplace.</p>
+
+<p><#\>The <smallcaps>awirs</smallcaps> noted similarities in the nature of industrial relations between workplaces in different industries, sectors and in firms of various size. <#\>An alternative classification system was developed so that such firms could be grouped together. <#\>The classifications proposed were:
+
+(i) Informal
+(ii) Unstructured Inactive
+(iii) Structured Inactive
+(iv) Reactive Bargainers
+(v) Active Bargainers.</p>
+
+<p><#\>It was found that the majority of Australian workplaces fall into groups (ii) or (iv). <#\>Such a more purposeful classification allows policy implications to be more easily considered in terms of types of workplaces rather than by incorrectly considering industry, sector or size groupings</p>
+
+<p><#\>The <smallcaps>awirs</smallcaps> challenged a number of traditional assumptions about Australian industrial relations. <#\>An important finding was the extent of external influence on industrial relations. <#\>There is relatively little experience and expertise at the workplace level in both management and employee/union camps. <#\>Therefore the assumption that we are ready for workplace bargaining and that it will be a <quote>magic pudding</quote> solution to improving our workplaces must be questioned.</p>
+
+<p><#\>The survey highlighted that unions are not necessarily the main line of communication between employee and management. <#\>This relates to the question of union relevancy and the declining union density. <#\>It suggests that union effectiveness at the workplace level can be improved.</p>
+
+<p><#\>The myth that Australia is a strike-ridden country was dispelled by the survey. <#\>A significant proportion of workplaces had experienced little or no strike action.</p>
+
+<p><#\>A significant number of over-award payments, other agreements and management practises that are outside the award system were uncovered. <#\>This questions the assumption that there is no flexibility or bargaining possible within the centralised system.</p>
+
+<p><#\>Finally it was noted that a significant proportion of managers believed that there were a range of other impediments restricting their ability to implement workplace reforms and improve efficiency that were of more significance than industrial relations (eg capital shortages, trade barriers, autonomy etc).</p>
+
+<p><#\>The <smallcaps>awirs</smallcaps> will form an important basis for future policy making and further research into the Australian workplace. <#\>It has certainly raised a number of questions and challenged some long held myths.</p></I>
+
+<I><#\><h>Question 1 <#\><ul><smallcaps>technological change</smallcaps></ul></h>
+
+<p><#\>The last ten years have seen unprecedented contextual change in Australian industrial relations. <#\>Economic, political, social and technological change have all been rapid and significant in proportion. <#\>The latter of these, technological change has presented a major challenge to managers, unions and employees across a broad range of <del>the</del> Australian workplaces, from services to manufacturing to mining and others.</p>
+
+<p><#\>Technology, in this context, is considered to represent the information, skills and experience to improve the methods by which we produce goods and services. <#\>It requires the scientific know-how, the engineering ability to put this know-how into action and the management capacity to organise the production operation. <#\>Clearly then, as we shall see later, the key to technological advancement is going to be the transfer of this knowledge, skills and experience amongst the workforce.</p>
+
+<p><#\>The traditional union view, particularly in the 1970's, was <del>been</del> that technology wa not in the worker's interest. <#\>It was thought to alienate the worker, reducing jobs, skill levels, working conditions and job satisfaction. <#\>Not surprisingly management view was traditionally to opposite. <#\>They held that technology brings more jobs, increased pay, more job satisfaction and increased skills levels. <#\>Where does one go from here other than conflict?</p>
+
+<p><#\>However, during the 1980's, and especially since the mid 80's, the union movement has, as part of its new unionism, economically responsible attitude, changed its view to a more favourable outlook on new technology. <#\>The <smallcaps>actu</smallcaps> has promoted the benefits of technology such as better job satisfaction, higher pay, more leisure time etc. <#\>This promotion is qualified by the need for management to consult and co-operate with unions in order to implement the technology in a way that will minimise disruption and maximise benefit to the employees. <#\>Any benefits, they believe, should be shared between the employer and employees.</p> 
+
+<p><#\>This need for consultation <del>and</del> was recognised by the Australian Industrial Relations Commission (then Conciliation & Arbitration Commission) in what is known as their Termination, Change and Redundancy Decision in 1984. <#\>This decision required management to consult with the 
+unions prior to implementation of technological change. <#\>Similar requirements are now built into federal and state awards. <#\>It is noteworthy, however, that such awards only require consultation prior to implementation. <#\>By this point the decision has usually been made.</p>
+
+<p><#\>In general the implementation of technology at the Australian workplace, and therefore the adaptation by unions and management, has been impressive over the last ten years. <#\>A prime example is the Australian telecommunications industry where there has been rapid technological advances with little industrial unrest. <#\>Telecom have reached an agreement with workers and unions whereby the broad focus of issues is considered in the implementation of technology. <#\>Such issues include job satisfaction, customer <del>and</del> service and very importantly staff training as well as many others.</p>
+
+<p><#\>Perhaps the areas where additional effort may be focussed in the years to come when implementing new technology are consultation and training. <#\>Consultation with the union movement at the early decision stage is quite often not a natural measure for management but can be highly effective in generating general acceptance of the proposal and efficient implementation methods. <#\>Providing the appropriate training for staff not only maximises the efficiency of the technology but improves job satisfaction and the whole host of benefits that go with it.</p>
+
+<p><#\>Technology will be a lynch pin in the economic development of Australian industry. <#\>Smooth and efficient implementation is vital. <sent><#\>The union attitude is favourable, <#\>it is now up to management to take the appropriate steps to take advantage of and maintain this opportunity.</sent></p>
+
+<#\><h><ul><smallcaps>Question</smallcaps></ul> 2 </h>
+<#\><ul><smallcaps>the accord</smallcaps></ul>
+
+<p><#\>The Accord agreements have been central to <smallcaps>alp</smallcaps> policy over the past ten years. <#\>Following the recent election result it appears that they will continue to remain central to Australian policy also.</p>
+
+<p><#\>The strengths of the Accord have been put forward by the union movement and <smallcaps>alp</smallcaps> consistently over the past ten years. <#\>The strengths have remained the same as the focus of the Accord has been consistent throughout that time.</p>
+
+<p><#\>The Accord provides an incomes policy mechanism for the government. <#\>As such it provides an additional economic lever to help fight inflation. <#\>In fact, in 1982 when the first Accord was drafted it was intended as a means to fight inflation and unemployment at the same time. <#\>The Accord used the centralised industrial relations system to provide wage restraint through National Wage Case Decisions. <#\>This method, however, fell apart in <del>the</del> 1991 when a strong disagreement saw the <smallcaps>airc</smallcaps> refuse to support the Accord proposals. <#\>The future methods of implementing across the board wage policy is therefore under some doubt.</p>
+
+<p><#\>The Accord has been a vehicle for dramatic social reform. <#\>By trading off wage increases the union movement has been able to achieve significant items on the social reform agenda.</p>
+
+<p><#\>The union movement would argue that a strength of the Accord is that it gives the unions a voice in government. <#\>As Simon Crean said in his address to the 1989 <smallcaps>actu</smallcaps> Congress <quote>The Accord trades wages restraint for a voice in government</quote> . <#\>This is seen as particularly importance to the union movement following the experiences of declining standard of living throughout the 1970's.</p>
+
+<p><#\>The Accord does have significant acceptance throughout Australia, both from unions and employers. <#\>It provides stability and there is a reluctance to switch to the more frantic negotiation necessary if a totally decentralised system were adopted.</p>
+
+<p><#\>The Accord has been criticised by employer groups and the Liberal National Coalition Parties. <#\>It has been argued that although real wages have fallen wage indexation has led to excessive growth in money wages. <#\>They argue that the Accord provides too rigid a structure and that it inhibits the flexibility required to improve productivity at our workplaces. <#\>Centralised wage outcomes lack consideration of individual industry and company needs.</p>
+
+<p><#\>Further criticisms by employer organisation and coalition parties include that it provides too much union power and that the jobs growth achieved is unsustainable.</p>
+
+<p><#\>The Accord has also been criticised from within the union movement. <#\>Left wing factions believe that the Accord has overly restrained unions and reduced them to a monitoring and policing role. <#\>They also criticise the reduction in real wage levels it has brought about.</p>
+
+<p><#\>There have been significant achievements under the Accord. <#\>On the economics side of the ledger one can consider the jobs growth throughout the 80's and the wage restraint (a 10% reduction in real wages). <#\>It is argued that this has been central in the reduction of our inflation rate. <#\>However, claims of this nature are difficult to assess as a benchmark is not readily available other than other <smallcaps>oecd</smallcaps> countries.</p>
+
+<p><#\>Undisputable are the enormous social gains achieved by the Accord. <#\>Women's issues, immigrants and social security provisions as well as superannuation have been dramatically reformed.</p>
+
+<#\><h>QUESTION 1</h>
+
+<p><#\>The impact of technological change on Industrial Relations over the last 10 years has been profound. <#\>Technology has impacted on the workplace in the following areas:
+
+<#\>(a) Improved production processes and technology have driven the costs down of manufactured items causing 	increasing competition in the global marketplace.
+
+<#\>The impact for IR is that we given that the Australian 	economy has been deregulated and we are now part of the global marketplace we must strive for productivity increases to compete.
+
+<#\>(b) Robotics and increasingly sophisticated machinery has revolutionised job roles in manufacturing industry.
+
+<#\>The impact on IR is that we now require a higher skill level of both worker and manager at the workplace.
+
+<#\>(c) There has been an increasing variation in types of materials used.
+
+<#\>The impact for IR is the requirement to ensure that 	Occupational Health and Safety is maintained at high levels and that sufficent training is given.</p></I>
+
+

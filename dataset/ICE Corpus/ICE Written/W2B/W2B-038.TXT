@@ -1,0 +1,129 @@
+<W2B-038>  <2004>
+
+<I><#\><h><bold>TEST REPORT</bold></h>
+
+<#\><h><bold>COMPUTER PRINTERS</bold></h>
+
+<#\><bold><it>Inkjet, thermal fusion or dot matrix?</it></bold>
+<#\><bold><it>We compare the technologies and 18 different printers.</it></bold>
+
+<p><#\><bold>F</bold><smallcaps>OR THIS REPORT</smallcaps> we tested ink<l>jet, thermal fusion and 24-pin dot matrix printers priced at less than $750. <#\>This included general-purpose desktop machines and some small, port<l>able models for use with notebook com<l>puters. <#\>The range encompasses printers designed for people with quite different needs, so we've split our recommenda<l>tions into groups, taking different user requirements into account (see <it>What to buy</it> on page 30).</p>
+
+<p><#\>Our overall score was based on print quality, speed, noise and the ease of using the front panel controls and in<l>structions. <#\>It didn't take paper handling options (and how easy they are to use) into account, as this depends very much on the user's particular needs. <#\>The table lists which options are available (so you can rule out any printer which doesn't have those you need) and the profiles include a brief description and assess<l>ment of the paper handling capabilities of each model.</p>
+
+<p><#\>We also discuss the pros and cons of the different technologies, to help you decide which type would be best for you.</p>
+
+<#\><h><bold>C<smallcaps>OMPARING TECHNOLOGIES</smallcaps></bold></h>
+
+<p><#\><bold><*>box</*>Dot matrix:</bold> An older technology, the impact dot matrix printer is probably still the most common type in general consumer use today. <#\>It works in a similar way to a typewriter, using a printhead which consists of very small pins (or hammers) and an inked ribbon. <#\>The im<l>pact of different configurations of pins hitting the ribbon transfers the ink onto the page behind, forming the shapes of the characters and images.</p>
+
+<p><#\>Dot matrix machines are usually cheap to buy and run and, because they use impact, can print carbon copies and multiple-part forms. <#\>They're generally considered good workhorse printers and usually have versatile paper handling op<l>tions. <#\>On the downside, they're quite noisy and the quality of their print is not as high as you get from thermal fusion or inkjet machines. <#\>This is often particu<l>larly noticeable when printing graphics, where they can't produce an image with the same sharpness and detail as the other types. <#\>However, the print quality of all the 24-pin dot matrix printers we tested is better than that of nine-pin printers, and for many purposes is more than adequate, particularly for text.</p>
+
+<p><#\><bold><*>box</*>Inkjet:</bold> Marketed as either 'bubble ink<l>jet' or 'thermal inkjet', this type of tech<l>nology uses cartridges consisting of a supply of ink and a printhead with tiny nozzles, or jets, arranged in it. <#\>Each jet has a small heating element embedded in it. <#\>When it heats up bubbles are formed in the ink and, as they expand, ink is forced through the jet onto the page as it passes over the printhead. <#\>Different ar<l>rangements of jets work together to form different characters and shapes.</p>
+
+<p><#\>They are quieter than dot matrix printers, and produce much better-qual<l>ity print. <#\>However, when you run out of ink you have to replace the whole car<l>tridge and currently these are quite ex<l>pensive. <#\>This makes inkjet more expen<l>sive to run than dotmatrix machines. <#\>Also, because they're not impact printers you can't use them to print carbon copies or multipart forms.</p>
+
+<p><#\><bold><*>box</*>Thermal fusion:</bold> This type of printer is a fairly new entry on the consumer market. <#\>Like dot matrix printers, they use inked ribbons, but the ink is transferred to the page using heat rather than the impact of pins. <#\>An array of tiny heating elements on the printhead selectively 'melts' portions of the ink compound, which stick to the page as the printhead passes over it, forming shapes and images.</p>
+
+<p><#\>Like the inkjet, this form of printing produces high-quality print and, as it doesn't use impact to transfer the ink to the page, is generally very quiet but can't print carbon copies. <#\>The technology it uses allows the printhead to be very small, so suitable for portable printers. <#\>At the moment it has two main draw<l>backs: its slow printing speed and the price of the special ribbons it requires, but this price may change if these print<l>ers capture a larger market share.</p>
+
+<#\><h><bold>P<smallcaps>APER HANDLING FEATURES</smallcaps></bold></h>
+
+<p><#\>As well as their very different technolo<l>gies, the printers we tested varied greatly in their paper handling capability. <#\>The features for feeding paper that are built into a printer depend on the use for which it was designed. <#\>The two types of paper these printers can handle are cut sheet and/or continuous forms.</p>
+
+<p><#\>Cut sheet refers to single sheets of paper, like those used for typing and photocopying. <#\>Some printers come with a cut sheet feeder, which holds a stock of sheets and feeds them into the printer one at a time as needed. <#\>On others, you can buy one as an optional extra. <#\>With<l>out a cut sheet feeder, you'd have to feed sheet paper into the printer a sheet at a time <longdash> very tedious if you have to print long documents.</p>
+
+<p><#\>Continuous forms are stacks of joined paper perforated at each page so sheets can be separated easily. <#\>Holes in tear-off sections on each side of the page fit over spikes on the wheels of a tractor mechanism on the printer; as the wheels turn the paper is either pushed or pulled continuously through the printer. <#\>The advantages of push vs pull feeding are discussed on page 34.</p>
+
+<p><#\>A continuous forms tractor allows you to load a whole box of paper at once. <#\>This kind of paper is cheaper, so is good for anyone who prints out many drafts. <#\>With a tractor, you can also print labels and multipart forms.</p>
+
+<p><#\>If you're short of desk space it may matter to you whether the paper loads from top or bottom, front or rear; the printer profiles detail this.</p>
+
+<#\><h><bold>P<smallcaps>ITCH AND TYPEFACE SETTINGS</smallcaps></bold></h>
+
+<p><#\>Most printers have a selection of different typefaces (the number available on each printer we tested is listed in the table). <#\>Each typeface can usually be printed in a wide range of sizes, known as pitches. <#\>The standard pitch is 10 characters per inch (cpi), and most typefaces can be printed in a variety of sizes from 10 to 20 cpi and a variety of proportional sizes.</p>
+
+<p><#\>We didn't rate the printers in our test on the range of typefaces and sizes avail<l>able, as the value of these depends on the individual needs of the user. <#\>If you need a particular typeface on your printer, check with the dealer before you buy. <#\>Some printers allow you to buy extra typefaces in the form of cartridges, which you plug in.</p>
+
+<p><#\>With many modern computer software programs (for example Microsoft Windows) the range of typefaces available depends on the software, rather than those supplied with the printer. <#\>You can increase the number of typefaces available by 'downloading' them into the printer's memory. <#\>This means the shape of the letters is controlled by software, and you can either buy a typeface soft<l>ware program off-the-shelf, or design and program the shapes yourself. <#\>Again, if you're interested in these, check with the dealer before buying.</p>
+
+<p><#\>Which type and model of printer is best depends on what you want to do with it. <#\>You need to work out which factors matter most to you: do you want really good text print quality, a fast printer, or one that does great-quality graphics? <#\>While the very small ones look appealing, they can be inconvenient to use so would be unsuitable for people who wanted to print large documents or lots of copies, for example.</p>
+
+<p><#\>We've worked out our recommenda<l>tions for three different scenarios. <#\>If none of them matches your requirements you can use the information in the table to find the best printer for you. <#\>For people who are short of space, the dimensions of each printer are included in its profile.</p>
+
+<p><#\><bold><*>box</*></bold> If you want a <bold>high-quality cut sheet printer</bold> (to print letters on letterhead pa<l>per, reports or newsletters, where good presentation is important, for example) you would probably want a printer with:
+
+<#\><*>dash</*>High print quality, particularly in text mode but reasonably good also for graphics.
+
+<#\><*>dash</*>High-capacity cut sheet feeder, prefer<l>ably built in.</p>
+
+<p><#\>Using these criteria, the following printers are 
+recommended:
+
+<#\><h>Brand/model (in rank order)			Price ($)</h>
+<bold>HEWLETT PACKARD</bold> DJ 500				550/639
+		<bold>BROTHER</bold> HJ1001				565/920
+equal	
+		<bold>CANON</bold> BJ-10ex				565/850
+<bold>OLIVETTI</bold> JP 150						595/650
+<bold>EPSON</bold> LQ-100						399/599</p>
+
+<p><#\>The <smallcaps><bold>HEWLETT PACKARD</bold></smallcaps> achieved the best overall score in our test, and comes with a cut sheet feeder.</p>
+
+<p><#\>The <smallcaps><bold>CANON, BROTHER</bold></smallcaps> and <smallcaps><bold>OLI<l>VETTI</bold></smallcaps>, all inkjet printers, have good print quality but you would need to pur<l>chase the optional cut sheet feeder to make printing larger print runs convenient <longdash> otherwise the only option is feed<l>ing single sheets by hand! <#\>The EPSON LQ-100's print quality was not as good as the other four (especially for graphics), but it's the best of the dot matrix printers for text mode and comes with a built-in cut sheet feeder. <#\>Given its low running costs, it may be a good choice for some people with these needs.</p>
+
+<p><#\><bold><*>box</*></bold>For <bold>general home or small business use</bold>, most people would probably want a printer that:
+
+<#\><*>dash</*>Has versatile paper handling options (tractor for continuous forms, and cut sheet feeder).
+
+<#\><*>dash</*>Is reasonably fast, particularly in draft mode.
+
+<#\><*>dash</*>Is cheap to run.</p>
+
+<p><#\>On these criteria the following print<l>ers are recommended:
+
+<#\><h>Brand/model (in rank order)			Price ($)</h>
+<bold>EPSON</bold> LQ-570							595/799
+		<bold>PANASONIC</bold> KX-P2123			650/699
+equal	
+		<bold>STAR</bold> LC24-20					495/675
+		<bold>NEC</bold> P3200					683/699
+equal	
+		<bold>SEIKOSHA</bold> SL-90				450/535
+<bold>PANASONIC</bold> KX-P1123					380/535
+		<bold>EPSON</bold> LQ-100<X>*</X>			399/599
+equal	<bold>BROTHER</bold> M1324				450/467
+		<bold>OSBORNE</bold> 1024				395/495</p>
+
+<p><#\><X>*This model has a built-in sheet feeder but no tractor feeder, which is available as an optional extra. <#\>All the other models have a built-in tractor feeder, with a cut sheet feeder as an optional extra.</X></p>
+
+<p><#\><bold><*>box</*></bold> If you need portability, and may need to use the printer when you don't have access to mains power, you would need a printer that:
+
+<#\><*>dash</*>Can run on battery power.
+<#\><*>dash</*>Is small and lightweight.</p>
+
+<p><#\>Based on these criteria the following are recommended:
+
+<#\><h>Brand/model (in rank order)			Price ($)</h>
+		<bold>BROTHER</bold> HJ1001			565/920
+equal	<bold>CANON</bold> BJ-10ex				565/850
+<bold>CITIZEN</bold> PN48						499/595</p>
+
+<p><#\>While five of the printers tested could be battery-operated and were reasonably portable, the <bold><smallcaps>CANON BJ</smallcaps></bold>-10ex and the <bold><smallcaps>BROTHER HJ1001</smallcaps></bold> (which are technically identical machines) were clearly the best of them. <#\>The <bold><smallcaps>CITIZEN</smallcaps></bold> is a lot smaller and lighter, but much slower (over 1 1/2 min<l>utes to print a page) and the <bold><smallcaps>CANON'</smallcaps>s</bold> and <bold><smallcaps>BROTHER'</smallcaps>s</bold> running costs are lower.</p>
+
+<p><#\>The <bold><smallcaps>SEIKOSHA LT-20</smallcaps></bold> and <bold><smallcaps>TANDY DMP-310</smallcaps></bold> are also able to be battery-op<l>erated. <#\>They are virtually identical, with built-in cut sheet feeders, but are large and heavy compared with the other three. <#\>Their print quality is lower, and they are quite noisy when in use; they also had the two lowest overall scores yet were similarly priced to the other three. <#\>On the other hand, the cut sheet feeder is only an optional extra with the <bold><smallcaps>CANON, BROTHER</smallcaps></bold> and <bold><smallcaps>CITIZEN</smallcaps></bold>.</p>
+
+<p><#\>The <bold><smallcaps>SEIKOSHA LT-20</smallcaps></bold> was the only printer we tested that came with a re<l>chargeable battery pack. <#\>You can buy one as an optional extra for the other three.</p>
+
+<#\><h><bold>THE RIGHT DRIVER</bold></h>
+
+<p><#\><bold>S</bold><smallcaps>OFTWARE PACKAGES</smallcaps> are generally linked to printers via a printer driver. <#\>This is a program which acts as interpreter, enabling computers to tell printers what to do. <#\>Many software producers put out a whole range of special drivers for particular printers, so check when you're buying a printer whether your software has the right driver. <#\>In some cases, a printer will be compatible with more than one driver, but will achieve the best results with the driver designed particularly for it.</p>
+
+<p><#\>The two <bold><smallcaps>EPSON</smallcaps></bold> models we tested are an example of this. <#\>Both can be used with any <bold><smallcaps>EPSON</smallcaps></bold> driver, but also support a new control language called <bold><smallcaps>ESC P2</smallcaps></bold>. <#\>This is an enhancement of the older driver used by <bold><smallcaps>EPSON</smallcaps></bold> printers and includes a different graphics mode, enables these printers to implement scalable fonts and has other additional features.</p>
+
+<p><#\>We didn't test the <bold><smallcaps>EPSON</smallcaps></bold> models using the <bold><smallcaps>ESC P2</smallcaps></bold> driver because, as it's only recently been developed, it's only available on the latest versions of popular software packages. <#\>However, it should be pointed out that if these two printers are used with ESC P2 some enhanced features become available and the qual<l>ity of the print in graphics mode is claimed to be improved.</p>
+
+<#\><h><bold>PROFILES</bold></h>
+
+<p><#\>Models listed in the three <it>What to buy</it> lists are profiled here in overall rank order.</p></I>
+

@@ -1,0 +1,398 @@
+<S1A-017> <2003>
+
+<I><$A> <#\>So, we're going to Queensland <O>laugh</O>
+<$B> <#\>Yes <#\>Where are we staying <#\>Where are you staying
+<$A> <#\>Mmm You've got the brochure
+<$B> <#\>Who's staying at the Pan Pacific
+<$A> <#\>Is that ours or theirs
+<$C> <#\>No one's
+<$B> <#\>Quality Beachcomber
+<$C> <#\><O>inaudible</O>
+<$B> <#\><@>Forename1</@> 
+<$C> <#\>And friend
+<$B> <#\>Yeah<,,> <#\>And where are you staying <#\>Silverton
+of
+Surfers
+<$A> <#\>Is that the one we're staying at
+<$C> <#\>Yes
+<$A> <#\>Yes 
+<$C> <#\><{><[><O>inaudible 4 words</O></[> 
+<$A> <#\><[>So read it out</[></{> have what  what we have <{><[>got
+there</[> 
+<$B> <#\><[>You've got</[></{> <quote>Situated in the Nerang River
+<,,> <#\>This one and two bed</quote>
+<$C> <#\>It's in the Nerang River
+<$B> <#\><O>laugh</O> <quote>Situated on the Nerang River <#\>This
+one and two bedroom  high rise  boasts magnificent views of
+the river  hinterland and ocean</quote>
+<$A> <#\>Oh <#\>That sounds alright <#\>That's pretty close to
+the
+beach though isn't it
+<$B> <#\>It says beach two hundred metres <#\>Shops is six
+hundred metres
+<$A> <#\>Oh I dunno <#\>It's better  I can get to the <{><[>beach
+first</[> 
+<$B> <#\><[><O>inaudible 2 syll</O></[></{> <#\>It's only a three <{><[>shop star</[> rating
+
+<$A> <#\><[><O>inaudible</O></[></{> Oh right <#\>And what's yours <#\>Five
+star
+is it  or four star
+<$B> <#\>Oh it says
+<$A> <#\>Forster
+<$B> <#\>Four star
+<$A> <#\>Yeah <,> <#\>No  you're staying at Surfers  not
+Forster <O>laugh</O> <#\>That's a joke <O>laugh</O>
+<$B> <#\>Yeah  alright <O>laugh</O>
+<$C> <#\><O>inaudible</O>
+<$B> <#\>Where are we staying on the way up
+<$A> <#\>Um  what's the name of the place
+<$C> <#\>It's called the Bellingen<,,> <#\>The Valley Motor Inn
+<$A> <#\>Oh that's the brochure <{><[>on it</[> 
+<$B> <#\><[>What's it got</[></{> what's it got on there
+<$C> <#\><quote>It's thirteen point five kilometres scenic
+drive to Bellingen Valley Motor Inn off the Pacific
+Highway</quote>
+<$A> <#\>Is that near Coffs Harbour
+<$C> <#\>Before Coffs Harbour
+<$A> <#\>Before Coffs Harbour
+<$C> <#\>It's on its  on the way to Armidale
+<$A> <#\>Mmm
+<$C> <#\>It's where I'll be going in a couple of weeks 
+<$A> <#\>Mm hmm
+<$C> <#\>to Armidale
+<$B> <#\>So
+<$C> <#\>Just thought I'd throw that in
+<$B> <#\>Has it got<{><[>a swimming pool</[> 
+<$C> <#\><[><quote>The beautiful Bellingen</[></{> Valley  on the
+main road between the Pacific Highway and Armidale  and home
+of the Bellingen</quote> <#\>No it's Bellinger Valley Motor Inn
+<quote>Nestled midway between the mountains and the sea  it
+offers you the best of all worlds <#\>Explore the majestic
+rainforests  laze on the white sand beaches</quote> <#\>How can
+they have beaches thirteen and a half miles from 
+<$A> <#\>Yeah  river beaches <#\><{><[>Maybe it's on the river</[> 
+<$C> <#\><[><quote>Or simply enjoy the</[></{> tranquil beauty of the
+gentle rural valley <#\>The Bellinger Valley Motor Inn is set on
+seven acres  hectares</quote>
+<$A> <#\>Hectares
+<$C> <#\>That's better <quote>of landscaped grounds and
+gardens with every room enjoying a magnificent mountain view
+<#\>Enjoy a round of golf on our three-hole golf course</quote>
+<#\>Woo!
+<$A> <#\>Three-hole
+<$B> <#\>Three-hole
+<$AB><#\> <O>laugh</O>
+<$C> <#\><quote>Swim in the pool  relax in the spa  or fish
+in the clear waters of the nearby Bellinger River <#\>And sleep
+well at night  with never a sound of highway traffic to
+disturb your rest</quote>
+<$A> <#\>Mmm
+<$C> <#\><quote>Bellingen  Bellinger Valley Motor Inn
+Licensed restaurant  cocktail bar  swimming pool and spa 
+barbecue area  three-hole golf course  guest lounge  laundry
+facilities  direct dial phones  tea making facilities  peace
+and quiet  no traffic noise</quote>
+<$B> <#\>Is there any pools
+<$A> <#\>We get the gist of it
+<$C> <#\>What
+<$B> <#\>Did you say pool
+<$A> <#\><{><[>It sounds nice</[> 
+<$C> <#\><[>Swimming pool and spa</[></{> <#\>What is this
+<$B> <#\>Does it have a gym
+<$A> <#\>Can we have a look at the brochure
+<$B> <#\>What's this
+<$C> <#\><quote>Fully licensed restaurant is rich in history
+and tradition <#\>Beautiful cedar scrolls  panelling  doors and
+sandstone bricks from the original Parramatta Court
+House</quote>
+<$B> <#\>Dad
+<&>Interruption - break in recording</&>
+<$C> <#\>Does that sound good to you
+<$A> <#\>It sounds alright
+<$B> <#\>Sounds excellent
+<$C> <#\><O>burp</O>
+<$B> <#\>What's this  here
+<$A> <#\>Gee it Looks big
+<$C> <#\>That is a<,,> renovated bathroom <{><[><O>inaudible</O></[> 
+<$B> <#\><[>Are we getting a</[></{> new bathroom
+<$C> <#\>No
+<$B> <#\>Well what  what did you get it for then
+<$A> <#\>Just to have a look at
+<$C> <#\>Just to have a look at
+<$A> <#\>It's been sold
+<$B> <#\>That's nice
+<$C> <#\><O>Burp</O>
+<&>Interruption - break in recording</&>
+<$A> <#\>So  what did you get up to at work today <@>forenameB</@> 
+<$B> <#\>Nothing
+<$A> <#\>You do any x-rays today
+<$C> <#\>Many babies<,,>
+<$B> <#\>Mm Yeah <#\>Did a couple
+<$A> <#\>Ah Good <#\>Good<,,> <#\>Well I worked very hard  end
+of
+month tomorrow
+<$B> <#\>Did you take the cake to <@>Forename2</@> 
+<$A> <#\>Yeah  yeah <#\>She's gonna eat hers at home
+<@>Forename3</@> ate hers at work and said it was absolutely
+beautiful <#\>She said to tell you
+<$C> <#\>Did you tell her I made it
+<$A> <#\>Yeah <#\>I said <@>forenameC</@> and <@>forenameB</@> made it <#\>I come home and
+he's rushing down the shop to get the cake  and he got the
+wrong cake  and he realised and had to go back in and get the
+right cake and
+<$B> <#\>Why don't we eat the cake tonight
+<$A> <#\>Yeah  I'll have a piece tonight
+<$B> <#\>No  you're on a diet
+<$A> <#\>I'm off it tonight<,,>
+<$B> <#\>Yeah <#\><{><[>Sure</[> 
+<$C> <#\><[>Anyway</[></{> we'll go and  when we're up at Surfers 
+we'll go to the
+<$B> <#\>What what are the <{><[>attractions</[> 
+<$A> <#\><[>Alright  just just</[></{> 
+<$C> <#\>Casino for one <{><[>night</[> 
+<$A> <#\><[>Yeah</[></{> Well why don't we go to the casino on<,> No
+we won't want to do that <#\>If if we go to um what's  not
+universal studios <#\>What's it called
+<$B> <#\>Movie World
+<$A> <#\>Movie World <#\>Go over there  say on the Tuesday<,,>
+and the casino on the Thursday or <{><[>something like that</[>
+<$B> <#\><[>What time are we going</[></{> up there
+<$A> <#\>Oh we should arrive Sunday afternoon  shouldn't we
+<$C> <#\>Yeah
+<$B> <#\>So Sunday afternoon
+<$C> <#\>Just have a relax
+<$B> <#\>To stay when <#\>Till the next Sunday
+<$C> <#\>Mmm
+<$A> <#\>Yeah <#\>We got to be out by about  by ten o'clock  is
+it
+<$C> <#\>Yeah <#\> Ten o'clock <#\>And Then we drive down back
+to Bellinger
+<$A> <#\>We should be two nights there  <O>inaudible 3
+syllables</O>
+<$C> <#\>No
+<$A> <#\>Why
+<$C> <#\>No <#\>We'll stop somewhere down further on
+<$B> <#\>Are we <#\><{><[>Is it</[> 
+<$C> <#\><[><O>inaudible</O></[></{> 
+<$B> <#\>expensive at Bellinger
+<$A> <#\>Mmm <#\>Don't think so <#\>How much does it cost <@>forenameC</@> 
+<$C> <#\>A hundred and seventy two dollars
+<$B> <#\>For how many people
+<$C> <#\>Per night
+<$B> <#\>For how many beds
+<$C> <#\>For two units
+<$A> <#\>For five beds
+<$B> <#\>Oh that's al alright  I suppose <,,> <#\>Do you think
+<$C> <#\>Except where you're paying for it
+<$B> <#\>All of it
+<$C> <#\>Yes
+<$B> <#\>Well you told <@>Forename1</@> you would pay for her
+<$C> <#\>Well I would have had to pay for you anyway
+<$B> <#\>Yeah
+<$C> <#\>And nana going into one <#\>So what's the difference
+Same <#\>Six of one  half a dozen of the other
+<$B> <#\><O>laugh</O> Good saying <@>forenameB</@> 
+<$C> <#\>like your sayings <{><[>of course</[> 
+<$A> <#\><[>How much</[></{> do you reckon we'll need in petrol going
+up there
+<$B> <#\><@>forenameB</@> said eighty dollars  didn't he
+<$C> <#\>Two tanks <#\>Going up
+<$B> <#\>Two tanks <#\>Is that all
+<$C> <#\>Yeah <,,>
+<$B> <#\>Um I thought you're not allowed to let it go below a
+quarter <,,> <#\>So you have to keep filling it up
+<$C> <#\>You don't have to<,> drive and run out and then say
+Oh I'd better go and hitchhike to get some more <#\>Top it up
+<$?>    <#\><O>inaudible</O> 
+<$A> <#\>So we're  what we'll get away early on the Saturday
+<$C> <#\>About five o'clock in the morning
+<$B> <#\>No way!
+<$A> <#\>Then we must stop somewhere for breakfast <#\>Then
+we'll stop somewhere for lunch
+<$C> <#\>That's right <#\>Take our time
+<$A> <#\>Take our time <#\>You don't want to be tired
+<$C> <#\><O>inaudible 2 syll</O> a big round of golf when I get up
+there <#\>All three holes
+<$B> <#\><O>laugh</O> I might <{><[>even play</[> 
+<$A> <#\><[>Na Nana</[></{> will prob probably drive
+<$C> <#\>No <#\>It'll be right
+<$A> <#\>Well  <@>Forename1</@> will have a stretch  won't she
+<$B> <#\>I'll drive
+<$A> <#\>Does <@>Forename1</@> drive
+<$B> <#\>Yeah <#\>I wouldn't trust her though
+<$A> <#\>Why
+<$B> <#\>Going over<,> has she told you
+<$C> <#\>Hm
+<$B> <#\>When she went over the grates at the pub
+<$A> <#\><O>laugh</O>
+<$C> <#\>Has she
+<$B> <#\>I wasn't with her <#\><@>Forename3</@> and um
+<$C> <#\><{><[>What grates</[> 
+<$A> <#\><[>You weren't there</[></{> to keep an eye on her
+<$B> <#\><@>Forename3</@> and  what's her name<,> <@>Forename4</@> 
+were in the car
+<$C> <#\>Mmm
+<$B> <#\>It was at <@>Forename5</@> 's party <#\>We were at um<,> 
+Terrigal I think
+<$A> <#\>Ah <#\>Yeah  that's right <O>inaudible 3 syll</O>
+<$B> <#\><O>laughing</O> And she went over the grates and the car
+stalled  went grooo<O>laugh</O> <#\>She couldn't get above it
+<$C> <#\>Ooh  did she
+<$A> <#\>It wasn't that weekend <#\>It was the weekend we went
+down to Wollongong or something
+<$C> <#\>Oh yeah
+<$B> <#\>And she was so scared <#\>And they're all laughing in
+the back <,,>
+<$C> <#\>Mmm <#\>Must have words to her
+<$B> <#\>And she was getting out checking the car <,,> <#\>Making
+sure it was alright<,>
+<$C> <#\>And we can go and visit you at Quality
+Beach<{><[>comber</[> 
+<$B> <#\><[>No</[></{> way! What would you want to visit us for
+<$C> <#\>'Cause you've got a putting green there
+<$A> <#\>It's it is near the ocean <#\>Look <#\>There's the ocean
+<$C> <#\>Can't be
+<$B> <#\>Yeah <#\>Could be an inlet <#\>It could be an inlet <@>forenameB</@> 
+<$A> <#\>It's between there and the ocean
+<$B> <#\>Taree has <{><[>near the beach</[> 
+<$C> <#\><[>You've got to drive thirteen</[></{> and a half
+kilometres from the highway on the back <#\>Look
+<$A> <#\>I just showed you the picture
+<$C> <#\>There  that way
+<$A> <#\>Don't get us lost will you
+<$B> <#\>Yeah <#\>We'll probably get lost on the way up there
+<#\>Ooh  that looks nice doesn't it
+<$A> <#\>What's that
+<$B> <#\>Very colloquial
+<$C> <#\>Colloklial
+<$A> <#\>Who
+<$C> <#\>Colloklial
+<$B> <#\>Colloquial
+<$C> <#\>Collokial
+<$A> <#\>How about colonial
+<$B> <#\>And we'll go to Movie World <#\>When are we gonna go to
+that <#\>You have to<,>  are you going to get the tickets before
+you go
+<$C> <#\>Yeah
+<$B> <#\>Show
+<$C> <#\>You'll have to give me the money for that <#\>'Cause
+I'm not going to pay for you
+<$B> <#\>I'd I'll pay for meself
+<$C> <#\>What's this <#\>What's this<,>
+<$B> <#\>I don't know <#\>Looks like a piece of paper
+<$C> <#\>Who wrote that out
+<$B> <#\>It's not my writing
+<$C> <#\>That's <@>Forename1</@> 's writing
+<$A> <#\>Is it
+<$B> <#\>She must have wanted to take it
+<$C> <#\>Four star <#\><O>laugh</O>
+<$A> <#\><O>laugh</O> She's written it on there has she <O>laugh</O>
+<$B> <#\>Yeah <#\>Show me <#\>What's she written <#\>What's she
+written here <#\><quote>Guest laundry  barbecue area</quote>
+<,,> <#\>Is that <@>Forename1</@> 's writing
+<$A> <#\>Must be <#\>It's not mine <#\>It's not yours <#\>It's
+not
+<@>forenameB</@> 's
+<$C> <#\>Could be your mother
+<$B> <#\>What's this <quote>In third  out tenth</quote> <#\>Oh
+that's the dates  yeah 
+<$A> <#\>Leave on the tenth 
+<$B> <#\><quote>Putting green</quote>
+<$C> <#\>I haven't been to Dreamworld <#\>I might go with you
+girls when you go there
+<$B> <#\>I don't know if we're going <#\>I don't know if
+<@>Forename1</@> will want to go <#\>I've never been to Dreamworld
+<{><[>I'd like to go</[> 
+<$C> <#\><[>Yeah righto</[></{> 
+<$A> <#\>Didn't we go to Dreamworld
+<$C> <#\>No
+<$B> <#\>We went to <{><[>Sea World</[> 
+<$C> <#\><[>Sea World</[></{> 
+<$A> <#\>Ooh
+<$B> <#\>Yeah <#\>But how much is that <#\>It's got the prices
+in
+there somewhere  hasn't it <#\>I've got a brochure that's got the
+prices in when we went to Queensland last year
+<$A> <#\>Well  go and get it
+<$B> <#\>I don't know where it is
+<$A> <#\>Well that's no good<,,> It won't help us
+<$C> <#\>Here we go <#\><quote>Dreamworld <#\>Twenty-eight
+dollars</quote>
+<$B> <#\>Oh <#\>See  it's in there <#\>What's it got  just rides
+and stuff
+<$C> <#\><quote>Take a trip away from the everyday</quote>
+<$A> <#\>Can you  um
+<$C> <#\><{><[>Dreamworld</[> 
+<$A> <#\><[>Can you go there</[></{>um  can you buy the tickets
+before you go up
+<$C> <#\>Yes 
+<$A> <#\>We might get them cheaper
+<$C> <#\>No  you don't get them <{><[>cheaper</[> 
+<$B> <#\><[>No</[> </{>
+<$C> <#\>Just you don't have to <{><[>line up</[> 
+<$A> <#\><[>queue up</[></{> 
+<$B> <#\>Yeah <#\>Then there's Movie World <#\>How much is that
+to
+get in
+<$C> <#\>Twenty-nine dollars
+<$B> <#\>That's twenty-nine<,> <#\>Would we get a student
+concession <#\>No
+<$A> <#\>Well  we are
+<$B> <#\>You can get a pensioner <@>forenameB</@> 
+<$A> <#\>You don't know <#\>No
+<$C> <#\>Oh nyeah  nyeah
+<$B> <#\>And w how much is Sea World <#\>Sea World should be
+there too
+<$C> <#\>Aghh
+<$B> <#\>I don't want
+<$A> <#\>You just get the tickets through the agent you book
+through
+<$C> <#\>Yeah
+<$A> <#\>Oh  alright
+<$B> <#\>Oh  you can get 'em anywhere up there
+<$A> <#\>No  but what we're saying is if we have them to take
+with us it saves us having to
+<$B> <#\>But then you mightn't want to go on the day that
+you're going  that you book for
+<$C> <#\>That's right
+<$B> <#\>So you can go up there and get 'em any time
+<$A> <#\>Where from <#\>The hotel you're staying at can you
+<$B> <#\>Yeah <#\>You can book it through the hotel
+<$C> <#\>Can you <#\>Oh well You know that do you <#\>You did that
+last time
+<$B> <#\>Yeah <#\>I think that's what we did <#\>I'm sure that's
+that <{><[>we did</[> 
+<$A> <#\><[>I thought</[></{> you said you got early  there early and
+got your tickets
+<$B> <#\>But  we don't have to line up<,,> and get it<,,>
+Would Nan want to go to Dreamworld
+<$C> <#\>No<,>
+<$A> <#\>She might
+<$B> <#\>She doesn't want to go to the beach
+<$C> <#\>She'll go to um Movie World
+<$A> <#\>Mmm
+<$C> <#\>And the casino
+<$A> <#\>Mmm
+<$C> <#\>And we'll visit <@>Forename5</@> and what's her name One
+day <$A> <#\>Mmm
+<$C> <#\>That's three days out of the seven
+<$A> <#\>Mmmm
+<$B> <#\><{><[>Then <O>inaudible 2/3 words</O> relax</[> 
+<$A> <#\><[>But he might be at work</[></{> <#\>We might have to go
+across one evening
+<$C> <#\>Well  why do we have to go and see <@>Forename5</@> <#\>We
+can go early  and then go<,,>
+<$B> <#\>Driving
+<$C> <#\>Down <O>inaudible 2 words</O> probably down there and
+have lunch or something
+<$A> <#\>Go into F A I <,,>
+<$C> <#\>Yes <,,>
+<$A> <#\>Oh <#\>That should be fun
+<$B> <#\>So
+<$C> <#\><O>inaudible</O>
+<$B> <#\>Here  look <#\>I've written down here <#\>What what
+about
+Wet and Wild Park <#\>There's a Wet and Wild Park
+</I> 
+
+

@@ -1,0 +1,118 @@
+<W1A-001> <2010>
+<I><#\><h>REVIEW  OF  RELATED  LITERATURE</h>
+	
+	
+<#\><h>CEREBRAL  PALSY</h>
+	
+	       <p><#\> Cerebral palsy is the result of a lesion or mal-development of the brain, non-progressive in character and existing from earliest childhood. <#\>The motor deficit finds expression in abnormal patterns of posture and movement, in association with an abnormal postural tone (tight muscular spasms or constant muscle tension). <#\>The lesion which is present in the brain when it is still immature interferes with the normal motor development of the child.<X><sp>1</sp></X></p>
+	
+	        <p><#\>Cerebral palsy is classified according to the nature and distribution of neuromuscular (relating to nerves and muscles) signs. <#\><space>There are five basic 
+classifications:
+		<#\>1. according to type;
+		<#\>2. according to number of limbs involved;
+		<#\>3. according to time of onset;
+		<#\>4. according to degree of involvement; and
+		<#\>5. according to the extent and nature of the damage (Stephen, 1958).
+	        <#\>There are three main types of cerebral palsy: spastic, athetoid and ataxic.</p>
+	
+	       <p><#\><bold>Spasticity</bold> is the most commonly encountered abnormality. <#\>The normal balance between the antagonistic muscles and the suppressors in the brain is absent<X><sp>2</sp></X> causing a display of clasp-knife hypertonus (a state of abnormally high muscle contracture), hyperflexia (the tendency of muscles to flex beyond their normal limits) and a tendency to contractures (Cothers and Paine 1959).</p>   
+	
+	       <p><#\> Diskinetic cerebral palsy includes a number of movement disorders, the commonest being <bold>athetosis</bold> (athetoid), featuring slow writhing movements and fluctuations from hypertonus to total lack of muscle tone (muscle tension). <#\>Dystonic disorders usually show distorting tone changes, often involving trunk and limbs.</p>
+	
+	        <p><#\><bold>Ataxic</bold> cerebral palsy is a rarer case showing poor co-ordination, head tibulation and intention <space>tremor, suggesting cerebral involvement, and usually 
+includes lack of balance. <#\><space>Dyspraxia is a similar disorder resulting in poor co-ordination, especially <space>hand-eye co-ordination and speech defects through bad 
+tongue control.<X><sp>3</sp></X> <#\>In addition to these three distinct types of cerebral palsy, many cases are mixed with a combination of two or more types. <#\>The mixed types are 
+due to damage in more than one area of the brain.</p>
+	
+	       <p><#\>The number of limbs involved is the second way of classifying cerebral palsy. <#\>There are seven groupings:
+		<#\>1. <it>Monoplegia</it>, involving one limb;
+		<#\>2. <it>Hemiplegia</it>, involving the arm and leg of the same side of the body;
+		<#\>3. <it>Triplegia</it>, involvement of three limbs;
+		<#\>4. <it>Paraplegia</it>, involving both legs;
+		<#\>5. <it>Quadriplegia</it>, involving all four limbs;
+		<#\>6. <it>Diplegia</it>, meaning the lower extremes are more affected than the upper ones;
+		<#\>7. <it>Double Hemiphlegia</it>, the same as quadriplegia with more involvement on one side of the body.<X><sp>4</sp></X></p> 
+
+	       <p><#\>The third way of classification is according to the time of onset. <#\>Cerebral palsy may occur during the prenatal (before birth), perinatal (immediately before, 
+during and after the birth) or postnatal (after the birth) periods, although it is difficult to separate prenatal and perinatal factors.</p> 
+	
+	       <p><#\>The degree of involvement, the fourth classification, may be seen on a continuum from mild to moderate to severe, as well as in relation to the associated 
+disabilities of speech, hearing, vision, mental ability and learning. <#\>The extent and nature of brain damage is difficult to determine except as the damage is manifested in motor and sensory impairments.</p>
+	
+	       <p><#\>The extent and nature of the lesion causing brain damage is the fifth form of classification. <#\>The following conditions may cause cerebral palsy in the prenatal 
+period:
+		<#\>1. blood incompatibility;
+		<#\>2. maternal infection such as measles and toxemia;
+		<#\>3. anoxia (lack or absences of oxygen) resulting from such conditions as anemia and shock;
+ 		<#\>4. maternal metabolic disturbances;
+		<#\>5. maternal exposure to radiation; and
+		<#\>6. premature birth.<X><sp>5</sp></X></p> 
+
+	<p><#\>During the perinatal period cerebral palsy may result from:
+		<#\>1. anoxia, often due to twisted umbilical chord;
+		<#\>2. stressful birth, including prolonged labour, or difficult birth such as breech birth;
+		<#\>3. brain hemorrhage; and
+		<#\>4. brain injury, including injury caused by obstetrical procedures, like forceps delivery.<X><sp>6</sp></X></p> 
+
+	<p><#\>Cerebral palsy may also be caused by conditions that occur during postnatal development:
+		<#\>1. childhood diseases and infections like encephalitis, meningitis, and influenza;
+		<#\>2. head injuries;
+		<#\>3. toxic conditions like carbon monoxide and lead poisoning;
+		<#\>4. anoxia resulting from strangulation and suffocation; and
+		<#\>5. neurological disorders.<X><sp>7</sp></X> and<X><sp>8</sp></X></p>  
+	
+	        <p><#\>For an understanding of the nature of the motor disability of a child with brain damage it is important to understand normal motor development in terms of the evolution of the automatic postural reactions which underlie a child's overt functional activities. <#\><space>These reactions form the background of posture and movement which the child adapts as he or she learns learns to perform any skilled activity, like sitting up and remaining sitting, rolling over, standing up and walking. <#\><space>For this reason such reactions have been called, by Schaltenbrand (1927), <quote>Principal Motility</quote>.<X><sp>9</sp></X></p> 
+	        <p><#\>Essentially, normal motor development is characterised by two sets of processes which are closely interwoven and dependent upon each other. 
+	<#\>They are:
+		<#\>1. <space>The development of the normal postural  reflex mechanism which is not present at birth and which in time will become highly complex and varied. <#\>Righting, equilibrium and other adaptive and protective reactions 
+fall into this group. <#\>The development of these reactions is closely associated with a normal postural tone which allows for the maintenance of positions against gravity and the performance of normal movements.
+		
+		<#\>2. The inhibition of some of the responses of the neonate, a process which may be associated with the maturation of the brain. <#\><space>Examples of this inhibition are primary standing and walking, the startled reaction, and the tonic finger flexion response. <#\>It shows itself also in a change in the early total response, such as the total withdrawal response involving all the segments of a limb, also a change which involves inhibition. <#\><space>This process, sometimes referred to as <quote>breaking up</quote> of the early total responses, makes possible a re-synthesis of parts of the total patterns in many and varied ways and, in association with the development of a normal postural reflex mechanism referred to in (1), allows for the performance of selective movements such as walking and especially for the perfection of manipulative skills.<X><sp>10</sp></X></p> 
+
+	        <p><#\>An important feature of normal motor development is the freeing of the arms and hands from their early role of supporting posture and balance. <#\>In time this function is delegated to the trunk and legs.</p>
+	
+	
+	
+<#\><h>MOTOR  DEVELOPMENT  IN  CEREBRAL  PALSY</h> 
+	
+	        <p><#\>In cerebral palsy, as stressed before, the lesion interferes with orderly development. <#\>Symptoms of motor retardation are followed, sooner or later, by the appearance of abnormal patterns of posture and movement, in association with abnormal posture tone ( the normal tension of a muscle at rest<X><sp>11</sp></X>). <#\>With the gradual appearance of tonic reflex activity (muscular spasms during involuntary response such as coughing or withdrawing of the hand from a hot surface), 
+extensor (stretching of the muscle) activity become stronger while in the supine position (lying on one's back), while flexor (contracting of the muscle) activity become stronger while in the prone position (lying on one's front).</p>
+	
+	        <p><#\>The cerebral palsied child, therefore, does not develop postural tone against gravity as does the normal child, but develops abnormal postural reflex activity 
+which will, in fact, cause his or her body to conform to the pull of gravity. <#\>If he or she is a quadriplegic child and the whole body is involved, he or she may, in time, develop a posture of total extension in supine lying and total flexion in prone lying.<X><sp>12</sp></X></p> 
+	
+	        <p><#\>The rate and extent to which this posture develops depends on the type and severity of the case and on how much of the body is involved. <#\>Initially, unless the 
+case is a severe one, extensor and flexor hypertonus will show themselves only when the child is handled. <#\>For instance, when the child is pulled up to sitting from the supine lying, the head may lag far behind, neck and shoulders may retract, the hips may resist flexion, and the legs may extend, adduct (draw or pull inwards) and sometimes even cross. <#\>The turning of the head to one side may not be followed by the rotation of the trunk (neck righting reaction), as this is prevented by the retraction of the shoulders.<X><sp>13</sp></X></p> 
+	
+	        <p><#\>These may be signs of a tendency towards excessive extensor activity in the supine position, probably the result of the influence of the tonic labyrithine reflex 
+(a complex series of muscle extension and flexions). <#\>In the prone position, on the other hand, flexor hyperactivity may show itself in the child's inability to raise its head, in resistance to passive raising of head and shoulders, and 
+its inability to extend its arms for support when lifted up by its shoulders, since the propping reaction is prevented by flexor hyperactivity of the arms.<X><sp>14</sp></X></p> 
+	
+	        <p><#\>Even in the case of fully established quadriplegia the clear posture of total extension in supine and of flexion in prone is not always the rule. <#\>A few of these children, usually the most severe cases, may show in the supine position strong extensor hypertonus with opisthotonus (receding muscle tension) and still show fairly severe extensor hypertonus when lying prone, though less than when lying supine. <#\>The head may still be retracted in the prone position as long as the child's trunk and legs are stiffly extended. <#\><space>There may <space>then be resistance to passive flexion of the head <#\>However, if one flexes the child's thighs at the hips, or legs at the knees, or abducts (pull outwards) the thighs, the head will suddenly flex, and the child will be unable to raise it.<X><sp>15</sp></X></p> 
+	
+	       <p><#\>If abnormal postural reflex activity is strong at an early age, or if, as usually happens, it increases during the first years, the child will not acquire many of the 
+abilities of normal children. <#\><space>Hypertonus will develop either in the form of spasticity or rigidity (spastic or plastic hypertonus), or as intermittent increases of 
+postural tone in response to stimulation, so characteristic of the athetoid group of cerebral palsy (featuring slow writhing movements).<X><sp>16</sp></X></p>  
+	
+	
+<#\><h>ASSESSING CEREBRAL PALSY</h> 
+	
+	       <p><#\>Three factors at least, should be considered in every case of cerebral palsy. <#\>Together they will determine the individual picture.
+		
+		<#\>1. The type of strength of the abnormal muscle tone;
+		<#\>2. The type of disturbance of reciprocal innovation;
+		<#\>3. The distribution of the condition and the prevailing patterns of posture and movement.<X><sp>17</sp></X></p> 
+	
+<#\><h>ABNORMAL MUSCLE TONE</h>
+	
+	        <p><#\>All cases of cerebral palsy have in common an abnormal muscle tone. <#\>This is classically examined by passively moving the segments of a limb and testing the resistance which the muscles offer to passive stretch. <#\>It is unfortunate that modern neurophysiology has not been able to explain the different types of abnormality of muscle tone seen in different types of cerebral palsy. <#\>Abnormal muscle tone is considered to be the result of the release of the gamma-system, or more rarely the alpha-system, from higher inhibitory control (Rushworth, 1960). <#\>Presumably the release of a facilitatory mechanism <space>within the brain stem enhances the sensitivity or <quote>bias</quote> of the gamma-system (Magoun and Rhines, 1946).<X><sp>18</sp></X> <#\>This becomes hyper-excitable and reacts to an adequate stretching or contracting of muscles in an abnormal maximum manner resulting in the total flexing of the associated muscles (in either extension or flexion). <#\>These
+<space>observations may be the explanation of the clinically observed phenomena of spastic muscle, <space>ie. <space>the exaggerated stretch reflex, the clasp-knife phenomenon and the lengthening and shortening reactions.</p>
+	
+	        <p><#\>Rigidity is difficult to explain and is very different from the rigidity of Parkinson's disease. <#\>This type of hypertonus is actually <space>a severe degree of spasticity. <#\>Rigidity in cerebral palsy is better called <quote>plastic hypertonus</quote>,<X><sp>19</sp></X> characterised by the unchanging resistance a muscle offers to passive stretch 
+throughout its whole range in the direction of either flexion or extension.</p>
+	
+	        <p><#\>It is yet impossible to explain the the nature of the fluctuating type of muscle tone found in the athetoid group of cerebral palsy. <#\>The amplitude of fluctuation may vary widely in the individual case, either on the basis of general hypertonic condition or of a fairly normal postural tone.</p>
+	
+	        <p><#\>Hypertonia, flaccidity of muscle tone, is usually a transient phenomenon in cerebral palsy, occurring in the earliest babyhood, and followed sooner or later by spastic or plastic types of hypertonus or by the fluctuating tone of the athetoid group. <#\>These sufferers may show considerable increments of muscle tone under sufficiently strong, long-lasting or repetitive stimulation.</p></I>
+
+

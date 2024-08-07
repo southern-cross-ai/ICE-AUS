@@ -1,0 +1,211 @@
+<S2B-027> <2009>
+<S2B-027a> <1989>
+<I><#\>I'll never forget a seminar I attended in the late nineteen
+seventies when I was working at the University of British-
+Colombia in Vancouver, Canada <#\>The topic was Energy Balance
+in
+Humming Birds <#\>The speaker had formed a group that was using
+computers to model animal foraging behaviour using economic-
+style energy budget analysis to predict changes in behaviour
+with time and season <#\>The conclusion was that humming birds
+foraged for nectar all through the favourable months of summer
+and spring but that as autumn and winter approached the tiny
+birds would forage less in an effort to spin out their ever
+dwindling nectar supplies <#\>The analogy was made with human
+economists attempting to budget their dollars through a
+succession of good and bad years <#\>A great deal of computer
+power had been required to run the analysis and this was back
+in the days of cyber five thousands and punched cards and the
+humming bird energy budget analysis group was fairly bursting
+with pride as their leader presented pretty pictures of their
+findings <#\>All the zoologists in the audience were aghast <#\>I
+pointed out to the speaker that according to his computer
+model if one were to withhold food from the family dog for a
+day one should expect to see the dog foraging less in order to
+spin out the now reduced supply of food <#\>In fact, I proposed,
+you didn't need a computer to be able to predict precisely
+where the dog or the canine would be found: lying beside the
+dog's bowl with his tongue lolling over the side in
+anticipation <#\>The humming bird people didn't quite understand
+<#\>Neither did they understand the first set of field data that
+came in to test the validity of their findings <#\>Humming birds,
+it seems, act less like Wall Street brokers and more like the
+family dog <#\>At the first sign of winter the tiny birds fly
+ever greater distances and forage for a greater proportion of
+each day in search of that vital resource, nectar <#\>It struck
+me then and it seems just as relevant now that all such
+predictive modelling should be carefully screened by that
+carbon-based mega-computer, the human brain, before being run
+on the somewhat more limited silicon imposter <#\>The humming
+bird example highlights, I believe, a serious problem we face
+in being so easily hoodwinked by computers <#\>My Omega computer
+is used for desktop publishing, video graphics and titling,
+for controlling a bank of synthesisers that can generate
+stunning music tracks and of course I wrote this item on it
+<#\>It's a staggeringly impressive machine and it's just a baby
+these days <#\>When I was modelling blood flow through fish gills
+back in nineteen seventy-five, the old cyber five thousand
+took about three hours to run the program and I had to get
+special authorisation to access that much memory <#\>I needed a
+whole thirty K <#\>The Omega can run similar programs in minutes,
+print out the results as coloured contour maps, dump them as
+animations to video tape and accompany itself with a Bach
+fugue if it wants to <#\>An argument that crops up from time to
+time more so in recent years with our increasing awareness of
+animal rights issues is the matter of animal dissection and
+computers are relevant here too <#\>Biologists, myself among
+them, have argued that there is simply no substitute for hands
+on dissection when it comes to learning anatomy <#\>Ah, but you
+can do it all on computers the detractors argue <#\>You can use
+an interactive video disc to work through a series of menus
+that puts you in charge of the dissection <#\>You can go back and
+do the tricky bits again and you won't have to kill any
+animals to do it <#\>Bunkum, I say to that <#\>Pure bunkum
+<#\>The
+reason has to do with teaching budding biologists to get to
+grips with the realities of real animal bodies <#\>No matter how
+elegant the computing, how stunningly realistic the rendering,
+you can't feel the difference between different tissue
+textures on a computer screen <#\>You can't feel the tough walled
+aorta slip over the forceps, or realise the incredible
+fragility of the great veins or the liver <#\>And more than that,
+in real dissections you rapidly learn that the text book
+version and thus the computer simulation may be quite
+misleading for a variety of reasons <#\>Although animal bodies
+are laid out on a remarkably reliable plan there's also
+enormous and unexpected variety in the final positions of
+internal organs <#\>The book, or the simulation, may show
+precisely where the renal arteries branch off the aorta but
+when a hundred rats are dissected in a single lab session it's
+abundantly clear that the text book version is nothing more
+than a kind of weighted average <#\>If you attempted to
+computerise human surgery along the lines of those rows of
+welding computers in a car assembly plant you'd wind up with a
+lot of corpses on your hands because all animal bodies, human
+included, incorporate their own peculiar variability that is
+simply not taken into account by text book or computer artists
+when they attempt to produce a road map of the body <#\>That is
+precisely why students are forbidden to copy text book
+illustrations into their lab books <#\>For many years the
+illustration of the heart and arterial system in the
+University of Melbourne Biology one dissection notes was of a
+northern hemisphere ranidae frog <#\>The students were dissecting
+cane toads <#\>Just by noting how the student drawings
+represented the branching of the major arteries you could
+instantly tell whether they had copied from the lab guide or
+drawn from the real thing <#\>This dilemma becomes even more
+pronounced when researchers puzzle over the workings of the
+living body <#\>The variable in question may be body temperature,
+blood pressure, the level of circulating testosterone or any
+one of millions of possibilities <#\>Physiologists are often
+concerned with regulatory systems and the questions come down
+to a fairly predictable set basically derived by analogy from
+engineering analysis of feed back control systems <#\>Is blood
+pressure actively regulated <#\>If so how <#\>Where are the
+pressure
+senses located <#\>How sensitive is the reflex <#\>And so on
+<#\>If you
+restrict yourself to what seems initially to be a simple
+question such as <quote>is systemic arterial pressure actively
+regulated</quote> you rapidly discover that the flow chart of
+possible control elements is extremely complex <#\>There's a
+compelling tendency for researchers at this point to go for
+broke <#\>Rather than measuring pressure at a single site they
+implant pressure probes all over the place and then run the
+matrix of readings into what else but the computer <#\>The
+computer performs all sorts of lovely multi-factorial analyses
+and generates pretty three dimensional graphs and tables of
+data <#\>At one lab I visited in Sweden the data from each days
+experiments from the entire floor of the building could be
+translated into multicolour overhead projection transparencies
+in time for the pretty pictures to be presented at the four
+thirty daily seminar <#\>But if the simple initial question
+proved illusively difficult to answer, how sensible is it to
+run off into the world of multi-factorial analysis <#\>Your ever
+wise computer will always spew out some pictures but as Dame
+Edna once screeched at her audience <quote>what does it all
+mean</quote> <#\>This question of devaluation is nowhere more
+critical than when it comes to statistics <#\>It has worried me
+for many years that with the advent of inexpensive highly
+portable pocket computers the whole basis of the scientific
+method has come under threat <#\>I'm not being a Luddite on this
+<#\>One highly respected U S physiology journal became so
+concerned at the misuse of statistics that it now routinely
+sends all of its research papers for vetting by a statistical
+referee <#\>When this system was first implemented it was found
+that about eighty percent of the previous years articles, and
+they were already in print and might be read by researchers a
+hundred years down the track, contained serious statistical
+errors <#\>So the statement might read, our data show that at the
+point nought one level of confidence, give or take the fact
+that we might have screwed up the stats, and so on <#\>The
+problem here is that the pocket statistical computer will
+perform an analysis on whatever data are fed to it but it will
+do so mindlessly <#\>It will not, unless you're smart enough to
+program it that way, do the routine checks on the data to see
+whether they're normally distributed, come from randomised
+plots and so on <#\>But unless the data conform to the rules
+appropriate to the particular test being performed then the
+results are just so much garbage <#\>And that is something the
+computer manufacturers never include in their manuals <#\>The
+computerisation of teaching and research needs to be taken
+very cautiously <#\>In a delightful article on the teaching of
+physics in the Education Aid, Professor Richard White deplored
+the system of teaching physics that produces students who can
+gain acceptable, even high, scores in their final year of
+secondary school physics and yet have never really
+internalised the concepts on which they've been examined
+<#\>Some, it seems, despite having passed their exams, were no
+further advanced in their understanding of gravity than the
+crowds who'd watched as, according to legend, Galileo dropped
+a heavy and a light cannon ball from the Leaning Tower of Pisa
+to see which one would hit the ground first <#\>The crowds,
+believing implicitly in the Aristotelian view that a body's
+rate of falling was proportional to its weight, were
+apparently stunned when both cannon balls struck the ground
+together <#\>There are several problems in this matter of
+education by formula <#\>One being that a great many people
+including both high school and university teaching staff
+operate as though science was about nothing other than
+memorising and regurgitating facts <#\>Those people sadly are
+quite wrong and they're commonly among the least inspiring
+members of the teaching profession <#\>Worse than that they've
+probably never actually done science <#\>If they had they would
+know that although a great many facts must be assimilated by
+any scientist, it is imagination and creativity that lead
+scientists to new discoveries and there is precious little, if
+any, attention given to the encouragement of either of those
+in most science curricula <#\>Why is this <#\>One answer is that
+computers have made it possible to streamline the testing of
+students into computer assessable units <#\>That is, in the worst
+case, short answer questions <#\>Such tests can be run in various
+combinations in successive years, upgrading from time to time
+when some really important new discoveries eventually make
+their way through to these book of lists type teachers, and
+they're extremely easy for the computer to assess <#\>I well
+remember my old boss in zoology, Graham Campbell, looking at
+me with astonishment when he'd read my fourth year honours
+book review <#\><quote>I didn't know you could write like
+that</quote> he said <#\>How could he possibly have known whether
+I or a hundred other budding graduate students were potential
+writers or not when the only chance we got to write was in a
+rather terrifying examination hall with a strictly enforced
+time limit <#\>Having now marked thousands of university
+examination booklets myself I'm only too well aware of the
+mind numbing difficulty of marking over a thousand first year
+biology essays in one sitting <#\>The computered short answer
+style never holds more appeal than when that bundle of exam
+papers appears on your desk but I still believe essays give
+far more insight into the workings of the student mind than a
+squillion accurately assessed short answer questions and I
+defy anyone to devise a computer that can mark essays <#\>Come
+to
+think of it, the carbon based computer sitting on our
+shoulders doesn't do such a bad job does it <#\>Think about it</I>
+
+
+<S2B-027b>  <20> 
+
+<I><#\>Yet despite great poverty many Third World countries have a
+commitment to health care which goes beyond our own
+politicians</I>

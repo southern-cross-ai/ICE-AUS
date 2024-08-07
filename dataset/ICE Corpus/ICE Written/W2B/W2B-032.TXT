@@ -1,0 +1,101 @@
+<W2B-032>  <2023>
+
+<I><#\><h><bold>Manufacturer's data on the LM1875 20W audio power amplifier IC</bold></h>
+
+<#\><bold>As used in the amplifier module elsewhere in this issue, the LM1875 IC requires only a few external components to deliver 25W into 8 ohms,</bold><#\><bold>It has quite impressive specifications for its size, as well as in-built thermal & short circuit protection.</bold>
+
+<#\><bold>By Darren Yates</bold>
+
+<p><#\>The LM1875 Audio Amplifier IC from National Semiconductor is now a few years old but it is still one of the most cost-efficient devices available when it comes to simplicity and out<l>put power.</p>
+
+<p><#\>The LM1875 comes in a 5-lead TO-220 package. <#\>The heatsink tab is con<l>nected to the negative supply rail of the amplifier (ie, to pin 3). <#\>However, it must be isolated from the heatsink via a TO-220 insulating kit otherwise earth loops are likely to be a problem. <#\>Inci<l>dentally, <O>diagram</O> <O>caption</O> even if this IC is not driving a load , it must be bolted to a heatsink as the quiescent current of 70mA is enough to cause the thermal protec<l>tion circuitry to switch in (more on that later).</p>
+
+<#\><h><bold>Main features</bold></h>
+
+<p><#\>The main features and specifica<l>tions of the LM1875 are as follows: 
+
+<*>bullet</*> Up to 30W power output into 8 ohms; 
+<*>bullet</*> Typical harmonic distortion of 0.015% @ 1kHz, 20W output; 
+<*>bullet</*> Short circuit protection; 
+<*>bullet</*> Supply voltage range of 20-60V; 
+<*>bullet</*> 94dB supply rejection ratio; 
+<*>bullet</*> In-built thermal protection; 
+<*>bullet</*> Low noise (S/N ratio in excess of 100dB); <*>bullet</*> Open loop gain typically 90dB; 
+<*>bullet</*> 70mA (typical) quiescent current.</p>
+
+<p><#\>The LM1875 can drive either 4<*>ohm symbol</*> or 8<*>ohm symbol</*> loads but it delivers slightly more power into 8<*>ohm symbol</*> loads. <#\>With 4<*>ohm symbol</*> loads, the maximum output power is 20W.</p>
+
+<p><#\>Although the data sheets indicate that the device can deliver a maxi<l>mum output power of 30W into 8<*>ohm symbol</*>, this is at its absolute maximum sup<l>ply voltage of 60V. <#\>With practical power supplies, some allowance must be made for variations in mains volt<l>age and therefore 25W is a more real<l>istic rating.</p>
+
+<#\><h><bold>Single or dual rails</bold></h>
+
+<p><#\>The LM1875 can be operated from dual or single supply rails and the amplifier module project featured in this issue shows both supply arrange<l>ments. <#\>The pinout diagram can be seen in Fig.1.</p>
+
+<p><#\>Fig.2 shows the internal circuit dia<l>gram of the IC. <#\>Two NPN devices, Q35 and Q39, are the output transistors. <#\>If you look closely, the emitter resistor for Q35 is split in half and this split feeds another NPN device, Q36, which monitors the output current on posi<l>tive half cycles of the output signal. <#\>In fact, Q36 and Q37 form part of a "load<?><l></?>line" protection system which shuts down drive to the output stage if the <O>diagram</O> <O>diagram</O> <O>caption</O> loading conditions are excessive.</p>
+
+<p><#\>Fig.3 shows the distortions vs out<l>put power for both 4<*>ohm symbol</*> and 8<*>ohm symbol</*> loads while Fig.4 depicts distortion as a function of frequency. <#\>As you might expect, the device has increased dis<l>tortion at both ends of the audio spec<l>trum.</p>
+
+<#\><h><bold>Power output</bold></h>
+
+<p><#\>Fig.5 shows the expected power output at 1% total harmonic distor<l>tion for supply rails of between <*>plus and minus</*>10V to <*>plus or minus</*>30V (R<sb>L</sb> = 8<*>ohm symbol</*>). <#\>Power supply re<l>jection characteristics vs frequency are shown in Fig.6. <#\>Note the difference between the positive and negative rails, with the negative rail being some <O>diagram</O> 30dB or so worse at 20kHz. <#\>The maxi<l>mum figure of 94dB is relative to a 0<*>ohm symbol</*> signal source resistance, a 4<*>ohm symbol</*> load and at a frequency of 1kHz.</p>
+
+<p><#\>The in-built thermal protection ac<l>tivates when the die temperature reaches 175<*>degree</*>C and shuts down the device, which remains off until the die cools down to 145<*>degree</*>C. <#\>In the case of a continuous load or over-drive problem, if the die rises to 150<*>degree</*>C the device will again shut down. <#\>The beauty of this is that if the fault is a one-off event, the thermal circuitry will allow the die to heat up further than if it is a continuous fault.</p>
+
+<p><#\>Figs.7 & 8 show details on the power output vs power dissipation for 4<*>ohm symbol</*> and 8<*>ohm symbol</*> loads. <#\>Notice how the device dissipation is much higher for 4<*>ohm symbol</*> loads. <#\>In fact, even with a 1<*>degree</*>C/W heat<l>sink, the LM1875's internal thermal shutdown circuitry switches on once the power output reaches 20W. <#\>By this stage, the power dissipation has reached about 32W and the die tem<l>perature has surpassed the 175<*>degree</*>C mark.</p>
+
+<p><#\>With an 8<*>ohm symbol</*> load, the LM1875 will happily deliver 25W continuously without running the risk of thermal shutdown.</p>
+
+<#\><h><bold>Stability</bold></h>
+
+<p><#\>Most power amplifiers don't drive capacitive loads all that well and the LM1875 doesn't either. <#\>Long speaker leads can produce enough capacitance to drive some amplifiers into VHF oscillation. <#\>In this case, the manufac<l>turer's data sheets recommend that you add a Zobel network consisting of a 0,22<*>micro symbol</*>F capacitor and a 1<*>ohm symbol</*> resistor to the output. <#\>This has been included in the amplifier module in this month's issue.</p>
+
+<p><#\>As with most designs, PC board layout is important in minimising the noise and distortion components. <#\>Keeping the input signal away from the supply rails will help keep the distortion low.</p><
+
+<#\><h><bold>Review: Magnet LS-621 2-way loudspeakers</bold></h>
+
+<#\><bold><it>The magnet LS-621 loudspeakers are a compact bass reflex system which will fit well into most lounge rooms.</it></bold>
+
+<p><#\>Magnet will be a loudspeaker brand name new to most Australians. <#\>It is a company based in Thailand which makes loudspeakers designed by en<l>gineers from Holland. <#\>The European link is claimed to give the speakers a natural sound which otherwise might not be there if they had been designed in the East.</p>
+
+<p><#\>The LS-621 system we reviewed is a compact 2-way system based on a 165mm polypropylene woofer and a 25mm tweeter. <#\>The bass reflex enclo<l>sure is wedge-shaped, tapering from the bottom to the top to angle the front baffle in such a way as to give some <O>photo</O> time-correction to the tweeter. <#\>That and the small frontal dimensions of the speaker combine to make it quite unobtrusive in appearance. <#\>Its dimen<l>sions are as follows: 435mm high, 206mm wide, 312mm deep at the base and 275mm deep at the top, with the grille cloth frame. <#\>Actually, the cabi<l>net is also slightly smaller than its measurements suggest. <#\>Inter<l>nal volume is 15 litres.</p>
+
+<p><#\>The enclosure is ported with a tube of 55mm internal diameter and sur<l>prisingly long at 220mm. <#\>That is prob<l>ably part of the reason why the enclo<l>sure is tapered, to allow a long port without making the box too deep over<l>all. <#\>The cabinets are finished in simu<l>lated walnut veneer with a black grille cloth.</p>
+
+<p><#\>We removed the woofer to have a look at the internal details of the en<l>closure and found that, surprise, sur<l>prise, the woofer is not of Asian origin at all but made by Peerless of Den<l>mark, although we don't know the model number. <#\>It is a well-made unit with a large magnet and a neoprene rubber roll surround for the polyprop<l>ylene cone.</p>
+
+<p><#\>And having revealed that the woofer is of European origin, the ferrofluid<?><l></?>cooled 25mm soft dome tweeter is too, made by Philips of Belgium. <#\>The two drivers are coupled together via quite a complex crossover network and this has an air-cored inductor wound with heavy gauge enamelled copper wire and uses wirewound re<l>sistors and a mixture of plastic and non-polarised electrolytic capacitors. <#\>The system is bi-wired so you can drive the tweeter and woofer with separate amplifiers, if you wish.</p>
+
+<#\><h><bold>The enclosure</bold></h>
+
+<p><#\>The enclosure is lined with bonded acetate fibre or a similar material and interestingly, there is an internal sloped shelf which undoubtedly adds to cabinet rigidity but we don't know if it serves any other purpose. <#\>The four terminal posts are deeply recessed in a panel at the rear of the enclosure. <#\>This makes it quite difficult to make wire connections to the terminals un<l>less you have wires fitted with jacks. <#\>The terminal panels are so deeply recessed that the terminal posts do not protrude at all and this means you could set the cabinets right up flush to a wall, if desired.</p>
+
+<p><#\>Frequency response of the enclo<l>sure is quoted as being from 40Hz to 22kHz within 1dB and -6dB. <#\>We do not have access to an anechoic cham<l>ber so we are unable to verify this claim although the response is quite smooth overall. <#\>At the base end there is usable response down to below 45Hz although if pushed hard the woofer does tend to frequency dou<l>ble. <#\>At the high end, the tweeter is a little prominent in the region of 7 <longdash> 8kHz and then tapers off a little above that although it is smooth right to the limits of audibility.</p>
+
+<p><#\>Efficiency is quoted as 87.5dB at 1 watt and 1 metre and the unit is claimed to be suitable for amplifiers rated from 15 watts to 150 watts. <#\>Our impressions were that you would need an amplifier of at least 40 to 50 watts and that anything much over 100 watts on program would be too much. That is backed up by the stated maximum SPL (sound pressure level) of 106dB.</p>
+
+<p><#\>On music, the Magnet LS-621s give good account of themselves although the tweeter seems a little muted for our tastes. <#\>We found that they sound rather better with the grille cloth frames off and we think most people would listen to them this way. <#\>On voice, they sound very natural with<l>out any tendency to chestiness or em<l>phasis of sibilants.</p>
+
+<p><#\>Our overall impression was that they were very satisfying on classical music, especially chamber works, and they give a good account of them<l>selves on jazz material. <#\>If you are a heavy rock fan, you will want bigger guns and it would not be fair to expect them to do the job.</p>
+
+<p><#\>Recommended retail price of the Magnet LS-621s is $1150 a pair and they are available from A-One Elec<l>tronics, 432-434 Kent St, Sydney, NSW 2000 <longdash> phone (02) 267 4819. <#\>A-One has recently fitted out a sound lounge and to introduce the Magnets, they have them on sale at $950 a pair, so get in quickly. (L.D.S.)</p>
+
+<h><#\><bold>Tektronix TDS 320 100MHz digital scope</bold></h>
+
+<p><#\><bold>In the last couple of years, digital scopes have been redefined & presented with an ease of use undreamt of even with analog scopes.</bold> <#\><bold>The Tektronix TDS 320 continues this process, combining a simplified menu of control features with a 500 megasamples/second sampling rate and 100 MHz bandwidth.</bold></p>
+
+<#\><bold>By LEO SIMPSON</bold>
+
+<p><#\>The big challenge to scope manu<l>facturers these days is how to com<l>bine the ever-increasing performance and potential complexity of features in a package that is intuitively easy to use. <#\>No longer do users want to refer to thick manuals to find out how to make a measurement <longdash> they want to do it all simply by pushing some but<l>tons on the front panel.</p>
+
+<p><#\>Over last 18 months or so, we have reviewed a number of digital scopes and they have all had a different ap<l>proach to solving the conflicting re<l>quirements of ease of use and flexibil<l>ity of use.</p>
+
+<p><#\>For its part, Tektronix has chosen yet another approach <longdash> one which makes extensive use of "soft" buttons and pictorial menus.</p>
+
+<h><#\><bold>First impressions</bold></h>
+
+<p><#\>First impressions of the Tektronix TDS 320 scope are that it is quite a bulky unit, but one which is surpris<l>ingly light for its bulk. <#\>Overall dimen<l>sions of the unit, not including its handle, are 325mm wide, 165mm high and 470mm deep, including knobs and rear projections. <#\>Its mass is only 6.8kg which means that it is easily carried with its large handle.</p>
+
+<p><#\>The front panel is uncluttered al<l>though it does carry quite a lot of buttons, when you count them all up; there are 35 buttons and six knobs. <#\>The layout is logical though and you can clearly identify the main knobs for vertical sensitivity and time base. <#\>To the left of the vertical sensitivity knob are buttons to select chan<l>nels 1 and 2 and others which become clear as soon as you press them: Math, Ref 1 and Ref 2. <#\>Math gives you the choice of CH1 + CH2, CH1 <longdash> CH2 and CH2 <longdash> CH1, all selectable via "soft" buttons down the side of the screen.</p>
+
+<p><#\>I should explain that many digital scopes nowadays make use of these "soft" buttons whereby the func<l>tions change depending on what con<l>trol menu is being displayed on the screen. <#\>It actually sounds more com<l>plicated than it is to use and it is a highly practical way of providing lots of features without having huge num<l>bers of buttons.</p></I>
+

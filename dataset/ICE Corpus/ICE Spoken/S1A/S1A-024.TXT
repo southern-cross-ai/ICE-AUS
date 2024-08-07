@@ -1,0 +1,357 @@
+<S1A-024> <2001>
+<I>
+<$A> <#\><{><[>O K</[> 
+<$B> <#\><[>O K</[></{> I'll make this coffee eh
+<$A> <#\>Yep<,,> <#\>It's hard to
+believe <@>forename1</@> 's been there four years
+<$B> <#\>Has she
+<$A> <#\>Working for <@>forename2</@> four years
+<$B> <#\>Mate I couldn't stomach it<,,> <#\>I said yesterday I
+would have killed him <?>after</?> <O>inaudible due to noise</O>
+<$Z> <X><#\><@>forename3</@> <O>2 syll surname</O> <?>room</?></X>
+<$B> <#\>He'll be <{><[>in <?>uhm</?></[> 
+<$A> <#\><[>Uh he's actually</[> </{> he's not that round <#\>He's
+sort of fairly slim<,,> tall
+<$B> <#\>Yeah <#\>Well he'll be in
+later so <{1><[1>certainly<,,> go home and tell him we're</[1>
+<{2><[2><?>coming over to see him</?></[2>
+<$Z> <X><#\><[1><O>4+ syll</O></[1></{1></X>
+<$A> <#\><[2><O>3 syll</O></[2></{2>
+<$Z> <X><#\><O>3+ syll</O></X>
+<$B> <#\><{><[>Who needs some</[> 
+<$Z> <#\><X><[><O>2 syll</O></[></{> <O>indecipherable</O></X>
+<$B> <#\><{><[>O K</[> 
+<$A> <#\><[>Who needs</[> </{> some steroids<,,>
+<O>laugh</O>
+<$B> <O>laugh</O>
+<$A> <#\>Did I put too much milk in
+<$B> <#\>No that's fine<,,> <#\>Yeah as I said about <@>forename2</@> <,,>
+<#\>I couldn't cope with him more than a week<,,> <#\>I think
+he's<,,> <{><[><,></[> <O>1 syll</O><,,> actually quite selfish I
+think<,,> <#\><O>3 syll</O><,> his own his own little life and
+<$A> <#\><[>Yeah</[> </{><,,> <#\>May be just
+<$B> <#\>I mean the way he walked in yesterday and<,,> and had a go at<,> <@>forename1</@> in front of us
+<$A> <#\>Did he have a go at her
+<$B> <#\>Yeah didn't you hear him
+<$A> <#\><{><[>What</[> 
+<$B> <#\><[><O>1 syll name</O></[> </{> said <quote>Oh I knew
+you'd be in here with the <{><[>boys</[> </quote>
+<$A> <#\><[>Oh yeah</[> </{>
+<$B> <#\>I felt like turning around an saying something to him
+<#\>But I couldn't because I had the students there
+<$A> <#\>Yeah
+<$B> <#\>But uhm you know<,,> <#\>I don't like it <#\>As I said
+I mean he might be O K but he's<,,> he's very selfish
+<$A> <#\>No I think the whole<,> whole
+department's a bit<,,> <{><[>pissed off</[>  you know
+<$B> <#\><[>Yeah</[> </{><,,> <#\>They <{1><[1>become very</[1>
+sort of egocentric <{2><[2>don't they</[2>
+<$A> <#\><[1>Everyone exp</[1></{1><,,> <#\><[2>Everyone just</[2></{2> not No-one even says
+<quote>hello</quote> and stuff <#\>That's the amazing thing
+<#\>Not They don't even like talk to you
+<$B> <#\>No no <#\>Well as I said<,,> some people<,> you know
+completely avoided me<,,> since what's happened
+<$A> <#\><O>4 syll</O>
+<$B> <#\>We're just pouring coffee<,,> <O>laugh</O> and stirring
+<{><[>with our pens</[>  
+<$A> <#\><[>with our biro</[> </{><O>laugh</O>
+<$B> <#\>Yeah<,,> <#\>I've got to go to the dentist this
+afternoon
+<$A> <#\>Ooh no<,,>
+<$A> <#\>I <?>feel</?>
+<$B> <#\>Is that someone at
+the door
+<#\>Sorry what were we talking <{><[>about</[> 
+<$A> <#\><[>The dentist</[> </{> 
+<$B> <#\>err the dentist <#\>What have you got fillings<,> <{1><[1><,></[1>
+holes<,> <{2><[2><,></[2> <{3><[3>checkup</[3>
+<$A> <#\><[1>No</[1></{1> <[2>just</[2></{2> <[3>every</[3></{3> every<,> two or three years I go
+for a checkup
+<$B> <#\>Are you scared
+<$A> <#\>No 
+<$B> Frightened
+<$A> I like <#\>He's a good guy actually <#\>He's an old
+dude
+<$B> <#\>Mm <#\><@>forename4</@> tried to convince me last night to go to
+a dentist<,,> <#\>She was saying <quote>Oh he's good<,> he's
+good</quote> <#\>He'd wanna be <#\>They charge like<,,> <{1><[1><,></[1>
+<{2><[2>a wounded bull</[2>
+<$A> <#\><[1><O>1 syll</O></[1></{1> <#\><[2>Well this guy's not
+that bad</[2></{2> <#\>He only charges thirty five bucks
+<$B> <#\>A c<,>onsultation
+<$A> <#\>Mm<,,>
+<$B> <#\>Bet he gets you if he has to do any work<,,>
+<$A> <#\>Yeah but he he's the sort of guy who
+won't do work unless there's work to be done <#\>You know how
+with some<,> they'll give you a fluoride and
+<$B> <#\>Chip your teeth away and then tell you they've gotta cap
+<w>'em</w> <O>both laugh</O><,,>
+<$B> <#\>Prob
+<$A> <#\>Yeah
+<$B> <#\>I saw some <{><[><O>inaudible</O> weekend</[>
+<$A> <#\><[><@>forenameB</@> are you in a</[> </{> <#\>I'm not in a
+health fund <O>1 syll</O> <#\>Oh mate
+<$B> <#\>I am
+<$A> <#\>Are you
+<$B> <#\>Yeah <#\>It costs a fortune
+<$A> <#\>Which one
+<$B> <#\>M B F
+<$A> <#\>How much is it a week
+<$B> <#\>For the two of us it's<,> uh<,,> no it's less than
+fifty<,> it's about<,,> thirty five
+<$A> <#\>Seventy bucks a week's not too bad <#\><O>1 syll</O>
+<$B> <#\>No no thirty five for both of us
+<$A> <#\>Each
+<$B> <#\>No<,,> together
+<$A> <#\>O K so <{><[>seventeen <?>gives</?></[> 
+<$B> <#\><[>Because</[></{> you know <@>forename4</@> does well
+<@>forename4</@> 's company does the advertising for M B F<,,>
+so we get sort of a discount
+<$A> <#\>Yeah I'd <,,> I mean if
+you're relatively fit I don't think you need to get into it
+<$B> <#\>No <{><[><O>3 syll</O></[> 
+<$A> <#\><[>What's your rationale</[> </{> for being in there
+<$B> <#\>Well the rationale is that you know married
+couples<,,> for some reason<,,> <{1><[1><,></[1> <O>1 syll</O> have
+<{2><[2>children</[2> or <?>if anything</?> goes wrong<,,>
+<{3><[3><,></[3> uhm<,> that's the <{4><[4>sort of mentality</[4>
+<$A> <#\><[1>Yeah</[1></{1> <#\><[2>chi</[2></{2> <#\><[3>yeah</[3></{3> <#\><[4>have children</[4></{4>
+<#\>Well I mean you know it you can't<,,>
+prevent these things or with hundred percent certainty anyway
+<$B> <#\>Mm
+<$A> <#\>Seventy five percent <O>inaudible laughs</O>
+<$B> <#\>Well you can hy use a hypothesis test and <O>2 syll</O>
+<$A> <O>laughs</O> <#\>I don't like this thing <#\>I wanna go
+surfing <O>2 syll</O>
+<$B> <#\>well hopefully we'll have the weather for it
+<$A> <#\>good waves yesterday
+<$B> <#\>Yeah big
+<$A> <#\>Mm <#\>No about two three foot on the south side
+<$B> <#\>Barrelling
+<$A> <#\>No wasn't<,> a bit full but <O>3 syll</O> <#\>Pretty
+smooth it was offshore<,> glassy<,,>
+<$B> <#\>Offshore break<,,> <#\>Very nice<,,> <O>both laugh</O>
+<$A> <#\>Well whadda you gonna do
+<$B> <#\>Uh<,,>m<,> got got fair bit of work
+to do <{><[><?>actually</?></[>
+<$A> <#\><[>Yeah I've got about</[></{> I've
+got<,> four<,> three classes of marking to do
+<$B> <#\>Yeah I've got marking for<,> Micro two exam and I gotta
+little batch of marking for foundations <O>2 syll</O><,,>
+<{><[><O>3 syll</O></[>
+<$A> <#\><[>We we taxed so much</[></{> <#\>Oh
+it's a <.>wa</.> it's wicked
+<$B> <#\>I know
+<$A> <#\>I haven't worked out <{><[>exactly <O>inaudible</O></[> 
+<$B> <#\><[>You rarely</[> </{> have one day off a <{><[>week</[>
+<$A> <#\><[>Mm</[></{>
+<$B> <#\>By the time you do your preparation and do all the
+housework<,,> you have one day to yourself free<,,> to do
+whatever you want
+<$A> <#\>Oh I think that's a sham <#\>It's a joke<,,>
+<$B> <#\>Yeah Work six days a week to<,> take one day a week
+<{><[>off</[> 
+<$A> <#\><[>I know</[> </{><,,>
+<$B> <#\>That's sort of what Karl Marx was going on about wasn't
+it
+<$A> <#\>Mm See the midnight oil concerts<,> they've come out
+<$B> <#\>Are they on here<,>
+<$A> <#\>Yeah<,> <#\>I'm gonna go with my brother tomorrow<,,>
+<$B> <#\>Got anything new out<,,>
+<$A> <#\>No my brother did though<,,>
+<$B> <#\>Is it good<,>
+<$A> <#\>I haven't heard it yet<,,>
+<$B> <#\>Do you know what <?>I'm</?><,,> <#\>Well before
+I left to come to work<,> they were on The Today Show and they
+were going to be<,,> <{1><[1>interviewed</[1> on The Today
+<{2><[2>Show <O>3? syll</O></[2> making it big again in America
+<$A> <#\><[1>They play</[1></{1> <#\><[2>They played <O>2 syll</O></[2></{2> <#\>Yeah they
+played in Toronto<,,> and New York <&>the last two words
+accidentally erased after transcription</&>
+<$B> <#\>Did you see <w>'em</w> <O>3 syll</O>
+<$A> <#\>No<,,> <O>2 syll</O><,>
+<$B> <#\><O>2 syll</O><,,> <#\>Yeah I had a friend who <,,> well this friend of mine who was in<,> in Montreal<,,> <#\>He's actually seen <w>'em</w>
+a couple of times <{><[><O>1 syll</O></[>  in Montreal
+<$A> <#\><[>Yeah</[> </{>
+<$B> <#\><O>2 syll</O> they're big in the States and  Canada
+<$A> <#\>Yeah
+<$B> <#\>I mean they're big here too but
+<$A> <#\>The Spies are pretty big in Canada <O>3 syll</O>
+<$B> <#\>Spy Versus Spy
+<$A> <#\>Mm
+<$B> <#\>Really
+<$A> <#\>They've been there two or three times and also<,>
+<$B> <#\>But they're defunct now aren't they <{1><[1><,> </[1>
+<#\>Oh are they still <{2><[2>going</[2>
+<$A> <#\><[1><O>1 syll</O></[1></{1> <#\><[2>Yeah</[2></{2>
+<#\>They got a new drummer
+<$B> <#\>But they're not based here are they
+<$A> <#\>Yeah<,,> <#\>Based in Sydney you know <#\>Yeah They're
+Sydney <{><[>boys</[> 
+<$B> <#\><[><?>Yeah</?></[> </{> I haven't seen <w>'em</w> at all
+<#\><{><[>Yeah I know they</[> were originally
+<$A> <#\><[><O>1 syll</O></[></{><,,> <#\>Yeah they're playing
+on Saturday night<,,> <{><[><,></[> at The Three Weeds
+<$B> <#\><[>Do they</[> </{> <#\>Three
+<?>Reeds</?> <&>from "at" to "Reeds" accidentally erased after transcription</&>
+<$A> <#\>Mm
+<$B> <#\>What is it <#\>The Rose the <{><[>Shamrock and the
+Thistle</[> <,,>
+<$A> <#\><[>Shamrock and the Thistle</[> </{> <#\>Yeah
+<$B> <#\>Which one <#\>The one at<,> Glebe or whe
+oh sorry Rozelle
+<$A> <#\>Rozelle
+<$B> <#\>Yeah <,,> Rozelle
+<$Z> <X><#\><?>Hi</?></X>
+<$B> <#\>Three weeds<,,> <#\>Three weeds in the fountain
+<$A> <#\>Three noxious weeds
+<$B> <O>laughs</O> <#\>Three <w><?>smokin'</?></w> weeds<,,>
+<$A> <#\>Yeah<,,>
+<$B> <#\>So<,,> did you go to any<,> of the honours workshop
+<{><[>talks</[> 
+<$A> <#\><[>No cos</[> </{>I don't know
+<$B> <#\>too busy
+<$A> <#\>I'm gonna go to this afternoon though
+<$B> <#\>For lunch
+<$A> <#\>Yeah I'm gonna go for lunch then I'll go to one or two
+<$B> <#\>What's on for lunch<,> <#\>s Sandwiches <{><[>again</[> 
+<$A> <#\><[><?>Just some</?></[> </{> sandwiches yeah <#\>If they
+wanna provide lunch I'll eat it
+<$B> <#\>Well<,> that's who said there is no free lunches
+<$A> <#\>Supply creates its own demand
+<$B> <#\>That's right <{><[><O>laughs</O></[> 
+<$A> <#\><[>obeys the law</[> </{><,,>
+<$B> <#\>It's a free <O>inaudible</O> isn't it really
+<$A> <#\>Well<,> I think they should give us lunches <#\>I know
+at private schools <{1><[1><,></[1> that if you ever teach at a private
+school <#\>Every Friday they have uh
+<$B> <#\><[1>Yeah</[1></{1><,,> Mm-hm<,> 
+<$A> <#\>No they have their own canteen
+<$B> <#\>Do they
+<$A> <#\>Yep<,,> <#\>And they get lunches
+<$B> <#\>For free<,>
+<$A> <#\>I think it's in <.>pa</.> <.>o</.> <.>pa</.>
+<.>o</.> it's <{><[>part of a package</[> 
+<$B> <#\><[>part of a package</[> </{><,,> <O>both laugh</O>
+<$A> <#\>Yeah<,> which is fair enough
+<$B> <#\>Yeah lots of fringe benefit <#\>Is it taxed<,> as a
+fringe benefit
+<$A> <#\>I don't think it would oh I don't <{><[>know</[>
+<$B> <#\><[>No</[> </{> <{><[>because <O>inaudible</O></[> 
+<$A> <#\><[>I <.>wo</.></[> </{> I won't go
+on record as saying <O>inaudible with laughter</O>
+<$B> <#\>You are on record <O>A laughs</O>
+<$A> <#\>Actually it'll come out as paper<,,>
+<$B> <#\>Yeah <O>laughs</O> <#\>Derrick and Clive
+<$A> <#\>I bought a new C D eh the other day
+<$B> <#\>Mm
+<$A> <#\>Van Morrison
+<$B> <#\>Oh the best seller
+<$A> <#\>No
+<$B> <#\>His new one or old one
+<$A> <#\>No I think it's a eighty nine one <#\>Avalon Sunset
+<$B> <#\><?>Oh yeah</?> <#\>What's it like<,,>
+<$A> <#\>Haven't listen, Haven't had a chance to listen to it yet
+but my friends eh listened to it when I was up at the Gold Coast
+<#\>It's really good
+<$B> <#\>I do that a far bit, buy CDs and not even listen to em for
+weeks and weeks cause <{><[>I don't have the time</[> 
+<$A> <#\><[>Yeah you don't have the time</[></{> , like I don't, I don't like
+putting a C, I don't like listen listening to music for say
+fifteen twenty minutes cause you don't get to appreciate it <#\>I
+like to sort of take time, you know a couple of hours 
+<$B> <#\>Oh the other thing is to that,, you pick the music which
+fits your mood <{><[>its like</[> 
+<$A> <#\><[>yeah</[></{> 
+<$B> <#\>So you may continually play the same piece of music
+<$A> <#\>Crash 
+<$B> <#\>Yeah Crash <#\>Punk
+<$A> <#\>Yes
+<$B> <#\>Disco
+<$A> <#\><O>inaudible</O> disco <O>laughing</O> he'd be playing jive
+wouldn't he
+<$B> <#\><O>inaudible</O> oh yes he's a, Baroque, baroque
+<$A> <#\>Did you end up, going to the Najee sale
+<$B> <#\>I'm going today <{><[>actually</[> 
+<$A> <#\><[>today</[></{> 
+<$B> <#\>I'm gunna go, well <@>forename3</@> 's coming here at midday, take the
+computer home he's giving me a lift home
+<$A> <#\>Oh you're taking your computer home
+<$B> <#\>Yeah, do some work at home
+<$A> <#\>Oh that's good 
+<$B> <#\>Given that Monday's a holiday
+<$A> <#\>You're takin it home just for the weekend or
+<$B> <#\>I think I'll keep it there unless I have to bring it in
+<$A> <#\>Yeah
+<$B> <#\>Umm maybe I might bring it in some time next week, so,
+results or the assessments, but umm yes I'm going on, yeah in the
+afternoon, have a look about
+<$A> <#\>Sort of window shopping
+<$B> <#\>Oh there's some good st, good shirts
+<$A> <#\>Yeah
+<$B> <#\>Cheap shirts and they've got very good sweaters
+<$A> <#\>It's <{><[>hard to get a cheap shirt these days</[> 
+<$B> <#\><[>Jumpers sorry</[></{> sweaters is American what such an ugly word
+<#\>Jumpers
+<$A> <#\>Hard to get a cheap shirt these days 
+<$B> <#\>I know well their all about well, well no this is the Oxford
+Shop one isn't it <#\>But um, um, the green one from Najee was
+twenty nine or thirty
+<$A> <#\>That's that's a bargain
+<$B> <#\>There are some good shirts you should go
+<$A> <#\>That's a bar<O>inaudible</O>
+<$B> <#\>What time are you finishing today
+<$A> <#\>I've gotta go to the dentist this afternoon
+<$B> <#\>Oh that's right,, <#\>Well it's on till Sunday so you should
+have a look
+<$A> <#\>Is it, oh yeah,,
+<$B> <#\>Got suits, good suits
+<$A> <#\>Have they
+<$B> <#\>Yeah
+<$A> <#\>Yeah we nev, we don't need suits though
+<$B> <#\>Not yet
+<$A> <#\>Oh,, flippin heck, I just, yesterday I just didn't want to
+think about it
+<$B> <#\>What suits
+<$A> <#\>No, work
+<$B> <#\>Work, the work situation
+<$A> <#\>Yeah I just,,
+<$B> <#\>Yeah I must admit I went home depressed as well
+<$A> <#\>See I don't know what that job would have been like, but,
+see if you never if you, I would have tried it definitely I
+would've accepted it
+<$B> <#\>Which one
+<$A> <#\>The RPA
+<$B> <#\>Yeah <#\>Oh of course,, <#\>But you may not have liked it after a
+year or two
+<$A> <#\>Yeah but at least at least <{><[>you know then</[> 
+<$B> <#\><[>Doing something</[></{>      <#\>And plus the years experiences is very important
+<$A> <#\>And then you can say stuff them, yep
+<$B> <#\>So I've worked at the RBA <#\>Oh well something is bound to
+come up
+<$A> <#\>I really hope so <#\>I really <#\>Otherwise if I mean I I keep
+saying this but it sounds bad but if nothing came up I'd just,
+go travelling, just say fuck
+<$B> <#\>Well why wouldn't you when you can't go on indefinitely go
+on looking for work
+<$A> <#\>Well yeah I mean 
+<$B> <#\>You might as well do something constructive with it
+<$A> <#\>Yeah 
+<$B> <#\>Cause you're not constructive now being here <O>laughter</O>
+<#\>I mean you get a pay cheque but, big deal <{><[>if it makes you
+miserable</[> 
+<$A> <#\><[>You see it it yeah if you're long term</[></{> <#\>I mean if you're,
+when you know the times up
+<$B> <#\>Your time is up
+<$A> <#\>It's up
+<$B> <#\>Your numbers called up <{><[>you're gone</[> 
+<$A> <#\><[>Sixty two</[></{> <O>laugh</O>
+<$B> <#\>Sixty two your bangers are ready <O>laughter</O> ya googy
+and ya chocky is ready
+<$B> <#\>Ya know when ya gotta go ya gotta go
+<$A> <#\>When Ya gotta go 
+<$B> <#\>Ya gotta go and we've all gotta go
+<$A> <#\>Yeah <@>forename5</@> and I we're talking about it yesterday
+<$B> <#\>How does she feel about <O>inaudible</O>
+<$A> <#\>She's not too I mean she's taking it pretty well</I>
+

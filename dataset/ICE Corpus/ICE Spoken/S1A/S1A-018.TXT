@@ -1,0 +1,330 @@
+<S1A-018> <2001>
+
+<I><$A> <#\>Do you want real coffee <@>forenameB</@> 
+<$B> <#\>Hey
+<$A> <#\>Do you want real coffee
+<$B> <#\>Oh I'm not worried either way <O>inaudible</O>
+<$C> <#\>So we had a lovely time at Leura
+<$B> <#\>Oh did you
+<$C> <#\>We went up <#\><@>Forename1</@> had to photograph a wedding
+at Where the Waters Meet
+<$B> <#\>Oh wow
+<$C> <#\>At Leura <#\>So we stayed there just overnight until
+Sunday and um 
+<$B> <#\>Oh how nice
+<$C> <#\>A girlfriend well she's not really a girlfriend of
+mine she's an acquaintance through work she worked for my
+brother-in-law at the Station Master's Cottage <@>Forename2</@> 
+<$B> <#\>Oh right
+<$C> <#\>for three years
+<$B> <#\>Yeah
+<$C> <#\>She now owns the Autumn View the restaurant at ah
+<$B> <#\>Yep
+<$C> <#\>Do you know where it is
+<$B> <#\>Yep I do
+<$C> <#\><{><[>The Three Sisters</[> 
+<$B> <#\><[>Wow</[></{> 
+<$C> <#\>Gosh it's expensive
+<$B> <#\>Yeah yeah
+<$C> <#\>The prices
+<$B> <#\>Mmm
+<$C> <#\>So we saw <@>Forename2</@> had a cup of coffee with her
+after <O>inaudible 5 words</O> and ah<,> had a guided tour over
+the Paragon to the bar behind the <{><[>restaurant</[> 
+<$B> <#\><[>Oh wow</[></{> 
+<$C> <#\>with <@>Forename3</@> the<,> head waiter there <#\>He said
+that Paul Hogan's reproduced the bar<,> exactly the cocktail
+bar and the lounge it was built in nineteen thirty-four and
+he's reproduced it in his home <O>inaudible 7 words</O>
+<$B> <#\>Oh really
+<$C> <#\><O>inaudible 10 words</O> It's only small <#\>But<,> it was
+good
+<$B> <#\>Wow <#\>Oh it's nice to get away isn't it
+<$C> <#\>So we're going up again on the seventh <#\>We've booked
+into a bed and breakfast there on the Cliffs
+<$B> <#\>Oh wow
+<$C> <#\>Right next to Echos and um
+<$B> <#\>Oh that's nice
+<$C> <#\>That Lilianfels the very <{><[>expensive place</[> 
+<$B> <#\><[>Yep yes</[></{> that's um <@>Forename4</@> gets <@>Forename4</@> 
+<@>Surname4</@> gets free accommodation at Lilianfels
+<$C> <#\>Who
+<$B> <#\><@>Forename4</@> <@>Surname4</@> a friend of ours oh <@>forenameA</@> and
+mine um works at the Park-Hyatt <#\>She's a concierge at the
+Park-Hyatt
+<$C> <#\>Oh right
+<$B> <#\><{><[>And so she gets all these you know she gets</[> 
+<$C> <#\><[>Fantastic</[></{> 
+<$B> <#\>free sort of and breakfasts and everything like in
+these all these five star hotels around Australia <#\>So if she
+wants to travel Australia she can take all her comp <#\>She gets
+<{><[>comp nights</[> 
+<$C> <#\><[>Yeah</[></{> 
+<$B> <#\>And she can stack them up to probably about a month
+worth of comp nights and stay in places like the Marina Mirage
+and
+<$C> <#\><{><[>Oh really</[> 
+<$B> <#\><[>the um</[></{> Park-Hyatt Coolum and places like that
+Regency in Melbourne and things <{><[>like that</[> 
+<$C> <#\><[>Oh wow</[></{> <#\>Lucky girl
+<$B> <#\>So she said if I can get an airfare together we can
+go and have three nights in Melbourne<,,> <#\>Um which would be
+three nights in the lap of luxury <#\>I mean it'd be so nice
+<$A> <#\>Wouldn't it
+<$B> <#\>We could have a room for three and um and
+breakfasts<,,>
+<$A> <#\>Did I pour water in those <#\>No<,,>
+<$B> <#\>I'm going to have to go soon actually
+<$A> <#\>Can't go yet <#\>Oh you have to go and pick up your mum
+don't you
+<$B> <#\>Yeah <#\>Oh right
+<$A> <#\>Where from
+<$B> <#\>Five fifteen the step class is
+<$A> <#\>Yeah but where do you have to pick up your mum from
+<O>laugh</O>
+<$B> <#\>Oh I've got to pick her up from work <O>inaudible</O>
+<#\>I'll have to leave at
+<$A> <#\>Where does she work
+<$B> <#\>Lindfield <,>
+<$C> <#\>Oh <@>forenameA</@> do you know that <@>Forename5</@> 's the Loans
+Manager at the State Bank at Gordon did I tell you
+<$A> <#\>No
+<$C> <#\>I was talking to <O>inaudible 1 word</O> this morning and
+he's looking after Holly and that's where <@>Forename5</@> is
+<$A> <#\>Oh right <#\>Loans Manager
+<$C> <#\>So if you want a loan I might go and ask for a loan
+for a new car
+<$A> <#\>Yeah
+<$C> <#\>That'd be a shock wouldn't it<,,>
+<$A> <#\>Wouldn't that be good<,> having your niece authorise
+a bank loan <O>laugh</O>
+<$C> <#\>Are are you free on Mondays though Monday mornings
+or do you go to uni
+<$B> <#\>Go to uni <#\><{><[>Is that when</[> 
+<$C> <#\><[>Oh what a shame</[></{> 
+<$B> <#\>Is that when the classes are
+<$C> <#\>Yes it's the only one
+<$B> <#\>Oh really
+<$C> <#\>St Ives at ten o'clock
+<$B> <#\>Oh no<,,> <#\>No I'm never free then <#\>I'm always
+sitting
+in in at my law lectures
+<$C> <#\>Oh right<,> <#\>How's it going your first year
+<$B> <#\><O>Sigh</O>
+<$C> <#\>Heavy going
+<$B> <#\>Yes <#\>Hh hm <#\>Yes I'm going to go home and do a
+couple
+of hours work before I go to the gym
+<$A> <#\>Ugh she say <#\>You're Incredible
+<$B> <#\>No I'm not
+<$A> <#\>This girl does so much work
+<$C> <#\>Does she<,,> <#\>Does it come easily though
+<$B> <#\>Um no <#\>Oh no no<,,> <#\>Not really <#\><{><[>I could
+probably
+pass</[> 
+<$C> <#\><[>Are you doing</[></{> Arts Law
+<$B> <#\>Yeah <#\>I could probably pass if I er er
+<$A> <#\>She's been getting High Distinctions and she says
+she'll probably pass
+<$B> <#\><O>laugh</O>
+<$C> <#\><{><[>Oh wow <#\>That's wonderful</[> 
+<$A> <#\><[>She's so modest as well</[></{> 
+<$C> <#\>You're a pretty clever girl aren't you young lady
+<$B> <#\>Oh yes star oh star <#\>I sit there in law tutorial not
+having a clue what's going on but <O>laugh</O>
+<$A> <#\>Rubbish
+<$B> <#\>No I seriously don't <#\>We had law and gender
+yesterday and all the guys basically sat there and said you're
+none of you are feministic enough but y y you they were just
+saying saying that they were the great feminists and and that
+we're all really pathetic basically
+<$C> <#\>Oh
+<$B> <#\>It was just such a turnaround<,,>
+<$C> <#\>Actually did you see that thing last night on Four
+Corners with about feminism <#\>Women in the corporate world um
+<{><[>all about the glass</[> 
+<$?><#\><[><O>inaudible</O></[></{> 
+<$C> <#\>ceiling and
+<$B> <#\>I've got this raving socialist as a tutor as well
+<$A> <#\>From Macquarie <O>laugh</O>
+<$B> <#\>Yeah from Macquarie
+<$C> <#\>Oh of course from Macquarie <#\>What's wrong with a
+raving socialist
+<$B> <#\>Oh it's just that she's very um I just think she's
+so everything she advocates is just so um utopian and and
+idealistic and she doesn't like she says all this stuff and
+then like you you happen to bring up a point about how you
+want to put it into practice like you happen to say <quote>Oh
+that's all very well and good but you know what do you want us
+to do</quote> and she's like <quote> well um um we we really
+don't know but tha tha that's that doesn't stop us from um you
+know basically getting rid of the whole legal system as it
+stands today</quote> and 
+<$C> <#\><O>laugh</O>
+<$B> <#\>And um you know oh she's just she just gets on my
+nerves <#\>And she's really she condemns you if you don't agree
+exactly so I was saying yesterday about pregnancy I was saying
+that you know the whole debate 'cause she was basically saying
+oh it denies women all these choices and and it's <{><[>and you
+sit</[> there and you're painting such
+<$C> <#\><[>What pregnancy</[></{> 
+<$B> <#\>a negative picture of it <#\>I mean you know it's I
+mean some women are genuinely happy to to be in the house <#\>I
+mean <{><[>you know,</[> 
+<$C> <#\><[>To be pregnant</[></{> 
+<$B> <#\>like she was trying to say we need to yeah to be
+pregnant and stuff like that and
+<$C> <#\><O>inaudible 3 words</O>
+<$B> <#\>Yeah that's right <#\>That's what she's yeah <O>laugh</O>
+<#\>Yeah but she was just saying that you know oh um like she was
+trying
+<$C> <#\><@>Forename6</@> 's interested in babies there you are she
+can't be too um<,,>
+<$A> <#\><O>laugh</O> Is she
+<$C> <#\>Yes <#\>She's been thinking about babies a lot lately
+<$A> <#\>How do you know
+<$C> <#\>Come on <#\>Well she told me
+<$A> <#\>You're joking<,,>
+<$C> <#\>Getting clucky
+<$A> <#\>She's only twenty-one
+<$C> <#\>Yeah doesn't stop her from getting clucky <#\>She'll be
+a nice little mother one day <#\>You must meet <@>Forename6</@> you
+haven't met her at all <{><[>have you</[> 
+<$B> <#\><[>Have I</[></{> met her <#\>I don't think I have met her no
+<$A> <#\>Don't think you have no
+<$C> <#\>No you must meet her <#\>Yeah she she is a lovely girl
+<#\>She's more humanistic than anything else don't worry about
+that
+<$B> <#\>What <O>laugh</O> <#\>No it wouldn't bother me at all oh<,>
+<#\>Nothing bothers me when I meet people
+<$C> <#\>No but that that's a nice thing to be
+<$B> <#\>Mmm
+<$A> <#\><O>laugh</O> More humanistic than anything else
+<$B> <#\><{><[><O>inaudible 2/3 words</O></[> 
+<$C> <#\><[><O>inaudible 2/3 words</O></[></{> 
+<$A> <#\>She's talking about <@>Forename6</@> being Socialist
+<$B> <#\>Oh right
+<$A> <#\>But <@>forenameB</@> probably didn't even realise
+<$B> <#\>But I don't mind because <{><[>I mean most</[> 
+<$?>  <#\> <[><O>inaudible</O></[></{> 
+<$B> <#\>of my a lot most of my friends are extremely left
+wing <{><[>at university</[> 
+<$C> <#\><[>Yeah well</[></{> I mean she is but you see the thing is
+she doesn't want to be labelled <#\>I remember<,> last year when
+they wanted her to stand the Left Alliance ticket<,,> and of
+course she ended up getting the chair but<,,> she was very
+concerned about that <#\>She said <quote>Mum I don't want to be
+labelled anything aligned with anybody</quote> <#\>She said
+<quote>This is what I believe</quote> you know 
+<$B> <#\>Mmm
+<$C> <#\><quote>Why do I have to sort of get involved with
+this Left Alliance business</quote> <#\>Well now of course after
+her twelve months' experience she's going to carry on as part
+of the um Student's Council <#\>They're only twenty-one in number
+and 
+<$B> <#\>Mmm
+<$C> <#\>She wouldn't let the let the side down like she said
+<quote>No I have to put in a lot of work because what will
+happen to the Left Alliance if I don't you know it's up to
+me</quote> So you know
+<$B> <#\>Mmm
+<$C> <#\>It's happened now but she originally didn't um want
+to be affiliated strongly with any<,,>
+<$B> <#\>Mmm 
+<$C> <#\>particular area <#\>But there you go<,,>
+<$B> <#\>Mmm <#\>It's um <,,>
+<$C> <#\>But you know that can get confused along the way
+can't it <#\>The the the humanistic side and the ideology you
+know
+<$B> <#\>Mmm <#\>Yeah I just I just find <@>Forename7</@> <@>Surname7</@> 
+a
+bit much to handle sometimes<,> <#\>She's the my tutor <#\>You
+know
+<,,+>
+<$C> <#\>Ooh I've got asparagus tonight <#\>Yum yum<,,+>
+<$A> <#\><O>laugh</O> It doesn't matter
+<$B> <#\>Mmm Oh well <O>laugh</O> <#\>Gee I suppose
+<@>Forename7</@> <@>Surname7</@> compared to my old tutor is something
+<O>laugh</O>
+<$A> <#\><O>laugh</O>
+<$B> <#\>It's really no I mean she was oh she was quite an
+quite an amazing woman <#\>She was about ten tonne <#\>She used
+to
+walk into the class <#\>She never shaved any part of her body
+<$C> <#\><@>Forename6</@> shaves her legs not under her arms
+<$A> <#\>Oh mum we don't want to I'm not interested <#\>Who
+cares
+<$B> <#\>And oh she was just incredible <#\>She just would sit
+there and had this really Canadian accent <O>inaudible 3
+syllables</O> and she'd tick you every time you spoke and I'd
+just sit there like the fear of God <#\>I was so intimidated
+<#\>I
+just didn't <{><[><O>inaudible</O></[> 
+<$A> <#\><[>Yeah</[></{> that's bad when they do that
+<$B> <#\>I have to go <#\><O>inaudible</O>
+<$C> <#\>Well you can go <#\>Are you going to have your coffee
+<#\>Here you are
+<$B> <#\>Oh no I've got I've got one <#\>Thankyou anyway <#\>I
+just
+forgot about mum <#\>Mum will freak<,> <#\>Are you going to work
+now
+<$A> <#\>N Yes <#\><O>laugh</O>
+<$B> <#\>Good girl <#\>So I'll see you at the gym <#\>You'll be
+able to say I've done er a bit of work
+<$A> <#\>Whoa <#\>Yeah I'll only be able to do an hour<,,>
+<$B> <#\>An hour and three quarters
+<$A> <#\>No
+<$C> <#\>Have you seen the aerobics the water aerobics and
+stuff and all that's offering through the ACTS program at
+North Shore
+<$B> <#\>Mm mm
+<$C> <#\>It's very interesting<,,>
+<$B> <#\>You can come if you want <O>laugh</O> <#\>I'll take you to
+the gym with me
+<$A> <#\>I will do an hour's work I think
+<$B> <#\>Will you
+<$A> <#\>Yeah
+<$B> <#\>Okay <#\>You go and do an hour's work I'm gonna go home
+and do an hour's work <#\>Good night
+<$A> <#\>So five fifteen
+<$B> <#\>Five fifteen I shall be there <#\>New Body
+<$A> <#\><{><[>New body look out</[> 
+<$C> <#\><[>So you're all</[></{> fit now are you 
+<$B> <#\>Oohh
+<$C> <#\>Over your um
+<$B> <#\>Oh back the back of my ankle yeah <#\>Well and truly
+but um I'm not all fit unfortunately <O>laugh</O>
+<$A> <#\>Oh I I reckon we are fit
+<$B> <#\>Do you<,,>
+<$A> <#\>Yep <O>inaudible 2 syll</O> <#\>We have to be <O>inaudible</O>
+being two days I thought we'd sort of um like two days oh I
+think it's all right
+<$B> <#\>yeah yeah <#\>Okay <#\>Well bye Mrs <@>surnameC</@> it's been nice
+to
+see you again
+<$C> <#\>Goodbye my dear and well I'm pleased that you're
+pleased to see me <O>laughter</O>
+<$B> <#\><O>laugh</O> I'm very pleased <{><[>to see you</[> 
+<$C> <#\><[>you always have</[></{> such a lovely smile <O>laugh</O>
+<O>inaudible 2 syllables</O> that's nice
+<$B> <#\>Oh my um my mum doesn't think you're quite that nice
+<O>laughing</O>
+<$C> <#\>So you give her a hard time too do you
+<$B> <#\>Oh yeah well and truly <#\>I think the bain of all
+mothers all daughters have been brought up
+<$C> <#\>Just just awful isn't it having to live at home and
+and when you're ready <{><[>to be elsewhere <O>inaudible 10
+syllables?</O></[>
+<$A> <#\><[><@>forenameC</@> it's not she always thinks that I want</[></{> to
+move out of home and its couldn't get further from the truth
+<$C> <#\>Oh no I want her to move out of home
+<$A> <#\><O>laugh</O> Oh that's all right
+<$B> <#\>I've gotta go
+<$A> <#\>Gee thanks
+<$B> <#\>Bye <@>forenameC</@>   <#\>I'll see you see you later
+<$C> <#\>Okay <@>forenameB</@> <,,+> <&>long break while they move to another
+part of the house and say goodbye</&> 
+<$A> <#\>I've just decided that I'm going back to <@>forenameB</@> 's house and
+she's gonna take me to the gym</I>
+
+

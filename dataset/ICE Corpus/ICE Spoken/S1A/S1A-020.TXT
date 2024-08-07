@@ -1,0 +1,434 @@
+<S1A-020> <2004>
+<I> <$A> <#\>This coffee looks like up-chuck
+<$B> <#\>It <{><[>does</[> 
+<$A> <#\><[>I- i- it's just</[></{> <,,> it's seething
+<$B> <#\><O>laugh</O>
+<$A> <#\>l- -ook at it <#\>It's just ugh
+<$B> <#\>It's it's soy-milk isn't <{><[>it</[> 
+<$A> <#\><[>My</[></{> soy-milk coffee's got the runs
+<$B> <#\><O>laugh</O>
+<$A> <#\><O>laugh</O> It's got those little <,> flecks of tomato
+<#\>It's
+leftover <O>laugh</O>
+<$B> <#\><O>laugh</O> <?>go out</?> <O>laugh</O>
+<$A> <#\>Oh <,> <O>3 syl</O> of the coffee <#\>Some caviar with you
+coffee
+<$B> <#\><O>laugh</O> Taste's all right though
+<$A> <#\>Oh yeah I s'pose <,> <#\>It's gross
+<$B> <#\>Just don't look at it
+<$A> <#\><O>laugh</O>
+<$B> <#\>Mm <O>inaud</O> all right there <{><[><O>2 syll</O></[> 
+<$A> <#\><[>Just</[></{> <,,> lay back and think of <,>
+<$B> <#\>England <,> as I always <{><[>do</[> 
+<$A> <#\><[>L</[></{> <O>laugh</O> New Zealand in your case
+<$B> <#\>Mm 
+<$A> <#\><O>laugh</O> <,,> I have this cross-cultural day thing we're
+gonna be doing
+<$B> <#\>Oh dear <,,> <#\>That was Kiwiese <O>laugh</O>
+<$A> <#\>K-Kiwiese <$B> <#\><O>laugh</O>
+<$A> <#\>A
+<$B> <#\><O>laugh</O> Oh dear
+<$A> <#\>So
+<$B> <#\>You think you were boring <O>inaud 2 syll</O> eh
+<$A> <#\>Oh I think I was <#\>It's a bit of a disappointment
+<#\>I'm
+thinking in a long range though <#\>I'm just thinking <,> put a
+bit of spadework in <{><[>and</[> 
+<$B> <#\><[>Mm</[></{> 
+<$A> <#\>leave in peace
+<$B> <#\>Mm
+<$A> <#\>That's a gross sexist term isn't it
+<$B> <#\>Mm <,,> <#\>Isn't she a bit old
+<$A> <#\><,,> No
+<$B> <#\>Isn't she
+<$A> <#\>I think she's older than me <#\>But that doesn't make
+her
+bit old
+<$B> <#\>Mm <,,><#\> <{><[>Oh yeah</[> 
+<$A> <#\><[>Ne</[></{> never stopped <{><[>me before</[> 
+<$B> <#\><[><O>5 syll</O></[></{> Mm
+<$A> <#\>Mm <,,> <#\>She can't be much older than me anyway
+really
+I'd say we're about the same age <#\>She knows <@>Forename1</@> 
+<@>Forename1</@> and I are the same age
+<$B> <#\>Oh that's right
+<$A> <#\>Yeah
+<$B> <#\>I always think he's older than you
+<$A> <#\>No no he's taller than me
+<$B> <#\>He's spunkier than you
+<$A> <#\>Beanpole <#\><{><[>Get stuffed Get stuffed</[> 
+<$B> <#\><[><O>laugh</O></[></{> 
+<$A> <#\>Oh <,,> hypocrisy
+<$B> <#\><O>laugh</O>
+<$A> <#\>Spunkier than you
+<$B> <#\>What's that
+<$A> <#\>Well bonk him then
+<$B> <#\><{><[><O>laugh</O></[> 
+<$A> <#\><[>That's all I can say</[></{> <,,> <#\>God I'm a second best
+now
+<#\>That's <{><[>just crazy</[> 
+<$B> <#\><[>No no</[></{> no <#\>I'm not I'm not bonking him
+<$A> <#\><{><[>No</[> 
+<$B> <#\><[>Not go</[></{> No not going to him I think
+<$A> <#\>Not yet
+<$B> <#\>No
+<$A> <#\>Oh given the opportunity you'd be the first in there
+<$B> <#\>No <{><[>I</[> 
+<$A> <#\><[>Oh</[></{> yes
+<$B> <#\><,,> No <#\>I don't know if <{><[>she'd he'd</[> 
+<$A> <#\><[>If</[></{> if he threw himself all over you <{><[><O>2 syll</O></[> 
+<$B> <#\><[>Oh</[></{> 
+<$A> <#\><{><[>B</[> 
+<$B> <#\><[>Y-</[></{> yeah
+<$A> <#\>I've just split up with <@>Forename2</@> <,,><#\> I'm so sad
+<$B> <#\>Oh <{><[>come and</[> 
+<$A> <#\><[>You say</[></{> 
+<$B> <#\>cry on my shoulder <O>laugh</O>
+<$A> <#\>On your knees little boy
+<$B> <#\><O>laugh</O> No no I'd<,>
+<$A> <#\>Even though if he's on his knees he could prob'ly
+<O>inaud</O>
+<$B> <#\>Get the impression <,,> <O>laugh</O> <#\>Get the impression
+that
+<,,> <{><[>he prob'ly wouldn't be</[> 
+<$A> <#\><[>It's like a nuclear eruption inside my body</[></{> 
+<$B> <#\>interesting <,,> between the sheets
+<$A> <#\>Between the sheets
+<$B> <#\>Yes
+<$A> <#\>Yes <,,> yeah I dunno <#\>Speaking of which c how tell
+me
+more about this <@>Forename3</@> what's her name <@>Forename3</@> 
+<$B> <#\>Oh I saw her
+<$A> <#\>Did you
+<$B> <#\>Yeah when <{><[>I was gonna show you</[> 
+<$A> <#\><[>Oh</[></{> <{><[><O>3 syll</O></[>
+<$B> <#\><[>Oh just back</[></{> <{><[>to uh just</[> 
+<$A> <#\><[>Tell me what she's like</[></{> 
+<$B> <#\>after the lecture <,,> when I was going back to the
+office
+<$A> <#\>Did she say <quote>Who's that spunky tutor you sit next
+to</quote>
+<$B> <#\>No <{><[>no she didn't</[> 
+<$A> <#\><[>I want her body</[></{> No <#\>Oh what a shame
+<$B> <#\>She said <{><[>uhm</[> 
+<$A> <#\><[>Maybe you should</[></{> say <quote>Hey hey look at that
+spunky
+tutor I'm sitting next to down down <,,> in the front
+<{><[>row</[> </quote>
+<$B> <#\><[>Well</[></{> you're gonna spew at me about this but uhm <,,>
+she was actually saying <quote>Oh you know b- the <,,> uhm
+lecturer
+said about tutorials does that mean that uhm <,,> <#\>I can't come
+to yours any more</quote> <#\>Because she had initially enrolled
+<,> in
+a different one but then <,> she dropped German so she could
+come to my one cause that suited her better and so she
+<{><[><O>inaud 3 syll</O></[> 
+<$A> <#\><[>You see I knew</[></{> bloody stupid fuckin' idiot I said to
+him to make it clear that they could change from what they had
+written down <#\>And what he said made it sound like they should
+go back to where they were in the first place
+<$B> <#\>Well <{><[>anyway she was saying to me</[> 
+<$A> <#\><[>Fuckin' <O>inaudible</O> Jesus Chri</[></{> 
+<$B> <#\><quote>Is it OK if I keep coming to yours</quote> and
+I thought <quote>Mm
+do <{><[>I do <@>forenameA</@> a big favour</[> </quote>
+<$A> <#\><[>No no no</[></{> You did <#\>Oh you bitch
+<$B> <#\>I said <{1><[1><quote>No no no you can come to</[1> mine if you <{2><[2>if you that was the most suitable</quote></[2>
+<$A> <#\><[1>fucking You bitch</[1></{1> 
+<#\><[2>No y- you're a horrible</[2></{2> <,> you're a horrible woman
+<$B> <#\><O>chuckle</O>
+<$A> <#\>You take oh you just <,,> depriving me <,,> at all
+levels
+<$B> <#\>Oh no no no no no
+<$A> <#\>Oh yes
+<$B> <#\>No I'm not the one that's depriving you <,,>
+<#\><@>forename3</@> <,>is the one that's depriving you
+<$A> <#\>She's not depriving me of anything<,>
+<$B> <#\>Well<,,> so you're getting it more than a- once or twice
+a week
+<$A> <#\>Oh no no <O>laugh</O> we've only bonked once <O>laugh</O> <,,>
+ever
+<$B> <#\>Ever
+<$A> <#\>Yeah <#\>Problem of timing this week
+<$B> <#\>Oh right was that only last week that she came over for
+dinner
+<$A> <#\>Hmm<,,>
+<$B> <#\>Mm <,,>
+<$A> <#\>Dinner
+<$B> <#\>Mm
+<$A> <#\>I asked her about that
+<$B> <#\>Dinner in inverted commas
+<$A> <#\>Mm
+<$A> <#\>But she was talking about you and I
+<$B> <#\>Mm
+<$A> <#\>And having heard about you and I <{><[>uh</[> 
+<$B> <#\><[>This is</[></{> being recorded
+<$A> <#\>And uhm I know so what
+<$B> <#\><O>laugh</O> anyway
+<$A> <#\>Oh at the moment <,> this tape recorder thinks you're
+bonking <@>Forename5</@> <@>surname5</@> <O>laugh</O>
+<$B> <#\><O>laugh</O> Ooh <{><[>ugh</[> 
+<$A> <#\><[><O>laugh</O></[></{> <,,> Oh vomit what a disgusting <{><[>thought</[> It
+<$B> <#\><[><O>laugh</O></[></{> 
+<$A> <#\>It means gutter <,,> <#\>That's Dutch 
+<$B> <#\>It means gutter <O>laugh</O>
+<$A> <#\>Uhm <,,> <#\>The entire department's prob'ly downstairs
+listening <O>laugh</O>
+<$B> <#\><O>laugh</O>
+<$A> <#\>Hi <@>Forename5</@> 
+<$B> <#\><O>laugh</O>
+<$A> <#\>Take me out <#\><{><[>Uhm</[> 
+<$B> <#\><[>I knew it </[></{>
+<$A> <#\><O>laugh</O> <@>Forename6</@> wah
+<$B> <#\><O>laugh</O> Oh he came up to my office <,> our office sorry
+<$A> <#\>Thank you
+<$B> <#\>looking for you <,,> <#\>Just <,> just sitting there at
+the
+desk reading and he just opened <{><[>the door into</[> 
+<$A> <#\><[>Today</[></{>
+<$B> <#\>and said <,> <#\>Yeah at lunchtime <,,> <#\>He opened
+the door
+<,,> and said <quote>Where is he</quote> <,,> <#\>I said better
+turn the
+bloody tape round <O>laugh</O>
+<$A> <#\><O>laugh</O>
+<$B> <#\>Uhm said <quote>Oh <,> having coffee having
+lunch</quote> <#\>And then
+<$A> <#\>with <@>Forename7</@> 
+<$B> <#\>Oh well I said with a friend <,,> <#\>Uhm where was I
+going
+with that
+<$A> <#\>I dunno <#\>I we were discussing my sex life I think <,>
+at
+some stage
+<$B> <#\>And then you were <,> talking about <@>Forename6</@> <#\>Oh
+yeah
+yeah and <,> uhm he told me that you had some major drama
+getting here this morning <,,> just to get off the track of
+your sex life <{><[>for a second</[> 
+<$A> <#\><[>Oh he must</[></{> have spoken to <@>Forename8</@> 
+<$B> <#\>Yeah what happened
+<$A> <#\>Because <,> I went to get a lift from her <#\>And I
+haven't
+spoken to her since <#\>And she's in <O>inaud 2 syll</O> <,,><#\> So
+I
+had to go back home <,,> and quickly rush to uni and I made it
+at five past <#\>Which suit me 'cause I wanna come in late so
+they could <,> they could choose the power seat for me
+<$B> <#\>Yes
+<$A> <#\>Which it's amazing how they did it <#\>It was <,> you
+know
+the long room <,,> <#\><{><[>It was</[> 
+<$B> <#\><[><O>inaud 1 syll</O></[></{> 
+<$A> <#\><,> Well there was a gap in the in the square in the
+rectangle of tables
+<$B> <#\>Yeah
+<$A> <#\>at on on the <,,> blackboard end of two oh two
+<$B> <#\>Yeah yeah
+<$A> <#\>at <{><[><,></[> 
+<$B> <#\><[>That's</[></{> 
+<$A> <#\>the window end as well
+<$B> <#\>Oh <{><[>right</[> 
+<$A> <#\><[>There's a</[></{> gap there
+<$B> <#\>Yeah
+<$A> <#\>And I sat <,,> on the short end <{><[><,></[> 
+<$B> <#\><[>Yeah</[></{> 
+<$A> <#\>at the end of the short end <{><[>with</[> 
+<$B> <#\><[>Yeah</[></{> 
+<$A> <#\>no-one in front of me <#\>So I had <,,> like they'd left
+me
+there was only one seat left and they left me that position
+<,,> <#\>It's bizarre <#\>It was<{><[>exactly</[> 
+<$B> <#\><[>Yeah</[></{> 
+<$A> <#\>as <@>Forename9</@> <{><[>had predicted</[> 
+<$B> <#\><[>Yeah</[></{> well they'd left me <,> like <,> oh basically
+the
+one I turned up to late was uhm <,,> oh one of the ones with
+not many people <#\><{><[>Be about</[> 
+<$A> <#\><[>Mm</[></{> 
+<$B> <#\>fourteen people or something or other
+<$A> <#\>It was fuckin' <{><[>incredible</[> 
+<$B> <#\><[>So</[></{> they'd left me that whole row in front of the
+blackboard
+<$A> <#\>Yeah
+<$B> <#\>And I walked in <,,> and I <,> you know <,><{><[>took my
+dia in there</[> 
+<$A> <#\><[>Y- I noticed yeah I saw it yeah</[></{> 
+<$B> <#\>Yeah <#\>And I said who wants to come and sit next to
+me
+<$A> <#\><O>laugh</O>
+<$B> <#\>That was the first thing I <{><[>said</[> 
+<$A> <#\><[>and they went</[></{> 
+<$B> <#\>Yeah <{><[>and they all</[> 
+<$A> <#\><[>fuck we will</[></{>
+<$B> <#\>just went <{><[>wooh</[> 
+<$A> <#\><[>you're a</[></{> you're a tutor <#\>Bugger off
+<$B> <#\>And I said <quote>No come on I've had a shower this
+morning <{><[>somebody come and</[> sit next to me</quote> 
+<$A> <#\><[><O>laugh</O></[></{> 
+<$B> <#\>Yeah and they didn't
+<$A> <#\>And little <@>Forename10</@> came said <quote>Hi</quote>
+<$B> <#\>No it wasn't Monday <{><[>unfortunately</[>
+<$A> <#\><[>Oh big <@>Forename10</@> </[></{> sorry
+<$B> <#\>Yes big <@>Forename10</@> 
+<$A> <#\>As opposed to big <@>Forename11</@> 
+<$B> <#\>Oh oh well big <@>Forename10</@> is tall but he's not <,>
+big
+<,> 
+<$A> <#\>Mm
+<$B> <#\>big big <@>Forename11</@>
+<$A> <#\>Like <@>Forename11</@> <,,> <#\>God I strike out on all
+three
+categories really <,,> <#\>That's what we were discussing the
+fact that you're depriving me of my sex life
+<$B> <#\>Now why am I depriving you of sex life <,,> <#\>She
+prob'ly
+wouldn't sleep with you anyway
+<$A> <#\>No but it's not the point
+<$B> <#\>What's the point <,,> <#\>How am I depriving <{><[>you</[> 
+<$A> <#\><[>I don't know</[></{> <,,> <#\>I'm not quite sure I think I'm
+not
+arguing that case very well <O>laugh</O>
+<$B> <#\><{><[>No</[> 
+<$A> <#\><[>I think I'll</[></{> back out of that <{><[>for the moment</[> 
+<$B> <#\><[>I think you're</[></{> fucked
+<$A> <#\><O>laugh</O> Yeah well not <,> as the case may be
+<$B> <#\>Mm <#\>Mm
+<$A> <#\>Yes <,,> <#\>Mm
+<$B> <#\>Can't finish that
+<$A> <#\>No <,,> <#\>I think the soy milk is <,,> one of the most
+offen offensive substances known to man
+<$B> <#\>Taste like the
+<$A> <#\><O>inaud 3 syll</O>
+<$B> <#\><,,> Thank you <,,> <#\>Tastes like the <,,> satay stuff
+<{><[>down at</[> 
+<$A> <#\><[>Isn't that the</[></{> goat's scrotum
+<$B> <#\>Well I <,,> actually last time I tasted the inside of
+a
+goat's scrotum
+<$A> <#\><O>animal noise</O> Maa <,,> <O>animal noise</O> Maa <,,>
+<$B> <#\>I thought
+<$A> <#\><O>animal noise</O> Maa
+<$B> <#\>that tastes like the satay sauce
+<$A> <#\><O>laugh</O>
+<$B> <#\><O>laugh</O>
+<$A> <#\>Ah you're gross <#\>You are gross
+<$B> <#\>I know 
+<$A> <#\>And disgusting
+<$B> <#\>Renowned for my grossness
+<$A> <#\>Oh dear if they're making a database out of this we're
+in
+big I mean like <,,> the English speaking world's in big
+trouble
+<$B> <#\><O>laugh</O>
+<$A> <#\>Illawarra speak
+<$B> <#\>Oh
+<$A> <#\>Dubbo speak
+<$B> <#\>Fuckin Illawarra speak
+<$A> <#\>Should have got <@>Forename11</@> <@>Forename11</@> along to do
+his impressions
+<$B> <#\>Who
+<$A> <#\><@>Forename11</@> does <#\>He's really good at impressions
+<$B> <#\>Oh of the Marrickville people
+<$A> <#\>No <,,> of <,,> of of people who live in Yonda-fuckin-mo
+<$B> <#\><O>laugh</O> Oh well I quite liked his impression of the <,,>
+Marrickville people <quote>Drop a donkey then</quote>
+<{><[><O>laugh</O></[> 
+<$A> <#\><quote> <[>Drop a don</[></{></quote> Yeah and look at that <O>inaud 3
+syllables</O> Gemini with with <{><[><O>inaud 7 syll</O></[> 
+<$B> <#\><[>hotted up wheels</[></{> 
+<$A> <#\>'s got
+<$B> <#\>'s got
+<$A> <#\>'s got mags all o- I <{><[>I wonder if I could put</[> 
+<$B> <#\><[>Yeah</[></{> 
+<$A> <#\><quote>mags on a Gemini</quote> <O>laugh</O> <#\>It's quite accurate
+I<O>laugh</O>
+<$B> <#\><{><[>yeah yeah yeah <O>inaud 3 syllables</O></[> 
+<$A> <#\><[>Remembering from my</[></{> youthful days
+<$B> <#\>Don't know
+<$A> <#\>Yes <,,> <#\>So you reckon they were successful this
+week's
+little <,,> escapades
+<$B> <#\>Do I reckon you were <{><[>successful</[> 
+<$A> <#\><[>Yours not</[> </{>me
+<$B> <#\>Oh <,,> <{><[>sc- me how would I kn-</[> 
+<$A> <#\><[>I'm not talking about</[></{> it <{><[><,,>your sex life</[> 
+<$B> <#\><[>how would I know about</[></{> <{><[>wha-</[> 
+<$A> <#\><[>What are ya'</[></{> talkin' 'bout <#\>I'm talkin' about your
+tutorials
+<$B> <#\><,,> Uhm <,> yeah <,> yeah I think definitely Monday
+morning <,,> is a success <#\><,,> I just have to <O>inaud 4
+syllables</O>
+<$A> <#\>Yeah
+<$B> <#\><,,> Uhm <,,> <#\>Yeah Monday afternoon I mean it wasn't
+<,,> a failure <,> as such
+<$A> <#\>As such per se
+<$B> <#\>Per se <#\>Uhm
+<$A> <#\>Et al
+<$B> <#\>That's E T E L
+<$A> <#\><O>laugh</O> Boofhead
+<$B> <#\>It it just ha- 'bou- just too many Economics students
+in
+there <#\>And
+<$A> <#\>I'd say that's one of the major problems of the world
+in
+general these days
+<$B> <#\>too many economics heads <{><[>Yeah</[> 
+<$A> <#\><[>Yeah</[></{>
+<$B> <#\>Uhm
+<$A> <#\>My class is <,,> sixty seventy percent
+<$B> <#\>Mm
+<$A> <#\>Only all the boys who sit in their corner
+<$B> <#\>Mm
+<$A> <#\>I have t- I really feel terrible 'bout splitting the
+girls up because I doubt they really wanna sit next to these
+boofheads but <,,> ya gonna have to do it
+<$B> <#\>Yeah <{><[>yeah</[> 
+<$A> <#\><[>Just to</[></{> stop them <{><[>thinking as a group</[>
+<$B> <#\><[><,,> Actually</[></{> <,,> my Wednesday afternoon one was
+good
+because there were heaps of uhm Mass Comm students in there
+<$A> <#\>Bit of a shock <#\>God I'm so glad I'm <,,> so pissed
+off I
+lost that toss <,,> <#\><O>inaudible 2 syll</O> pissin' fuckin'
+<O>inaudible 2 syll</O>  <{><[><O>inaudible</O></[> 
+<$B> <#\><[>Sucko</[></{> matey boy <O>laugh</O> <#\>I was considering
+actually
+when I won that toss taking the Thursday morning one because I
+thought you <{><[>know <O>inaudible</O></[> 
+<$A> <#\><[>Yeah don't rub it in thanks</[></{> 
+<$B> <#\>get my routine going with you know getting up early in
+the morning
+<$A> <#\>Yes I could have continued my routine and not waking
+till
+m- midday
+<$B> <#\>Yes <,,> <#\>But uhm
+<$A> <#\>But it's convenient to get all that stuff done on a
+Thursday though for me <#\>And <{><[>then</[> 
+<$B> <#\><[>Yeah</[></{> 
+<$A> <#\>have my contact hours <{><[>up</[> 
+<$B> <#\><[>Yeah</[></{> 
+<$A> <#\>up to the tute
+<$B> <#\>Get it all over <{><[>and done with</[> 
+<$A> <#\><[>Before the lecture</[></{> <,,> <#\>The lecture's a shambles
+<$B> <#\>Mm
+<$A> <#\>Those lectures
+<$B> <#\>Oh today's was a classic <,,> <#\>A classic in what not
+to
+do <,,> if you're trying to inspire people to do <,,> politics
+beyond <,,> the introductory stuff
+<$A> <#\>I know <,> <#\>They're all going to leave
+<$B> <#\>Mm <,,> I know <,,> <#\>But I really feel like saying
+to
+him<,,> <#\>You know you're such a good speaker
+<$A> <#\>Maybe we should
+<$B> <#\>I'm not going to
+<$A> <#\>Yeah I know <,> <#\>Neither am I
+<$B> <#\>Yeah
+<$A> <#\>But I mean he is <#\>If we get together <,> that'd be
+the
+only way I'd do it <,,> <#\>'Cause he is such a good speaker but
+<O>inaud 8 syll</O></I>
+
+

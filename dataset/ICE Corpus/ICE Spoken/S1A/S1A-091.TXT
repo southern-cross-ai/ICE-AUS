@@ -1,0 +1,314 @@
+<S1A-091> <2003>
+<&>DISTANCED CONVERSATION</&>
+
+<I><$A> <#\>No <#\>Yeah it might be that <#\>What's some more
+<$B> <#\>Have a look it's right next to you isn't it
+<$A> <#\>No I'm in my my bedroom
+<$B> <#\>Oh right okay
+<$A> <#\>Uh, I think it might be that <#\>Uh yeah yeah it's
+Maxwell House but I don't think it's very good
+<$B> <#\>What do you mean you stole her coffee anyway
+<$A> <#\>Oh well she's got Mocona so I just used that
+<$B> <#\>Ah wow what a crime
+<$AB> <#\><O>laugh</O>
+<$A> <#\>Well
+<$B> <#\>How much did you use <#\>A whole teaspoon
+<$A> <#\><O>laugh</O> Half a teaspoon <#\>No, a teaspoon
+<$B> <#\>You felt too guilty half way through
+<$A> <#\><O>laugh</O> No but, I, <@>forename1</@> is a big coffee drinker and
+she tried that Maxwell House stuff and said <quote>err it's
+too bitter</quote> or something, too sour <#\>She won't drink it
+now and then ever since she said that, I don't like it either
+'cause I can taste what she means, sort of thing
+<$B> <#\>But you don't drink coffee anyway really
+<$A> <#\>I do <#\>I drink a lot at work
+<$B> <#\>Oh doesn't matter I drink it, it's slowly
+disappearing
+<$A> <#\>Yeah it is
+<$B> <#\>What is it, a kilo or something
+<$A> <#\>I I don't know, it's huge <#\>Would it be measured in
+kilos <#\>Like in a
+<$B> <#\>Well things are measured in grams so it might be
+measured a thousand grams but
+<$A> <#\>Right
+<$B> <#\>I, it'd have to be at least a kilo
+<$A> <#\>Oh listen I was gonna ask you, um in the book shop
+today, which I was, I was waiting for the bus, I wasn't being
+naughty
+<$B> <#\><O>laugh</O> You were waiting for the bus in the bookshop
+which is nowhere near the bus stop
+<$A> <#\><O>laugh</O> Um, I saw David Eddings volume one, Domes of
+Fire
+<$B> <#\>Yeah, so
+<$A> <#\>Oh <#\>Well I thought that was the one you were looking
+for
+<$B> <#\>No
+<$A> <#\>Oh, is that a new one
+<$B> <#\>Err, yeah, I guess so
+<$A> <#\>It's on the, it's on the top ten list
+<$B> <#\>Yeah I know, he's written thousands of books I'm
+nowhere near getting to reading that
+<$A> <#\>Right, and are they good <#\>Like will you read that
+one day
+<$B> <#\>Ohh
+<$A> <#\>Is he an author that you
+<$B> <#\>I don't know
+<$A> <#\>read everything <O>laugh</O>
+<$B> <#\>No it's fine, um, <,> um I don't know if I will
+I mean I don't don't think I really liked it, oh no I did like
+him sorry but 
+<$A> <#\><{><[><O>inaudible 2 words</O></[> 
+<$B> <#\><[>now that</[> </{>I haven't read him for a while I don't
+<$A> <#\>Yeah
+<$B> <#\>It's gonna take a bit of an effort to get back into
+it
+<$A> <#\>You know how I was reading Trixie Belden, I took it
+to work <O>laugh</O> <O>inaudible 3 words</O>
+<$B> <#\>Did everyone laugh, or did you hide it on <{><[>the
+train</[> 
+<$A> <#\><[>No, I</[></{> just thought I won't, I won't hide it, and
+then one girl, the only two that noticed, and laughed,
+happened to be old fans of Trixie Belden so it was alright
+<#\>Like the rest had no idea who it was so they didn't react
+<#\>They didn't know it was a children's book <#\>But the two
+that
+noticed said, <quote>Oh Trixie Belden Oh Oh</quote> and then
+they all raved about how they used to read it, how that the
+one girl had the whole set and everything so, it just turned
+out to be alright, like I wasn't embarrassed <#\>I thought I'd
+be
+really embarrassed <#\>Because they were old fans they sort of
+knew <O>laugh</O> <#\>They understood a little bit
+<$B> <#\>Yeah, sure <#\>I mean I've never read Trixie Belden
+<$A> <#\><{><[>Ah</[> 
+<$B> <#\><[>but I mean</[></{> I was born mature
+<$A> <#\>I knew this girl, yeah right <#\>I knew this girl um,
+she didn't live that far away from me, and she had the whole
+set, and ohh I used to go over there and I'd read one one day
+and the next day I'd
+<$B> <#\>Hang on a sec
+<$A> <#\>go back and 
+<$B> <#\>Hang on a second, I just got attacked by a moth that
+went down my shirt
+<$A> <#\><O>laugh</O>
+<$B> <#\>That wasn't a moth, it was one of those beetles
+<$A> <#\>If I vacuum my room, do you think I'll get rid of
+the fleas
+<$B> <#\>Oh there it is, nah
+<$A> <#\>How do you get rid of fleas
+<$B> <#\>You bomb 'em
+<$A> <#\>Oh I'm not gonna do that <#\>The dog would die
+<$B> <#\>Ah, it's on the ground
+<$A> <#\>We'll have to leave the house for six hours or
+something <,>
+<$B> <#\>I can't see it <#\>There's a spider going with
+something <#\>Wow we've got insects all over this place <,>
+<#\>Well I mean you've got fleas, we've got insects, um
+<$A> <#\>and
+<$B> <#\>You do have to bomb 'em <#\>That's what we did and
+<$A> <#\>their
+<$B> <#\>Like we did it every year and then finally worked,
+one year
+<$A> <#\>I thought they'd just go away
+<$AB> <#\><O>laugh</O>
+<$A> <#\>They <{><[>do</[> 
+<$B> <#\><[>No</[></{> they don't just sort of get up and leave
+<$A> <#\>Oh no
+<$B> <#\>Pack their bags and go
+<$A> <#\><O>laugh</O> 
+<$B> <#\>They stick around
+<$A> <#\>I thought they just died after a while or like you
+kill them
+<$B> <#\>Well they're only a summer infe infestation, but I
+mean
+<$A> <#\>Yeah
+<$B> <#\>I think ah because of the fact we got 'em every
+summer for so many years I er imagine they sort of hibernated
+during winter but were always there
+<$A> <#\>'Cause the bad thing is those flea bombs cost heaps,
+and they, this house, you'd have to put one practically in
+every room and they only
+<$B> <#\>Plus that, oh I suppose they do when you gotta do
+five rooms or something
+<$A> <#\>To do with, yeah, for me they do <#\>I've gotta do my
+bedroom definitely, the hallway, the lounge and that other
+room probably <,>
+<$B> <#\>Then it's not a sure thing <#\>Move
+<$A> <#\><O>laugh</O> No <#\>Actually the lease runs out in two days
+<$B> <#\>So when, your dog doesn't have fleas now
+<$A> <#\>No the dog doesn't but my room does
+<$B> <#\>How do you know
+<$A> <#\>I sit there and they keep jumping on me
+<$B> <#\>Oh that's pretty bad <#\>That's what we happened to us
+we had to get, we had to bomb 'em
+<$A> <#\><O>laugh</O> I I probably will have to <#\>I'll have to go
+back to work and earn some money
+<$B> <#\>Well vacuum 'em and see what happens <#\>I mean try all
+the things <{><[>that</[> 
+<$A> <#\><[>Yeah</[></{> 
+<$B> <#\>everyone tries <{><[>and</[> 
+<$A> <#\><[>Yeah</[> </{>
+<$B> <#\>you probably get flea powder for carpets or
+whatever
+<$A> <#\>Well I washed the um, blankets, hit the pillows
+today as I said <#\>The blankets are all clean and the dog's put
+<O>laugh and inaudible 3 words</O> my room <#\>They don't attack
+<$B> <#\>I'm not sure but I think I might have seen a flea on
+the dog
+<$A> <#\>Oh no
+<$B> <#\>Saw some <{><[>something</[> 
+<$A> <#\><[>Actually</[></{> I saw a really small one, you know on
+her nose where they c could go but, like she just didn't seem
+bothered by it
+<$B> <#\><O>laugh</O> So you let it go
+<$A> <#\>Oh well I couldn't reach it <#\>She was annoyed at me
+touching her
+<$B> <#\>Mmm
+<$A> <#\>Anyway <,> <O>sigh</O>
+<$B> <#\>Enough about fleas <,>
+<$A> <#\>Oh I I read about, oh no okay enough about fleas
+Sorry
+<$B> <#\>It's alright <,><#\> So tell me about your Aunt
+<@>forename2</@> 
+<$A> <#\>Oh it just sounds so weird, I'm not used to
+referring to her like that <#\>She's supposed, I think she wrote
+me a letter and said, I think she's gonna be in Sydney on the
+twenty-seventh of November so, that's reasonably good if she's
+there tomorrow <,> 
+<$B> <#\>Yeah
+<$A> <#\>It's the twenty-sixth tomorrow, so
+<$B> <#\>And what, she gonna stick around your family for a
+whole month
+<$A> <#\>No she's staying with <@>forename3</@> who's a distant relative
+who I don't really know and I think I've met once <#\>I don't
+know how she's related to us <#\>She <O>inaudible 1 word</O> to stay
+with her for a while and I think maybe come to us at Christmas
+but I'm not really sure like <O>inaudible 1 word</O> about she's
+spending more time with <#\>She's just been at <,> at um
+<,> Perth or somewhere, <,> somewhere really odd, I
+don't know
+<$B> <#\>Perth <O>laugh</O>
+<$A> <#\>Yeah well
+<$B> <#\><O>laugh</O> Oh really odd <#\>You know
+<$A> <#\>No no but it's odd see 'cause I can't think why
+she'd go to Perth <#\>Unless there's relatives there
+<$B> <#\>Oh I suppose that is odd <#\>Sort of like someone going
+to Canberra on holiday
+<$A> <#\>And everyone lives in Sydney yeah
+<$B> <#\>No, er just Canberra
+<$A> <#\><O>laugh</O> So anyway, if she spends Christmas with us I
+wouldn't mind, but I've gotta ask mum what we're doing for
+Christmas <#\>What I was gonna do was say <quote>What are we
+doing for Christmas</quote> and then if mum said <quote>Oh
+you've gotta spend it with us</quote>, I was gonna say
+<quote>Well I was gonna to spend it with you but now that
+you've tried to force me, I think I'll spend it with
+<@>forenameA</@> </quote> <O>laugh</O> <#\>Like that
+<$B> <#\>Yeah
+<$A> <#\>But then I thought oh Auntie <@>forename4</@> 's gonna be there,
+so maybe I would prefer to spend Christmas with her <O>laugh</O>
+<#\>So I don't know, I'm gonna ring her up and ask
+<$B> <#\>Where does your Christmas, does it usually happen up
+at their place and um
+<$A> <#\>Yeah 
+<$B> <#\>you get, do you get all the aunts
+<$A> <#\>Yeah
+<$B> <#\>going over
+<$A> <#\>Children and
+<$B> <#\>Brats
+<$A> <#\>Just like the other day on that table, everything
+all set out <#\>Probably a bit more formal, more food, <,>
+more stress
+<$B> <#\>Yeah I sort of know what you meant
+<$A> <#\>Yeah <#\>No balloons <,>
+<$B> <#\>Oh shh,
+<$A> <#\>What
+<$B> <#\>Bloody beetle keeps dropping on me or dropping near
+me that time
+<$A> <#\>Mmm those beetles are terrible
+<$B> <#\>Don't know where he went <,> <#\>He sort of landed
+right near my coffee or he went down near my coffee and I'm
+just, he's not in it but
+<$A> <#\><O>laugh</O>
+<$B> <#\>I hope
+<$A> <#\>How do you know <O>laugh</O>
+<$B> <#\>'Cause I assume beetles float <#\><,> Oh well I
+mean, it doesn't really matter until the end of the coffee
+does it
+<$A> <#\>No
+<$B> <#\>And you don't usually drink the last little bit so
+<$A> <#\>Extra flavour
+<$B> <#\><{><[>It's fine</[> 
+<$A> <#\><[>Actually</[></{> I don't drink that last little bit
+<$B> <#\>No I do actually because I drink black coffee it
+doesn't matter
+<$A> <#\>It goes a bit cold and yucky at the bottom
+<$B> <#\>Yeah well, yeah I mean you don't leave one last
+little sip, you leave a big gulp
+<$A> <#\>Oh yeah
+<$B> <#\>So there's a bit of heat left in it
+<$A> <#\><O>laugh</O> 
+<$B> <#\>If you miss-time it, you don't drink it <,> <#\>Or
+you, no actually what happens is you always drink it y you
+things it's disgusting each time
+<$A> <#\>Yeah <O>laugh</O> <#\>But I save mine even if it's a little
+tiny bit I leave it <,> <#\>I thought you'd think that that
+was one of my traits, normal people didn't do that
+<$B> <#\>No I think you'd find that everybody does that and
+everybody complains about it
+<$A> <#\><O>sigh</O> So tell me about the Godfather 'cause I
+really wanted to know, and I must have seen it if I knew about
+the horse in the bed with his head chopped off
+<$B> <#\>It was in the Simpsons
+<$A> <#\>Yeah, but I knew the, I knew it was related to the
+Godfather <,> <#\>Isn't it Bart that wakes up with the horse
+<$B> <#\>No
+<$A> <#\>Oh
+<$B> <#\>Homer bought, <,> ohh whatever her name is er a
+um pony
+<$A> <#\>Oh right
+<$B> <#\>To buy her love
+<$A> <#\>That's right
+<$B> <#\>What's her name
+<$A> <#\>Lisa
+<$B> <#\>Lisa, yeah, and she screamed and then the pony was
+alive and then she hugged it and was happy
+<$A> <#\>Oh <O>laugh</O>
+<$B> <#\>And then it cost them a thousand dollars a week or
+something to look after <{><[>or</[> 
+<$A> <#\><[>Yeah</[></{> 
+<$B> <#\>some amazing amount and he got two jobs and all
+that <#\>Not that I've ever seen the Simpsons
+<$A> <#\>It has, it's been on T V hasn't it
+<$B> <#\>The Godfather, yeah <{><[>it's probably been on a couple
+of times</[> 
+<$A> <#\><[>Yeah I think I might have seen</[></{> a little bit of it
+and I got bored <O>laugh</O> so I didn't watch it
+<$B> <#\>Well, yeah, I don't know whether I really liked the
+movie that much <#\>It it did alright <#\>Like I it doesn't get
+probably academy awards or
+<$A> <#\>Is the book really
+<$B> <#\>I think, actually, um, Al Pacino
+<$A> <#\>Yeah <{><[>or <@>forename5</@> </[> 
+<$B> <#\><[>Al Pacino</[></{> 
+<$A> <#\>keeps raving about
+<$B> <#\>Al Pacino was his first <,> <#\>That was his first
+movie
+<$A> <#\>Right
+<$B> <#\>Or first big movie
+<$A> <#\>He wasn't the doc the Don was he, he <{><[>was</[> 
+<$B> <#\><[>No</[></{> he was, Marlon Brando was <{><[>um the Don,</[> 
+<$A> <#\><[>Oh <O>inaudible 1 word</O> or <O>inaudible 1 word</O></[></{> 
+<$B> <#\>Don Corleone, and <,> this guy was his youngest
+son <#\>Al Pacino was his youngest son, Michael Corleone <#\>He
+ended up being the Godfather Part
+<$A> <#\>In the next
+<$B> <#\>Godfather Two
+<$A> <#\>Right
+<$B> <#\>Um there was also
+<$A> <#\>But in Godfather Two the movie, was Al Pacino the
+<$B> <#\>I can't remember
+<$A> <#\>Oh
+<$B> <#\>I think it might have been</I>
+
+

@@ -1,0 +1,205 @@
+<S2A-034> <2013>
+<S2A-034a> <1691>
+<I><$A> <#\>Good evening welcome to our Sydney Linguistics
+Circle <#\>Thanks for coming along <#\>I know that some of you
+only had rather short notice <#\>Tonight we've changed the
+format and we are looking forward to an open forum on
+grammatical metaphor but in order to get some reference points
+some bench marks for the discussion I've asked ah three people
+who have been in different ways ah tied up with the developing
+debate on the role of grammatical metaphor in functional
+linguistic theory <#\>I've asked them to come along and to
+sort of start us of and ah I myself um <,> as chair will be
+talking to that sheet of paper that you have there which ah
+<#\>The main aim for this is to illustrate what kind of
+phenomena Halliday draws our attention to in <,> chapter ten
+of The Introduction to Functional Grammar and the kind of ah
+textual phenomena that he seems to be addressing there <#\>I
+won't try and give my own version or background to it because
+I think this will emerge from the discussion of particularly
+between you and the three people that I was lucky enough to um to have speak to you tonight <#\>Now ah
+the people here <#\>Louise Rabelli she's ah lecturer in
+English language at Wollongong University ah ah <#\>A few
+years ago I think it was nineteen eighty five she wrote an
+article which tried to put the theory of grammatical metaphor
+clearly in relation to the strata picture of language
+semantics and lexicon-grammar <#\><@>firstname</@> Bianca she's
+also from Wollongong University the faculty of education
+<#\>Her specialisations are in language development and
+language and schooling and her current research work ah as is
+the case perhaps with many of you requires her to come to
+terms with grammatical metaphor even though the topic of the
+research in itself isn't grammatical metaphor <#\>Christian
+Matheson on my right from Sydney University linguistics
+department <#\>He's ah <,> well <#\>I was going to say best
+know for computational linguistics but in fact ah his role in
+making a functional grammar more delicate and more explicit um
+he's ah led the way in this regard <#\>These three have um have really come under somewhat
+difficult conditions not knowing how much how
+much ah they're s'posed to propose and how much you're
+likely to give back <#\>They've asked or they've
+agreed to say a few words raising ah the iss issues that they find most urgent in this regard
+<#\>Now about grammatical metaphor as a phenomenon I want to
+ah quote an example given by Halliday on that basis I feel I
+can be sure that I'm going closest to representing his views
+in a talk given in nineteen eighty six at the University of
+Singapore <#\>He presented this this 
+extract presented actually a whole text but focused on the
+extract here which is numbered one <#\>It's a single clause
+<quote>What we seek is a capability for all the initiative of
+offensive action by air and land forces to bring about the
+conclusion of battle on our terms</quote> <#\>The whole text
+that he had was a an edifice of this kind
+of structure highly metaphoric grammar and what he ah suggests
+in raising this example is that it takes three or four moves
+in order to get back to what he calls a congruent version of
+the grammar <#\>And the three moves under two three and four
+ultimately deliver us that <quote>airmen and soldiers must be
+able to attack early so as to win</quote> <#\>Now this kind of
+progression from the metaphoric to the congruent or from the
+congruent to the metaphoric is not an arbitrary commentary
+<#\>It is he says a systematic feature by feature progression
+justified by well in this case for instance first of all from
+one we have the pseudo-cleft construction <quote>what we
+seek</quote> and then the equals sign <quote>is</quote> and
+all of the rest a nominal group <quote>a capability for early
+initiative of offensive action by air and land forces to bring
+about the conclusion of the battle on our terms</quote> <#\>If
+you traced something like the word
+<mention>capability</mention> there through you'll see that it
+moves to <mention>capable</mention> in two and then to
+<mention>be able</mention> and <mention>must</mention> oh well let's look at the whole
+group <mention>to be able to start attacking</mention>
+and then <mention>must be able</mention> in number four <#\>If
+you look at the first two versions you'll see that as I said
+the cleft construction is changed in two and then from between
+two and three we see that the formality of the lexis is
+changed as well <#\>While he draws attention to that in his
+discussion he's very wary of conflating those two principles
+<#\>Grammatical metaphor is not just about ah well
+ it's not essentially about making the language more
+formal <#\>It's a separate principle and he makes very
+interesting observations in the end of this talk he gave in
+nineteen eighty six <#\>He he made very
+suggestive comments about um seeing grammatical metaphor in
+relation to different professions <#\>So for instance as we
+get down to the the congruent version we
+might say now who's more likely to use the congruent version
+and who's more likely to to use the
+metaphoric version and he draws attention to the fact that
+with politicians while the formality the
+formality may be lowered right to the level of of a folksy approach the degree of metaphor
+is kept very very high <#\>So it would be ah a politician's
+option to say something like <quote>make an end of the
+war</quote> which is highly metaphoric but more down to earth
+in its actual informal style whereas perhaps and he only
+raise Halliday only raises this as a as something for you to think about but it sounds
+to me highly plausible <#\>He said perhaps the particular
+talent of a teacher say in primary school is the ability to
+keep the formality high so that the child is aware of the
+incremental creep into ah the strictures of a discipline but
+at the same time the teacher is able to to 
+de-metaphorise the discourse of the discipline so the child
+has maximum access before the age of about twelve when <,>
+according to the developmental theory we might hear a bit more
+about the child seems to be making the first progress into
+dealing with ideational metaphors in particular <#\>Well if
+you follow the kind of technique that Halliday ah applies to
+this kind of ah wonderful progression you could code the verbs
+in four and look at the progression to one or code from one to
+four and using colour coding as he often does for those of you
+who've of course had the benefit of of 
+<O>inaudible four syllables</O> directly what you find of
+course is that between four and one there is a shift from
+the the process orientation over to the
+nominalised <,> and um non-pro ah ah non-
+process non non-doing if you like at least non-
+doing ah emphasis <#\>Well for me when I first heard
+about the theory of grammatical metaphor I think as for many
+people I thought my goodness that explains a lot and then I
+had the consternation of trying to fit it into consistent
+theory you know and my had my usual
+metaphysical pangs <#\>I first of all said I have no problem
+with metaphoric-ness and I do have a strange ah inability to
+explain what counts as congruent and this lived on in me for
+um many years of anxiety and um I still do have when Jim
+Martin draws up on the board and he says well the shortest
+group between an event and um lexicon-grammatical
+representation is the verbal group and the where
+did the category of event come from <#\>What what what seems to me to be very urgent is
+the fact that or what did appear to me to be the case that
+there was an implicit <O>inaudible three syllables</O>
+categorisation that that there was
+inherent events and and inherent
+participants and somehow or other I was going to be forced
+into the kind of cognitive semantics that said well basically
+there's an alphabet to the mind and if you don't believe it
+you're not really a cognitive scientist <#\>So all of those ah
+things in some ways are were <#\>The sword
+was put to much of that anxiety I suppose in Halliday's usual
+direct <O>inaudible two syllables</O> <#\>Well that problem is
+addressed by the three histories he says <#\>It's the history
+of the individual the history of the language and the history
+of the text <#\>The history of the individual is saying that
+the congruent forms are the forms that turn up first in the
+development of language <#\>So that the the metaphoric is something you have to work your
+way towards <#\>Now without we'll we'll be going into this later on <#\>The history
+of the language again the hypothesis here is that rather than
+my a priory philosophical categories what's prior in the
+history of the language is the congruent form and the the the congruent um ultimately um disperses
+and other kinds of possibilities come with ah new textual
+combinations metaphor the possibilities of
+metaphor grow <#\>And then of course in the history of
+the text ah the idea is as the text accumulates there are more
+and more pressures on the textual organisation the textual
+metafunction and how one organises the theme rheme structure
+in particular and as soon as this pressure becomes intensified
+or insistent it does from the first clause later clauses it's
+going to be greater then there's more pressure on you to
+facilitate what you themeatise and of course you can see with
+the pseudo-cleft construction <mention>what we seek is
+etcetera etcetera</mention> <#\>In that kind of identifying
+clause with the value token structure you've got a great
+opportunity to select what you want to <,> put in theme
+position and of course that kind of motivation goes up through
+the history of the text <#\>Well those three histories um are
+important in getting one's bearings I think with um
+ with respect to what counts as congruent <#\>I
+think um on the basis of time I should leave my comments there
+and I'll pass over to Louise Rabelli who might like to present
+us with her earlier account of how this situation was um
+presented in functional linguistics</I>
+
+<S2A-034b> <322>
+<I><$A> <#\>Well as David said I worked on this some time
+ago um as part of my B A and I was looking at the relationship
+between grammatical metaphor the amount of grammatical
+metaphor you find in a text um the implications of that for
+ones understanding of the mode of the text how written or how
+spoken it is and um basing that ah understanding of mode on a
+combination of the grammatical intricacy and lexical density
+of the text as ways of of ah
+differentiating texts of different modes <#\>So I was looking
+at at those relationships and and how metaphor was implicated in that <#\>Um and
+ah so I spent a lot of time counting metaphors and doing
+categorisation and then at the end I thought what about the
+implications of the model which I had just sort of assumed so
+let me show you um what happened at the end of the thesis <,,>
+<#\>Now I'm not sure if that's big enough for you <#\>Can you
+see that at the back? <#\><O>inaudible response</O> <,,>
+<#\>Is that better yes ok <#\>Um what we've got here is um the
+tri-stratal system of language sem semantics lexicon-grammar and phonology <#\>And
+this is essentially the understanding of metaphor which I
+have just used in my thesis which is that um an instance of
+grammatical metaphor um we essentially see in the grammar with
+a congruent form and what we understand as a metaphorical form
+<#\>So for example if we had a a clause
+the bomb exploded we understand <mention>exploded</mention>
+there as the congruent expression of a process something
+happening <#\>If we had <mention>the explosion</mention> ah
+which is <O>inaudible three syllables</O> clause we have an
+understanding there ah a metaphorical understanding um because
+if we think about this participant what's behind it is the
+idea of an explosion <#\>It is in the grammar presented as a
+thing <#\>So we see two forms in the grammar but understand
+that there's um something common in semantics behind them</I>

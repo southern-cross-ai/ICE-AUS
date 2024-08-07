@@ -1,0 +1,324 @@
+<S1A-027> <2000>
+<I><$A> <#\>That's that's the question I had to ask <#\><{><[>What</[> type of
+design is it 
+<$B> <#\><[>Yes</[></{> 
+<$C> <#\>Oh yeah
+<$B> <#\>That's the problem <#\>It's<,> it's a one<,> it's a single
+level design<,> <#\>Like you don't have a something by
+something<,> thingy
+<$A> <#\>Isn't it a three level<,,> <#\><{><[>A three factor</[> 
+<$B> <#\><[>No<,></[></{> <#\><{1><[1>It's</[1> not a factorial design <{2><[2><,> because a
+two way</[2> analysis would be<,> 
+<$C> <#\><[1>No</[1></{1>      <#\><[2>It's not a factorial design</[2></{2>      <#\>It's a single level design<,> because it's
+<$A> <#\>But there are three levels<,> <{><[><O>inaudible</O></[> 
+<$B> <#\><[>No</[></{> 
+<$D> <#\>Three levels within one<,> one <{><[>variable</[> 
+<$B> <#\><[>See</[> </{>
+<$A> <#\>Variable
+<$B> <#\>In terms of factorial a three level design would be three
+independent variables<,,>
+<$A> <#\>Right <#\>So the dependent variable is the treatment <#\>No The
+quality of life score<,,> <#\>The quol as I call it
+<O>laughter</O> <#\>The IV<,> yes<,> is<,> the<,> treatment
+group<,,>
+<$B> <#\>Yes
+<$A> <#\>The Now the quol
+<$B> <#\>It's not a va it's not a<,> <{><[>it's not a factorial</[> design
+<$C> <#\><[><O>inaudible</O></[></{> piece of paper <#\>Here we go
+<$A> <#\>Where do we<,> list the IV and<,> <{><[>DV</[> 
+<$C> <#\><[>It's</[></{> <,> <#\>It's got one<,> one independent
+<$D> <#\>I don't think you actually say the dependent and
+independent varies variables<{><[><,></[> <#\>You just have to describe
+the design
+<$?> <#\><[><O>so we don't</O></[></{> 
+<$B> <#\>It's one independent variable with three levels<,,> <#\>So
+you can use levels
+<$A> <#\>Mmm
+<$D> <#\>Yes
+<$C> <#\>Levels
+<$D> <#\>Yes <#\>Levels<,,>
+<$C> <#\>Levels<,,>
+<$A> <#\>So it's not a single level design at all<,,>
+<$B> <#\>No <#\>A single factor
+<$D> <#\>single factor with three levels
+<$A> <#\>With three levels
+<$D> <#\>Or a single level with three groups<,,> depending on<,>
+what your preference is<,,>
+<$A> <#\>OK <#\>So where do we put that bit<,>
+<$D> <#\>Um  in your
+<$B> <#\>In the method
+<$A> <#\>The method <#\><{><[>okay</[> 
+<$B> <#\><[>'Cos then you</[></{> <,> you're first to say some<,> talk
+about the subjects then you talk about the<,,> design then
+you talk about the apparatus and what it was for <,> materials
+which is irrelevant in this case and then <{><[>you go</[> onto
+procedures
+<$D> <#\><[>Except</[></{>      <#\>Well it's not really 'cos your apparatus is the
+questionnaire
+<$B> <#\>Oh well I just thought <{><[>it's pointless putting it in</[> 
+<$C> <#\><[>No <#\>I<,> it's not an apparatus</[></{> 
+<$D> <#\>Yeah<,> <#\>Well you just<,> I mean
+<$B> <#\>'Cos it says in that in <@>forename1</@> <@>surname1</@> the big blue
+overhead's report to guide writing <O>Blaughs</O> report<,>
+guide to report writing he went<,> says<,,> um<,,> neither of
+these may be relevant<,> <{><[>relevant</[> important or
+necessary<,> <#\>Something like that
+<$A> <#\><[>Yeah</[></{>      <#\>In your procedure <{><[><,> you have to</[> <,,> you have to<,>
+let them know that it was carried out by three<,> different
+people<,>
+<$B> <#\><[>some synonym</[></{>      <#\>Yeah <#\>That's<,> I'm so glad he said in the lecture that
+um<,> it was
+<$A> <#\>Three different people <{><[>from the one hospital</[> 
+<$B> <#\><[>I thought it was three</[></{> different hospitals<,> and I'd
+just written my procedure saying<,> that it was<,> three
+different people from three different hostipals
+<$A> <#\>Hostipals
+<$D> <#\>Hostipals
+<$B> <#\>Hostipals <O>Blaughs</O> but<,,> and I just I'd just
+written that<,,> <#\>Can you check this sentence
+<$A> <#\>Yeah
+<$B> <#\><quote>Each group consisted of patients undergoing
+dialysis treatment at the same type of location<,> in a home
+satellite centre or hospital</quote> <#\>Do you understand what
+I'm saying there
+<$D> <#\>Sorry <#\><{><[>Do you mind repeating it again</[> 
+<$A> <#\><[> they're not having it in the same location</[> 
+<$C> <#\><[>Say it again</[></{> <,,>
+<$B> <#\><quote>Each group consisted of patients undergoing
+dialysis treatment at the same type of location<,> either home
+<{><[><,></[> satellite centre or hospital</quote> <#\>Does do you get
+from that that<,,> that each group was at one of those three
+<$A> <#\><[>Oh I see</[></{> No
+<$D> <#\>No
+<$B> <#\>I don't know how to write that<,,> <{><[>I mean<,> I can't
+<O>inaudible</O></[> 
+<$A> <#\><[>Each<,,></[></{> 
+<$D> <#\>Sorry <#\>What was
+<$A> <#\><quote>Each group consisted of patients undergoing
+dialysis treatment at the same type of location</quote><,,>
+<$D> <#\>No<,> <#\>The<,,> the sample was taken<,> from<,,> patients
+undergoing dialysis treatment at one of three different
+locations<,> <#\>Either<,> at hospital<,> at home<,> or at a
+satellite dialysis centre<,,> <#\>So<,> you start of, with
+<quote>the sample</quote> <{><[><,></[> and then say<,> you know
+<$D> <#\><[>Or<,></[></{> a total of seventy five people 
+<$B> <#\><O>inaudible</O>     <#\>Yeah <#\>I said <quote>this study</quote> 
+<$A> <#\>That<,> there's seventy five subjects or whatever
+<$B> <#\>I said <quote>this study was made up of seventy five
+dialysis patients divided into three groups of twenty five<,>
+<#\>Each group consisted of patients undergoing dialysis treatment
+at the same type of location</quote>
+<$D> <#\>No<,> <#\>Because that's confusing <#\><{><[>Just say<,></[> <quote>at
+one of three<,> locations</quote>
+<$B> <#\><[>It is confusing isn't it</[></{> 
+<$C> <#\>Is that your sister up there<,> with you<,,>
+<$A> <#\>Yep<,> <#\>She's short isn't she<,>
+<$C> <#\>Yeah <O>Alaughs</O> <{><[><O>inaudible</O></[> 
+<$A> <#\><[>Do you realise that you're</[></{> that short<,>
+<$C> <#\>Am I that short
+<$A> <#\>You're five two<,> <#\>She's five two<,> <#\>We're wearing
+exactly the same shoes<,> <#\>They're like the same brand <{><[>so</[> we've got the same heels on<,,>
+<$C> <#\><[>Yeah</[></{>      <#\>That's funny<,,> <#\>She looks that that dress looks really
+nice<,,>
+<$A> <#\>It's cute isn't it
+<$C> <#\>Mmm<,,>
+<$A> <#\>Little pants and <O>inaudible</O>
+<$D> <#\>Making sure that you're<,> totally covered
+<$A> <#\>Completely modest <#\><{><[>I'm not</[> wearing the drapey bit<,>
+<$D> <#\><[>Yes</[></{>      <#\>So you can't get
+<$B> <#\>Well that's disgusting
+<$D> <#\>Well you can't get stones thrown at you if you went to
+Saudi Arabia<,>
+<$A> <#\>Yeah <#\>I would<,> actually<,> <#\>My head <{><[>isn't covered</[> 
+<$C> <#\><[>Her head isn't</[></{> covered
+<$D> <#\>Oh<,,> sorry
+<$B> <#\><{><[>And she's got half bare arms</[> 
+<$A> <#\><[>My hair's showing</[></{> <,> and I've got half bare arms
+<$D> <#\>No <#\>I mean<,> I was talking about your sister
+<$B> <#\>So you're just walking ah walking immora<,,> immorality
+thing <{><[><O>ABlaugh</O></[> 
+<$D> <#\><[>that's what I'm trying to say</[></{> 
+<$A> <#\>Can we get back to the design assignment
+<$B> <#\><{><[>Yeah</[> 
+<$C> <#\><[>Sorry</[></{> I distracted you all<,> and I apologise
+<$B> <#\>That's right <#\>You totally digressed
+<$A> <#\>So it's not a factorial design <#\>It's a<,,> you see they
+haven't<,> they haven't discussed designs at all<,> really
+<$B> <#\>Atall atall atall <O>laughter</O>
+<$A> <#\><{><[>Why did you say that</[> 
+<$D> <#\><[>Will you stop that</[></{> 
+<$B> <#\>Atall atall atall <#\>I wish I was Irish<,,><#\><{><[>Where</[> has
+my book gone
+<$D> <#\><[>Um</[></{>      <#\>Well it's a one way design<,> so basically it's just<,>
+all you have to say is that it's a single independent variable
+with three levels<,,> <#\>Basically<,,>
+<$A> <#\>Er<,,> <#\>How do<,,> has some one have you heard some one
+say that we don't have to do an abstract<,,>
+<$B> <#\>Yes <#\>I just said it about ten minutes ago
+<O>BCDlaugh</O> 
+<$A> <#\>No <#\>I mean has the lecturer or your tutor or some one
+said it<,,>
+<$C> <#\>No mention's been made of it
+<$D> <#\>They haven't mentioned it but they haven't said we don't
+have to do it <#\>They haven't said we do<,> but they haven't
+said we have to do an introduction either<,,> and they
+haven't said we have to do a
+<$A> <#\><{><[><O>inaudible</O></[> 
+<$B> <#\><[>Independent group design</[></{> <,,>
+<$A> <#\><{><[>Yeah</[> 
+<$C> <#\><[>Yeah</[></{> <#\>Our tutor said in the introduction you put blah
+blah blah <{1><[1><,></[1> <#\>She hasn't said anything about the
+<{2><[2>abstract</[2> 
+<$B> <#\><[1>Mmm</[1></{1> 
+<$D> <#\><[2>But it's</[2></{2> an independent grouped one way design<,> <#\>Not
+a an independent groups factorial design
+<$A> <#\>Yeah <#\>Independent groups <{><[>one way design</[> with two
+levels
+<$C> <#\><[>Independent</[></{> 
+<$B> <#\>Three<,,>
+<$A> <#\>Three yeah <#\>I should say<,,>
+<$C> <#\>One<,> way<,> design <#\>Three levels<,,>
+<$A> <#\>In the introduction are you going to explain what
+dialysis treatment is<,> <#\>And what each of I guess you need to
+explain what dialysis treatment is <#\>What each of the three<,,>
+<$B> <#\>I did because the big blue overhead says<,,>
+<$A> <#\>The big blue overhead<,> <@>forename1</@> <@>surname1</@> <#\><{><[>What's this big blue</[> overhead
+<$B> <#\><[>Oh sorry</[></{>      <#\><@>forename2</@> wrote me this letter saying <quote>I'm so jealous that you have lectures with <@>forename1</@> <@> surname1</@> the big blue overhead himself</quote> <O>laughter</O> <#\>So<,> I just
+refer to him now as the big blue overhead<,> <#\>Because<,,> in
+that it says you that you have to give a context<,> and I
+think you have to say<,> you know<,> that this is what
+dialysis involves<,> and this is how you can have dialysis<,,>
+either at home a in hospital or at a satellite centre <#\>So I
+included it<,> 
+<$C> <#\><O>inaudible</O> 
+<$A> <#\>You'd you need to really <{><[>don't</[> you
+<$C> <#\><[>Sorry</[> </{>
+<$B> <#\>Yeah<,> <#\>They wouldn't give it to us if we didn't need
+it<,>
+<$A> <#\>You didn't need your knee really did you
+<$D> <#\>No no Not at all <#\>I can hop back to my room
+<O>laughter</O> Not atall atall atall 
+<$A> <#\><{><[>You've really<,> you've really</[> got the leprechaun
+<O>inaudible</O>
+<$B> <#\><[>It says<,></[></{>would we  <#\>Would we need to say that it's um<,> that it's
+available<,,> it says it's available from <{><[>a number of
+hospitals</[> <,>
+<$?><#\><[>What do you reckon</[></{> <,,>
+<$C> <#\>Isn't it just money <O>laughter</O> 
+<$A> <#\>Absolutely
+<$D> <#\>There's nothing wrong with it atall atall atall
+<O>laughter</O>
+<$B> <#\>Would we need to say that it's<,> it's available at a
+number of hospitals<,,> <#\>In Sydney<,> <#\>Or just<,,> 
+<$A> <#\><{><[>Well that's there <O>inaudible</O></[> 
+<$D> <#\><[>No <#\>You could if you wanted</[></{> to bring that in or could
+bring it in in the discussion saying that<,> <quote>dialysis
+treatment is available from a number of hospitals in Sydney
+but they failed to investigate it in all of these hospitals
+<#\>They only looked at one in particular which is a fault of the
+experimental design</quote><,> <#\>Which by the way is an
+independent groups one way design with three levels
+<O>laughter</O>
+<$C> <#\>Are you sure <#\>Because it's gone from a single factor
+design<,> <{><[>to a variable</[> 
+<$A> <#\><[>We keep changing our minds</[></{> 
+<$D> <#\>Well it's the same thing<,>
+<$B> <#\>Your<,> independent variables are factors<,,>
+<$C> <#\><{><[>But</[> 
+<$A> <#\><[>So</[></{> but explain the treatment <#\>Like<,> they said
+<quote>the treatment involves the patient being<,> hooked
+up</quote> so we'd ex<,,> <#\>We can't<,,> I mean<,> it's a bit
+difficult <#\><{><[>Obviously we have to</[> 
+<$D> <#\><[>We can't<,> quote</[></{> from the
+<$A> <#\>I know <#\>We can't quote but we obviously have to refer to
+it
+<$B> <#\>Why not <#\>I did<,,>
+<$A> <#\>Oh no<,> <#\>Naughty<,,> <#\>But I mean<,> what do you refer to
+it <#\>The um<,,> the<,>
+<$B> <#\>You don't refer to it
+<$D> <#\>You don't have any references <#\>'Cos we're not
+referring to any other research or<,> documents <#\>We're just
+outlining it<,>
+<$A> <#\>You can<,> I dunno<,>
+<$B> <#\>'Cos I mean<,> some of my bits are very<,> very similar
+<$D> <#\>Yeah <#\>You just change the syntax<,,>
+<$A> <#\>That's not very<,,>
+<$B> <#\>Yeah<,,><#\>'Cos<,> can you<,> check this sentence
+too<,,> <#\><quote>The questions were answered either yes or no
+and the number of yes responses<,> of each patient<,> was
+their final quality of life score</quote><,>
+<$D> <#\>That is the exact same sentence I had
+<$B> <#\>No no <#\>You read yours and see if it's the same
+<$D> <#\>No <#\>It's not exactly the same
+<$B> <#\>Well don't say it was then
+<$D> <#\>I was joking
+<$B> <#\>Otherwise it'd look like we copied<,,>
+<{><[><O>inaudible</O></[> 
+<$D> <#\><[><O>inaudible</O></[></{> Oh for crying out loud<,,> <#\>Get down
+and spin on your back <O>laughter</O><,,>
+<$A> <#\><{><[>Did you write out any sample question</[> 
+<$D> <#\><[><O>inaudible</O><,,> subjects<,,></[></{> procedure
+<$B> <#\>Now<,,> procedure <O>Bcoughs</O> <quote>Each of the
+twelve questions was answered either yes or no with the final
+quality of life score being the number of yes responses the
+patient gave <#\>Thus a higher score represented a higher quality
+of life</quote><,,>
+<$D> <#\>You're quoting directly from the assignment sheet there
+aren't you
+<$B> <#\>No <#\>I'm not<,,>
+<$C> <#\>It doesn't <{><[>matter</[> 
+<$B> <#\><[>I think</[></{> you'll find that there is one word that is not
+the same <O>laughter</O> <#\>Because they said
+<$A> <#\>But <@>forenameB</@> haven't you read the plagiarism rules <#\>Just
+changing one word and not the rest <{><[>of the sentence</[> 
+<$B> <#\><[>I was about to</[></{> call it perjury <O>laughter</O> 
+<$D> <#\>That's not going to <{><[>put it</[> 
+<$B> <#\><[>Yeah <#\>It doesn't matter</[></{> does it <{1><[1><,></[1> <#\>I mean it's<,>
+basic English and they don't care <#\>They want us to do the
+statistics <#\>They've said here<,> <quote>quality of life was
+measured by asking each patient twelve questions <{2><[2><,,> such
+as<,></[2> are you happy with the support <{3><[3>you receive from your
+family</quote></[3> 
+<$D> <#\><[1>No</[1></{1> 
+<$A> <#\><[2>So what am I asking <@>forename4</@> about</[2></{2> 
+<$D> <#\><[3><O>inaudible</O> and</[3></{3> <,> <{><[>abstract</[> 
+<$A> <#\><[>Abstract</[></{> <,,>
+<$C> <#\>Abstract is the you do right after you finished
+everything
+<$A> <#\>I know<,> <#\>We know <{><[>that</[> 
+<$B> <#\><[>But</[></{> we still have to <{><[>know whether to do one or not</[> 
+<$D> <#\><[><O>inaudible</O></[></{> 
+<$A> <#\>But we still need to know whether we need <{><[>to do it or
+not</[> 
+<$C> <#\><[>But I don't think we need one</[></{> I don't think we do
+<$A> <#\>'Cos I don't think <{><[>we need to do one at all</[> 
+<$B> <#\><[>That is the question</[></{> <,> <#\>To abstract<,> or not to
+abstract<,> that is the question <O>laughter</O> 
+<$D> <#\><{><[>Yes<,> children</[> 
+<$A> <#\><[>OK OK</[></{> Can we start the<,,> subjects and the procedure 
+<$B> <#\>Mmm
+<$A> <#\><{><[>Then move onto</[> the<,> results
+<$D> <#\><[>Then do the</[></{>      <#\>Results
+<$A> <#\>Mmm<,> <#\>And what do we put in the<,> results
+<$D> <#\><{><[>Aha</[> 
+<$B> <#\><[>We just</[> </{>went through that
+<$D> <#\><{><[>Yeah <#\>We're going through it again</[> 
+<$A> <#\><[>I know but I got lost</[></{> 
+<$D> <#\>OK <#\>Results<,> <{><[><O>inaudible</O> <#\>Step one<,> <#\>You just</[> 
+<$B> <#\><[><O>inaudible</O> one<,> start with the research
+hypothesis</[></{> 
+<$A> <#\>Research hy<,,> <#\>Yeah <#\>I've done that <#\>Right 
+<$B> <#\><{><[>It's got the steps there</[> 
+<$D> <#\><[>No <#\>The research hypoth</[></{> <,> <#\>You should<,,> you can
+restate the research hypothesis
+<$B> <#\>Yes <@>forename1</@> says so <{><[><,> <#\>The big blue overhead said
+so</[> 
+<$A> <#\><[>Oh<,> <#\>So we actually<,></[></{> so we<,> we've kind of<,> you
+know we've actually<,,> stated the research hypothesis in the
+introduction
+<$B> <#\>Yeah <#\><{><[>And<,,> they said</[> <quote>in a formal report<,> a
+real one<,> you probab probably wouldn't do it<,> but it
+does reinforce it</quote>
+<$D> <#\><[>Yes</[></{></I>
+
+

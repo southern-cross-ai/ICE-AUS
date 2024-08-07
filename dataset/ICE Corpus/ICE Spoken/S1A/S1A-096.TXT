@@ -1,0 +1,354 @@
+<S1A-096> <2050>
+<I><$A>   <#\>so how've you been
+<$B> <#\>Oh<,> I've been alright <#\>I've been<,> <#\>Can you
+hang on a sec <O>inaudible</O> two hands
+<$A> <#\>Yeah sure <#\>Take your time<,,>
+<$B> <#\>Um oh<,> I've been<,> good but <@>FORENAME1</@> 's been sick
+and<,> a little girl I babysit's been sick as well
+<$A> <#\>Yeah <#\>Oh no <#\>What with
+<$B> <#\>Anyhow<,> <#\>oh nothing really major <#\>Just a
+really bad runny nose and<,> <{1><[1><,></[1> really off colour so
+they've both been really cranky 
+<$A> <#\><[1>Mmhmm</[1></{1>
+     <#\>Together
+<$B> <#\> And and  cranky together<,>
+<{1><[1><,></[1> and so that's been a handful and<,> <{2><[2><,></[2>
+yesterday a little girl I had kept bumping her head and<,>
+<{3><[3><,></[3> falling over and<,> <{4><[4><,></[4> <O>inaudible</O>
+things and<,> <{5><[5><,></[5> <#\>It just made it really awkward 
+<$A> <#\><[1>Yeah</[1></{1> 
+     <#\><[2>Yeah</[2></{2>
+     <#\><[3>Mmhmm</[3></{3>  
+     <#\><[4>Oh</[4></{4>
+     <#\><[5>Yeah</[5></{5>
+     <#\>Right<,> and it was <O>inaudible</O> three days a
+week you're having her isn't it
+<$B> <#\>Yes <#\>I have her Mondays Wednesdays and Thursdays
+usually<,> <{1><[1><,></[1>  but but  not always
+<$A> <#\><[1>Right</[1></{1> 
+     <#\>Yeah yeah <#\>So is <@>FORENAME1</@> a bit better now or is
+she still got<,> a runny and<,> so on
+<$B> <#\>Oh she's just got a bit of a runny nose but  it's<,,> um it's  definitely a lot better
+<w>'cos</w> of vitamins
+<$A> <#\>Gee that beep's loud isn't it 
+<$B> <#\>Yeah <#\>It's not too bad for me<,> <{1><[1><,></[1>
+<#\>It's just <O>inaudible</O> <#\>But ah  she's been she's <,> a lot better today <#\>Her nose is a bit
+runny <#\>She's a little bit<,> off colour<,> <{2><[2><,></[2> but
+she's not<,> really <O>inaudible</O>
+<$A> <#\><[1>Oh right</[1></{1> <O>Alaughs</O>
+     <#\><[2>Mmm</[2></{2>
+     <#\>Oh that's good <#\>Great yeah
+<$B> <#\>And how about your kids
+<$A> <#\>Oh they're all well <#\>Yeah <#\>They're fine<,>
+<#\><O>inaudible</O> wants to see Dylan again
+<$B> <#\>Oh good <#\>Well I <{1><[1><O>inaudible</O> with
+these</[1> kids I just
+<$A> <#\><[1>They really like</[1></{1>
+     <#\>Oh look that's fine <#\>Look I knew <#\>I was too<,>
+inundated this week anyway<,> <{2><[2><,></[2> but um<,,> you know
+because we did talk about it<,,> I wanted to<,> you know let
+you know I hadn't forgotten
+<$B> <#\><[2>Yeah</[2></{2>
+     <#\>Well I hadn't <{3><[3>either</[3> <#\>It's just<,>
+<$A> <#\><[3>But</[3></{3>
+     <#\> You've got you've got  so much to
+do <#\>You're taking <@>forename2</@> every morning to the gym<,> now or
+<$B> <#\>No not every morning <#\>Only <{1><[1>Mondays</[1>
+and Wednesdays
+<$A> <#\><[1>I mean</[1></{1>
+     <#\>Yeah but you're doing that are you
+<$B> <#\>Well<,> most days <#\>Wednesday he didn't go <#\>We
+had<,> <{1><[1><,></[1> <@>forename2</@> come Tuesday afternoon and I
+thought<,> <{2><[2><,></[2> we've had that a couple of times so I
+took him to the doctor<,> <{3><[3><,></[3> and he hasn't got any
+infections <#\>He's just got um<,> inflammation of the ear
+canals<,> <{4><[4><,></[4> rather than the eardrum<,> <{5><[5><,></[5> so
+it's not as bad as it could've been<,,> <{6><[6><,></[6> <#\>So  he <,> um he  didn't go to gym this
+<O>inaudible</O> <#\>He decided that he needed to sleep in and
+he didn't go at all in the afternoon <#\>He didn't go to
+swimming or anything<,> <{7><[7><,></[7> <#\>And ah<,> he';s gone off
+today with a<,> bit of a sore stomach and I wasn't sure
+whether he was<,> sort of playing a bit<,>
+<$A> <#\><[1>Mmhmm</[1></{1>
+     <#\><[2>No</[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\><[4>Right</[4></{4>
+     <#\><[5>Oh dear</[5></{5>
+     <#\><[6>Yeah</[6></{6>
+     <#\><[7>Mmm</[7></{7>
+     <#\>Mmhmm yeah <#\>After being off school<,>
+<{8><[8>probably</[8>
+<$B> <#\><[8>He loves</[8></{8> school<,> 
+<$A> <#\>Yeah but just when you've been away for a day<,>
+<#\>He might've<,> <{><[><,></[> felt a bit nervous or
+something<,>
+<$B> <#\><[>Yeah</[></{>
+     <#\>Oh<,>  he's ah<,> he  seems
+fine<,> <{1><[1><,></[1> but he's gone there and he's sat very
+quietly and I thought <quote>uhoh<,> <{2><[2><,></[2> he's not<,>
+pretending<,> <{3><[3><,></[3> <#\>He said he had a sore stomach and
+guess what <#\>I've got a sore stomach too so<,> <{4><[4><,></[4> he
+wasn't pretending<,> <{5><[5><,></[5> but<,> I haven't had a phone
+call <#\>Oh I've only been back a few minutes anyway but the
+school hasn't phoned so he can't be too bad</quote>
+<$A> <#\><[1>Mmhmm</[1></{1>
+     <#\><[2>Mmhmm</[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\><[4>Oh</[4></{4>
+     <#\><[5>Right</[5></{5>
+     <#\>Right<,> <#\><{><[>Well that's good</[>
+<$B> <#\><[><O>inaudible speaking to child in
+background</O></[></{>
+<$A> <#\>Sure <#\><{><[>Take your time</[> <#\>That's
+fine<,,> <#\>You bought a new jumper did you
+<$B> <#\><[>Just hang on a minute</[></{>
+     <#\>Oh yes <#\> She she's  outgrown
+everything in sight
+<$A> <#\>Oh wow <#\><{><[>I should have something for
+her</[>
+<$B> <#\><[><O>inaudible</O></[></{> a month ago<,>
+<{1><[1><,></[1> and I got some things and got something that wasn't
+on special which was very nice <O>ABlaugh</O> but I haven't
+got that bit<,> out of it<,> off<,> the lay-by<,> <{2><[2><,></[2> out
+of the lay-by yet<,> <{3><[3><,></[3> <#\>That was um<,> a bit more
+than I wanted to spend right now so I'll get that out next pay
+<$A> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Right</[2></{2>
+     <#\><[3>Right</[3></{3>
+     <#\>Yeah right<,> <#\>And how's <@>forename4</@> <,>
+<$B> <#\>He's really well <#\>He never gets sick
+<$A> <#\>That's great isn't it
+<$B> <#\>Oh<,> does <@>forename5</@> get sick
+<$A> <#\>No hardly ever
+<$B> <#\>Oh <O>Alaughs</O> maybe it's because we're always
+around the kids and the kids are always around the bugs
+<$A> <#\>Yeah I think so<,> <#\>I think that's got a lot to do
+with it yeah<,> <#\>And ah how are you
+<$B> <#\>Oh well  I <,,> I  feel a bit sore
+from these bugs that I've got from <@>forename2</@> but  I'm I'm  alright <#\>I'm fine
+<$A> <#\>Are you <#\>Good
+<$B> <#\>Ah<,,> I'm big<,> <{1><[1><,></[1> <#\>I'm much bigger than
+I was with the other two <{2><[2><,> <#\>I'm well besides
+that</[2> <#\>I haven't had babies in my tummy that size ever
+<O>Alaughs</O>
+<$A> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Oh but<,,> <#\>Yeah good</[2></{2>
+     <#\>So she's getting use to the idea
+<$B> <#\>Well I didn't even think that it was so huge but she
+ah<,> <{1><[1><,></[1> had er<,> asked me asked me a few times if the
+baby was in my<,> and she pointed to my chest and I said
+<quote>no the baby's down there</quote><,> <{2><[2><,></[2>
+<w>'cos</w> I just felt the baby move but of course it never
+moves when you want it to move<,> 
+<$A> <#\><[1>Why not</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\>No <O>Alaughs</O> <#\>The time'll come
+<$B> <#\>Yeah <#\><@>forename4</@> only felt it for the first time last
+night
+<$A> <#\>Right<,> <#\>Oh really <#\>Oh isn't that exciting<,>
+<{><[><,></[> <#\>That's great<,> and listen what about your
+sister <#\>What happened with her
+<$B> <#\><[>Mmm</[></{>
+     <#\>Well<,> she had a little boy<,> <{><[><,></[> <#\>Is that
+the one you're talking about
+<$A> <#\><[>Right</[></{>
+     <#\>Yeah <#\>Yeah <@>forename6</@> 
+<$B> <#\>Yeah <#\>She had a little boy <@>forename7</@> <,> <{><[><,></[> um
+<#\>Let me think <@>forename7</@> <@> forename8</@> <O>inaudible</O>
+<$A> <#\><[>Mmm</[></{>
+     <#\>Oh you're kidding <O>ABlaugh</O>
+     <#\><{><[><@>surname9</@> </[>
+<$B> <#\><[>Um</[></{> <@>surname9</@> is their surname<,>
+<{1><[1><,></[1> <#\><@>surname9</@> <,> <{2><[2><,></[2> and I think that
+was originally um<,,> ah<,> not Hungarian but something um<,,>
+<{3><[3><,></[3> <#\>I can't think<,> <{4><[4><,></[4> and the
+<O>inaudible</O> is<,> also from the same background<,>
+<{5><[5><,></[5> and<,> she liked <@>forename8</@> and they all had a vote on
+the name and they wanted <@>forename7</@> and so <#\>The teenage girls had
+a vote as well <{6><[6>so</[6> they decided on <@>forename7</@> which we
+all love<,> <{7><[7><,></[7> <#\>It has happy memories for us as well
+with the <O>inaudible</O> <#\>They've got a<,,> <{8><[8><,></[8>
+couple of lovely uncles who're <@>forename7</@> <,> <{9><[9><,></[9> and he's
+a<,,> healthy boy and it's been very cold there and 
+<$A> <#\><[1>Oh</[1></{1>
+     <#\><[2>Oh</[2></{2>
+     <#\><[3>Austrian or German or something</[3></{3>
+     <#\><[4>Oh</[4></{4>
+     <#\><[5>Right</[5></{5> 
+     <#\><[6>Uhuh</[6></{6>
+     <#\><[7>Great yeah</[7></{7>
+     <#\><[8>Uhuh</[8></{8>
+     <#\><[9>Oh great</[9></{9>
+     <#\>Mmhmm and she adjusting is she<,> to having a baby<,>
+<#\>She's enjoying it
+<$B> <#\>Well I don't really know <@>forenameA</@> <#\> It's it's  really funny 
+<$A> <#\>She's not writing <w>'cos</w> she's too busy
+<O>Alaughs</O>
+<$B> <#\>Well I don't know because I haven't <O>inaudible</O>
+<$A> <#\>What's that
+<$B> <#\>I haven't been writing to her either
+<$A> <#\>Yeah <#\>You're busy too <O>Alaughs</O>
+<$B> <#\>I am but she's working as well
+<$A> <#\>Oh so who's minding the baby when she's at work
+<$B> <#\>Well<,,>  it's it's  more flexible
+than it sounds<,> <{1><[1><,></[1> <#\>Her husband's a teacher and he
+sometimes has<,> half days and<,> <{2><[2> ah</[2><,> so I think
+sometimes<,> she can take him into the office with her<,>
+<{3><[3><,></[3> sometimes she can work at home and then have
+<O>inaudible</O> at the office say when he gets home<,>
+<{4><[4><,></[4> <#\>She must be exhausted 
+<$A> <#\><[1>Oh right</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\><[4>Mmhmm</[4></{4>
+     <#\>Yeah<,> <#\>That's why she's not writing
+<$B> <#\>She really must be absolutely exhausted <#\>I was
+exhausted after having a new baby
+<$A> <#\>Well she's um <#\>How old is she now <#\>Isn't she
+<$B> <#\>She's your age
+<$A> <#\>She's forty<,> <{><[><,></[> <#\>She must be forty or
+older is she 
+<$B> <#\><[>But um</[></{>
+     <#\>No <#\>She's hang on <O>inaudible</O>
+<$A> <#\>Thirty eight
+<$B> <#\>Um I was born in sixty five <#\>When were you born
+<$A> <#\>Fifty three
+<$B> <#\>Oh no well <#\>She's<,> younger than you<,> <{1><[1><,></[1>
+<#\>She's um<,> thirty nine<,,> <{2><[2><,></[2> <#\>Forty this year
+<$A> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Oh is she</[2></{2>
+     <#\>Yeah<,> <#\>Well  She's old she's
+older  to have her<,> first baby you know<,> <{><[><,></[>
+<#\>It really does take it out of you I think
+<$B> <#\><[>Yeah</[></{>
+     <#\>Well of course she really had no idea and<,>
+<{><[><,></[> and it's so far from home too and<,> 
+<$A> <#\><[>No</[></{>
+     <#\>Yeah <#\>Has his family been supportive<,> to her
+<$B> <#\>I think so<,> <{><[><,></[> <#\>I think even the teenage
+girls are being helpful so that's good
+<$A> <#\><[>Yeah</[></{>
+     <#\>Oh that's great <#\>Well she's got inbuilt help there
+hasn't she
+<$B> <#\>Well only one of them lives at home now<,> <{><[><,></[>
+<#\>The other one lives at university
+<$A> <#\><[>Oh</[></{>
+     <#\>Oh well<,> that's great<,> <#\>That's fine
+<O>Alaughs</O>
+<$B> <#\>But I think<,,>
+<$A> <#\>Are you alright
+<$B> <#\>Yeah my tummy's sore and what's in there <O>inaudible
+from background</O> <#\>The baby's in my tummy <#\>That's
+right <O>Alaughs</O>
+     <#\>Yes <#\> It's um I think  she's
+having help from people at work<,> <{1><[1><,></[1> of all places
+<#\>She's got a few Australian friends and everybody rallies
+together and<,> they all lent her maternity clothes and they
+all <{2><[2><O>inaudible</O></[2> the baby clothes and<,,>
+<{3><[3><,></[3> <#\>It's<,> really helped I think
+<$A> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Oh</[2></{2>
+     <#\><[3>Oh that's great</[3></{3>
+     <#\>Yeah<,> yeah <#\>That's wonderful <#\>That's all you
+need really<,>
+<$B> <#\>And of course we all sent<,> lovely baby clothes as
+well
+<$A> <#\>You all sent them
+<$B> <#\>Oh well we just didn't know if there's like<,>
+<O>inaudible</O><,> <{1><[1><,></[1> baby clothes<,> <{2><[2><,></[2> or
+bibs<,> that're Australian made or<,> <{3><[3><,></[3> things with
+Australian animals <{4><[4><O>Blaughs</O></[4> <#\>We thought
+we'd try and be<,> as Australian as you can be without being
+in Australia  I think <O>Alaughs</O> 
+<$A> <#\><[1>Yep</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\><[4>Right yeah</[4></{4>
+     <#\>Oh that's nice <#\>that's great<,,> <#\>So when did
+she have the baby<,> <{><[><,></[> <w>'cos</w> I don't remember
+you telling me <#\>I mean I don't<,,> <#\>Last time you came I
+was going to ask you and I didn't get around to it <#\>It was
+so hectic
+<$B> <#\><[>Ah</[></{>
+     <#\>Mmm <#\>It was<,>  November around <,> the twentieth of November<,> <{1><[1><,></[1>
+but that's not quite the right date<,> <{2><[2><,></[2> so he's
+now<,> three months old<,> <{3><[3><,></[3> <#\>Oh darling don't open
+that up <#\>That's a present<,,> <#\>That's a present and you
+can't open it<,> <O>inaudible in background</O> <#\>That's a
+present for <O>inaudible</O> <#\>I'm sorry about this
+telephone conversation
+<$A> <#\><[1><O>inaudible</O></[1></{1>
+     <#\><[2>Right<,> mmhmm</[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\>That's fine <#\>That's fine <O>Alaughs</O>
+     <#\>I've gotta go out and buy a present today for some<,>
+child <#\><@>forename10</@> 's going to his birthday tomorrow<,> <{><[><,></[>
+so ah<,> I'll have to go home and ring the mother up and say
+what does he want <O>Alaughs</O>
+<$B> <#\><[>Oh dear</[></{>
+     <#\>Mmm <#\>It's all <O>inaudible</O> <#\>How old is
+<@>forename10</@> 
+<$A> <#\> <@>forename10</@> 's He'll  be eight in June
+and  this <,>this  boy's just turning
+<#\>Yeah this boy's just turning seven<,,> <{1><[1><,></[1> <#\>He's
+a very bright little boy <#\><{2><[2>He's in <@>forename10</@> </[2> <#\>Yeah
+<#\>He's is <@>forename10</@> 's class at school<,> <{3><[3><,></[3> <#\>I went to
+the<,> counsellor about <@>forename10</@> <w>'cos</w> he wasn't settling
+in<,> <#\>The school counsellor
+<$B> <#\><[1>Oh boy</[1></{1>
+     <#\><[2>Is he</[2></{2>
+     <#\><[3>Oh right</[3></{3>
+     <#\>About <@>forename10</@> 
+<$A> <#\>Yeah <#\><{><[><@>forename10</@> was</[>
+<$B> <#\><[><O>inaudible</O></[></{> be <@>forename11</@> 
+<{><[><O>inaudible</O></[>
+<$A> <#\><[>Oh look</[></{> you won't believe it <#\><@>forename11</@> 
+ is just  loves school <#\><{1><[1>He's just<,></[1> right in his element<,> and um<,> he's got no
+problems <@>forename11</@> <O>Alaughs</O> <#\>But <@>forename10</@> 's been<,> the one
+with sort of<,,> all the<,> funny little complaints and
+traumas and so on<,> so I went to see this counsellor about
+him and<,> he was just brilliant<,> this guy <#\>He's just
+fantastic<,> and um<,,> actually  he <,>he 
+was telling me that that school <#\>We just happened to land
+into a very<,> competitive school<,> <{2><[2><,></[2> and  it's
+also when they  do the basic skills test it gets
+into the top five in the state<,,> <{3><[3><,></[3> so um apparently
+people so coming <#\>It's like going to a private school
+without paying the fees <#\>People are coming from everywhere
+trying to get their kids in
+<$B> <#\><[1>Oh great</[1></{1> 
+     <#\><[2>Oh</[2></{2>
+     <#\><[3>Wow</[3></{3>
+     <#\>Yeah <#\>That's a sign from <@>forename10</@> that he doesn't
+even  know <,>know  what's happening
+<#\>It's just<,,> <{><[><,></[> the feeling of not knowing why
+<$A> <#\><[>Yeah</[></{>
+     <#\>Yeah <#\> I'm I'm  sure <#\>Look
+there's a lot of competition and  he's not <,>he's  doing very well for all the gaps he's had
+and the school he's missed<,> and he's still sort of like in
+the top spelling group in his class but it's a strain you
+know<,> <{1><[1><,></[1> and um<,> well he doesn't get any awards
+because he's sort of average compared to<,> the other kids I
+guess <#\>I Don't know but I never see<,> <quote>good
+work</quote> on his page or anything<,> <{2><[2><,></[2> <#\>Yeah
+<#\>So
+<$B> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Oh really</[2></{2>
+     <#\>Oh that's not very good <#\>Teachers need to
+encourage every kid
+<$A> <#\>Yeah <#\>I think so <#\>Well I'm going into see them
+because he always comes home with these crummy little bits of
+paper<,> <#\>You know  he's he's  traced
+around a coin or something<,>and not very well <,>
+with<,> good work stamped on it<,> and just ripped off  bits of bits of  a computer paper and <@>forename10</@> 
+doesn't<,> you know get anything and he's doing proper work
+and I just feel a bit<,,> as though you know <@>forename10</@> sees the
+contrast<,> <,> <#\>You know I guess <@>forename11</@> 's teacher is
+very lavish with the praise and<,> <@>forename11</@> is thriving<,,> and um
+<@>forename10</@> 's teacher is sort of gets annoyed <w>'cos</w> he loses
+his books all the time and<,> you know whinges about who he's
+sitting next to<,> and so I went to see the
+counsellor to just say <quote>well he's just had so much
+stress the last year he's not gonna cope very well and you
+know could the teacher just<,> be patient with him and be
+positive and<,></quote> so I'm going to see her next week</I>

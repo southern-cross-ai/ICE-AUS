@@ -1,0 +1,328 @@
+<S1A-013> <2001>
+
+<I><$A> <#\>Is this the physics area or something
+<$B> <#\>Dunno
+<$A> <#\>No wait a minute it can't be  'cause I had <,,> <#\>No
+we're only <#\>Is this the second level or the third
+<$Z> <X><#\>Second <#\>Is it</X>
+<$A> <#\>That's why <#\>'Cause I got chemistry  I used to have
+chemistry upstairs <,,> <#\>Yeah I thought it didn't look right 
+I thought  strange  it didn't look like this when I had
+chemistry here <#\>Looked <{><[>wrong</[> 
+<$B> <#\><[>It didn't</[></{> <O>laugh</O>
+<$A> <#\>More chocolate
+<$B> <#\>No thankyou
+<$Y> <X><#\>It was very yummy <@>forenameA</@>  thankyou</X>
+<$A> <#\>You sure
+<$B> <#\>That's your share anyway <@>forenameA</@> 
+<$A> <#\>I know but I don't want it all
+<$B> <#\>Yes you do <#\>Save it <#\>Save it for later <,,>
+<$Y> <X><#\>So what's your last day been like <@>forenameB</@> </X>
+<$B> <#\>Good <#\>All these people want me to send them
+postcards <O>laugh</O> and tell them how I'm going and come and
+visit them when I come back <#\><@>familiarname1</@> even gave me a kiss
+<#\>That
+was nice of her
+<$Z> <X><#\>Hm</X>
+<$Y> <X><#\>Hm <O>laugh</O></X>
+<$B> <#\>Yeah  you don't realize how much <,> impression you
+might have made on people until you leave and say goodbye to
+them
+<$Y> <X><#\>Mm <#\>Yeah</X>
+<$B> <#\>Really encouraging <#\>So hopefully I'll be able to
+make friends with similar type people down in Wollongong and
+um stick around long enough to make use of it <O>laugh</O> <#\>Know
+more than their names
+<$A> <#\>Mm
+<$B> <#\>Get to know them a bit
+<$Y> <X><#\>So you going to visit us next year</X>
+<$B> <#\>Yeah
+<$A> <#\>Yeah
+<$B> <#\>Of course <#\>I'm going to figure out when um 
+Wollongong's on holidays and you guys aren't  and if there's
+any weeks that are like that I'll come then <#\>Otherwise I'll
+just come in the holidays and get together with you at Windsor
+or somewhere<,,> my place<,,> dad's place <#\>Or I suppose you
+guys can always come to Wollongong too
+<$Y> <X><#\>I'd like to visit</X>
+<$B> <#\>Come to Vision Trip <#\>There's this official thing
+that <@>Forename1</@> 's organised that nobody's actually done yet
+<O>laugh</O> called a Vision Trip
+<$Z> <X><#\>What's that</X>
+<$B> <#\>It's you come down to  you go to a different uni and
+check out their student life and see what they're doing and
+get inspired
+<$Y> <X><#\>I'd love to  but it's what day is their
+meetings on  are their meetings on</X>
+<$B> <#\>Wednesday
+<$Y> <X><#\>It's really a bad day</X>
+<$B> <#\><O>inaudible</O>
+<$Y> <X><#\><O>inaudible</O></X>
+<$B> <#\>It's really good 'cause it goes Tuesday Macquarie 
+Wednesday Wollongong  Thursday Sydney <#\>So if you want to share
+speakers or anything you can <#\>Not that we usually do  works
+well when frontliners come anyway
+<$A> <#\>Hmm
+<$B> <#\>If everyone does need to visit everyone else
+<$A> <#\>I'm tired
+<$B> <#\>Why <@>forenameA</@> <#\>What time'd you go to bed
+<$A> <#\>Oh  it's not that  it's I just had a prac
+<$B> <#\>Mm
+<$A> <#\>It was the grossest prac <#\>I'm glad it's finished
+now <#\>Oh you don't  you don't  you don't want to know what we
+did <O>laugh</O> <#\>You just  you've just eaten so you don't want to
+really know <O>laugh</O>
+<$Z> <X><#\>Thanks</X>
+<$Y> <X><#\>Mm <#\>Hmm hm</X>
+<$B> <#\>I appreciate 
+<$?>      <#\><{><[>I'm scared</[> 
+<$B> <#\><[>when you say</[></{> things like that rather than just
+tell us <O>laugh</O> <#\>I hate it <{><[>when people just</[> 
+<$A> <#\><[>Oh actually</[></{> I was telling my sister during dinner
+last <O>laugh</O> night
+<$Z> <X><#\>Oh <@>forenameA</@> </X>
+<$A> <#\>No but she  no they've got cast iron stomachs um 
+sort of <#\>I didn't go into any gruesome <O>laugh</O>
+<$B> <#\>It's really <{><[>bad sometimes</[> 
+<$A> <#\><[>Details</[></{> 
+<$B> <#\>having meals with nurses <#\>Or young mums
+<$Z> <X><#\><O>laugh</O></X>
+<$B> <#\><{><[>Or young kids</[> 
+<$Y> <X><#\><[>Or young doctors</[></{> </X>
+<$B> <#\>Yeah or doctors  ohhh<,> <{><[>bad news</[> 
+<$A> <#\><[>Yeah</[></{> 
+<$Y> <X><#\>'Cause they're just so so so frank <O>laugh</O> <#\>Oh
+dear <,,> <#\><@>forenameA</@> I really like your sweater <#\>It's really
+nice</X>
+<$A> <#\>Oh thankyou <#\>It's part of a a tracksuit sort of
+thing
+<$B> <#\>Mm <#\>What colour are the pants to it
+<$A> <#\>Oh well  you can have two <O>laugh</O>
+<$B> <#\>What have you got <#\>You got both
+<$A> <#\>Well I don't know if they both go with it or you
+know my mum just bought two
+<$B> <#\>Mm
+<$A> <#\>Ah  one's um  one's got this green
+<$B> <#\>Oh right  yeah
+<$A> <#\>And it's got um on the stripe it's got black and the
+pink
+<$B> <#\>Mm
+<$A> <#\>And the other one's just a black pair of  tracksuit
+pants <#\>But I don't wear them <O>laugh</O> very of  oh well I do
+but<,> I wanted to wear jeans
+<$Y> <X><#\>Hm <,> <#\>Hmm</X>
+<$B> <#\><O>sigh</O> <,,>
+<$Y> <X><#\><@>forenameA</@> what are you doing in the holidays</X>
+<$B> <#\>Yeah
+<$A> <#\>Mm <O>laugh</O>
+<$Y> <X><#\><O>inaudible</O> doing Christianity explained
+training</X>
+<$A> <#\>Yeah I'm having
+<$Y> <X><#\>When are you doing that</X>
+<$A> <#\>Ask <@>forenameB</@> 
+<$B> <#\>Dunno yet <#\>Got to figure out <#\>It won't be till
+after
+um Christmas  I don't think 
+<$Z> <#\>yeah
+<$B> <#\>'cause I go to<,> Summer Frontline before exams
+finish so we can't do it <O>inaudible</O> a bit hard for everyone
+<#\>So it'll probably be some time in January  early January
+<$A> <#\>I don't know besides that  I guess I'll be
+working<,> somewhere
+<$Z> <X><#\>On what</X>
+<$A> <#\>At a job you know <#\><O>laugh</O> I don't know  maybe at my
+uncle's service station <,,> <#\>I don't know <#\>A bit
+<#\>Hopefully I
+can get a paying job  it'll help <#\>Help my sister get a job
+<#\>Oh
+I've got to I've got to ring up  I have to find out  'cause
+they're supposed to call her back today from the interview
+that she went on Monday
+<$B> <#\>Mm
+<$A> <#\>Gonna call her back or she is gonna call them today 
+see either way she'll know and I want to know  hope she got
+it <,,> <#\>Yeah I remember when<,> few weeks ago you know she
+was at she already had a feeling then she was gonna lose her
+job  you know  'cause
+<$B> <#\>Hm
+<$A> <#\>I'm glad though she is not working where she was
+working anymore <#\>They just treated her so bad
+<$B> <#\>Hm
+<$A> <#\>You know
+<$B> <#\>It's Not good
+<$A> <#\>They just took advantage of her left  right and
+centre and her boss is such a cheap skate <#\>I mean  he  she saw
+at the C E S  that now  she worked at Ashfield at a real
+estate agency  and well we can't be a hundred percent sure
+whether it's the one where she worked but I'm quite sure
+because she saw C E S officers coming in and talking to her
+boss
+<$B> <#\>Mm
+<$A> <#\>just recently and and now at this C E S she saw an
+ad and it had  ah  um  that that they were looking for a
+seventeen  a sixteen to seventeen year old
+<$B> <#\>Yeah  'cause they're cheaper
+<$A> <#\>Yeah  five days a week <#\><{><[>So</[> 
+<$B> <#\><[>Really</[></{> 
+<$A> <#\>Yeah  so I mean it's not like you know  they lied to
+her <#\>They said  oh there's no more work  you know
+<$B> <#\>Mmm
+<$A> <#\><{><[>That's why they were gonna let her</[> 
+<$B> <#\><[>That's terrible</[></{> 
+<$A> <#\>go
+<$B> <#\>Still if that's the <{><[>way they operate</[> 
+<$A> <#\><[>Actually they didn't</[></{> 
+<$B> <#\>maybe she's better off
+<$A> <#\>Actually they haven't even had the guts yet  her
+boss hasn't even had the guts yet to  you know  lay her off
+her job
+<$Z> <X><#\><{><[>What job is it</[> </X>
+<$A> <#\><[>In a round-about way,</[></{> you know he said  oh it's
+um  she does  she collects rent and stuff  but she's a
+secretary receptionist like thing
+<$Z> <X><#\>Oh right </X>
+<$A> <#\>But she does a lot of the rental stuff for them <#\>And
+she collects the rent and<,>  you know  a few things like
+that <#\>And I mean they made a mis  they made a mistake
+somewhere or o or other along the track one day  er  a couple
+of weeks back  was it last week <#\>It was on Monday or something 
+they  I dunno who who messed up and and eighty-five dollars
+went missing and they took it out of my sister's pay
+<$B> <#\>Really
+<$A> <#\>And it wasn't even her fault <#\>She had nothing to do
+with it  <,>
+<$Z> <X><#\><{><[>That's awful</X></[> 
+<$B> <#\><[>like</[></{> 
+<$A> <#\>But my sister  you know  she's quite shy and quiet
+and she wouldn't complain <,,> at all
+<$B> <#\>Mm
+<$A> <#\>She's not  and that's the thing you know  <{><[>she's
+always taken it</[> 
+<$B> <#\><[><O>inaudible</O></[> </{>
+<$A> <#\>She's always just taken it  you know  whatever he's
+dished out <#\>She's just taken it without complaining <,,>
+<#\>Actually I'm the one who complains 
+<$BYZ><#\><{><[><O>laugh</O></[> 
+<$A> <#\><[>She</[></{> gets treated bad and I complain 'cause I mean
+I can see what it's doing to her  I mean especially in the
+last few weeks when she knew that  you know  when she saw that
+her hours were being cut  you know  really drastically like
+from four days to three days to two days 
+<$B> <#\><{><[>Mm</[> 
+<$A> <#\><[>And she</[></{> knew that  you know  she er that she
+might lose her job and that scared her a bit 'cause she didn't
+want to be unemployed again
+<$B> <#\>Yep
+<$A> <#\>She's not gonna go back to go  she she doesn't want
+to go to back to Petersham C E S to get a job from them
+anymore  'cause she  you know every time she gets a job from
+them it's really temporary and
+<$B> <#\>Hm <#\><O>inaudible</O>
+<$A> <#\>Yeah
+<$Z> <X><#\>There's one in Parramatta</X>
+<$A> <#\>Yeah  she's been looking there  and she looks in the
+paper and<,> and oh you know  things like that <#\>She she looks
+everywhere
+<$B> <#\>So the C E S is all localised <#\>Like do you go to the
+one that  do they mainly handle jobs in the area
+<$A> <#\><{><[>Yeah</[> 
+<$B> <#\><[>Or do</[></{> they just handle anything
+<$A> <#\>Well  mostly jobs in the area <#\>I guess if you've got
+a contact  a good friend in the C E S  you know  you can go to
+that one<,> and they'll help you out like at Petersham here
+they helped my my dad <#\>I'm grateful that they helped my Dad
+get a job  'cause he was scared he wasn't going to get one
+'cause he's too old <,,> <#\>And he's got a good job <#\>Actually
+they offered my dad a partnership in the business but  'cause
+they're extending it  they're extending the fruit market there
+at Petersham  and they're 
+<$B> <#\><{><[>Mm</[> 
+<$A> <#\><[>making</[> </{>a big area there  a grocery grocery  you
+know  supermarket  and  but my dad can't afford it
+<$B> <#\>Partnerships are a bit dodgy anyway <,,> <#\>They seem
+to be good if they work  but if they don't work  it can cost
+you a lot of money
+<$A> <#\>Yeah <#\>Oh well they got two brothers in it <#\>One's
+got
+a fruit shop at Petersham  one's got a big fruit shop at
+Leichhardt <#\>And  they're doing really well <#\>Pretty
+<{><[>successful</[> 
+<$B> <#\><[>Yeah,</[></{> but like  if things go well  then  if
+there's something that you can be personally<,> liable  like
+if the company goes down the drain and it's a partnership 
+each partner is personally liable for the <{><[>expenses</[> 
+<$A> <#\><[>Oh yeah</[></{> 
+<$B> <#\>Well  it might just depend on how you organise it <#\>I
+don't know  but I've heard that they're not the best things
+<$A> <#\>Mmm
+<&>possible break in recording here, or participant bumps
+microphone</&>
+<$B> <#\><@>forenameA</@> you coming on Friday night to eat pizza
+<$A> <#\>I don't know <#\>It depends
+<$B> <#\>On what
+<$A> <#\>On whether my dad's better or not
+<$B> <#\>Oh  right <#\>'Cause would he give you transport
+<$A> <#\>I don't know <#\>Maybe <#\>I guess <#\>He's the only one
+in
+the house with a car <O>laugh</O>
+<$Y> <X><#\>Really</X>
+<$A> <#\>Oh yeah <#\>He'll drive  he drives me wherever I need
+to be driven
+<$B> <#\>Mm <#\>'Cause it'd be good if you could come <#\>It's
+gonna be unreal <#\>We're having party pizza <#\>It's a whole
+metre
+wide and three inches thick  and <@>forename2</@> 's gonna have to eat half
+of it
+<$ABYZ> <#\><O>laugh</O>
+<$A> <#\>I'm bored of pizza <#\>I mean we eat it all the time 
+oh <{><[>not all the time</[> 
+<$B> <#\><[>Yeah but this is</[></{> gonna be peter with a novel  a
+pizza with a novelty <#\>It's gonna be huge 
+<$?> <#\><O>inaudible</O>
+<$B> <#\>Besides the main reason  or my main reason that we're
+going there is to placate <@>forename2</@> and get him to shut up about
+Belmonte's
+<$Z> <X><#\><O>laugh</O></X>
+<$B> <#\>'Cause I'm sick of hearing about it <O>laugh</O> <#\>He's
+been telling me all year since his brother's buck's party how
+unreal it was  so it's about time we went there so that we all
+know  so he doesn't have to tell us any more <O>laugh</O> <#\>And then
+we're gonna watch um the video that we took at the Leadership
+Retreat <O>laugh</O> <#\><@>Forename2</@> and I playing darts <O>laugh</O> and
+and um  what else is on it <#\><@>Forename3</@> playing pool
+<$Y> <X><#\>Me being an idiot <O>laugh</O></X>
+<$B> <#\>Oh  and also we're wearing <@>Forename4</@> 's hat 
+<$ABYZ>    <#\><O>laugh</O>
+<$B> <#\>And he's looking like a bikie Santa Claus
+<$ABYZ>   <#\><O>laugh</O> 
+<$B> <#\>It's gonna be unreal <#\>And then we've got a video
+that <@>Forename1</@> made as well  a Student Life one
+<$A> <#\>Ohh
+<$B> <#\>So <#\>We don't have to watch all of that  but we may
+as well watch a bit just to tell him that we did <O>laugh</O>
+<$A> <#\>Yeah <#\>Do you guys have anything like home movies 
+you know  like when you were younger
+<$B> <#\>Yeah <#\>My parents have got one<,>  of  um some of<,>
+me at Disneyland
+<$Z> <X><#\>Ah ha</X>
+<$A> <#\>You went to Disneyland <#\>Oh wow
+<$B> <#\>My dad used to be a travel agent  so he said when
+you learn to walk we'll go to Disneyland  so I did <#\>And we
+went
+<$A> <#\>Oh wow
+<$B> <#\><O>laugh</O> When I was about seven <#\>Its good
+<$Z> <X><#\>Cool</X>
+<$B> <#\>So we got video of that and we've got  I think some
+of New Zealand <#\>All my mum's films that she took  my uncle put
+them on video for us
+<$A> <#\>Yeah I <{><[>want to get</[> 
+<$B> <#\><[>Christmas ones</[></{> 
+<$A> <#\>I want to get mine on video too <#\>That'll be good
+<#\>'Cause mine are on that  you know that<,>  those old
+projectors and that
+<$B> <#\>Yeah <#\>That's what ours was on
+<$A> <#\>No sound though <O>laugh</O>
+<$B> <#\>Yeah <,>
+<$Z> <X><#\>Oh really</X>
+<$A> <#\>I've got one of my baptism<,> <#\>When I was when I was
+little  and one of my first birthday</I> 

@@ -1,0 +1,89 @@
+<W2A-032>  <2032>
+
+<I><#\><h><bold>ON THE FEASIBILITY OF USING APPLICATION-SPECIFIC SPEECH TO DERIVE A GENERAL-PURPOSE SPEECH RECOGNISER TRAINING DATABASE</bold></h> 
+ 
+<#\>M O'Kane and P Kenne 
+<#\>Faculty of Information Sciences and Engineering 
+University of Canberra 
+ 
+<#\><h>ABSTRACT</h> <longdash><p>A speech database is easier to mark-up if what the speakers are saying is known before marking-up commences. <#\>In a joint project with the court reporting services we have examined the feasibility of using court speech recordings and associated transcript to derive a general-purpose speech recogniser training database. <#\>The first question addressed was the size of the natural vocabulary that was covered by day-to-day court proceedings. <#\>The next question addressed was the frequency of occurrence of the various words and phrases in this vocabulary. <#\>We then turned to the issue of how much transcript had to be examined in total in order to get a reasonable number of examples of all the commonly-occurring words in the vocabulary. <#\>All this work was done using automatic analysis of transcript text.</p> 
+ 
+<p><#\>Another important aspect of speech-database collecting is the overall time it is going to take to mark-up a database of known size. <#\>In order to address this issue we conducted mark-up speed trials in which several experienced speech database markers were timed for speed of marking-up speech from associated transcript. <#\>A special software mark-up system was used which ideally requires only four mouse-clicks to mark up and confirm each instance of each word entered in the database. <#\>Each marker was marking-up at word level only. <#\>Quality of marking-up was checked for each marker.</p> 
+ 
+<p><#\>While the exact minimum amount of data needed to train a very large speech recogniser is unknown, experiments such as the ones described here suggest that the concept of deriving such databases from application-specific speech is a very large but not an impossible task.</p> 
+ 
+<#\><h>INTRODUCTION</h> 
+ 
+<p><#\>Practical use of statistically-based recognisers requires the generation of large marked-up databases to train the recognisers. <#\>The collection and marking-up of speech databases is a time-consuming task. <#\>Investigating ways of speeding up the collection of speech-recogniser training databases, we examined court transcript data. <#\>Court and parliamentary transcript has been used by others for language-modelling 
+studies (Brown, della Pietra, Mercer, della Pietra and Lai, 1992). <#\>In Australian courts essentially all proceedings are recorded and the recordings are retained for a statutory period. <#\>For most courts written transcript is also produced and retained. <#\>We investigated the issue of seeing if the combination of transcript and recording could be used to derive a useable database for training general-purpose and application-specific speech recognisers.</p> 
+ 
+<#\><h>VOCABULARY SIZE</h> 
+ 
+<p><#\>In order to gain some idea of the vocabulary size and the number of repetitions of items in the vocabulary we considered eight consecutive days of transcript from one on<longdash>going case in one court. <#\>The growth in vocabulary size as a function of the number of days of transcript analysed is given in Figure 1a. <#\>In Figure 1b this information is presented again on the same scale as the graph of the total number of all words processed as a function of the number of days of transcript analysed. <#\>(It should be noted that the transcript size for different days varies.) It can be seen that the growth in the vocabulary is quite small. <#\>In total after processing eight days of transcript (170,638 words) the vocabulary is 6133. <#\>If all words were repeated equally often this would mean that the average repetitions per word was approximately 28.</p> 
+ 
+<p><#\>Of course all words do not occur equally often. <#\>So we next investigated the high-frequency words and the number of times they were repeated. <#\>The ten highest-frequency words and their number of occurrences are given in Table 1. <#\>Note that the word "the" accounts for 6% of all the words processed and the words ranked 2-10 in the top ten occurring word list together account for another 22.5% of all words processed.</p> 
+ 
+<p><#\>We were interested not only in the number of items in the vocabulary but also the number of word pairs, word triples, word quadruples and word quintuples that could occur in the transcript and how these numbers varied as each new day's transcript was added to the collection. <#\>This information is presented in Figure 2. <#\>For comparison with Table 1 the top ten occurring word pairs are given in Table 2.</p> 
+ 
+<p><#\>The top ten words even though they do occur very often do not provide a very useful vocabulary, taken as a set. <#\>In order to see if there are enough repetitions of enough other words we considered, for the eight days of transcript, how many words had greater than 10000, 5000, 2000, 1000, 500, 200, 100 occurrences. <#\>This information is given in Table 3.</p> 
+ 
+<p><#\>We were also interested in finding out how long it took to get a reasonable number of words of reasonably high repetition rate. <#\>Some idea of this is given in Figure 3 in which the total number of words processed divided by the number of words occurring more than 400 times is plotted as a function of number of transcript days. <#\>It is interesting that after day 4 (102,255 words processed), the ratio starts to rise, indicating that the high-frequency words are occurring more frequently but not a lot of other words are occurring more frequently.</p> 
+ 
+<#\><h>GENERAL VERSUS SPECIFIC</h> 
+ 
+<p><#\>One would expect that collecting a lot of data from one jurisdiction would lead to a large number of jurisdiction-specific words. <#\>Accordingly we investigated for the top 10, 20, 30, 40 and 50 occurrences of the vocabulary, the word pairs, the word triples, the word quadruples and the word quintuples what the ratio of general words or phrases was to the total number of words or phrases for each set. <#\>This information is given graphically in Figure 4. <#\>The single words are almost totally general at this part of the file with the number of jurisdiction-specific phrases becoming more frequent as the phrase gets longer.</p> 
+ 
+<#\><h>SPEAKER VARIETY</h>  
+ 
+<p><#\>The number of speakers contributing to any given transcript can vary enormously. <#\>For the eight days considered in the experiment described above, only five speakers (a judge and four counsel) contributed to the first seven days while fourteen speakers contributed to the eighth day which was the day on which witnesses were called for the first time.</p> 
+ 
+<#\><h>HOW REPRESENTATIVE IS MATERIAL FROM ONE COURT?</h> 
+ 
+<p><#\>In order to see if data from a single court was comparable to data from another source we analysed two days of conference proceedings and compared data from these with data from the two longest days (day 3 and day 4) of the eight day sequence described above. <#\>This information is given in Table 4.</p> 
+ 
+<#\><h>MARK-UP TIME</h> 
+ 
+<p><#\>The issue that makes this series of experiments worthwhile is that a court-derived speech database is extremely easy and quick to mark-up using a special software tool in which the speech appears in one window and the associated transcript in another. <#\>To mark-up a word, the operator uses only four mouse clicks <longdash>one to mark the start of the word, one to mark the end, one to press to play the word and thus aurally confirm the start and end, and one in the transcript window to save the marks.</p> 
+ 
+<p><#\>Mark-up trials by various markers on long speech files indicate that a skilled and accurate marker averages about 14 seconds to mark-up a word in this way. <#\>This allows for fixing errors and scrolling both windows when necessary.</p> 
+ 
+<#\><h>HOW FEASIBLE?</h> 
+ 
+<p><#\>Although the returns are considerable, the marking-up of court transcript is still a daunting task. <#\>For example it would take an operator 16 1/2 weeks to mark-up the eight days of transcript, assuming the marking-up rate of 14 seconds per word and a 40-hour working week.</p> 
+ 
+<p><#\>Where one starts to win however is by a bootstrapping technique, whereby initially all words are marked but when enough repetitions (whatever 'enough' means) of any word or phrase have been marked these are used to train a statistical wordspotter which then marks-up these words and phrases automatically.</p>
+ 
+<#\><h>ACKNOWLEDGEMENT</h> 
+ 
+<p><#\>This data analysed in this paper was provided by Auscript, the Commonwealth Reporting Service.</p> 
+ 
+<#\><h>REFERENCE</h> 
+ 
+<p><#\>Brown, P, della Pietra, V,Mercer, R L, della Pietra, S A and Lai J C (1992). <#\><it>An estimate of an upper bound for the entropy of English,</it> Comp. Ling, 18, 31-40.</p> 
+ 
+<#\><h><bold>DETERMINATION OF TRAINING SET SIZE FOR A STATISTICALLY-BASED WORDSPOTTER</bold></h>
+ 
+<#\>M O'Kane, P Kenne and O White 
+<#\>Faculty of Information Sciences and Engineering 
+University of Canberra 
+ 
+<#\><h>ABSTRACT</h> <longdash><p>Wordspotting in continuous speech is useful for automatically locating words for audio indexing purposes. <#\>Wordspotting is also the basic technology behind concept spotting, in which the location of enough members of a set of semantically-related words and phrases in a particular segment of speech is taken as an indication that the concept represented by that set is being discussed.</p> 
+ 
+<p><#\>A set of experiments was conducted as a first attempt to determine the size of the database needed to train a statistically-based wordspotter. <#\>False negatives and the false positives are both treated as errors in wordspotting.</p> 
+ 
+<p><#\>In the first experiment the size of the wordspotter training set needed was examined for the speech of a single speaker. <#\>Sufficient training data were collected until good wordspotting was achieved for this speaker. <#\>This experiment was then repeated for the speech of another speaker so that the variation of training set size as a function of speaker could be investigated. <#\>The training sets for the speakers were then pooled and the wordspotter was tested on test sentences for these speakers. <#\>The obvious generalisation experiment was then carried out in which the wordspotter was tested on testspeakers who were not in the training set.</p> 
+ 
+<#\><h>INTRODUCTION</h> 
+ 
+<p><#\>A computationally efficient wordspotter was developed to perform at over 99% recognition in speaker-dependent mode. <#\>Results (less good) for the wordspotter working speaker-independently are also presented.</p> 
+ 
+<#\><h>THE WORDSPOTTER</h> 
+ 
+<p><#\>The wordspotter was constructed as follows. <#\>Twelve different 14-band broad encodings (O'Kane 1987)  were computed from the fft of the input speaker. <#\>The bands for any one encoding are mutually exclusive. <#\>Each band receives one of the labels a,b,c,<*>dotted-line</*>,n. <#\>Speech which has the word to be spotted marked-up is then encoded using the twelve encodings. <#\>For each encoding a dictionary containing the encodings of the marked-up target words is constructed. <#\>An example of the dictionary for the first encoding for the word "crosstalk" occurring 119 times in continuous speech is given in Figure 1.</p> 
+ 
+<p><#\>If one examines the twelve dictionaries one sees that the entries in any one dictionary are generally "close" in some word-nearness sense. <#\>This can be quantified by formally developing measures which reflect the number of letters by which any two dictionary entries differ. <#\>Or it can be quantified by considering all word pairs, triples, <*>dotted-line</*>, n-tuples within the words of any dictionary. <#\>Table 1 shows the number of pairs to 6-tuples encountered for the dictionary in Figure 1. <#\>This table also gives the number of n-tuples theoretically possible for n=1 to n=6. <#\>The striking feature of these numbers is how small they are compared to the theoretical possibilities. <#\>That this holds for all twelve dictionaries can be seen in Table 2 which gives the 4-tuple results for all encodings.</p> 
+
+<p><#\>This relatively low number of n-tuples is used in the wordspotter as follows. <#\>The utterance to be tested for the presence of the word to be spotted is encoded using the twelve encodings. <#\>Each utterance encoding is searched for the presence of the allowed 4-tuples for that encoding. <#\>Where two or more 4-tuples occur overlapping a potential find is marked. <#\>(Note that no word in the dictionaries is of length less than five.) Also marked are cases of (a 4-tuple + a letter + 2 or more overlapping 4-tuples) and (2 or more overlapping 4-tuples + a letter + a 4-tuple) and so on. <#\>This process is illustrated in Figure 2.</p> 
+ 
+<p><#\>The potential finds for the twelve encodings are then OR-ed in time. <#\>Each potential find in each encoding is assigned a notional weight of 1. <#\>When two or more finds are OR-ed the weights are summed. <#\>After the OR-ing process is complete, all portions of speech which have a weight of 7 or more (it could be any number up to 12) are deemed to be the wordspotter's best attempt at the word being spotted.</p></I>
+

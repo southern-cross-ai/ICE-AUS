@@ -1,0 +1,93 @@
+<W1A-015>  <2013>
+
+<I><#\><h>Question 4(b).</h>
+
+<p><#\>The case of Hamilton v Hunter held that a <del>mortgagor</del> debtor is not able to dispose of property that is subject to a floating charge, <del>in a manner</del> in order to defeat the security holder's security.</p>
+
+<p><#\>The case therefore places a limit on the concept of <quote>the ordinary course of business</quote>. <#\>This is important because a debtor under a floating charge may deal with the property subject to the charge, free of the charge, in the ordinary course of business. <#\>Accordingly, because the debtor can deal relatively freely with the goods, it would be possible, as was attempted by the scheme manager in <ul>Hamilton</ul>, to defeat the security, thus rendering the chargee effectively an unsecured creditor.</p>
+
+<p><#\>Therefore, the holder of a floating charge, if not for this limit, would be required to continually monitor the debtor to ensure that the property charged was not dealt with inconsistently with the charge.</p>
+
+<p><#\>The essence of the floating charge, as noted above, is the ability of the debtor to deal with the charged goods in the ordinary course of business. <#\>In order to explain the conceptual basis for this, two theories have been put forward: an implied licence, or a mortgage of future of assets.</p>
+
+<p><#\>Neither theory can explain all aspects of the characteristics of floating charges. <#\>See article by Burns (1992) <smallcaps>ablr</smallcaps> 125</p>
+
+<p><#\>In <ul>Hamilton</ul> v <ul>Hunter</ul>, the implied licence theory was invoked, it being held that it is not compatible with such <#\><h>Q 4(b)</h> a licence to allow the debtor to dispose of goods for the purpose of defeating the security.</p>
+
+<p><#\>A transaction made to defeat a security will therefore be set aside, thus strengthening the security.</p>
+
+<p><#\>In <ul>Tricontinental</ul>, it was held that the holder of a floating charge does not have a proprietary interest in the goods prior to crystallisation of the charge. <#\>Therefore, a security holder, is generally, unable to intervene to prevent the debtor under a floating charge from disposing of the property.</p>
+
+<p><#\>However, in <ul>Re Margart</ul> Helsham <smallcaps>cj</smallcaps> in <smallcaps>eq</smallcaps> in the <smallcaps>nsw</smallcaps> Supreme Court, held that the charge holder did have a beneficial interest in the property under the charge prior to crystallisation. <#\>Therefore, by an injunction a charge holder can prevent improper dispositions of property. <#\><ul>Hamilton</ul> v <ul>Hunter</ul> therefore provides an instance in which a charge holder can prevent a disposition of the goods under the charge.</p>
+
+<p><#\>Once a receiver is appointed, a floating charge will crystallise and give the charge holder a proprietary interest in the goods under the charge. <#\>However, it is prior to<del><O>unclear</O></del> crystallisation that the holder of a floating charge is subject to the debtor dealing improperly with the goods.</p></I>
+
+<I><#\><h>Question 6(a)</h>
+
+<p><#\>In <ul>Tournier</ul> v <ul>National Provincial & Union Bank of England</ul>, the English Court of Appeal (per Bankes and Atkin <smallcaps>ljj</smallcaps>, Scrutton <smallcaps>lj</smallcaps> dissenting) held that the bank owes a general duty of secrecy to its customers. <#\>This is not an absolute duty but a qualified duty. <#\>The duty of secrecy applies to knowledge which the bank acquired before the banker-customer relationship was contemplated, or after it has ceased. <#\>It also applies to knowledge derived from other sources during the continuance of the relationship. <#\>However, Scrutton and Atkin <smallcaps>ljj</smallcaps> each said that a bank may disclose information about a customer in order to protect its own interests, but only when it is reasonably necessary.</p>
+
+<p><#\>The Evidence Act 1898 (<smallcaps>nsw</smallcaps>) s 49 provides that a banker is not compellable to produce information about a customer if the bank is not a party to that litigation. <#\>However, this section has not been included in the Evidence Bill 1993 (<smallcaps>nsw</smallcaps>). <#\>Nor was it in the 1991 Bill, or the Commonwealth Evidence Bill 1993 or in the <smallcaps>alrc</smallcaps> draft evidence Bill. <#\>This was confirmed to me by Marion Pascoe in the <smallcaps>nsw</smallcaps> Parliamentary Counsel's Office: 228-7139.</p>
+
+<p><#\>A further exception was <del>not</del> revealed in <ul>Banker's Trust</ul> v <ul>Shapira</ul>. <#\>A bank was ordered to disclose account details of a customer who was prima facie guilty of fraud, to enable the plaintiff access to its full equitable rights.</p>
+
+<p><#\>Section 50 of the Evidence Act <del>(re</del> provides a court may order a banker to produce documents. <#\>Similar provisions are in the Bills.</p></I>
+
+<I><#\><h>Question 6(b)</h>
+
+<p><#\><del>in Woods</del> In <ul>Great Western Railway Co</ul> v <ul>London & County Banking Co</ul>, it was held that in order to be a customer of a bank a person must have an account of some type. <#\>However in <ul>Woods</ul> v <ul>Martins Bank</ul>, it was held that a person who used a service provided by the bank, in this case the provision of financial advice, was a customer though he did not, at that stage have an account with the bank. <#\>The decision expressly relied on the fact that the bank held itself out as providing financial advice.</p>
+
+<p><#\>Professor Cooray argues that <ul>Great Western Railway</ul> is confined to an interpretation under s 82 of the Bills of Exchange Act 1882 (<smallcaps>uk</smallcaps>), as it was in 1901. <#\>However, a better view is that a customer of a bank is a person who uses a service that the bank holds itself out as providing. <#\>Therefore in <ul>Great Western Railway</ul>, the bank's only business, as found, was to operate accounts. <#\>In <ul>Woods</ul>, the bank's business included the provision of investment advice.</p>
+
+<p><#\>Therefore, if it is part of the bank's business to advise, then a person who seeks advice is owed a duty of care by the bank, and is a customer.</p></I>
+
+<I><#\><h>Question 6(d)</h>
+
+<p><#\>The initial remedy that is apparent from the facts, is an action for damages under the trade Practices Act or the Fair Trading Act for misleading and deceptive conduct. <#\>The representation made by Jerimiah was in trade or commerce, was false (breach of s 53) and was misleading and deceptive (s 52). <#\>Therefore damages under s 82, probably on a tort basis can be recovered.</p>
+
+<p><#\>Alternatively an action for fraudulent misrepresentation could be used, based on the principles in <ul>Commercial Banking Co of Sydney</ul> v <ul>R H Brown & Co</ul>. <#\>This case held that it is banking practice that it is understood that a banker's opinion will be relied upon. <#\>Thus as the statement was in fact false, made knowingly, then it can be inferred that an intention to deceive existed. <#\>Whereby Steve and Earnest acted upon it and thereby suffered damage.</p>
+
+<p><#\>Of course Earnest and Steve have an action against for a quantum meruit against Bullwinkle Corp. <#\>They would also be able to sue upon an implied covenant to pay. <#\>Other bases would include conversion, detinue and possibly trespass. <#\>They would be able to recover damages, or because it is a work of art, equity could order specific performance or rescind the contract, because the good is special. <del>damages</del>.</p>
+
+<p><#\>Steve would also have an action <del><O>unclear</O></del> in contract against Earnest because Earnest commissioned him to produce the sculpture.</p></I>
+
+<I><#\><h>Question 5(a)</h>
+
+<p><#\>An indemnity, as explained by Clarke J in <ul>Citicorp</ul> v <ul>Hendry</ul> involves a contract by which one party agrees to keep the other party harmless against a loss. <#\>A guarantee is a contract, whereby the promisor agrees to answer for the debt, default or miscarriage of another party who is to be primarily responsible to the promisee.</p>
+
+<p><#\>The essential difference between an indemnity and a guarantee, is that an indemnity only involves two parties, whereas a guarantee involves three.</p>
+
+<p><#\>The legal consequences of the distinction <del>are</del> is that a party who <del>c</del> indemnifies another is under a primary obligation to make good the other party's loss. <#\>In the case of a guarantee, the party giving the guarantee is subject to a secondary obligation. <#\>Accordingly, a guarantee will be avoided or unenforceable where the primary obligation is void. <#\>However an indemnity can still be enforced as long as the indemnified party suffers a loss.</p>
+
+<p><#\>According in <ul>Citibank</ul>, the transaction which was expressed to be an indemnity, was held, after examining the substance to be a guarantee, and because the primary obligation was void as an <del>al</del> attempt to enforce a penalty then so was the guarantee also avoided. <#\>If the Court had held that it was an indemnity, the defendant would have had to have paid the loss suffered.</p>
+
+<#\><h>Question 5(b)</h>
+
+<p><#\>In <ul><smallcaps>cba</smallcaps></ul> v <ul>Amadio</ul>, the High Court held that a guarantee and mortgage were to be set aside, because it was unconscionable, considering the inequality between the parties that the bank be allowed to enforce its rights. <#\>In <ul>Nobile</ul>, a similar conclusion was reached, but it was added that the statements by the stronger party inducing the weaker party to enter into the guarantee and mortgage were in breach of ss 52 and 53 of the Trade Practices Act, which prohibit misleading and deceptive conduct, and false representations respectively.</p>
+
+<p><#\>As regards commercial lenders, this means that they should always ensure that borrowers, particularly where they are private individuals, are fully appraised of the total effect of the documents they are being asked to sign. <#\>Commercial lenders will almost always be in a much stronger position than a borrower, in regard to knowledge of lending, effect of documents, subject of guaranteed debt etc. <#\>Exceptions might be if the borrower were a large corporation, which had the resources and bargaining power to counter the lenders.</p>
+
+<p><#\>Because of the inequality in bargaining power, it would best if the weaker party were at least given, or told to obtain, independent advice as to the consequences of entering the transaction. <#\>This is a more feasible approach than expecting a commercial lender to act against its interests. <#\>Further because, banks (who are usually the lender) are only required to disclose unusual aspects, or elements not normally to be expected, <#\>they may not be thorough enough to enable the guarantor to decide what is in their own best interests.</p></I>
+
+<I><#\><h>Question 3(a)</h>
+
+<p><#\><del>The question of</del> In determining whether the agreement containing the reservation of title is a registrable charge, the first step is to consider s 262 of the Corporations Law. <#\>Subsection 262(2) then provides a charge arising by operation of law is not registrable.</p>
+
+<p><#\>Therefore, if the agreement is a <ul>Romalpa</ul> clause, it is not registrable. <#\>However, as noted in <ul>Borden</ul> v <ul>Scottish Timber</ul>, one must consider what the parties intended to create, and if a charge was intended to be created, the document is registrable.</p>
+
+<p><#\>A Romalpa clause provides that the property in goods is not to pass until the purchaser has paid the purchase price. <#\>The purchaser is accordingly, constituted as the seller's fiduciary agent, and is a bailee of the goods. <#\>However, it would appear that such a clause is only effective if the goods will not be mixed. <#\>Further, very clear words are required to constitute the buyer as a fiduciary agent. <#\>Accordingly, the main advantage is that a formal security does not have to be created and registered. <#\>This is because there is no transfer of title.</p>
+
+<p><#\>The other option to consider is that discussed in cases such as <ul>Wilson</ul> v <ul>Kelland</ul>, <ul>Re Connolly Bros (No 2)</ul> and <ul>Re Bunbury Foods</ul>. <#\>These cases held that where a company acquires goods subject to a charge, then <del>they do</del> the company does not acquire a full title to the goods, but rather receives an equity of redemption. <#\>However s 264 of the Corporations Law provides that where a company acquires property that is subject to a charge, being a charge that would have been registrable when it was created if it had been created by a company, the company must lodge a notice in accordance with s 
+263(1).</p>
+
+<#\><h>Question 3(b)</h>
+
+<p><#\><del>The interest in the bales of leather:</del></p>
+
+<p><#\><del>The leather that has not been sol</del></p>
+
+<p><#\><del>The charge</del></p>
+
+<p><#\>Because Bootco is in liquidation, it must first be determined whether the agreement is registrable and if so, was it. <#\>If the agreement was registrable, but was not registered, then under s 266 of the Corporations Law Blue Cow will have no interest.</p>
+
+<p><#\>It would appear that the parties intended to create a charge, and as Bootco was empowered to onsell both processed and unprocessed leather, together with a lack of clear words constituting Bootco a fiduciary, the agreement is a registrable charge.</p></I>
+

@@ -1,0 +1,90 @@
+<W2D-013>  <2007>
+
+<I><#\><h><bold>Construction Project:</bold></h>
+
+<#\><h><bold>A Multifunction Fluoro Light</bold></h>
+
+<p><#\>The title of this project doesn't do it justice. <#\>What do you call (in three words) a project that includes an efficient 12V inverter to operate a range of fluorescent tubes at full brilliance, an onboard regulator to charge the 12V battery from a solar cell, an ultrasonic movement detector and a FET power switch to flash an emergency light? <#\>And there's lots more<*>dotted line</*></p>
+
+<#\>by PETER PHILLIPS
+
+<p><#\>This project comes from the design team at Oatley Electronics, and is aimed at those who want a versatile project at the best possible price. <#\>It started out as an all-new 12V fluorescent lamp in<l>verter, which by itself will be popular with constructors. <#\>But, as regular readers know, fluorescent lamp inverters have been described before, so the team decided to extend things a bit. <#\>Well, more than just a bit<*>dotted line</*></p>
+
+<p><#\>The most important part of this project is the inverter itself, designed by Conrad Marder. <#\>Ideally, an inverter should have a high efficiency and be able to drive a range of tubes to full brilliance. <#\>This one has all this: it has an efficiency better than 90% and can power fluorescent tubes ranging from 6W to 20W, to al<l>most the same light output as if they're operated from the mains.</p>
+
+<p><#\>For instance, a 20W tube takes 1.4A at 12V (17W of input power), with a light output of around 16W, or about 80% of its normal rated output. <#\>Because the tube is operating at slightly less than its full rated output, the tube life is extended, and you won't really notice the difference in the light output. <#\>However, if you want more light output, simply change a resistor value.</p>
+
+<p><#\>To give a range of options on how to turn the light on and off, the design team included a digital interface. <#\>This part of the circuit allows the light to be switched on by any device that delivers a pulse. <#\>There's also a timer in the circuit (that can be disabled wit a link), so a pulse input can turn on the light for three minutes or so. <#\>You can also add an LDR (light dependent resis<l>tor), so the light is automatically dis<l>abled during daylight.</p>
+
+<p><#\>There are two inputs: one that accepts a positive pulse and the other a negative pulse. <#\>This way, you can operate the light from a PIR detector, a pushbutton, an infrared or RF remote control; anything that gives either a positive or a negative-going pulse.</p>
+
+<p><#\>To make the project attractive to as many people as possible, the designers also included a regulator to allow the 12V battery to be charged from a solar panel. <#\>The regulator prevents the battery from overcharging, but is only for use with a solar panel. <#\>If you want to trickle charge the battery from the mains, you simply leave out the regulator section and add your own battery charger.</p>
+
+<p><#\>All of the sections described so far are on the one PCB <longdash> which by the way, is a professionally made, silk-screened board. <#\>However, because the cost of a PCB is not directly related to its size, Oatley Electronics decided to add two more sections. <#\>The first is an ultrasonic movement detector.</p>
+
+<p><#\>This part was presented as a project in April 1990, (page 80) and the circuit here is identical. <#\>However, the PCB section has been re-designed to suit the rest of the board. <#\>As an incentive, the basic kit for this project includes the ultrasonic transmitter and receiver, so if you have all the other bits, you get this section for free. <#\>This PCB sec<l>tion is electrically independent of the main PCB, so it can be either left attached or separated, as desired.</p>
+
+<p><#\>You can use the detector to trigger the light, so if you need a light that comes on if someone enters a room, here it is. <#\>The ultrasonic detector section can be placed away from the light to suit, or left attached to give an integrated unit.</p>
+
+<p><#\>The last part is a FET power switch with an on-board low-frequency oscil<l>lator. <#\>This section can be used as an electronic on-off switch for a light, or to flash a light, such as a beacon or a warn<l>ing light on a boat. <#\>Like the ultrasonic movement detector, the power switch section of the PCB is independent, and the parts for this section are not included in the basic kit.</p>
+
+<p><#\>So, as you can see, this is a very ver<l>satile project. <#\>It caters for those who al<l>ready have a stock of components, but who can't make their own boards, as well as for constructors who want to adapt the project to a special need. <#\>In short, it's the ideal hobbyist project <longdash> cheap and very versatile.</p>
+
+<p><#\>The project will be sold as a kit, and for $39 you get everything shown in Fig.1. Add an extra $16, and you get all the extra components to complete the two extra PCB's. <#\>See the end of the ar<l>ticle for further details.</p>
+
+<#\><h><bold>The inverter</bold></h>
+
+<p><#\>The circuit on the main PCB is shown in Fig.2. There are three sections to the circuit: the inverter (around Q3), the digital interface (around IC1) and the solar regulator section (around Q1).</p>
+
+<p><#\>The inverter is basically a blocking os<l>cillator. <#\>When Q2 is on, base current is supplied to Q3 via R14 <longdash> R17 and the feedback winding of T1. <#\>This turns Q3 on, and current starts to flow in the primary winding of T1. <#\>The current will quickly increase, inducing a voltage in the feedback winding that makes Q3 turn on even harder.</p>
+
+<p><#\>Eventually the current will reach its maximum value, causing the induced voltage in the feedback winding to fall. <#\>The reduced base voltage to Q3 will make Q3 start to turn off,reducing the current flowing in the transformer. <#\>The effect is cumulative (or regenerative) and Q3 is quickly turned off as the feed<l>back voltage falls even further. <#\>The cycle then repeats.</p>
+
+<p><#\>The waveforms for the inverter are shown in Fig.3. <#\>Notice that the transistor is on for about 25% of the whole cycle, and that the voltage across the tube is virtually zero until the transistor is on. <#\>In other words, energy is transferred to the tube while Q3 is on. <#\>The maximum voltage across the tube is around 60V (for an 8W tube).</p>
+
+<p><#\>The frequency of the oscillator is about 40kHz, mainly determined by the values of C6 and R17. <#\>As the waveforms show, capacitor C6 is charged with a negative voltage when Q3 is switched off, and has to discharge before Q3 can switch on again.</p>
+
+<p><#\>The values of R14 and R15 also affect the frequency, and more importantly, the collector current in Q3. <#\>These resistors therefore determine the amount of power transferred to the tube. <#\>The value of R15 is selected to suit the power rating of the tube and the recommended values for R15 for various tubes are shown in Table 1.</p>
+
+<p><#\>These values have been determined to give a power output of about 80% of the tube's rating. <#\>This gives the best operating life, and a power input to the inverter equal to the rated power of the tube. <#\>Increasing the value of R15 will reduce the light output and the cur<l>rent consumption.</p>
+
+<p><#\>However, this also reduces the life of the tube, as the tube filaments won't heat because of the low value of tube current. <#\>Although the filaments are not heated directly as in some designs, they will heat if the tube current is sufficient.</p>
+
+<#\><h><bold>Digital interface</bold></h>
+
+<p><#\>The inverter is switched on and off by Q2. <#\>If you wanted nothing else but the inverter, Q2 could be removed and a switch connected in place of the emitter and collector terminals.</p>
+
+<p><#\>Another way to directly switch the inverter on and off is to connect a switch in place of link 3. <#\>Or, if link 3 is 
+con<l>nected, the on-off switch could be in series with the 12V supply.</p>
+
+<p><#\>The digital interface provides an even greater range of switching options. <#\>When the interface is being used, link 3 is deleted and link 2 is connected.</p>
+
+<p><#\>There are three inputs to the circuit, although one of these is used as a con<l>nection for an LDR. <#\>The other two accept a pulse, perhaps from the ultrasonic movement detector or any similar device.</p>
+
+<p><#\>As the circuit shows, a negative pulse is applied to R1 and a positive pulse to R3. <#\>If R1 is momentarily connected to ground, the output of IC1a will switch to a high. <#\>This makes the output of IC1b switch low, which is passed to the input of IC1c via C3. <#\>If link 2 is connected, the low at the output of IC1b will switch Q2 on, allowing the inverter to operate.</p>
+
+<p><#\>The output of IC1c will now be high, which then holds the input of IC1b high, with its output low. <#\>The circuit is then held in this state regardless of the input condition to R1.</p>
+
+<p><#\>However, the positive side of C3 is connected to the supply via R11. <#\>Be<l>cause its negative end is now connected to a low, C3 will charge towards 12V. <#\>When C3 has charged sufficiently, the input to IC1c will be a logic 1, causing its output to switch low. <#\>This makes the output of IC1b switch high, turning off the inverter and returning the timer to its stable state.</p>
+
+<p><#\>The circuit around IC1b and IC1c is therefore a monostable, with a time delay determined by the values of C3 and R11. <#\>The time delay is around three minutes which can be altered by chang<l>ing the value of either C3 or R11. <#\>If link 1 is connected, the delay is reduced to virtually zero, as R9 is then in parallel with R11. <#\>This link is connected if you want to use the inputs to switch the light on and off without having a delay for the turn-off time.</p>
+
+<p><#\>Applying a positive input to R3 has the same effect as a negative input to R1. <#\>This pulse is applied directly (via isolat<l>ing diode D2) to IC1b as it is the right polarity to trigger the timer.</p>
+
+<p><#\>If an LDR is connected as shown in the circuit diagram, both trigger inputs are disabled if the LDR resistance is low. <#\>This happens under normal daylight conditions, but in darkness, the LDR resistance will be over 1M ohm, allow<l>ing the circuit to respond to a pulse at either input.</p>
+
+<p><#\>Incidentally, you can connect a push<l>button to either input. <#\>For example, con<l>necting a pushbutton between the negative input (at R1) to ground will give a negative input pulse when the button is pressed. <#\>Or the pushbutton could be connected between the positive pulse input (at R3) and the 12V supply.</p>
+
+<p><#\>Another method is to use a switch, connected as described for the push<l>button. <#\>In this case, IC1d takes over and holds the timer on.</p>
+
+<p><#\>For example, if the input end of R1 is connected to ground, a logic 1 will be applied to the input of IC1d, giving a low at its output. <#\>This will forward bias D5 and pull the input of IC1c low, regardless of the state of C3. <#\>The timer is then held permanently in this condi<l>tion, with the output of IC1b low. <#\>There<l>fore, the inverter is switched on as long as the switch is closed.</p>
+
+<p><#\>If link 1 is not connected, there will be the usual time delay when the switch is turned off. <#\>Connecting link 1 
+eliminates the delay.</p>
+
+<#\><h><bold>Solar regulator</bold></h>
+
+<p><#\>This section is a shunt regulator and connects across the battery. <#\>As already explained, the regulator is only for use with a solar panel. <#\>Without the regulator, it's possible to overcharge a battery from a solar panel, as the output voltage of the panel will rise as the load current falls. <#\>The open-circuit voltage of a solar panel designed to charge a 12V battery can be over 20V, and the regulator simply bypasses the charge current when the voltage across it is higher than 14V or so.</p>
+
+<p><#\>The circuit has two zener diodes, con<l>nected in series to give a total zener volt<l>age of 13.1V</p></I>
+

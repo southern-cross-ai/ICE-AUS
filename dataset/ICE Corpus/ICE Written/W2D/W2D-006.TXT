@@ -1,0 +1,158 @@
+<W2D-006>  <2007>
+
+<I><#\><h><bold>Child Support Scheme</bold></h>
+
+
+<p><#\>The Child Support Scheme aims to help custodial parents receive their maintenance regularly and on time.</p>
+
+<p><#\>The Child Support Scheme was introduced in two stages and has different implications depending on the date of separation and the date of birth of each child. <#\>People receiving Social Security payments may be able to have their maintenance collected by the Child Support Agency which is part of the Australian Taxation Office or, under certain conditions, choose to collect maintenance privately.</p>
+
+<#\><h><bold>Stage 1 (from 1 June 1988)</bold></h>
+
+<p><#\>Stage 1 applies to parents who separated before 1 October 1989 and who do not have a child born on or after that date.</p>
+
+<p><#\>Parents may get a court order, register an agreement in court or make private arrangements to receive maintenance. <#\>Stage 1 of the Scheme also allows custodians who have court orders or court registered agreements dated before 1 June 1988 to apply for collection with the Child Support Agency.</p>
+
+<p><#\>Social Security clients who are not already registered for collection with the agency may choose to collect their court order or court registered agreement privately. <#\>If the non-custodial parent stops paying the full amount privately at any time the custodian must apply to the Child Support Agency for collection of the maintenance.</p>
+
+<p><#\>If the Agency collects the payments, Social Security clients cannot change to private collection at a later stage.</p>
+
+<#\><h><bold>Stage 2 (from 1 October 1989)</bold></h>
+
+<p><#\>This stage applies to parents who separated on or after the 1 October 1989 or who have a child born on or after that date.</p>
+
+<h><#\><bold>Assessment of Child Support</bold></h>
+
+<p><#\>The person who has daily care of the child can apply to the Child Support Agency for an assessment of child support. <#\>The person does not have to be a parent of the child. <#\>The Agency uses a formula to calculate the amount of child support to be paid by using the income of the person who will pay child support in the following way:
+
+<bold>The non-custodial parent's taxable income</bold>
+
+<bold>Less</bold> an allowance for living expenses and for each natural or adopted dependent child living with the non-custodial parent
+
+<bold>Less</bold> the custodian's excess income over average weekly earnings (allowance is made for child care costs)
+
+After making these deductions a percentage of the remaining income is paid as support.</p>
+
+<p><#\>The percentage varies according to the number of children:
+
+Number of children		1	2	3	4	5 or more
+
+Child support %			18%	27%	32%	34%	36%
+
+The assessment is re-calculated each year to allow for inflation and changes in income. <#\>If either parent's income drops by at least 15%, they can ask for a new assessment. <#\>The formula can work differently in some cases e.g. where the custody of the child is shared between parents or, from 1 July 1993, if the non-custodial parent has substantial access.</p>
+
+<h><#\><bold>Child Support Review Officers</bold></h>
+
+<p><#\>If either party is dissatisfied with an assessment they may seek an independent review by a Child Support Agency Review Officer. <#\>Applications are free and do not involve legal representation. <#\>If the matter is not resolved by a Child Support Review Officer either party may appeal to the Family Court.</p>
+
+<h><#\><bold>Child Support and Social Security Clients</bold></h>
+
+<p><#\>Stage 2 Social Security clients must apply to the Child Support Agency for an assessment unless they are exempt from seeking child support. <#\>They can make arrangements with the non-custodial parent for private payment of child support or have payments collected by the Agency. <#\>Before 1 July 1992 assessments had to be collected by the Agency. <#\>Where a Social Security client collects payments privately they must collect the full amount assessed by the Agency.</p>
+
+<p><#\>If the non-custodial parent stops paying the full amount privately at any time the custodian must apply to the Child Support Agency for collection of the maintenance.</p>
+
+<p><#\>If the Child Support Agency collects the payments, Social Security clients cannot change to private collection at a later stage.</p>
+
+<p><#\>Certain Social Security payments may not be granted or continued to a custodian who has not taken adequate steps to obtain maintenance. <#\>However, there are reasons why a custodian may not have to take steps to obtain maintenance. <#\>Social work staff will assist clients who have problems with claiming maintenance.</p>
+
+<h><#\><bold>Child Support and non-Social Security Clients</bold></h>
+
+<p><#\>If the custodian is not a Social Security client and can agree with the other parent on an amount of child support, neither the Child Support Agency nor the courts need be involved. <#\>However, registering the agreement with the Agency as a child support agreement does provide safeguards. <#\>In these cases, the Agency can collect the payments if the parties wish.</p>
+
+<h><#\><bold>Maintenance Collection</bold></h>
+
+<p><#\>Maintenance is paid to the Child Support Agency or directly to the custodian. <#\>When maintenance is paid through the Agency the liability may be deducted from the non-custodial parent's wage or salary (together with their tax) or paid directly to the Agency.</p>
+
+<h><#\>s<bold>How is Agency Maintenance Paid?</bold></h>
+
+<p><#\>Social Security arranges for payments which come through the Child Support Agency to go into the custodian's bank, building society or credit union account. <#\>Provided that the non-custodial parent makes payments on time, the custodian will be able to receive child support payments on the third Wednesday of each month. <#\>If the non-custodial parent pays later in the month then the custodian may receive that child support payment on the first Wednesday of the next month.</p>
+
+<h><#\><bold>Maintenance Income Test</bold></h>
+
+<p><#\>Maintenance can affect Additional Family Payment if the amount received is higher than the maintenance income free area (i.e. the amount of child support a Social Security client may receive before their payment starts to be reduced).</p>
+
+<h><#\><bold>Concession Cards and Child Support</bold></h>
+
+<p><#\>Social Security custodians with concession cards are able to apply for a duplicate card to give to the non-custodial parent to use for the children during access visits. <#\>To protect the custodian's privacy, the duplicate card will not have any of the custodian's details on it. <#\>It will only cover the children and not the non-custodial parent.</p>
+
+
+<#\><h><bold>CHILD CARE ASSISTANCE</bold></h>
+
+<p><#\>Child Care Assistance is a scheme to help low and middle income families with child care fees.</p>
+
+<p><#\>Child care centres and family day care schemes approved under the Children's Services program (administered by the Department of Human Services and Health) can offer reduced fees according to family income, the number of children in child care and the number of children in the family.</p>
+
+<p><#\>Social Security assesses the income of applicants for Child Care Assistance and works out the percentage of fee relief to which each client is entitled. <#\>Application forms are available from child care services and Social Security. <#\>When an application is lodged at a Social Security office it should be accompanied by papers which provide proof of income. <#\>Social Security treats the details on the form as confidential, but provides the child care service with the children's names and the percentage, so services can work out the fees for child care.</p>
+
+<p><#\>Social Security is not directly involved in assistance for Occasional or Outside School Hours care. <#\>However, assistance for these types of care is based on the client's Family Payment status. <#\>The client should take the annual Family Payment advice (which is sent in January) to the child care service who will work out if the client can get assistance. <#\>More details about the scheme can be obtained from child care services or the Department of Human Services and Health.</p>
+
+
+<#\><h><bold>CHAPTER EIGHT</bold></h>
+
+<#\><h><bold>Rights and Appeals</bold></h>
+
+<#\>Reviews and appeals				<#\>Freedom of Information
+<#\>Social Security Appeals Tribunal   <#\>Commonwealth Ombudsman
+<#\>Administrative Appeals Tribunal    <#\>Privacy of Information
+
+
+<#\><h><bold>Reviews and appeals</bold></h>
+
+<p><#\>Where a person is affected by a decision made about their Social Security entitlement, there are several steps they can take.</p>
+
+<p><#\>They should first discuss the matter at the local regional office with the person who made the original decision.</p>
+
+<p><#\>If, after this, they are still unhappy with the decision, they can request a review by an Authorised Review Officer at the area office.</p>
+
+<p><#\>If they are unhappy with the decision of the Authorised Review Officer, they can apply to the Social Security Appeals Tribunal (SSAT) for a review. <#\>It is important to understand that the SSAT is able to look at a decision only if that decision has been reviewed by an Authorised Review Officer.</p>
+
+<p><#\>If they are unhappy with the SSAT decision, they can have a review of the SSAT decision by applying to the Administrative Appeals Tribunal (AAT).</p>
+
+<p><#\>A request for a review of a decision should be made within 3 months of receiving advice of the original decision. <#\>This is because if the review is decided in the person's favour, arrears may only be paid if the request is lodged within this 3 month period.</p>
+
+<h><#\><bold>Requesting a review</bold></h>
+
+<p><#\>The <it>first step</it> in the review process requires the person who made the original decision to explain the disputed decision. <#\>This provides the opportunity to correct misunderstandings, present new information or evidence and to get an incorrect decision changed immediately. <#\>If the original decision is not changed, the person will be advised to discuss the matter with an Authorised Review Officer and of their right of appeal to the SSAT should they be unhappy with the decision of the Authorised Review Officer.</p>
+
+<h><#\><bold>Authorised Review Officer</bold></h>
+
+<p><#\>Authorised Review Officers are senior, expert staff located in area offices who work independently of the regional offices and look at disputed decisions. <#\>They may set aside a decision and substitute a new one, vary or affirm a decision.</p>
+
+<p><#\>The Authorised Review Officer will:
+
+<*>bullet</*>	<#\>look at the information used by the person who made the original decision;
+
+<*>bullet</*>	<#\>where possible, talk to the person seeking review by phone to discuss the matter;
+
+<*>bullet</*>	<#\>check whether any new, relevant information is available;
+
+<*>bullet</*>	<#\>clear up any misunderstandings;
+
+<*>bullet</*>	<#\>correct any mistakes that were made;
+
+<*>bullet</*>	<#\>reconsider the original decision; and
+
+<*>bullet</*>	<#\>inform the person of the result in a letter explaining the reasons for the decision.</p>
+
+<p><#\>Following the review by the Authorised Review Officer, if the person still believes that the decision is incorrect, they can then appeal to the Social Security Appeals Tribunal (SSAT). <#\>However, it should be noted that the SSAT is only able to look at a decision if that decision has been reviewed by an Authorised Review Officer.</p>
+
+<#\><h><bold>Social Security Appeals Tribunal (SSAT)</bold></h>
+
+<p><#\>The Social Security Appeals Tribunal (SSAT) is an independent statutory authority established as the first tier of external review of Social Security decisions.</p>
+
+<p><#\>It aims to provide a mechanism of review that is fair, just, economical, informal and quick. <#\>When reviewing a Social Security decision, the SSAT may affirm, vary or set aside a decision of the Department. <#\>When it sets aside a decision, it substitutes a new decision or sends it back to the Department with directions or recommendations.</p>
+
+<p><#\>The SSAT is able to review a decision only if that decision has been reviewed by an Authorised Review Officer</p>
+
+<h><#\><bold>How to appeal</bold></h>
+
+<p><#\>A person may apply to the SSAT for a review of a decision by sending or delivering a written application to an office of the Tribunal or any Social Security regional office or by telephoning the Tribunal. <#\>Appeal forms are available from any Social Security or SSAT office.</p>
+
+<p><#\>The SSAT can be contacted in all states and territories by writing to GPO Box 9943 in your capital city, or by telephoning 008 011 140 (008 041 514 in the ACT).</p>
+
+<p><#\>Office addresses are listed in Appendix VIII of this book.</p>
+
+<p><#\>Applications are free of charge. <#\>The SSAT can pay reasonable travel and accommodation costs of applicants and will provide an interpreter when needed.</p>
+
+<p><#\>SSAT members are drawn from varied backgrounds, and include lawyers, social and community welfare workers, medical practitioners and members who have a background in Social Security matters. <#\>The Tribunal has offices in all capital cities and also visits various regional centres from time to time. <#\>Applications are heard by a panel of three members. <#\>In medical cases, a medical member is added to the panel. <#\>Hearings are conducted in an informal manner. <#\>They are not like a court and it is not necessary to bring a lawyer.</p></I>
+

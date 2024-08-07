@@ -1,0 +1,423 @@
+<S1A-005> <2014>
+ <I>
+<$A> <#\>Yeah I think so
+ <$B> <#\>Mmm <#\>Where's the little boy live
+ <$A> <#\>Up the end of the cul-de-sac <,,>
+ <$B> <#\>He'd be a bit younger than <@>forename1</@> wouldn't he
+ <$A> <#\>Yeah he's only five <,,> <#\>He's the same size as him
+though
+ <$B> <#\><{><[>Mmm</[> 
+<$Z> <X><#\><[>He's a</[></{> big kid<,,></X>
+ <$B> <#\><O>laugh</O> Are you feeling any older <@>forenameC</@>
+<$Z> <X><#\>Very much very much so<,,> <#\><{><[>I'm a bit
+stressed</[> </X>
+ <$B> <#\><[>I hope you've worked</[></{> out where we're going for
+this <,,> our celebration tonight
+<$Z> <X><#\>Mmm <#\>I'll have to work on that</X>
+ <$A> <#\>So why do you want to go to the Black Stump
+<$Z> <X><#\>Because we haven't been there</X>
+ <$A> <#\>But it costs too much
+<$Z> <X><#\>I'll pay</X>
+ <$A> <#\>Oh great!
+ <$B> <#\>I'd like to go to the Castle Hill
+<$Z> <X><#\>Yeah the club's good<{><[><O>inaud 4 syl</O></[> </X>
+ <$B> <#\><[>Isn't that</[></{> exciting enough
+<$Z> <X><#\>Yeah I'll go to the club</X>
+ <$A> <#\>What are you going to have
+<$Z> <X><#\>What am I going to have</X>
+ <$A> <#\>Mm
+<$Z> <X><#\>I'm going to have an entree and some sweets</X>
+ <$A> <#\>Are you
+<$Z> <X><#\>Yeah</X>
+ <$A> <#\>And no main course
+<$Z> <X><#\>No</X>
+ <$A> <#\>Why
+<$Z> <X><#\>Because I don't want to<,,> <#\>It's my birthday
+I'll have what I want</X>
+ <$A> <#\><O>laugh</O> Why don't you have two entrees and two
+sweets
+<$Z> <X><#\>I can't afford a main course</X>
+ <$A> <#\><O>laugh</O>
+ <$B> <#\>I'm not sure what I'll have yet I think <{><[>I'll</[> 
+<$Z> <X><#\><[>Can you</[></{> can we get one and share it</X>
+ <$B> <#\>read the board first I think
+ <$A> <#\>We could always get <@>Forename2</@> up to the
+counter and she could buy five children's menus
+<$?>   <#\><O>laugh</O>
+<$Z> <X><#\>Well it will be no good if we're going to have
+uh are we having a party before we go</X>
+ <$A> <#\>We're having a piece of birthday cake one piece each
+at four o'clock <#\>I don't think that's gonna make much
+difference to what we're eating at six
+<$Z> <X><#\>Have we got a candle</X>
+ <$A> <#\>No <#\>They melted
+<$Z> <X><#\><O>laugh</O> They melted</X>
+ <$A> <#\>Yeah <#\>I washed them in hot water and they all
+melted
+ <$B> <#\>Mmm
+ <$A> <#\>I've got the wick the the wick left
+<$Z> <X><#\>Yeah we'll we'll just put the wicks on</X>
+     <O>laughter</O> <,,> <O>dog barks</O>
+<$Z> <X><#\>Is <@>Forename3</@> back</X>
+ <$A> <#\>No
+<$Z> <X><#\>So did <@>Forename3</@> go off with a smile
+on her face</X>
+ <$A> <#\>Oh <{><[>no not really</[> 
+<$Z> <X><#\><[>I'm the king</[></{> I'm the king of the castle</X>
+ <$A> <#\>She was a bit worried because <,,> where we were
+dropping her off there was an Indian man coming out and it
+this boy certainly doesn't like it looked like the wrong
+house <#\>She was w worried <{><[>wasn't she</[>
+ <$B> <#\><[>I think</[> </{>it was a duplex
+ <$A> <#\>Yeah yeah well it it had the B
+ <$B> <#\>It didn't look like a duplex
+ <$A> <#\>You know the house over the road from
+<@>Forename4</@>'s
+<$Z> <X><#\>Yeah</X>
+ <$A> <#\>Where the lady with the cat lives
+<$Z> <X><#\>Yeah</X>
+ <$A> <#\>The next one on the corner it looks like it's it's
+got no backyard
+<$Z> <X><#\>Yeah</X>
+ <$A> <#\>So um<,,> <#\>They sold their house <#\>They used to live
+you know the house up on Purchase Road on the bend that had
+all the all the trees on the footpath you know that house
+ <$B> <#\>Mmm
+ <$A> <#\>That's where <@>Forename3</@>'s friend used to live
+ <$B> <#\>Oh
+<$Z> <X><#\>Was that their house <#\><{><[>The old one</[> </X>
+ <$A> <#\><[>Yeah</[></{> 
+<$Z> <X><#\>The one that they did up</X>
+ <$A> <#\>Yep<,> and ah <,,> they were that was it was done up
+by the people that bought it <#\>Oh you mean done up ages ago
+<#\>Yeah <#\>So they they wanted to buy a block of land out<,,>
+further<,,> and they put a deposit down and they couldn't sell
+their house in time
+ <$B> <#\>Where was the house they were in before <#\>Purchase
+Road
+ <$A> <#\>Yeah <#\>They it had all big trees <#\>You'd know it from
+when you walked there 'cause it was the only it had great big
+<{><[>overgrown</[> 
+<$B> <#\><[>Oh</[></{> 
+ <$A> <#\>I think they w <{><[>they're ah</[> 
+<$Z> <X><#\><[>On the gar</[></{> on the footpath on the nature
+strip</X>
+ <$A> <#\>Yeah <#\>I think they're hibiscuses
+ <$B> <#\>Mmm
+<$Z> <X><#\><{><[>It was one of the old ones</[> </X>
+ <$A> <#\><[>But you you</[></{> couldn't walk through like when you
+were doing the the <{><[>delivering</[> 
+ <$B> <#\><[>Rounds mmm</[></{> 
+<$A> <#\>You couldn't you couldn't walk through there it was
+all spiders and 
+ <$B> <#\>Mmm
+ <$A> <#\>Um just on the bend um <{><[>closest</[> to the school
+<$Z> <X><#\><[>An old</[></{> old weatherboard place <#\>They bricked
+it up on the outside</X>
+ <$A> <#\>Anyway so then they sold it <#\>Someone wanted it w-
+approached them to buy it so they sold it and I think they've
+been living over here renting prob'ly till they can <{><[>find
+something</[> else
+ <$B> <#\><[>that's right mm</[></{>
+<$A> <#\>'cause they've I think the other sale fell through
+ <$B> <#\>Mm
+ <$A> <#\>which was a shame <,,><#\>How many have they got four
+kids or five kids
+ <$B> <#\>The little girl waving out the window looked
+probably about seven I <{><[>would have said</[> 
+<$A> <#\><[>Yeah</[></{>
+<$B> <#\>Six or seven <,,>
+ <$A> <#\>There'd be one younger than <@>Forename5</@> like she
+probably started school this year
+ <$B> <#\>Mmm
+ <$A> <#\>And that'd be the youngest now<,,> <#\>But she used to
+be<,,> in our fruit and vegie shop for a <{><[>moment</[> 
+<$B> <#\><[>Oh</[></{>
+<$A> <#\>For a while
+<$Z> <X><#\>Have we got everything we need for
+<@>Forename6</@>'s camp</X>
+ <$A> <#\>I don't yeah I got the packet of chips
+<$Z> <X><#\>Is that it</X>
+ <$A> <#\>Well I don't know
+<$Z> <X><#\>We'll have to find a cheaper pair of some <{><[>old
+shoes or something</[> </X>
+ <$A> <#\><[>Yeah she got a t</[></{> Yeah I got the shoes <#\>I <{><[>found
+some shoes</[> 
+<$Z> <X><#\><[>I got a torch</[></{> </X>
+ <$A> <#\>Oh you got a torch <#\>That's what I needed <,,> <#\>Well
+that's all I think<,,> <#\>Whatever sunburn cream we've got <#\>Does
+she have to take insect stuff
+<$Z> <X><#\>Yeah it says <#\>It says on the list</X>
+ <$A> <#\>I'll just give her that Rid
+<$Z> <X><#\>Yeah <{><[><O>inaudible 6 syll</O></[> </X>
+ <$B> <#\><[>She probably should have her</[></{> clothes named
+ <$A> <#\>Yeah
+<$Z> <X><#\><{><[>It says</[> </X>
+ <$A> <#\><[>I don't know what</[></{> she'd be taking yet
+ <$B> <#\>You can imagine them all in together
+<$Z> <X><#\>It says you've got to have names on your
+clothes</X>
+ <$A> <#\>Yeah
+ <$B> <#\>Oh I can stick that on if you know what she's<,,>
+going to take
+ <$A> <#\>Yeah <#\>Well if there's a label in them I can just
+write <@>Surname1</@> on it
+ <$B> <#\>Mmm
+<$Z> <X><#\>She should she should she should take an apple
+<{><[><O>inaudible 4 syll</O></[> </X>
+ <$A> <#\><[>'Cause she won't be taking anything</[></{> good
+ <$B> <#\>Mm
+ <$A> <#\>Because they'll be<,> doing<,> rough and tumble
+stuff
+ <$B> <#\>I said `Do you have to take your sports shirt and
+skirt and she said `No just mufti.'
+ <$A> <#\>Yeah <O>laugh</O>
+<$Z> <X><#\>Mufti<,,></X>
+ <$B> <#\>Where do they go roller skating
+ <$A> <#\>It's ah at Castle Hill <#\>You know where the Hudson
+the wood place is the timber yard Hudson on the corner of
+Showground Road
+ <$B> <#\>Mmm
+ <$A> <#\>B- Out past there and along further<,,> um like if
+you turned down to as if you were going to Hudson's but you
+kept going up towards the car yards and then you turned right
+sort of mixed in with all the factories <#\>I think it's<,> it's
+a factory premise and they've turned it into a roller skating
+<#\>Since the one closed at Carlingford they<,> there hasn't been
+anywhere for the kids to skate
+ <$B> <#\>Mmm<,,>
+ <$A> <#\>So it's the latest place for people to go
+<$Z> <X><#\>I'll have to go one day get my skates on</X>
+ <$A> <#\>Oh
+<$Z> <X><#\>I might have a skate around the
+backyard<,,></X>
+ <$A> <#\>So<,> it's better than ice skat for the net for the
+netball thing <#\>It was always freezing sitting there<,> with
+all <{><[>the kids skating</[> 
+<$B> <#\><[>So tomorrow</[></{> what is our rehash on tomorrow <{><[>I've
+forgotten</[> 
+<$A> <#\><[>So</[></{> Nine 'til eleven thirty is <{><[>roller skating</[>
+ <$B> <#\><[>is the basket</[></{> 
+<$A> <#\>Yeah
+ <$B> <#\>And do you go to that too
+ <$A> <#\>Yeah I probably will go <#\>By the time I take them
+ <$B> <#\>Mmm
+ <$A> <#\>And then ah<,,> we'll come home and we have to leave
+here at one to get out to school by one forty<,,> and then
+while we're out there we'll go to Australia's Wonderland have
+a few rides
+ <$B> <#\>It'll be a nice restful day<,,>
+ <$A> <#\>You can go on the Demon with <@>Forename6</@>
+<$Z> <X><#\>I'm going on with <@>Forename5</@></X>
+ <$A> <#\><{><[>Oh</[> 
+<$Z> <X><#\><[>She said</[></{><quote> don't care how long the queue is
+we're going to wait</quote></X>
+ <$A> <#\>They've got the new ride there
+<$Z> <X><#\>The new ride's open</X>
+ <$B> <#\>I think <{><[>I</[> 
+<$Z> <X><#\><[>The</[></{> roller coaster</X>
+ <$B> <#\>Oh that's the <{><[>very hairy</[> 
+<$A> <#\><[>It's like that</[></{> 
+<$B> <#\>going over like this
+ <$A> <#\>Yeah yeah it's like that they've already they went
+on one like that at um Knott's Berry Farm so they've already
+been on it to know that <{><[>it's O K</[> 
+<$B> <#\><[>Ohh</[></{> Oh <#\>It looked a bit scary to me
+<$Z> <X><#\>It was good <#\>Twists <{><[>like this</[> </X>
+ <$B> <#\><[>I know</[></{> it's up your alley
+<,,>
+<$Z> <X><#\>Be great</X>
+ <$B> <#\>And Jeff wouldn't go on that
+<$Z> <X><#\>No <#\>We went last week when we got our
+Wonderpasses to have a look and Jeff says he's not not going
+on he won't even go on the roller coaster</X> <,,>
+ <$A> <#\>Good
+<$Z> <X><#\>It was good last week <#\>Me and
+<@>Forename8</@> got right in the front <#\>Oh it's scary on
+the roller coaster in the front</X>
+ <$B> <#\>Has he been on the little one
+ <$A> <#\>Mm
+ <$B> <#\>Mm
+ <$A> <#\>That's enough <{><[>for him</[> 
+<$B> <#\><[>It's enough</[></{> for him
+ <$A> <#\>Yeah <#\>He likes the things he likes the swings <#\>I
+think he likes the things I like <#\>That's good
+<$Z> <X><#\>It's a bit tame</X>
+ <$A> <#\>You don't have to you don't have to make that out to
+be something to be ashamed of
+<$Z> <X><#\><O>groan</O> <,,> He doesn't like the pirate ship
+<,,></X>
+ <$A> <#\>Mmm <#\>He's just scared <#\>When they were going he said
+he didn't want to go and I knew it was because he thought they
+were going to try and make him go 'cause they <O>laugh</O> he knows
+if I go I'll be saying `He doesn't want to go' like whereas he
+thought they'd be putting pressure on him <{><[>and</[> 
+<$B> <#\><[>He might</[></{> not be the only one not doing it
+ <$A> <#\>Yeah
+ <$B> <#\>Yeah 
+ <$A> <#\>and and that they'd be <,,> forcing him to do it
+ <$B> <#\>Mmm
+ <$A> <#\>whereas he knows I'll stand up for him and say he
+doesn't <O>laugh</O> have to do that <#\>He's allowed to be a wimp
+ <$B> <#\>Oh I think it's good he he says I don't want to do
+it <#\>I mean it would be awful for him to get on and really be
+scared wouldn't it
+<$Z> <X><#\>Oh he wouldn't be scared</X>
+ <$A> <#\>Oh he would so <#\><{><[>He'd be sick</[> 
+<$Z> <X><#\><[>You can't be scared</X></[></{> 
+<$A> <#\>Ohhh
+<$Z> <X><#\>Once you get going you're not scared <#\>You get
+too much adrenaline running round to be scared <#\>It's exciting
+<,,> up and down <#\>It was great on the front <#\>I've never been
+on the front before <#\><@>Forename8</@> said it's <,,> it's worse on
+the back it's faster</X>
+ <$A> <#\>Mmm
+<$Z> <X><#\>It's that that <@>Forename7</@> at work said it's
+faster on the back and we <{><[>laughed at him</[> </X>
+ <$A> <#\><[>Course it is</[></{> 
+<$Z> <X><#\>It can't possibly be faster on the back</X>
+ <$A> <#\>Yeah but it feels  'cause it flips you over
+<$Z> <X><#\>Yeah</X>
+ <$A> <#\>You you travel the the hill is longer because when
+<{><[>you come over you're going faster</[> 
+<$Z> <X><#\><[>Not faster but longer</[></{> </X>
+ <$A> <#\>Yeah
+<$Z> <X><#\><O>inaudible 8 syllables</O></X>
+ <$A> <#\>But you feel it's faster because the other the other
+way you you're building up to it slowly whereas that when
+you're on the back you come over slow and then it's <{><[>whoosh
+straight down</[> 
+<$Z> <X><#\><[>Yeah yes</[></{> </X>
+ <$B> <#\>You're immediately
+ <$A> <#\>going <{><[>fast</[> 
+<$B> <#\><[>Mm</[></{> 
+<$A> <#\>So you have a that that would I'd be better off in
+the front
+<$Z> <X><#\>But while you're on the front and the back's
+coming over it sweeps you nearly straight down and you're
+you're thinking <#\>Oh I've never had that feeling not when you
+you don't get that when you're in the middle</X>
+ <$A> <#\>Yeah
+ <$B> <#\>You think it's scarier in the front than the back
+<$Z> <X><#\>Yeah I do</X>
+ <$B> <#\>Mmm
+<$Z> <X><#\>'Cause it's going you can see it's <{><[>fallin
+falling</[> </X>
+ <$B> <#\><[>You're looking at the</[></{> you're looking at the
+rails
+<$Z> <X><#\>There's nobody in front of you to look at</X>
+ <$A> <#\><{><[>Do you ever close your eyes</[> 
+<$Z> <X><#\><[><O>inaud 6 syllables</O></[></{> </X>
+<$Z> <X><#\><@>Forename5</@> said `I'm going to open my eyes
+this time'</X>
+ <$A> <#\><O>laugh</O>
+ <$B> <#\>She's going to open her eyes 
+<$Z> <X><#\>Yeah</X>
+ <$B> <#\><{><[>Hasn't she done that yet</[> 
+<$Z> <X><#\><[>They I can't believe</[> <[>they all get on</[> </X>
+ <$A> <#\><[>Oh I can't look</[> </{>
+<$Z> <X><#\>and shut their eyes</X>
+ <$A> <#\>I can't look <#\>I can't go on the big one either <#\>I
+can't look on the little one
+ <$B> <#\>Have you been on the big one
+ <$A> <#\>No <,,> <#\>Don't want to go on the big one <#\>The little
+one's enough for me <#\>I would've had more chance when I was
+younger <#\>It it affects me more now makes me more sick feeling
+now dizzy than it ever used to
+ <$B> <#\>Well elderly people shouldn't go on it <#\>They give a
+warning
+ <$A> <#\>Mm 
+ <$B> <#\>People who have a heart complaint
+ <$A> <#\>And this lot they can't go on the swings <#\>They
+reckon they're so tough they can't even go on the swings
+<$Z> <X><#\>We do go on sometimes</X>
+ <$A> <#\>Oh <,,> <#\>Then they get off and they're going Ohhhh
+ <$ABX>   <O>laughter</O> <,,>
+ <$B> <#\>So <@>Forename6</@> doesn't like the swings
+ <$A> <#\>No he doesn't like <{><[>going around</[> 
+<$Z> <X><#\><[>No</[></{> I don't like that round and round</X>
+ <$A> <#\>And see I like the <{><[>round and round</[> 
+<$B> <#\><[>You</[></{> you like to have your feet on something do
+you
+<$Z> <X><#\>No it's not that it's just I don't like</X>
+ <$A> <#\>It's the round and round <#\>It's the <{><[>motion</[> of the
+ <$B> <#\><[>Mmm</[></{> Oh
+ <$A> <#\>And see I don't like
+ <$B> <#\><{><[>Mm</[> 
+ <$A> <#\><[>too</[></{> much of that <#\>I can't <{><[>feel</[> 
+<$B> <#\><[>I feel</[></{> as though my stomach <,,> isn't landing
+ <$A> <#\>And that at that when you first got on I think I
+just feel I've got to hold my <{><[>stomach in</[> 
+<$B> <#\><[>I feel as</[></{> though everything's 
+ <$A> <#\>Yeah
+ <$B> <#\><{><[>gone tight there</[> 
+<$A> <#\><[>It's all gonna to</[></{> come out when you start to go
+down it's all coming up here <#\>Oh it's awful <#\>I reckon it's
+sick <,,> <#\>I don't know about the pirate ship I don't
+know how that'd affect me <,,> <#\>But if you like it I
+probably wouldn't
+<$Z> <X><#\>You'd love it you really would</X>
+ <$B> <#\>This latest one
+<$Z> <X><#\>No the pirate ship <#\>I can't believe you won't
+<#\>It's it's just like a big swing <#\>It's lovely <#\>It's not even a
+bit scary</X>
+ <$A> <#\>I'm not scared of I'm not scared of any of the
+rides <#\>I'm not not actually frightened at all
+<$Z> <X><#\><{><[><O>inaudible - 6 syllables</O></[></X>
+ <$A> <#\><[>of getting hurt</[></{> it's just awful when it's making
+me sick
+<$Z> <X><#\>It doesn't make you sick it's like being on a
+swing <#\>You don't <{><[><O>inaud 3 syll</O></[> </X>
+ <$A> <#\><[>Yeah but that</[></{> that dipper the big dip going on
+the big <{><[>dipper would make me</[> 
+<$B> <#\><[>Upside down <#\>When</[></{> it stops and you're hanging
+upside down now you can't say that wouldn't make you feel
+sick
+<$Z> <X><#\><{><[>It doesn't make you feel sick</[> </X>
+ <$A> <#\><[>I don't think it does</[></{> make them 
+<$Z> <X><#\><{><[>that doesn't make them feel sick</[> </X>
+ <$A> <#\><[>that wouldn't</[></{> make me feel sick <#\>It's the see
+that on the dipper on the big dipper I just would feel like
+ <$B> <#\>That same <{><[>swish</[> 
+<$A> <#\><[>it's never gonna end</[></{> and it it's actually starts
+to hurt 'cause everything's <#\>See on the on the first on the
+first hill in the in the little kid's dipper it almost get to
+gets to the point where I'm thinking I don't want to do this
+any more and it stops and it's O K so I figure on the big
+dipper I'm going to get to the point where I don't want to do
+it any more and it's going to keep going and I'm going to hate
+it and I don't I don't really like that feeling
+<$Z> <X><#\>But on the pirate <{><[>ship</[> </X>
+ <$B> <#\><[>I get</[></{> I get that feeling too
+ <$A> <#\>I get it it's makes like I'm sick
+ <$B> <#\>Mm
+ <$A> <#\>It's like dragging me <#\>I hate it
+<$Z> <X><#\>You won't get that on the pirate ship <#\>You
+don't have that feeling at all <#\><{><[>It's just</[> </X>
+ <$A> <#\><[>Yeah but on the pirate ship at Luna Park I got it</[></{> 
+<#\>That one that didn't go over <#\>That's the worst ride I've ever
+been on <#\>I didn't know how I was gonna stand it
+ <$B> <#\>It affects me all round the neck and ears
+ <$A> <#\>I mean it's just it was awful
+<$Z> <X><#\>But this thing goes so slow you know <{><[>it's not
+as though</[> </X>
+ <$A> <#\><[>But my stomach</[></{> can't go even that fast <#\>See I
+reckon when I'm in a lift my stomach's probably going like
+this far more than yours is <#\>I just got that sort of <,,> <#\>It's
+probably not in your stomach at all it's probably in your head
+or but we think it's in <{><[>our stomach</[> 
+<$Z> <X><#\><[>Yes it's in your</[></{> of course it's in <{><[>your
+head</[> </X>
+ <$A> <#\><[>But see I'm not</[></{> very good at that like it's like
+the height thing <#\>You know how I get dizzy with the heights
+<{><[>and you don't</[> 
+<$B> <#\><[>Well you just have a</[></{> fear of heights
+<$Z> <X><#\>Not that I know of</X>
+ <$A> <#\>It's probably related to that
+ <$B> <#\>Well if I<,> mounted a ladder<,> that first that first
+putting in an electric light globe when I go up the ladder
+that first feeling of standing up and putting my arms above my
+head</I>
+
+
+

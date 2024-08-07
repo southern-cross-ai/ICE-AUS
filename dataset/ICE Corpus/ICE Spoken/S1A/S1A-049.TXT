@@ -1,0 +1,350 @@
+<S1A-049> <2003>
+<I><$A> <#\>Did you ring <@>Forename1</@> about the tennis
+<$B> <#\>Mmm<,,>
+<$A> <#\>What d'he say<,,>
+<$B> <#\>He said he'd be happy to play on<,,> Saturday at one
+o'clock<,,> and I said <quote>why don't you bring the girls
+over</quote> and he said <quote>oh<,,>they're going up
+north</quote><,,> <#\>He said he'd be only able to play for<,,>
+a
+couple of hours<,>
+<$A> <#\>Oh well you only<,> usually play for about that much
+anyway don't you
+<$B> <#\>That's what I told him<,,> <#\>I said <quote>we'd only play for a couple of hours anyway</quote><,,>
+<$A> <#\>How did he seem otherwise<,,>
+<$B> <#\>Well he seemed as if he was ah<,,> a little bit down
+I
+suppose<,,> <#\>Not his usual enthusiastic<,,> self<,> but he
+was quite happy to play and he was looking forward to that he
+said
+<$A> <#\>Well I think he needs something like that<,,>
+<$B> <#\>Well<,> he prob'ly does<,,> <#\>Then I told him
+about<,,>
+ah<,,> his ah<,,> or our need for him to play in some of the
+comp matches<,,> so he said he'd be looking forward to
+that<,,> <#\>He'd get a bit of practice in<,> <#\>Get  a bit of
+form<,> <#\>Not let the side down<,,>
+<$A> <#\>He'll prob'ly be so nervous<,,> 
+<$C> <#\>Nah <#\><{1><[1>Just</[1> park him on the net<,> <{2><[2>He's got</[2> 
+<$B> <#\><[1>Why</[1></{1>     <#\><[2>Don't worry</[2></{2> about things like that
+<$C> <#\>He's just got that big reach<,,> 
+<$A> <#\>That's what your father said <#\>He<,> sticks his hand
+out
+and <O>ADlaugh</O>
+<$C> <#\>Parks himself on the net and he<,> blankets the whole
+thing <O>ABDlaugh</O>
+<$D> <#\>Hasn't he put on a bit of weight<,,> <#\>Didn't you say
+he'd
+put on a bit of weight
+<$A> <#\>Oh he'll prob'ly run that off
+<$D> <#\>Oh<,,> 
+<$A> <#\>He reck he said that it would be<,> something<,> make
+it
+worthwhile training for
+<$D> <#\>Mmm<,,> 
+<$B> <#\>Well I told him that he'd<,> it would be expected that
+he
+carries me because I'm sick of carrying everyone else<,,>
+<{><[>so</[> 
+<$A> <#\><[>And</[></{> what'd he say to that
+<$B> <#\>He said <quote>oh well we'll see</quote> <,,>
+<$D> <#\>Why didn't you go out tonight<,,> <#\>Why didn't you go
+<$C> <#\><@>Forename2</@> 's babysitting
+<$D> <#\>Oh<,,>
+<$C> <#\><{><[>I went out</[> 
+<$B> <#\><[>I spoke to</[></{> <@>Forename3</@> tonight too <#\><@>Forename3</@> full
+<$A> <#\>Oh yes <#\>What<,,>
+<$B> <#\>Oh <@>Forename3</@> said <@>Forename4</@> 's been in touch with him
+and he's agreed to play in his team and he told <@>Forename4</@> 
+it's prob'ly best if we start<,> down the bottom again<,>
+Division seven <O>ABlaugh</O> <#\>He said we'd work our way
+up<,>
+<$C> <#\><{><[>What'd <@>Forename4</@> say</[> 
+<$A> <#\><[>What'd <@>Forename3</@> say</[></{> to that
+<$B> <#\>Oh<,> I don't think <@>Forename4</@> 's too happy about that but
+<$A> <#\><{><[>Oh Forename3 said to<,></[> <#\>Oh right
+<$C> <#\><[>No <#\><@>Forename3</@> said it to <@>Forename4</@> </[></{> 
+<$A> <#\><O>laughing</O> <@>Forename5</@> wouldn't like to play down
+there<,,>
+<$C> <#\>She'd still get beaten<,,>
+<$D> <#\>My last<,> my last one<,,>
+<$A> <#\>Did you forget your diet
+<$D> <#\>Yep<,,><O>CDlaugh</O>
+<$A> <#\>Did you chop<,> drop the C V in<,>
+<$C> <#\>Yes<,,> <O>CDlaugh</O> 
+<$C> <#\>What'd I do <O>Dlaugh</O> 
+<$D> <#\>Just let it out <O>CDlaugh</O>
+<$B> <#\>Actually I saw that other girl up there tonight
+<@>Forename6</@> <@>surname6</@> <,>
+<$A> <#\>Yeah<,>
+<$B> <#\>Anyhow she<,,> she was having a hit up there with a
+couple of blokes and<,,> I just leant over the railing and
+said <quote>oh<,> how're you hitting them</quote><,> <#\>She
+said <quote>oh I'm just warming up at the moment</quote>
+<O>Blaughs</O> <quote>I'm just warming up at the moment <#\>I
+gotta get<,> you know<,> warm<,,> before I ah<,,> start the
+lesson though</quote>
+<$D> <#\>Who said that
+<$B> <#\>She always seems to think that I'm<,,> I'm sort of
+<$C> <#\>Checking her form
+<$B> <#\>Checking her form <O>Blaughs</O> <#\>Checking her shots
+and
+and<,> she's hitting<,,> and as soon as I said that she hit a
+ball right in the bottom of the net you know 
+<$A> <#\>Well you make her nervous
+<$B> <#\>I don't see how<,>
+<$A> <#\>Well you do
+<$D> <#\>Yeah <#\><{><[>Somebody who's</[> 
+<$B> <#\><[>I'm only trying</[></{> to encourage her
+<$A> <#\>I <{><[>know but<,></[> but the point is she prob'ly thinks
+that
+you<,> that you<,,> that you're checking how good she is all
+the time
+<$B> <#\><[>Encourage her</[></{>     <#\>Well if I went past and said nothing<,> what would she
+say
+<$D> <#\>Prob'ly prefer it
+<$B> <#\>I don't think so <#\>I think it's<,,> 
+<$D> <#\>No <#\>You don't <{><[>I mean 'cos</[> 
+<$B> <#\><[>It's not a good</[></{> thing to ignore people<,,>
+<$D> <#\>Yeah <#\>But <{><[>you <O>inaudible</O></[> 
+<$A> <#\><[><O>inaudible</O></[></{> who just say hello and go and keep
+going
+<$B> <#\>No <#\>You're<,> <{><[>doing <O>inaudible</O></[> 
+<$D> <#\><[>No <#\>People'd rather be left on</[></{> their own<,,>
+<#\>Like
+<O>inaudible</O>
+<$B> <#\>No <#\>I don't think so <#\>I think you ah
+<$D> <#\>Yeah <#\>Well you're wrong
+<$A> <#\>Well did you ask her to play on Saturday
+<$B> <#\>Yes <#\>I asked her<,,> several days ago
+<$A> <#\>Oh right<,> <#\>What about <@>Forename7</@> 
+<$B> <#\>I rang her tonight
+<$A> <#\>Mmm<,,> <#\>Is she playing
+<$B> <#\>Yeah <#\>She's playing<,,> <#\>She said she'd come over
+and
+play<,,> <#\>I keep on forgetting to tell her that I put her
+down as captain <O>Alaughs</O>
+<$A> <#\>That'll be a nice surprise for her
+<$B> <#\>Well she's<,,> well she was one of the main reasons
+we<,> decided to take the course of action we did<,,> 
+<$A> <#\>Why her<,,>
+<$B> <#\><{><[>Why not</[> 
+<$D> <#\><[>He's</[></{> just blaming it all on <@>Forename7</@> now
+<$B> <#\>Yeah <#\>Well some one's gotta be the scapegoat<,>
+<$A> <#\>Yeah<,,> <#\>Poor silly female's gotta take the<,>
+<$B> <#\>Yeah <#\>Well normally the male takes the brunt of
+things
+like that
+<$D> <#\>Oh<,,> you always get let off<,,>
+<$A> <#\><O>inaudible</O>at <@>forenameC</@> there
+<$B> <#\>No <#\>I wasn't<,,>
+<$D> <#\>So <@>forenameC</@> <,> how much was your haircut<,,>
+<$C> <#\>Twelve bucks
+<$D> <#\>Looks like it too <O>Dlaughs</O>
+<$C> <#\>A twelve buck haircut if ever I saw one<,>
+<$B> <#\>That's the standard price anyway <{1><[1><,></[1> <{2><[2>or that's what
+I was told</[2> 
+<$C> <#\><[1>Mmm</[1></{1> 
+<$D> <#\><[2>It's fifty or<,> no<,></[2></{2> <#\>Actually<,> special<,>
+November deal at the uni is fifteen dollars<,,>
+<$A> <#\>'Cos she came home and said ah<,>
+<$B> <#\>Why fifteen dollars <#\><{><[>That's<,> that's three dollarsover price</[> 
+<$A> <#\><[>He could go over to the uni and get his hair cut</[></{> and
+it's only fifteen dollars
+<$D> <#\><{><[>But it's a hairdresser</[> 
+<$C> <#\><[>They give me<,></[></{> they've given me a uni haircut
+<O>laughter</O>
+<$B> <#\>Oh yeah <#\>But<,,> ah<,> the standard price is twelve
+dollars<,,>
+<$C> <#\>It depends on where you go<,,>
+<$D> <#\>Just 'cos you might go to a<,> barber<,,> <#\>This is
+a
+hairdresser <O>AClaugh</O>
+<$A> <#\>There's barbers and there's hairdressers you know<,,>
+<#\>Barber or butchers
+<$B> <#\>Yes<,,> 
+<$A> <#\>Well see a lot of them they go to now they<,> they
+shampoo them and give them a blow dry as well <O>Alaughs</O>
+<$D> <#\>Well they use the hair blower
+<$C> <#\>The hair blower <O>CDlaugh</O> <#\>It makes a terrible
+noise<,,>
+<$B> <#\>Anyhow<,> one thing is certain <#\>You'll have to keep
+those<,> get those rooms cleaned up<,> in the <{><[>next</[> week or
+so
+<$D> <#\><[>Oh</[></{>     <#\>You have an obsession<,> <{><[>with</[> 
+<$B> <#\><[>Oh</[></{> well you have to <#\>I'm gonna paint them<,,>
+<$D> <#\>Oh<,,> you're not painting my room
+<$B> <#\>The boys' rooms<,> I'm gonna<,,> take that wallpaper
+out<,,> <O>Dlaughs</O>
+<$D> <#\>Don't you like the vintage cars
+<$B> <#\>No <#\>It's a bit too old for them now<,,> <#\>They're
+a bit
+too old for the paper rather <O>Claughs</O>
+<$C> <#\>I was thinking <quote>oh <O>inaudible</O> Noddy</quote><,>
+or something<,>
+<$D> <#\>Noddy
+<$C> <#\>Yes<,>
+<$D> <#\><{><[><O>inaudible</O></[> 
+<$A> <#\><[><O>inaudible</O></[></{> centrefolds from playboy<,>
+<$B> <#\>Well<,> if I can get hold of any or some<,,>
+<$C> <#\>A real one <O>ACDlaugh</O>
+<$B> <#\><O>inaudible</O> discards
+<$A> <#\>Well I reckon out here needs painting first<,,>
+<$D> <#\>Yeah<,>
+<$B> <#\>Yeah <{><[><O>inaudible</O> only painted<,></[> a short time
+ago
+<$D> <#\><[>You did a shocking job</[> </{><O>Claughs</O> 
+<$A> <#\><{1><[1>No<,,> <#\>Well<,> but</[1> around there's not painted
+<#\>The
+where the new ah<,,> <{2><[2>architrave is put in</[2> 
+<$D> <#\><[1>Yeah <#\>It's still undercoat <#\>It's still</[1></{1> 
+<$B> <#\><[2>That doesn't matter</[2></{2> <#\>That won't take long to do
+<{><[>the architrave</[> 
+<$D> <#\><[>Yeah <#\>But dad</[></{> just look at the wall wear<,>
+<#\>Look how
+patchy it is
+<$B> <#\>Well<,> if you want to get on to that you can do it<,>
+but I'm not doing it all
+<$D> <#\>You should've done it before you got the tiler in
+<$A> <#\>And<,> all <{><[>the<,> skirting boards need painting</[> 
+<$D> <#\><[>Then <O>inaudible</O></[></{> 
+<$B> <#\>Well<,> I was saying the skirting boards and the
+architrave <#\>I'm gonna do there
+<$A> <#\>And around the door<,,>
+<$B> <#\>Around the door
+<$A> <#\>Yes<,,>
+<$D> <#\><O>inaudible</O> and the door <#\>It's gone all
+yellow<,,>
+<#\>The door there<,,> <#\>It's a good thing they can't see what
+you're doing <O>CDlaugh</O><,,>
+<$B> <#\>Actually I wouldn't mind getting a professional painter
+in to do the lot<,>
+<$D> <#\>Just use a roller<,,> <#\>Get <@>Forename8</@> to do it<,>
+<#\>She's
+a good painting<,,>
+<$A> <#\>You wouldn't<,,> put wallpaper<,> in the loungeroom
+would
+you<,> <O>Dcoughs</O>
+<$B> <#\>Is that the same as saying <quote>I'd like the
+<{><[><O>inaudible</O> loungeroom papered</[></quote> 
+<$A> <#\><[>No<,,> no</[></{> I mean what d'you think of having it paint
+ah<,> wallpapered<,,>
+<$B> <#\>Oh I think it's probably a good idea to have it
+papered<,,> 
+<$A> <#\><{1><[1>I like<,></[1> I like <{2><[2>that<,,></[2> I like that textured
+stuff you know <#\>That looks like a <{3><[3>fabric</[3> 
+<$C> <#\><[1><O>inaudible</O></[1></{1> 
+<$B> <#\><[2>Don't do that</[2></{2> 
+<$D> <#\><[3>Material</[3></{3> It's like<,> ah silk
+<$A> <#\>I think that looks nice <#\>Rather than a patterned<,,>
+sort
+of a wallpaper I think the other looks<,> good<,,>
+<$D> <#\>About all um<,,> are you getting about the table<,,>
+<$A> <#\>Um<,> I don't know
+<$D> <#\>What have you decided about the table<,>
+<$B> <#\>Oh<,> I've decided<,,> not to make a decision on that
+one <O>Alaughs</O>
+<$A> <#\>You might decide in twelve months time
+<$B> <#\>No
+<$D> <#\>But it won't be there then<,> <#\>They won't make it any
+more
+<$C> <#\><{><[>What table is it</[> 
+<$A> <#\><[>The one at Grace Brothers's</[></{> gone up in price <{><[>again
+now</[> <#\>Yeah
+<$D> <#\><[>Has it</[></{>     <#\>The<,> you know the glass top table<,>
+<$C> <#\>But I didn't think it'd fit
+<$D> <#\>Yeah <#\>It would fit in but<,,>
+<$A> <#\>So you still thinking about it<,,> <#\>Or what
+<$B> <#\>Well you have<,> what you have to do I mean<,> how do
+you
+get rid of these<,,>
+<$D> <#\>Chuck 'em<,,> <#\>Oh don't worry about the chairs
+<#\>These are
+just<,,> <#\><{><[>The chairs</[> are horrible
+<$A> <#\><[>The chairs</[></{>     <#\>We'll give the chairs to um<,,> <#\>Vinnies<,,>
+<#\>They're
+more or less they're at least in one piece<,,> <#\>They want
+something for furniture<,,> <#\>Well it's a quite good table
+<#\>There's nothing wrong <{><[>with it</[> 
+<$B> <#\><[>Well<,></[></{> I know<,> <#\>It's um<,,>
+<$D> <#\>Do you know I got an A<,> <#\>Did do you know I got an
+A in
+my essay<,,>
+<$B> <#\>Yes <#\>That's very good <@>forenameA</@> <,> <#\>Very good 
+<$D> <#\>I won't mention the C <O>Dlaughs</O> <#\>Did you know
+<@>forenameC</@> 
+<$C> <#\>What
+<$D> <#\><{><[>That I got an A</[> 
+<$A> <#\><[>That she got an A</[></{> <,> in her English essay<,,>
+<$C> <#\>Was that one of those last minute jobs
+<$A> <#\>They're all last minute jobs<,,>
+<$D> <#\>Yep<,,> <#\><{><[>It just shows you</[> that I am<,>
+<O>inaudible</O><,,> <#\>Read
+<$A> <#\><[><O>inaudible</O></[></{> 
+<$B> <#\>Well you read it out to me and I'll <O>inaudible</O>
+<$A> <#\><quote>This<,> is a very good and thorough treatment of
+the field<,> I was impressed with your confidence and
+judgement in analysing the film sequence<,,> <#\>You could have
+defined narrative a little more clearly to assist in your<,>
+discussion of the sequence's coherence<,> incoherence <#\>Overall
+however<,> this is a very good essay </quote><,,> <#\>Gut
+Ja<,,>
+<$A> <#\>That's<,> that's good<,,> <#\>Do you think many chose
+that
+one<,>
+<$D> <#\>Nuh<,> I I don't think a lot of people<,,> did it at
+all<,,> <#\>Everyone thought it was the hardest one<,,>
+<$A> <#\>Why was that<,,>
+<$D> <#\>Because if you'd seen the film<,> <#\>It was just If you
+saw
+it you just thought <quote>what's this about</quote>
+<$A> <#\>Well how did you get anything out of it<,,>
+<$D> <#\>I had a<,,> another brain with me <O>Dlaughs</O>
+<#\>No<,,> <#\>Like if you just<,> if you pulled it apart<,,>
+like
+you could just each separate si<,> ah each separate image<,>
+you could<,> um<,,> sort of<,,> go on about it<,,> <#\>Mrs
+<@>surname9</@> got a<,> I think three weeks<,> holiday<,> from
+college
+<$A> <#\>Oh right <#\>When's she going
+<$D> <#\>I don't well I'm not sure<,> <#\>Sometime in the
+Christmas
+holidays<,> and um<,,> she<,,> the <#\>I dunno<,> <#\>Um<,,>
+she
+sort of wants to get a job like a casual work<,> <#\>'Cos she I
+mean why did she<,> why did she apply for holidays if she
+still wants to get the mon<,> like<,,> still wants to earn
+money<,,>
+<$A> <#\>Well that means she's going to be still looking for some
+one to look after the kids<,,> 
+<$D> <#\>Yeah <#\>But she thinks she says that she can't afford
+not
+to<,,> be getting some money in
+<$A> <#\>Wouldn't she be getting paid for <{><[>her holidays</[> 
+<$C> <#\><[>Holiday pay</[></{> <,,>
+<$D> <#\>I dunno<,> <#\><{><[>Unless</[> 
+<$B> <#\><[>Yeah</[></{> <,> <#\>She'd be getting holiday pay and then she
+wants to earn extra extra income by getting another job
+somewhere
+<$D> <#\>Yeah<,> <#\>She prob'ly wants to get extra and then<,>
+doesn't have to pay for me
+<$B> <#\>Is she getting to a stage where she can't afford you<,,>
+<$D> <#\>Well if that's the case I won't do it any more
+<$B> <#\>Oh well yeah <#\>That's true <#\>You couldn't be
+expected to do
+anything for nothing so<,,>
+<$D> <#\>But<,,> <{><[>this camp</[> 
+<$B> <#\><[>You're not</[></{> <O>inaudible</O> for charity
+<$D> <#\>This camp that um<,,> <@>Forename10</@> was telling me about
+you know how it cost them so much<,> <#\>They didn't pay anything
+for it
+<$C> <#\>I know they don't<,,> I asked <@>Forename2</@> about
+that<,,> <#\>She said they <{><[>pay</[> <,> they pay as part of their
+school fees at the beginning of the year<,> a sum to cover all
+their excursions and all their camps<,> and it's no where near
+four hundred dollars <#\>It's about a hundred dollars or
+something
+<$A> <#\><[>Well</[></{>     <#\>Well what was all the<,,> the kafuffle about<,> how much
+it costs</I>
+
+

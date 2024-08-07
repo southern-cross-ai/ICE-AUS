@@ -1,0 +1,79 @@
+<W2B-037>  <2011>
+
+<I><#\><h><bold>AUTOCAD</bold></h> <O>photo</O> 
+ 
+<#\><h><bold>RELEASE II</bold></h> 
+ 
+<#\><bold>Mark Casey draws on his background in computer-aideddesign to preview the new release of the world's top-sellingPC CAD software.</bold>
+ 
+<p><#\><bold>I</bold><smallcaps>t's been over</smallcaps> two years since the last release of AutoCad, the world's best selling computer-aided design program for PCs and workstation. <#\>In that time, user suggestions have been flooding in and the AutoCad development team has been working overtime improv<l>ing what many believe is already an un<l>beatable product.</p> 
+ 
+<p><#\>The good news is that with Release II of AutoCad, they have improved the pro<l>gram, particularly in the areas of network<l>ing, solids modelling and drawing output. <#\>It has added a new programming language interface, enhanced the user interface and made many other smaller, user requested changes.</p> 
+ 
+<p><#\>AutoCad has some 10,000 users in Aus<l>tralia and New Zealand, and 400,000 worldwide, running the program on PCs, under MS-Dos, XENIX, OS/2, Macintoshes, Sun, Apollo and DEC workstations. <#\>It re<l>quires a maths coprocessor, 2Mb RAM (4Mb is recommended) and 20Mb of hard disk space. <#\>A wide range of mice, digitis<l>ers, displays, printers and plotters are supported.</p> 
+ 
+<p><#\>The difference in Release II is apparent at installation. <#\>Users are prompted to enter their name and the name of the dealer they obtained the system from. <#\>This information is embedded in the acad<?><l></?>.exe file on the floppy disc and displayed whenever the program is run. <#\>Autodesk calls the process personalisation. <#\>The first and perhaps the biggest advance in the new release is its networking capability.</p> 
+ 
+<p><#\>Previous releases of AutoCad could be installed and used on a network, but un<l>less the network administrator set up some advanced file restrictions, more than one user was able to open the same drawing file simultaneously. <#\>The problem here was that a user could inadvertently overwrite the changes made by another user. <#\>The new release introduces file lock<l>ing as a standard feature and is suitable for any type of network. <#\>When a drawing file is loaded into memory a small file with the same file name but a different exten<l>sion in created. <#\>So long as that file exists, no other user can load the same drawing. <#\>Users who attempt to do so are told the file is in use. <#\>The lock file is deleted when the user is done, freeing it for another user.</p> 
+ 
+<O>excerpt</O> 
+ 
+<p><#\>If disaster strikes, Release II users will appreciate the new file recovery facility. <#\>Every byte in a drawing is subject to veri<l>fication when the drawing is opened using Cyclic Redundancy Check (CRC), an error checking mechanism. <#\>If a file is damaged, AutoCad will load the undamaged portion of the file, minimising the loss.</p> 
+ 
+<p><#\>As the file recovery option will only work with Release II drawings upwards, it would be a wise move to write a macro to load all non-Release II files and save them in the new, recoverable format.</p> 
+ 
+<#\><h><bold>Enhanced interface</bold></h> 
+ 
+<p><#\><smallcaps>autodesk has made</smallcaps> some excellent enhancements to the Release II user in<l>terface. <#\>AutoCad has a comprehensive menu system, with cascading, drop down menus and icon menus. <#\>Some of the menu titles and contents have been changed. <#\>Bonus files are now shown in a menu, so there is no excuse not to use them. <#\>Two of the new bonus Auto<smallcaps>lisp</smallcaps> routines are <smallcaps>dline.lsp</smallcaps> which allows the creation of double parallel lines with corner clean-up and <smallcaps>mvsetup.lsp</smallcaps> for creating multiple <smallcaps>viewports</smallcaps> and preselected <smallcaps>view<l>points</smallcaps>. <#\>As menus are stored in the acad.mnu file they can be readily custo<l>mised to any user.</p> 
+ 
+<p><#\>Dialogue boxes in Release II, used to set entity properties, layer characteristics, attributes, edit text strings and so on, have been improved dramatically. <#\>They now feature scroll bars, check boxes and text input areas. <#\>Where text extends be<l>yond the left or right of an input area, a re<l>verse <O>photo</O> <O>caption</O> video arrow indicates there is more than meets the eye. <#\>A new command called <smallcaps>ddedit</smallcaps> brings up a dialogue box which allows quick on screen editing of text and attribute definitions.</p> 
+ 
+<p><#\>Filename entry dialogue boxes can be configured to show a list of files alphabet<l>ically whenever AutoCad needs to access an external File (for example, <smallcaps>vslide</smallcaps> or <smallcaps>dxfin</smallcaps>). <#\>Too many files? <#\>No problem. <#\>The 'asterisk' (*) character and 'question mark' (?) character can be used to control which files are shown.</p> 
+ 
+<p><#\>Other wildcards put MS-Dos to shame. <#\>The ? and * characters act as usual. <#\>But the 'at' (@) character matches a single al<l>phabetic character; the 'hash' (#) charac<l>ter, a single numeric character; and the 'period (.) a single character of any other type. <#\>Character ranges can be specified too. <#\>For example, [A-J]C will find files AC, BC through JC. <#\>The tilde character (~) pro<l>vides the logical <smallcaps>not</smallcaps> function.</p> 
+ 
+<#\><h><bold>Command aliasing</bold></h> 
+ 
+<p><#\><smallcaps>for those with</smallcaps> an aversion to typing in lengthy commands, command aliasing will come as a welcome feature. <#\>In a file called acad.pgp, any AutoCad command <O>photo</O> can be assigned an abbreviation. <#\>When typed, the full command is displayed. <#\>Out of the box, AutoCad comes with several AutoCad commands already aliased. <#\>And <longdash> for users who forget what's what, con<l>textual help has been improved so that it provides an on-line assistant for the cur<l>rent command and also sub commands.</p> 
+ 
+<p><#\>Data entry has been improved in a num<l>ber of small but significant ways. <#\>For in<l>stance, when entering 3D co-ordinates, cylindrical and polar co-ordinates can now be used. <#\>In addition to an X, Y, Z co-ordi<l>nate, a user can now specify points by their distance and angle in the XY plane and either an angle up from the XY plane (spherical) or  Z co-ordinate (cylindrical).</p> 
+ 
+<p><#\>A more specialised enhancement is the addition of a new  entity type, a polyface or <smallcaps>pface</smallcaps>. <#\>It produces a general polygon mesh of arbitrary topology,  allowing one object to be made up of several appar<l>ently unrelated lines or surfaces. <#\>Applica<l>tion developers might use a polyface to draw apparently complex objects which  in fact have only a few entities, or to draw objects that have  both wire frame and sur<l>face representations as separate layers that can be turned on or off.</p> 
+ 
+<p><#\>Dimensioning, the automatic annota<l>tion of AutoCad drawings, has been im<l>proved significantly in the new release in response to user demands and the need to conform with international dimension<l>ing standards. <#\>Ordinate dimensioning is a new dimensioning method that allows a dimension to be specified relative to a fixed reference point. <#\>Designers whose work is ultimately used to drive tooling machines will appreciate this facility.</p> 
+ 
+ <O>excerpt</O>  
+ 
+<p><#\>Different colours can now be assigned to different parts of the dimension, such as dimension lines, extension lines and text. <#\>The dimension text can now be moved from its default position and ro<l>tated with the dimension extension lines able to be set at an oblique angle. <#\>To cap  all this, dimensioning styles can be saved, as a named <smallcaps>dimstyle</smallcaps>, and applied to other drawings. <#\>This will save a consider<l>able amount of effort in drawings which use dimensioning heavily.</p> 
+ 
+<p><#\>Text alignment has been made simpler, yet more powerful. <#\>With Release II, users can specify both horizontal and vertical alignments. <#\>Horizontal, left, right and cen<l>tre justification is possible, vertically, text can be aligned to the top, middle or bot<l>tom of the text area, giving a total of 12 text alignment positions.</p> 
+ 
+<p><#\>A major addition to the AutoCad fea<l>ture list is the  ability to use external refer<l>ence files. <#\>The <smallcaps>insert</smallcaps> command is still available but it has been supplemented by the <smallcaps>xref</smallcaps> command, which offers greater power and flexibility, particularly in man<l>aging large drawings.</p> 
+ 
+<p><#\>The difference is that with <smallcaps>xref</smallcaps>, the additional drawing does not become part of the current drawing and cannot be alt<l>ered. <#\>Both drawings can be seen on the screen, but each is stored separately. <#\>Changes to the referenced file will be re<l>flected in the drawing referencing it, and its entities  and named objects will be temporarily added to the current drawing. <#\>Although a referenced file cannot be alt<l>ered, it is possible to snap to geometric features of an object using <smallcaps>osnap</smallcaps>. <#\>The user also has complete control of layer visibility.</p> 
+ 
+<p><#\>An <smallcaps>xref</smallcaps>ed drawing can be made a per<l>manent part of the current drawing with the <smallcaps>xref</smallcaps>'s <smallcaps>bind</smallcaps> command option. <#\>Con<l>versely, the <smallcaps>detach</smallcaps> option removes the referenced drawing. <#\>Thanks to <smallcaps>xref</smallcaps>, a drawing  can reference multiple instances of the same drawing or many external drawings can be included in one drawing. <#\>For anyone who uses AutoCad in situa<l>tions where the same drawing compo<l>nents are used repeatedly, <smallcaps>xref</smallcaps> is a great enhancement.</p> 
+ 
+<p><#\>Release II introduces two new terms to the AutoCad vocabulary <longdash> Model space and Paper space. <#\>Model space is the equivalent to the environment that pre-Release II users have been using to create their drawings. <#\>Paper space is new. <#\>It is best thought of as <smallcaps>wys<*>bar</*>wyg</smallcaps> page de<l>sign for CAD. <#\>Multiple views can be plot<l>ted on a single sheet of paper, with each <O>excerpt</O> view having its own scaling, its own di<l>mensions, its own layer characteristics, its own position and size on the page.</p> 
+ 
+<p><#\>The paper space command, <smallcaps>mview</smallcaps>, also works for screen display, allowing much more flexible on<longdash> screen presenta<l>tions. <#\>Rectangular <smallcaps>viewports</smallcaps> can be overlapped, moved, scaled and specified just like any other entity. <#\>When modelling, the active <smallcaps>viewport</smallcaps> is highlighted with a thick border. <#\><smallcaps>mview</smallcaps> options allow for hid<l>den  line removal during plotting and layer visibility in a <smallcaps>viewport</smallcaps> can be controlled by a new command <smallcaps>vplayer</smallcaps>.</p> 
+ 
+<#\><h><bold><smallcaps>ads</smallcaps></bold></h> 
+ 
+<p><#\><smallcaps>autocad application</smallcaps> developers should welcome the addition of the Auto<l>Cad Development System, <smallcaps>ads</smallcaps>, which al<l>lows high level programming languages such as C to generate AutoCad applica<l>tions. <#\>With <smallcaps>ads</smallcaps>, an external C routine can be accessed from within AutoCad and have access to the AutoCad drawing. <#\>Rou<l>tines could be  developed to access exter<l>nal database or spreadsheet files, linking drawing objects to a bill of materials ap<l>plication, for instance.</p> 
+ 
+<p><#\>The difference between <smallcaps>ads</smallcaps> and Auto<l><smallcaps>lisp</smallcaps> is that the former uses compiled code, for better performance, whereas Au<l>to <smallcaps>lisp</smallcaps> is an interpreter. <#\>Where a great deal of external calculation is involved, <smallcaps>ads</smallcaps> can out perform Auto<smallcaps>lisp</smallcaps> by up to 700 per cent.</p> 
+ 
+<p><#\>External database access may not be necessary in all situations. <#\>The new re<l>lease allows up to 16K of data to be linked to an object and stored in the drawing file (Extended Entity Data). <#\>Compiled <smallcaps>ads</smallcaps> programs are also more secure than  the Auto<smallcaps>lisp</smallcaps> command lists, opening up  op<l>portunities for third party developers. <#\>Any Auto<smallcaps>lisp</smallcaps> program can be converted to an  <smallcaps>ads</smallcaps> program without too much bother.</p> 
+ 
+<p><#\>AutoCad has always been regarded as an excellent wireframe modeller. <#\>It has also performed well as a surface modeller, where the surface of an object is repre<l>sented as a grid. <#\>But both these modelling methods have shortcomings when it comes to the 3D. <#\>Solids  modelling is the best form of 3D modelling for many appli<l>cations. <#\>Solid models are the most accu<l>rate and informationally complete repre<l>sentations of 3D objects. <#\>But solids mo<l>delling has traditionally needed  very ex<l>pensive software and has been difficult to use.</p> 
+ 
+<p><#\>With Release II, Autodesk ships an op<l>tional solids modeller called the Ad<l>vanced Modelling Extension. <#\>It represents solids by constructive solid geometry (<smallcaps>csg</smallcaps>), building up complex objects from simpler primitives such as cubes, cones and spheres. <#\>In addition, a model's boundary information is stored. <#\>A B-rep model represents a solid object as a col<l>lection of planes or surfaces. <#\>2D profiles may be extruded or revolved to create complex solids.</p> 
+ 
+<p><#\>Before <smallcaps>ame</smallcaps>, AutoCad users would have turned to AutoSolid, currently version 3.11. <#\>This product has now been effec<l>tively integrated into AutoCad as <smallcaps>ame</smallcaps>. <#\>Compared to AutoSolid, <smallcaps>ame</smallcaps> has more primitives and uses much of the power of AutoCad, rather than its own commands.</p> 
+ 
+<p><#\><smallcaps>ame</smallcaps> is a powerful program in its own right with over 30 commands. <#\>Objects are built from primitives and profiles that can be extruded, solidified, chamfered and moved. <#\>Objects can be shown as wire<l>frame, mesh or shaded solids with up to 256 colours. <#\>Separate objects can be com<l>bined with Boolean operators. <#\>When the primitives that make up an object are  edit<l>ed, changes are reflected in the combined object. <#\>And once a solid is constructed, <O>excerpt</O> <smallcaps>ame</smallcaps> can calculate its mass properties,  areas, work out an object's centre of grav<l>ity, extract surfaces and create cross sec<l>tions of an object in an instant.</p> 
+ 
+<p><#\>But while <smallcaps>ame</smallcaps> is an optional extra, in<l>cluded in every copy of Release II, there is also  a subset of <smallcaps>ame</smallcaps> called Amelite.</p></I>
+
+

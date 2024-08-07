@@ -1,0 +1,98 @@
+<W1A-005>  <2020>
+<I><#\><h>X1st:  The Equalizer?</h>
+
+<p><#\>From the juvenescent, to the pubescent, to the senescent; humans are obsessed with the differences between the sexes. <#\>Freud hypothesised that a male's appendage is envied by females. <#\>Perhaps the sibling's cry of <quote>she's got more than me!</quote> is more appropriate when referring to X chromosomes. <#\>It seems there is a "just" evolutionary path which ensures equality between the sexes <longdash> at least at the level of gene products from the X chromosome. <#\>This equalizing effect is known as <quote>dosage compensation</quote>. <#\>In mammals, having dissimilar (heteromorphic) sex chromosomes, it is achieved by X chromosome inactivation. <#\><it>Xist</it> (X-inactive specific transcripts, <it>XIST</it> in humans) has recently been discovered. <#\>It has unique expression solely from the inactive X chromosome. <#\>Complete characterisation of this gene should reveal its role in the still mysterious mechanism of X-inactivation.</p> 
+
+<p><#\>How to be active or inactive? <#\>This is the question that has 
+teased the minds of scientists since Mary Lyon proposed her 
+hypothesis to explain the phenomenon in 1961 (Lyon, 1992). <#\>This essay will review the main features of X-inactivation which have set the stage for the arrival of a new prospective star <longdash> <it>XIST</it>. <#\>This gene has caused a flurry of activity in the study of inactivity. <#\>The attached paper by Kay and others (1993) will be assessed for its contribution towards determining the role of <it>Xist</it> in the X-inactivation mechanism. <#\>Emphasis is placed on discussion of their predictions and conclusions. <#\>Most of the papers published on <it>XIST</it> since its premiere in 1991 are summarised in Appendix one (due to the length of this table), including the paper by Kay and others (1993). <#\>The main technique they employed is also summarized within Appendix one.</p>
+
+<p><#\>First things first <longdash> what is X-inactivation? <#\>Males, having only one X chromosome, develop and live with only one dose of X chromosome gene products. <#\>Thus females, being endowed with two X chromosomes, have developed a means of preventing an overdose of X linked gene products. <#\>In mammals this has been achieved by switching off one X chromosome.</p>
+
+<p><#\>To achieve this dosage compensation a "decision" must be made 
+about which X chromosome to inactivate. <#\>Usually this depends on tissue type and/or whether the X belongs to a marsupial or a eutherian mammal. <#\>In the case of marsupials, the paternal X is always inactivated (Johnston and Robinson, 1987). <#\>In the 
+extraembryonic membranes of rodents it is also the paternal X 
+(Wake <it>et al</it>., 1976, Takagi and Sasaki, 1975). <#\>From embryonic 
+tissue to the adult eutherian mammal inactivation is a random 
+"choice". <#\>Random inactivation is detectable around the time of primitive streak formation, about 6.5-7.5 post insemination in the mouse (Kay <it>et al</it>., 1993) (see Fig 1B).</p>
+
+<p><#\>The degree to which an X is inactivated also varies. <#\>Some 
+genes, for example Glucose-6-phosphate dehydrogenase <it>(G6PD)</it> in marsupials (Cooper <it>et al</it>., 1993) and steroid sulfatase <it>(STS)</it> in humans (Thompson <it>et al</it>., 1991), escape inactivation (fig.3). <#\>These genes do not necessarily escape inactivation in all tissues or in all species and some have reduced expression from the inactive X (Cooper <it>et al</it>., 1993). <#\>In mice X-inactivation is complete (Hendrich <it>et al</it>., 1993).</p>
+
+<p><#\>Mendel's laws assume that parental sex has no influence on the behaviour of a gene. <#\>Imprinted genes contravene this law. <#\>
+These are genes which have been "labelled" in some way with the "address" of the sender. <#\>Being labelled "maternally" or 
+"paternally derived" can affect the degree to which a gene is 
+expressed. <#\>Imprinting is involved in X-inactivation (Cattanach and Beechey, 1990). <#\>This can be seen by non-random patterns of X-inactivation in the case of paternal X-inactivation, mentioned previously, and controlling elements in [Inserts:
+<sh><ul>REFERENCES for Figure 1</ul></sh>
+FIGURE ONE A
+<bold>FIGURE 1B
+FIGURE 1C
+FIGURE 1C</bold>
+FIGURE TWO
+FIGURE THREE]
+
+mice evident from coat colour patterns due to an X-linked coat colour gene (tabby, <it>Ta</it>) in mice (Johnston and Cattanach, 1981). <#\>The most likely gene(s) to bear the parental "postmark" is the X-inactivation centre (XIC) region (Rastan and Cattanach 1983 cited in Kay <it>et al</it>., 1993). <#\>The imprinting and timing of X-inactivation in the mouse is illustrated in Fig. <#\>1B.</p>
+
+<p><#\>The non-random X-inactivation found in mice is due to an X 
+chromosome controlling element <it>(Xce)</it> locus. <#\>Its alleles, and 
+their effect, are outlined in Fig 2. <#\>The alleles at this locus affect the probability that a particular X chromosome will be inactivated (Rastan, 1982). <#\>The <it>Xce</it> locus has been proposed as the mouse equivalent of the X-inactivation centre <it>(XIC)</it> in humans (Keer <it>et al</it>., 1990). <#\>The XIC region is coincident with X-inactivation (Leppig <it>et al</it>., 1993). <#\><it>Xist/XIST</it> maps to this region. <#\>A map several X chromosomes is given in Fig. 3. <#\>Kay and others (1993) demonstrated the effect of these alleles in interspecific crosses. <#\>They found these alleles could modify or reverse the paternally imprinted <it>Xist</it> expression in mouse extraembryonic membranes. <#\>Kay's team propose that limited production of a putative "blocking factor" (p. 179) binds with differing affinities to the promoters of different <it>Xce/Xist</it> alleles resulting in the chromosome with the blocked <it>Xist</it> promoter remaining active. <#\>In mice this can result in stripes in tabby mice suggesting a morphogen, pulsatile, type of blocking action (338 lectures, Pool, 1991).</p>
+
+<p><#\>An imprinting effect may result in differences in the size of an embryo. <#\>Haig and Westoby (cited in Haig and Graham (1991)) 
+proposed that expression of paternal genes during development favours increased size of offspring. <#\>They propose that 
+imprinting arose as a means of increasing survival chances of a father's offspring by increasing its share of the mother's 
+resouces. <#\>This is based on the assumption that mammalian 
+littermates often have different fathers (Haig and Graham, 
+1991).</p>
+
+<p><#\>Figure 4A illustrates nuclear transplantation experiments 
+(Surani <it>et al</it>., 1986) which support the Haig and Westoby theory. <#\>Figure 4B show the results of Thornhill and Burgoyne (1993) due to X chromosome imprinting. <#\>These results reveal that paternal X expression results in the smallest embryos whereas maternal X expression results in the largest embryos. <#\>This seems to indicate that X chromosome imprinting may be the inverse of autosomal imprinting and/or has evolved separately and operates by a different mechanism. <#\>It would be interesting to know the weights of the extraembryonic membranes of these mice, the sex of the control embryo in fig. 4A as well as the <it>Xce</it> alleles of the mice in Fig. 4A. <#\>The small size of the X<sp>P</sp>O is probably due to reduced size of extraembryonic membranes where X<sp>P</sp> is usually inactive. <#\>Borsani and others (1991) detected Xist expression above basal (XY) level in X<sp>P</sp>O mouse liver. <#\>It would be interesting to look at the <it>Xist</it> levels in X<sp>M</sp>O mice, if the parental imprint is erased before random X inactivation occurs there should be no difference between <it>Xist</it> expression in X<sp>P</sp>O and 
+X<sp>M</sp>O mice.</p>
+
+<p><#\>What do we know about <it>Xist/XIST</it>? <#\>Much of the work so far, 
+summarized in Appendix one, has been concerned with 
+characterising the gene. <#\>It has been sequenced, completely in mice in humans and partially in a handful of other eutherians. <#\>The compared sequences reveal a region containing repeats at the <w>5'</w> end of the gene, along with another region at the <w>3'</w> end, appear to share the most homology (Hendrich <it>et al</it>., 1993). <#\>Its expression has been demonstrated in female somatic tissues and at a reduced level in male testis. <#\>There is a basal level of expression detected in some male somatic tissues (refer to papers in Appendix one). <#\>Kay and his <w>colleagues'</w> paper, along with Richler and others (1992), Salido and coworkers[Figure FourFigure Five intervene here](1992) and McCarrey and Dilworth's (1992) work has been 
+important in determining the time of onset of <it>Xist</it> expression in the mouse. <#\>Their findings have been summarized in Appendix one and are shown in Fig. 1C.</p>
+
+<p><#\>The basic structure of the gene is shown in Fig. 5. <#\>Although 
+much of the sequence is not highly conserved the basic 
+structure, with two long exons flanking a series of smaller 
+exons, is conserved. <#\>No significant open reading frame (ORF) is conserved and transcripts are confined to the nucleus thus 
+<it>Xist/XIST</it> is unlikely to encode a protein (Brockdorff <it>et al</it>., 
+1992).</p>
+
+<p><#\>Kay and his coworkers make a series of predictions which are 
+listed in Table one. <#\>The filfulment of these predictions, they suggest, will implicate <it>Xist</it> transcripts causally in initiation of X-inactivation.</p>
+
+<p><#\>Table One intervenes here.</p>
+
+<p><#\>Kay's team predict <it>Xist</it> should be expressed before X-
+inactivation occurs. <#\>Figure 1B illustrates the timing of X-
+inactivation, (developmental stages are detailed in Figure 1A). <#\>This figure shows that the maternal X is active from 
+fertilization until random X-inactivation takes place in the 
+epiblast. <#\>However the status of the paternal X, up until it is found to be inactive in extraembryonic tissues, is not yet 
+clearly established. <#\>Studies which measured enzyme activity in 8 cell embryos, morulae and blastocysts found both X chromosomes to be active (Adler <it>et al</it>., 1977, Epstein <it>et al</it>., 1978, Monk and Harper, 1979). <#\>However these assays cannot determine whether both X's are active in all cells and are difficult to perform in earlier embryos. <#\>Some visible differences between the cells may be apparent even at the 8 
+cell, totipotent, stage (personal communication P.G.Johnston).</p>
+
+<p><#\>If, as Monk suggests, X-inactivation and cellular 
+differentiation are linked (Monk and Grant, 1990) the paternal X would be inactivated during differentiation. <#\>The "overt 
+differentiation" of trophectoderm, marked as "trophoblast" in 
+Fig. 1B, Kay's team claim, occurs one day after the 8 cell 
+stage. <#\>Gossler (1992) (Lecture 8.2 BIOL 338) estimates that 
+compaction is complete after 12 hours and that during compaction changes gradually become apparent (Fig. 1A). <#\>It may be technically difficult to distinguish 8 cell precompaction embryos from cells undergoing compaction. <#\>Perhaps addition of antiuvomorulin antibodies, which prevent compaction (Gossler, 1992), to 8 cell embryos would reduce the chances that samples used for RT-PCR are not contaminated with cells undergoing compaction and differentiation. <#\>If possible <it>in situ</it> hybridisation in 8 cell embryos may confirm their findings. <#\>Kay and his colleagues demonstrated <it>Xist</it> expression in one "precompaction" 8 cell embryo pool (p. 173), however expression appears to be less than half the level in the morulae pool, which contain double the number of cells. <#\>The only evidence that the paternal X is active after fertilization to the 8 cell stage is the failure to detect a late replicating X chromosome cytogenetically (Grant and Chapman,1988).</p>
+
+<p><#\>If <it>Xist</it> is involved in maintenance of the inactive state it's 
+presence could be anticipated immediately after initiation of 
+inactivation. <#\>It's expression would then be expected to 
+increase as inactivation proceeded to spread along the whole 
+chromosome. <#\><it>Xist</it> expression is coincident with X-inactivation in somatic tissues after initiation has occurred (Brown <it>et al</it>., 1991, Borsani <it>et al</it>., 1991) which suggests a maintenance role for <it>Xist</it>. <#\>Kay and other's paper cannot distinguish between initiation and early post initiation maintenance roles for <it>Xist</it> in mouse embryos. <#\>The fulfilment of their first prediction can only show an association between expression and initiation. <#\>However <it>Xist</it>'s presence well in advance of inactivation in testes was demonstrated by Kay and his team (1993). <#\>Their prediction is well supported by other studies (McCarrey and Dilworth, 1992, Richler <it>et al</it>., 1992, Salido <it>et al</it>., 1992) (Fig. 1C).</p>
+
+<p><#\>If the mechanism of X-inactivation during spermatogenesis and 
+embryogenesis is the same, or at least <it>Xist</it>'s role in it, the 
+evidence mentioned previously (Fig. 1C) substantiates Kay and 
+others claim that <it>Xist</it> is involved in initiation of X-inactivation.</p>
+
+<p><#\>To utilise the same X-inactivation mechanism in sperm and female somatic cells would seem the "soft" evolutionary option for simultaneously; preventing damage to X and Y chromosomes during meiosis, protecting the male sex determining genes (Marshall Graves and Schmidt, 1992) and achieving dosage compensation. <#\>Perhaps X chromosome imprinting evolved through the same process, and as previously mentioned, differs from autosomal imprinting. <#\>This may explain why the paternal X is inactivated in marsupials.</p>
+
+<p><#\>Cooper (1971 cited in Kay <it>et al</it>., 1993) propose that imprinting occurs during male meiosis. <#\>Kay and others (1993) model, illustrated on page 179 of their paper, confines the imprinting process to the maternal germ line. <#\>They feel that the paternal X is inactivated <quote>by default</quote> (p. 179) and not imprinted as Cooper (1971 cited in Kay <it>et al</it>., 1993) and other researchers believe.</p></I>
+
+

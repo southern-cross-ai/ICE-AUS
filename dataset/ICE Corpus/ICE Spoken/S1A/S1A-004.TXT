@@ -1,0 +1,406 @@
+<S1A-004> <2003>
+ <I><$A> <#\>Mum, we saw a flower today in that bloke next
+door<,> you know that the where where we went to get tennis
+balls
+ <$B> <#\>What is this
+ <$A> <#\><O>inaud 3 syll</O> or something
+ <$B> <#\>You shouldn't have <#\>Would you like to<,> would you
+like me to open it now or later on
+ <$A> <#\>Later on  later on would be fine
+ <$B> <#\>Um I know it's a terrible thing to do but I think
+I'd rather <{><[><O>inaudible</O></[> 
+<$A> <#\><[>Yes of course</[></{> you'd rather have a hot meal
+ <$B> <#\>Is that all right with <@>forenameE</@>
+ <$A> <#\>Yeah, what was I saying <#\><{><[>Was it</[> 
+ <$B> <#\><[>I don't</[></{> know <O>laugh</O>
+ <$A> <#\>Oh yes, we met
+<$C> <#\>Now don't get like that <O>inaudible</O> <O>laugh</O>
+ <$A> <#\>We met er this guy today, when <@>forename1</@> and I went in
+to look for tennis balls <,>  <{><[>in that</[> 
+<$B> <#\><[>Yes</[></{> 
+<$A> <#\>house next door
+ <$B> <#\>Oh yes
+ <$A> <#\>and he had been there for many many years
+ <$B> <#\>Mmm-mm
+ <$A> <#\>And he was telling us some of the history of that
+area
+ <$B> <#\>Oh yes
+ <$A> <#\>Did you hear that
+ <$B> <#\>Yes I heard <O>inaudible</O>
+ <$A> <#\>It was so interesting
+ <$B> <#\>Yes, <O>clears throat</O>
+ <$A> <#\>because um this house was<,> an old stable
+ <$B> <#\>Yes<,> and that stone house was the only other house
+ <$A> <#\>Yes
+ <$B> <#\>I got that bit
+ <$A> <#\>And he said he had pictures of it when it was all
+just old <{><[>paddocks</[> 
+ <$B> <#\><[>yes</[></{> 
+<$A> <#\>and
+<$B> <#\>And he wanted to take you into his ah<,,>
+ <$A> <#\>No he didn't
+ <$B> <#\>Oh, he didn't want to take you into his study to
+show you
+ <$A> <#\>No
+ <$B> <#\>Oh
+ <$A> <#\>Yes he was a very pleasant person
+ <$B> <#\><O>laugh</O> <@>forenameD</@> would you like to say grace
+ <$D> <#\>O K<,,> <#\>Oh Lord Jesus, thankyou for this lovely meal
+and I thank you that Nan could prepare it prepare it for us
+um, and I pray your blessing on this conversation<,,> <#\>Amen
+<$ABCDE>  <#\>Amen
+ <$C> <#\><O>inaudible</O> say one little prayer for your mother
+<#\>That Father in her trip to China<,,> that she'll be safe, safe
+return<,,> and the achievements that she does<,> be in
+Christ's<,> Christ's glory
+ <$A> <#\>Mmm
+ <$C> <#\>we ask in the name of Jesus
+<$ABCDE>  <#\>Amen
+ <$A> <#\>Thankyou Lord
+ <$B> <#\>Mmm
+ <$A> <#\>That looks superb <{><[><,></[> mum
+ <$B> <#\><[><,></[></{> Good
+ <$A> <#\>It really does
+ <$B> <#\>Look all right or
+ <$A> <#\>Mmm
+ <$B> <#\>Two, four, six, eight <#\>Looks good enough good enough
+to eat
+ <$E> <#\>Almost
+ <$B> <#\>Good enough to eat <#\>Oh
+ <$A> <#\>Good enough to eat
+ <$B> <#\>Oh well
+ <$A> <#\>Oh, we'll have a bit of a a feed 
+ <$B> <#\>Have a bit of a go <#\>Hold your nose and everyone
+stuff it down
+<$AB> <#\><O>laugh</O>
+ <$E> <#\>You're a generous sod <{><[><O>inaudible</O></[> 
+<$C> <#\><[>I'll give you all my my</[></{> <O>inaudible</O> but I'm going
+to have something to eat
+<$ABCDE> <#\><O>laugh</O>
+<$B>  <#\><O>inaud</O>
+ <$A> <#\>What, you're looking a bit skinny <@>forenameE</@>
+ <$E> <#\>Umm
+ <$A> <#\>Aren't you
+ <$D> <#\>Sauce
+ <$C> <#\>Thankyou <@>forenameD</@>
+ <$E> <#\><O>inaudible</O> you know it's the stress
+ <$A> <#\>Are you losing weight
+ <$E> <#\>Yeah, I am losing weight
+ <$A> <#\>Are you darling, it's probably the meals you miss
+out on
+ <$E> <#\>No it's not, it's the worry I do
+ <$B> <#\>Ah no you <{><[>mustn't worry</[> 
+<$D> <#\><[>That's his excuse</[></{> 
+<$B> <#\>Yeah come on darling, you're a Christian
+ <$C> <#\>No, I know what <{><[>it is -</[> 
+<$B> <#\><[>You don't worry</[></{> 
+<$C> <#\>love
+ <$E> <#\><O>laugh</O> That was <O>inaudible</O> <@>Forename1</@>, she
+didn't eat for a week
+ <$C> <#\>I lost weight once <O>laugh</O>
+ <$E> <#\>Uh<O>laugh</O>
+ <$A> <#\>Well as long as it was only once Dad<,,><#\>Mmm<,,>
+<#\>Beautiful meal Mum
+ <$B> <#\>Mm <#\>Wine tastes good too
+<$ABCDE>  <O>laugh</O>
+ <$E> <#\>Here, allow me
+ <$C> <#\>No <@>forenameE</@>, don't let your meal go cold
+ <$B> <#\>No, have your dinner
+ <$E> <#\>No, I want some wine
+ <$C> <#\>It's on the um<,>
+ <$D> <#\>Don't do it, oh Okay <O>laugh</O>
+ <$C> <#\><O>inaudible</O>
+ <$D> <#\><O>inaudible</O>
+ <$B> <#\>I'll put his dinner in the oven while he's doing it
+<#\>We can't have him having cold dinner<,,>
+ <$C> <#\>Well, I'll pour the ladies', you can pour the men's
+<@>forenameE</@>
+ <$A> <#\><{><[>No, no</[> dad, we'll all have, we'll all have red
+ <$D> <#\><[>No, no</[></{> 
+<$C> <#\>Oh no I've opened the white <#\>The white's there
+ <$D> <#\>No, just let, 'cause you'll <{><[>dinner go cold too</[> 
+<$B> <#\><[>Nothing wrecks a diner more</[></{> than having it cold
+<#\>Sit down <@>forenameC</@>
+ <$C> <#\>Just wait a moment <@>forenameB</@> <#\>I<,> I've opened the white
+<{><[>so</[> 
+<$A> <#\><[>Well</[></{> well I'm happy to have red
+ <$C> <#\>What do you like <@>forenameB</@>
+ <$D> <#\>Just, <@>forenameE</@>'ll do it and you just eat your dinner
+ <$C> <#\>No, that's not quite fair
+ <$D> <#\>Why <@>forenameE</@>'s a growing man<,,> <#\>He has to take on these
+responsibilities
+ <$E> <#\>Can it <@>forenameD</@>
+ <$B> <#\>He'll do better to have a hot dinner
+<$?>   <#\> Mm
+ <$A> <#\>I was saying to Dad we had a surprise visit from
+<@>Forename2</@>
+ <$B> <#\>Mmm
+ <$A> <#\>Just um before we came up here <#\>It was really
+lovely <#\>He just called in to say hello and how are you and so
+on
+ <$B> <#\>Hmm <#\>Hmm good hmm<,,><#\><{><[>How's <@>forenameE</@></[> 
+ <$C> <#\><[>I think Nan likes white</[></{> 
+ <$B> <#\><@>forenameE</@> going
+ <$D> <#\><{><[>Well</[> 
+<$E> <#\><[>Are you a white person Nan</[></{> <#\>It's a very light red
+if you <O>inaudible</O>
+ <$B> <#\>Is it
+ <$D> <#\><O>laugh</O>
+ <$B> <#\>Thankyou<,,> <#\>It's not quite so much that that I
+don't like red wine <#\>Red wine doesn't quite agree with me
+ <$A> <#\>Mmm <#\>Yes I know what you mean
+ <$B> <#\>It's a bit um <O>inaudible several speakers</O>
+ <$A> <#\>Thankyou darling<,,>
+ <$D> <#\>Not um a full glass thanks <@>forenameE</@><,> <#\>That'd be fine
+ <$A> <#\>Poor <@>forenameE</@> we'll be<,> finished our dinner before he's
+<O>inaudible</O>
+ <$D> <#\>Oh it's so yummy
+ <$A> <#\>This is <{><[>beautiful</[> 
+<$C> <#\><[>Coffee please <@>forenameE</@></[></{> 
+<$A> <#\>You cook a beautiful roast
+ <$D> <#\>Wasn't I saying that just the other day <#\>I said I
+love going to Nan's for dinner
+ <$A> <#\>Yes
+ <$B> <#\>My mum was one of the best roast <{><[><O>inaudible</O></[> 
+<$A> <#\><[>Oh she was wasn't she</[></{> eh, and she didn't just
+<{><[>make a roast</[> 
+<$C> <#\><[><O>inaudible</O> very nicely done</[></{> 
+<$A> <#\>dinner <#\>She used to have to make then, um, apple,
+apple<,> oo ah snow or <{><[>apple</[> 
+ <$B> <#\><[>Sponge</[></{> 
+<$A> <#\>Yes, apple sponge
+ <$C> <#\>Strudel
+ <$A> <#\>And and custard
+ <$B> <#\>Mmm
+ <$A> <#\><{><[>And jelly and cream</[> 
+<$B> <#\><[>And would you prefer to have some rhubarb</[></{> 
+<$A> <#\>Yes
+ <$B> <#\>And um and um apple pie there
+ <$A> <#\>Apple pie <#\>She used to make about four or five
+things <{><[>all in the</[> one sweets
+ <$E> <#\><[>Nan</[></{> 
+<$C> <#\>Hey
+ <$B> <#\>Yes darling
+ <$E> <#\>Oven off
+ <$B> <#\>Mm hmm
+ <$D> <#\>So what is for sweets Nan
+<$ABCDE> <#\><O>laugh</O>
+ <$D> <#\>Ice cream and tinned fruit
+<$ABCDE> <#\><O>laugh</O>
+ <$B> <#\>I knew there was something I had forgotten
+ <$A> <#\>Cheers everybody
+ <$B> <#\>Cheers
+ <$E> <#\>Cheers
+ <$C> <#\><{><[>Cheers</[> 
+<$D> <#\><[>Cheers</[></{> 
+<$A> <#\>Oo that's nice
+ <$B> <#\>Mmm <#\>Oh that is a lovely
+<$D> <#\>Ooh, that's nice
+ <$A> <#\>What is it <@>forenameE</@>
+ <$E> <#\>Oh I don't know, something Run
+ <$B> <#\>Rum <O>laugh</O>
+ <$A> <#\>What, you saw the rum and you brought it, did you
+ <$C> <#\>It's a claret isn't it
+ <$E> <#\>Run<,> ready for the runs <#\>Probably is the claret 
+<#\>It's nineteen <{><[><O>inaud</O></[> 
+<$A> <#\><[><O>inaudible</O></[></{> 
+<$B> <#\>Oh I hope not
+<$ABCDE> <#\><O>laugh</O>
+ <$B> <#\>Give me indigestion for the rest of my life
+<$ABCDE> <#\><O>laugh</O>
+ <$E> <#\>Oh it's not cheap, ten dollars a bottle
+ <$B> <#\>Ooh
+ <$C> <#\><O>inaudible</O>
+ <$A> <#\>Well, let's enjoy it
+ <$E> <#\>I said I was going to bring a nice bottle of wine
+and<,> I hate <O>inaudible</O> who don't do that
+ <$D> <#\>Like the rest of the <@>surname1</@> family
+ <$A> <#\>There's a certain young man we know in Canberra,
+who's name shall be nameless<,,> and ah, he doesn't bring a
+bottle of wine any more to dinner because he says he doesn't
+drink wine because he drives, you see <#\><{><[>So therefore</[> 
+<$B> <#\><[>Oh I think I know</[></{> the young man, yes
+ <$A> <#\>and therefore why should he take a bottle of wine
+when
+ <$D> <#\><{><[>Mmm</[> 
+<$B> <#\><[>He'll</[></{> drink everybody else's no doubt
+ <$A> <#\>No he doesn't drink anybody else's
+ <$B> <#\>Oh doesn't he
+ <$A> <#\>No No but
+<$B> <#\>So it's alright 
+ <$A> <#\>But he says why should I take wine when I don't
+drink it
+ <$B> <#\>Ooh <#\>I don't<O>inaudible</O>
+ <$A> <#\>No I don't either
+ <$E> <#\>Who is this
+ <$A> <#\>A young man with the name of G <#\>Begins with G
+ <$B> <#\><O>laugh</O> And you'll never know who it was 
+ <$E> <#\>Never
+ <$B> <#\>Ooh, we have a claret spotted envelope
+ <$E> <#\>It's <{><[><O>inaudible</O></[> 
+<$A> <#\><[>It's the</[></{> stamp
+<$ABCDE> <#\><O>laugh</O>
+ <$D> <#\>Mum went to a lot of effort to get that stamp
+together Nan
+ <$B> <#\>Did she just put claret claret spot on it
+ <$A> <#\>Mmm
+ <$B> <#\><O>inaudible</O> <,,>
+ <$A> <#\><{><[>This is a</[> 
+<$C> <#\><[>There's another</[></{> thing about this 
+<$B> <#\><{><[>Gee you're making a lotta <O>inaud</O></[> 
+<$C> <#\><[>the the meal</[></{> is your mother doesn't put too much
+on the plate and I think that's uh very important
+ <$A> <#\>Mmm
+ <$E> <#\><{><[>Unless she's feeding me</[> 
+<$B> <#\><[>It's just right</[></{> 
+<$ABCDE> <#\><O>laugh</O>
+ <$C> <#\>You can come back for a <{><[>second helping</[> 
+<$B> <#\><[>I can't find a big</[></{> enough plate for you actually <O>laugh</O>
+<$D> <#\>Can we come back for <{><[>seconds Nan</[> 
+<$C> <#\><[>Yes</[> 
+<$E> <#\><[><O>inaudible</O></[></{> <#\>You should have seen the plates we
+had today, honestly they were this round
+ <$A> <#\>What did you have <#\>Did you go out for lunch or
+something
+ <$E> <#\>Yeah, we had a nice lunch out
+ <$A> <#\>Did you
+ <$E> <#\>Yep
+ <$A> <#\>Was it anything special
+ <$E> <#\>Yep yep, it was <@>Forename1</@> and I's celebration
+ <$D> <#\>Our two <{><[>weeks together</[> 
+<$E> <#\><[><O>inaudible</O></[></{> the official start <#\>We decided we'd
+make today the start <#\>This is the date
+ <$D> <#\>The fourteenth
+ <$E> <#\>Yep
+ <$A> <#\>What 
+ <$C> <#\>The fourteenth <{><[>of October is it</[> 
+<$A> <#\><[>What about what's gone</[></{> on before
+ <$B> <#\>That was <{><[>getting to know you</[> 
+<$E> <#\><[>Well, it just was</[></{> 
+<$B> <#\><O>singing</O> 
+ <$E> <#\>Okay Nan
+ <$B> <#\><O>singing</O>
+ <$D> <#\><O>singing</O>
+<$ABCDE> <#\><O>laugh</O>
+ <$E> <#\><O>inaudible</O> <@>forenameD</@><,,>
+ <$D> <#\>Bit close to the bone hey <@>forenameE</@>
+<$A?><#\> <{><[>Well I</[> 
+<$E> <#\><[>I was</[></{> just making sure we were compatible <,,>
+ <$B> <#\>If you don't enjoy the first kiss well I mean it's
+gotta be all off hasn't it
+ <$A> <#\>Absolutely
+ <$E> <#\>Oh Well it's all on then
+<$ABCDE>  <#\><O>laugh</O>
+ <$C> <#\><{><[>It's like in</[> 
+ <$D> <#\><[>Please don't give us details <@>forenameE</@></[></{> 
+ <$E> <#\>You see it's<,>
+ <$A> <#\>A lovely bottle of wine <#\>I've really enjoyed it
+ <$D> <#\>I'm too busy 
+ <$E> <#\>A likely tale
+ <$A> <#\><{><[>Have a taste of it <@>forenameD</@></[> 
+<$D> <#\>It's really nice isn't it
+ <$C> <#\><[>In Home and Away last night</[></{> 
+<$A> <#\>Dad, you don't watch that tripe do you
+ <$C> <#\>No
+<$ABCDE> <#\><O>laugh</O>
+ <$D> <#\>In Home and Away - uh, of course I don't watch it
+ <$C> <#\>Well anyhow <O>laugh</O> the young lad that's the hero
+ <$B> <#\><{><[>I do</[> 
+<$C> <#\><[>at the moment</[></{> 
+<$E> <#\>What's his name
+ <$C> <#\>and uh he had a a heart<,,> pacemaker put in
+ <$A> <#\>A young lad
+ <$C> <#\>Ooh, no, not a a pacemaker
+ <$B> <#\>that was in <{><[>Country Practice</[> 
+<$D> <#\><[>No, it was</[></{> Mr Fisher
+ <$B> <#\><{><[>In A Country Practice</[> 
+<$D> <#\><[>That was in the ad</[> oh<,,>
+ <$B> <#\><[>A country practice</[></{> that's what it was <#\>He didn't
+have a pacemaker either, <{><[>he had a heart transplant</[> 
+<$E> <#\><[>a transplant</[></{> and he was worried that it was <{><[> uh</[> 
+<$C> <#\><[>No</[> 
+<$?>    <#\><O>inaudible</O> 
+ <$E> <#\><[>that was his</[></{> girlfriend<,>
+ <$D> <#\>Did you watch it <{><[>too <@>forenameE</@></[> 
+<$C> <#\><[>And she she </[></{> couldn't come <{><[>to um</[> 
+ <$E> <#\><[>No it was on</[></{> while I was having dinner
+ <$C> <#\>terms with it because the heart that he<,> she
+thought he had pain from <{><[>the presence of</[> both of <[>them</[> 
+<$B> <#\><[>It was the sister too</[>    <#\><[>Her sister</[></{> 
+<$C> <#\>Pardon
+ <$B> <#\>Her sister
+ <$C> <#\>Her sister was it
+ <$A> <#\>Her, her sister was heart heart's beating for her
+was it
+ <$B> <#\>Anyway it turned out it wasn't her sister's heart<,>
+we got that one all sorted out
+ <$D> <#\>Oh I'm glad
+ <$B> <#\><O>laugh</O> <{><[>I love all</[> 
+<$D> <#\><[><O>inaud</O></[></{> 
+<$B> <#\>I love all these soap operas <#\>You go through an
+hour's agony only to come to the end and think ohh it was all
+for nothing<,,>
+ <$D> <#\>Is that an hour long show
+ <$C> <#\>Yes
+ <$B> <#\>A Country Practice
+ <$A> <#\>Australia seems extra good at making soap operas
+doesn't it
+ <$D> <#\>No <#\>A Country Practice isn't isn't classified as a
+soap op opera
+ <$A> <#\>Isn't it <#\>What is it then
+ <$E> <#\>Serial
+ <$D> <#\>'Cause it's revolved, no it's resolved each week
+ <$A> <#\>Oh
+ <$E> <#\>It's a serial
+ <$B> <#\>Yes it is, that's right<,,> <#\>Actually
+<$A> <#\>So what is it called then
+ <$B> <#\>Well, it's just a series
+ <$D> <#\>Just a series, yeah
+ <$A> <#\>Oh right
+ <$B> <#\>Soap operas are the long-going stories
+ <$A> <#\>Oh I see
+ <$B> <#\><O>laugh</O> 
+<$D?><#\><O>inaud</O>
+<$B> <#\>What are we going to do with it now 
+ <$A> <#\><O>inaudible</O> <@>forenameE</@>
+ <$C> <#\><O>inaudible</O> it is nice isn't it
+ <$E> <#\>I'd like to say I chose it but I didn't
+ <$D> <#\>Who chose it
+ <$E> <#\>It was the wine person
+ <$A> <#\>Oh Well that's good <#\>Sometimes you have to <O>inaud</O>
+sort of pick out <O>inaudible</O>
+ <$E> <#\>I usually do when it comes to things like wine
+ <$A> <#\>Actually, I wouldn't mind writing down the name of
+that <#\>It's so often you want a nice wine and you<,,> don't
+know what to ask for do you
+ <$B> <#\>Rather like the first time<,,> one of the first
+times <@>forenameC</@> asked about a particularly good sherry<,> for an
+overseas visitor, in the days where we couldn't really afford
+any particularly good wine
+ <$A> <#\>Mmm
+ <$B> <#\>We had this overseas visitor coming <#\>She said
+<quote>You'll never go wrong<,,> <#\>She's an overseas visitor and
+its quality Mildara Chestnut <O>inaudible</O></quote> <#\>It was a
+real beauty
+ <$A> <#\>Mmm<,,>
+ <$C> <#\>We've got no axe to grind<,> <#\>It's the the wine that
+um
+<$A> <#\>And even to this day if you go somewhere and ask
+for Mildara Chestnut Bell sherry<,,> you know your sherry <O>laugh</O>
+ <$E> <#\>What was the name of that <{><[><O>inaud</O></[> 
+ <$C> <#\><[>traverse leeway</[></{> now we find mostly don't we
+ <$B> <#\>I oh we easy found then it was more like a <{><[>liquor</[> 
+<$C> <#\><[>yes</[></{> 
+<$A> <#\>Something more like a marsala or something<,,> <#\>Ten
+out of ten Mrs <@>surname2</@><,,>
+ <$D> <#\>Ten out of ten
+ <$A> <#\>Ten out of ten
+ <$B> <#\>Nine and a half
+ <$A> <#\>No ten <{><[>out of ten</[> 
+<$B> <#\><[><O>inaud</O></[></{> 
+<$A> <#\>Oh no ten out of ten <#\>It was superb <#\>I enjoyed it
+so much
+ <$B> <#\>I tell you what<,,> what do you get for dinner in
+New Zealand</I>
+
+

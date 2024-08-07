@@ -1,0 +1,354 @@
+<S1A-057> <2004>
+<S1A-057a> <1701>
+<I><$A> <#\>How's mum and <@>forename1</@> 
+<$B> <#\>Oh they're alright <#\>I've been to see them this
+morning<,,> and there's a crowd of visitors there so
+<$A> <#\>Who was there
+<$B>  <#\>Ah<,,> mother and father and<,,> <#\>Mother and
+brother<,,>
+and <@>forename2</@> <,,> and <@>forename3</@> 
+<$A> <#\><@>forename3</@> was there <@>forename3</@> rang me
+this morning actually
+<$B> <#\>Yes <#\>She said she'd been in touch with you this
+morning
+<$A> <#\>Mmm<,> <#\>And <@>forename4</@> <@>surname4</@> <#\>Do you know
+<@>forename4</@> <,,>
+<$B> <#\>No <#\>I don't think I do
+<$A> <#\>She rang as well<,,> and <@>forename5</@> rang
+<$B> <#\>Oh yes<,,> <#\>Did you know there was a fire on the
+harbour
+bridge
+<$A> <#\>No <#\>What happened
+<$B> <#\>Oh the workmen were doing some work on it<,> and
+apparently<,> the<,,> what do they call that<,> that ox<,,>
+oxywelding<,> caught fire <{1><[1><,></[1> and<,> they went for the fire
+extinguishers and when they got the fire extinguishers there
+was nothing in the fire extinguishers <{2><[2><,> so</[2> they couldn't
+put out the fire <O>Blaughs</O>
+<$A> <#\><[1>Yeah</[1></{1> 
+     <#\><[2>Oh really</[2></{2> 
+     <#\>Where abouts was the fire<,> <#\>On the road <#\><{><[>Or</[> 
+up on
+the top
+<$B> <#\><[>No</[></{> <#\>Up on the top <{><[>I think</[> 
+<$A> <#\><[>On the very</[></{> top
+<$B> <#\>Somewhere up on the top I think <#\>I don't know <#\>I
+didn't
+hear much about it but<,,> anyway<,> that was the harbour
+bridge
+<$A> <#\>And how long<,> what<,> how did they get it off <#\>How
+did
+they get that get the fire <{><[>out</[> 
+<$B> <#\><[>Well</[></{> they had to call the fire brigade but it held
+up
+all the traffic
+<$A> <#\>This morning
+<$B> <#\>Yes<,,>
+<$A> <#\>Was this this morning <{><[><,></[> <#\>In peak hour
+<$B> <#\><[>Yes</[> </{>
+     <#\>This was not very long ago <#\>Only about<,,> well it
+probably would've been in peak hour<,,> but<,,> it was on
+the<,,> actually is was<,> it wasn't on the news I don't
+think <#\>It was a news flash between the news reports <{><[><,></[> 
+that I heard it <#\>Mmm<,,> <#\>Yes<,,>
+<$A> <#\><[>Oh</[> </{>
+     <#\>So who else was ov who<,> who<,> was <@>forename6</@> 
+and <@>forename7</@> there were they
+<$B> <#\>Yes<,>
+<$A> <#\>Oh<,,> and how's <@>forename1</@> <#\>Is he alright
+today
+<$B> <#\>Yes <#\>He's sitting out on the <,> chair<,> <{><[>and</[> 
+<$A> <#\><[>Has</[></{> he still got a drip<,,>
+<$B> <#\>No <#\>He didn't have the drip <#\><{1><[1><,></[1> <#\>Well I
+don't think
+so <#\>I didn't see any drip<,> <{2><[2>but I</[2> didn't stay <#\>I just
+went
+sort of in and out and when they were all there<,> I took the
+flowers and put them in water for them<,>
+<$A> <#\><[1>Oh</[1></{1> 
+     <#\><[2>Did mum</[2></{2> 
+     <#\>Ho what flowers
+<$B> <#\>We got about<,> three bunches of flowers that we bought
+them
+<$A> <#\>What did ah<,> mum have a drip in
+<$B> <#\>Yes <#\>She's still got it
+<$A> <#\>Did they say how long she's gonna be in hospital <{><[>for</[> 
+<$B> <#\><[>Well</[></{> I really wasn't talking to anybody this
+morning<,,> but see they've gotta get her back on food <{><[><,></[> 
+and see how that goes
+<$A> <#\><[>Yeah</[></{> 
+     <#\>Did you get in contact with the doctor<,>
+<$B> <#\>No <#\>I haven't seen the doctor
+<$A> <#\>Oh<,>
+<$B> <#\>It's hard to see the doctor unless you're there<,> right
+when he's there <{><[><,></[> you don't see him<,> <#\>And I'd rather
+talk to doctor ah <@>surname8</@> is it <@>surname8</@> <,,>
+<#\>What's the<,> his<,,>
+<$A> <#\><[>Yeah</[></{> 
+     <#\>Names<,>
+<$B> <#\>Yeah <#\>What's the doctor's name
+<$A> <#\>The one who operated on mum <{1><[1><,></[1> <#\>I think it was
+<@>surname8</@> <{2><[2><,></[2> 'cos <@>forename1</@> 's got Dr
+<@>surname9</@> 
+<$B> <#\><[1>Yes</[1></{1> 
+     <#\><[2>Yes</[2></{2> 
+     <#\>Yes<,,> <#\>But it hard to get<,> to see the doctors
+'cos
+they're so busy<,,> and getting around to being busy<,>
+they're building another hospital <{1><[1><,,></[1> <#\>In the<,,>
+southwest I <{2><[2>think<,></[2> In the southwest
+<$A> <#\><[1>Yeah</[1></{1> 
+     <#\><[2>They're clo</[2></{2> 
+     <#\>They're closing Balmain ye <{><[>yesterday</[> when I went down
+there<,,> <#\>Oh well they're not closing it but they're not
+doing any operations<,>
+<$B> <#\><[>Really</[></{> 
+     <#\>And it's going to take in<,> Concord<,> Balmain<,> and
+another couple of hospitals I think<,> to service<,> the<,>
+<{><[>area</[> <O>inaudible</O>
+<$A> <#\><[>Really</[></{> 
+     <#\>'Cos it's a long way
+<$B> <#\>That's<,,> when you go out the Hume highway you go
+through Gordon don't you
+<$A> <#\>Yeah<,> <#\>Oh no <#\>You don't have to go that way
+<#\>You can go
+the back way
+<$B> <#\>Yes<,,> <#\>It's still a long way<,,> when they've got
+hospitals already here <{><[><,,></[> for convenience
+<$A> <#\><[>Yeah</[></{> 
+     <O>inaudible</O><,,>
+<$B> <#\>Did you get in touch with <@>forename1</@> 
+<$A> <#\>Yep<,>
+<$B> <#\>Is he coming in to see mum
+<$A> <#\>Yeah <#\>He's<,> I don't think he could handle coming
+in
+yesterday but um<,,> ah<,> he's gonna come in today with
+<@>forename2</@> 
+<$B> <#\>Oh<,,> that's good <#\>Yes <#\>And <O>inaudible</O> did
+he work
+at the weekend <@>forename1</@> <,,>
+<$A> <#\>Yeah <#\>He worked on Saturday<,,> ah Saturday and
+Sunday
+<{1><[1><,></[1> and um<,> and then I'm going to get him to come in on
+Saturday for four hours <{2><[2><,,></[2> 'cos I'm gonna go shopping<,>
+<#\>So I'm gonna work from ten till one<,> and then he's gonna
+work from<,,> one till five <{3><[3><,,></[3> and then <@>forename2</@> 
+will probably work on Sunday<,,> 
+<$B> <#\><[1>Mmm</[1></{1> 
+     <#\><[2>Mmm <#\>That's good</[2></{2> 
+     <#\><[3>Mmm</[3></{3> 
+     <#\>I see<,,> I see said the blindman <{><[>but he couldn't see at all</[> <,,> <#\>Oh anyway<,> I've got some pumpkin<,> and some
+cauliflower<,> and I'm going to make pumpkin soup and
+cauliflower soup for the weekend
+<$A> <#\><[><O>Alaughs</O></[></{> 
+     Is that for when mum and <@>forename1</@> come out
+<$B> <#\>Yes <#\>But you<,> can have some <O>Blaughs</O> if you
+like
+pumpkin soup and cauliflower soup <#\>Do you
+<$A> <#\>Are you making two different soups or putting them both
+in one
+<$B> <#\>No <#\>Making two different ones
+<$A> <#\>Oh I like pump I like pumpkin soup
+<$B> <#\>Yeah<,> <#\>And if there's any over it can be
+frozen<,,>
+<$A> <#\>We usually freeze it don't we though<,>
+<$B> <#\>Oh yes but in the deep freeze
+<$A> <#\>Oh we don't have any
+<$B> <#\>Yes you do <#\>You've got a freezer at the top of the
+fridge <{><[><,> <#\>That freezer</[> 
+<$A> <#\><[>Oh I thought</[></{> you meant a big freeze <{><[>like a</[> 
+<$B> <#\><[>No</[></{> <#\>The freezing compartment at the top of the
+fridge
+<#\>You put it in there <#\>I've got some little plastic
+containers
+<{><[>to</[> put it in<,> so<,> there's just enough for one
+serving<,>
+<$A> <#\><[>Oh</[></{> 
+
+              <&> New conversation on same tape</&>
+
+<$C> <#\>I just found five dollars on the street<,,> I'm so glad
+I went to get that ribena
+<$A> <#\>Where'd you get it from <#\>Down there
+<$C> <#\>Yeah <#\>But I felt really slack because they're all
+council
+people working down there and if I hadn't've found it they
+would've found it
+<$A> <#\>Oh that's not slack<,> <#\>That's smart<,,> <#\>Mmm
+<#\>That's
+good<,> and how long've you got <#\>Another week <{><[>until <O>inaudible</O></[> 
+<$C> <#\><[>Yeah</[></{> No <#\>Another week
+<$A> <#\>Do you think you'll like it<,,> <#\>Teaching
+<$C> <#\>Yeah<,,> <#\>But  but it'll be different because I'll
+be<,,>
+I'll be<,> at at primary school like <O>inaudible</O> so I'll
+only go and visit each school for an hour <#\>Like<,> I'll<,,>
+<{1><[1>travel around <,,> <#\>Yeah</[1> Yeah <#\>So that'll be even
+better<,> <#\>Like <{2><[2><O>inaudible</O></[2> <#\>Yeah <#\>Yeah <#\>So
+that's
+good
+<$A> <#\><[1>Oh <O>inaudible</O></[1></{1> 
+     <#\><[2>Yeah <#\>You're not with them all day</[2></{2> 
+     <#\>And does does uni guarantee you a job<,,>
+<$C> <#\>Um no but<,,> they they have lots of<,> like they have
+<O>inaudible</O><,> <{1><[1>and</[1> <,> most people get jobs<,> from<,>
+from the university <{2><[2><,></[2> so that's good<,> <#\>But they
+won't<,> the the music teacher there that's there at the
+moment<,,> um<,,> she has<,> eight jobs <{3><[3><,></[3> <#\>Yeah <#\>For
+eight different schools and she says it's really easy to get
+music<,> jobs in <{4><[4>primary schools</[4> 
+<$A> <#\><[1>Oh</[1></{1> 
+     <#\><[2>Yeah</[2></{2> 
+     <#\><[3>Really</[3></{3> 
+    <#\><[4>'Cos it's</[4></{4> only for a little while <#\>Why don't you
+do it
+high school as well
+<$C> <#\>I don't want to teach high school <{1><[1><,></[1> because the
+kids are too<,> they they're too<,,> they know too much and they're
+<{2><[2>too<,,> smart</[2> <#\>They can talk back <#\>Little kids just do
+what you say <#\><{3><[3>Like</[3> if you say you know<,> <quote>go
+there</quote> and they'll go there without<,> pushing you<,,> but<,> oh<,> I'm better
+with little kids I think<,,> <#\>And what're you doing this week <@>forename1</@> 
+<$A> <#\><[1>Oh</[1></{1> 
+     <[2><O>Alaughs</O></[2></{2> 
+     <#\><[3>Yeah</[3></{3> 
+     <#\>I dunno know<,> what I'm gonna do
+
+          <&>New conversation on same tape</&>
+
+<$B> <#\>How did your job interview go <@>forename1</@> 
+<$A> <#\>Um<,> quite good <#\>I got in there<,> in the morning
+and
+saw the<,> guy who was interviewing me and he said that I
+um<,,> <#\>He told me about the job and everything <#\>How it was
+and<,,> what I'd be doing and I said<,,> that sounded all
+really good and exciting and everything<,> and um<,,> and he
+said that I'd be really good for the position<,,> for the
+job<,> I was exactly what they were looking for<,,> but I'd
+have to be interviewed by the people who are<,> the actual
+legal company <{><[><,> the</[> firm<,> and um<,,> yeah so I I was I
+was in there for very long<,> and then they mm gave me a
+typing test so I was typing<,> and then<,,> um
+<$B> <#\><[>Oh yes</[></{> 
+    <#\>So how many<,> words a minute do you have to have <{><[><,,></[>
+for the job
+<$A> <#\><[>I only have</[></{> I only need forty
+<$B> <#\>Oh<,> you can manage that alright
+<$A> <#\>Oh yeah<,> I wasn't worried about that<,> <#\>And then
+um<,> yeah and then he said to ring him<,> later in the
+afternoon<,> 'cos he wanted to ring the company and tell them
+about me and um<,,>  I ah I<,,> I rang back yesterday
+afternoon<,> and he said that I could um<,> ha my interview
+with with the actual company is on Monday at two thirty<,>
+<$B> <#\>Oh yeah <#\>That's good
+<$A> <#\>So I've gotta get a new suit <O>ABlaugh</O> <#\><{><[>But um</[> 
+<$B> <#\><[>That's</[></{> a good excuse to get some more clothes
+<{><[><@>forename1</@> </[> Yeah
+<$A> <#\><[>I know</[></{> 
+     <#\>So I'm gonna go and do that and<,,> then I have to go
+back and see the agency after I've had the interview<,>
+<$B> <#\>Oh yes<,,>
+<$A> <#\>Here's the window cleaner <{><[><,></[> <#\>He comes to Newtown
+as
+well but he charges more at Newtown<,,>
+<$B> <#\><[>Yes</[></{> 
+     <#\>What <#\>'Cos he's gotta go across there
+<$A> <#\>No <#\>I dunno <#\><{><[>I think because it's bigger windows</[> 
+<$B> <#\><[>Couldn't you get anyone</[></{> couldn't <{><[>you get anyone local</[> 
+<$A> <#\><[>He does a lot</[></{> he does all the windows in Newtown
+<$B> <#\>Does he <#\><{1><[1><,></[1> Oh<,,> he gets around a bit doesn't
+<{2><[2>he</[2> <#\>For a window cleaner 
+<$A> <#\><[1>Yeah</[1></{1> 
+     <#\><[2>Yeah</[2></{2> 
+     <#\>It's<,> funny
+<$B> <#\>See that little cup saucer and plate there <{><[><,> <#\>Is that</[> is that Tuscan
+<$A> <#\><[>Yeah <#\>You could <O>inaudible</O></[></{> 
+     <#\>Yep <{><[><O>inaudible</O></[> 
+<$B> <#\><[>Yes <#\>But how<,></[></{> how much does it cost
+<$A> <#\>Forty two dollars
+<$B> <#\>Forty two dollars <#\>Yeah
+<$A> <#\>For the whole lot<,>
+<$B> <#\>Yes<,> <#\>It's nice <@>forename1</@> has got a set
+like
+that<,,> that she got when we were down<,> going through
+Goulbourn one oh well trip down to Canberra
+<$A> <#\>Oh<,,>
+<$B> <#\>And she found this<,,> ah <{><[><,,> shop</[> 
+<$A> <#\><[>Oh I remember <#\>You were</[></{> <#\>Yeah <#\>And you were
+going to
+buy a coffee set
+<$B> <#\>Yes <#\><{1><[1>I go I</[1> got the coffee set <#\>Yeah <#\>It's
+quite nice
+but it's a bit useless 'cos it's only the<,,> the coffee<,>
+jug<,> and<,> there's a<,,> I think a<,,> sugar and milk<,>
+little sugar and milk <{2><[2><,></[2> jug <{3><[3><,> to go with it</[3> <#\>No cups
+with it <#\><{4><[4>Mmm</[4> <,,> <#\>So you really need cups to drink
+coffee
+<$A> <#\><[1>Oh you got it</[1></{1> 
+     <#\><[2>Oh</[2></{2> 
+     <#\><[3>Oh so there's no cups</[3></{3> 
+     <#\><[4>Mmm</[4></{4> 
+     <#\>Well I would've thought so
+<$B> <#\>Yes<,,>
+<$A> <#\>I wish he'd clean the inside window as well
+<$B> <#\>Oh well that's a bit difficult
+<$A> <#\>Yeah<,,>
+<$B> <#\>You'd only do that when you'd<,> cleared the whole
+window
+area and <{><[><,,></[> and that'd be a long job<,,>
+<$A> <#\><[>Yeah</[></{> 
+     <#\>Mmhmm<,> <#\>Anyway<,,>
+<$B> <#\>Well I'd better get going now <@>forename1</@> <,> so
+I'll see you later
+<$A> <#\>Alright Granny <#\><{><[>See ya</[> Bye
+<$B> <#\><[>Bye bye</[></{> </I>
+
+
+<S1A-057b> <359>
+<I><$A> <#\>Where are you going to <#\>Which part
+<$B> <#\>Um<,,> well I thought we'd better go and do the touristy
+bit<,> because no one'll believe her unless she's taken a
+photograph of the three <{><[>sisters</[> <O>Blaughs</O> <#\>And then I
+thought we could either do<,> a walk called the<,> castle rock
+walk but that might be a bit long 'cos it's about eight hours
+<$A> <#\><[>Exactly mmm</[></{> 
+     <#\>Is that the one where you go down the scenic railway to
+start off
+<$B> <#\>No<,> no <#\>The castle rock's along a ridge<,> actually
+<{><[>it</[> doesn't start at Katoomba<,> but I thought Wentworth
+Falls might be nice<,> <#\>Straight down to the falls and<,>
+wander around and then<,> straight up again
+<$A> <#\><[>Right</[></{> 
+     <#\>That's<,> that Valley of the Waters <{><[>isn't it </[><#\>Yeah
+<#\>Mmm<,,> <#\>Yes <#\>I I think that's a really lovely one
+<$B> <#\><[>Yes<,,> Yeah</[></{> 
+     <#\>Yeah<,> yeah <{1><[1><,></[1> I thought that might be the
+nicest<,> especially now with spring <#\>Hopefully they'll be
+flowers <{2><[2>and<,></[2> beautiful things
+<$A> <#\><[1>Mmm</[1></{1> 
+     <#\><[2>Yeah yeah</[2></{2> 
+     <#\>Plenty of leeches <#\>Better take a thing of salt with you
+<O>Blaughs</O> 
+<$B> <#\>Yeah <#\>I wonder if they have leeches in Holland<,,>
+<$A> <#\>Prob'ly not<,,> <#\>It's <{1><[1>not</[1> <,> sort of warm enough is
+it <{2><[2><,></[2> <#\>Leeches are sort of tropical<,> type things aren't
+they
+<$B> <#\><[1>Mmm</[1></{1> 
+     <#\><[2>No</[2></{2> 
+     <#\>Yeah<,,> <#\><{><[>How</[> weird
+<$A> <#\><[>Mmm</[></{> 
+     <#\>Oh well
+<$B> <#\>Oh I hope we meet some then <#\>I'd like to see how some one
+who's never met them reacts <O>ABlaugh</O>
+<$A> <#\>Delightful<,>
+<$B> <#\>Mmm<,> well<,,> <#\>Mmm<,,> <#\>Do you<,> you live in Sydney
+don't you <#\><{><[>Not out here</[> 
+<$A> <#\><[>No <#\>I live in</[></{> the mountains <#\><{><[><,> <#\>In Springwood</[> 
+<#\>Yeah
+<$B> <#\><[>Oh do you</[></{> 
+     <#\>Oh that's nice
+<$A> <#\>Mmm<,,> <#\>Only for<,> two years<,,>
+<$B> <#\>So where were you working in the year<,> prior to working
+here</I>
+
+

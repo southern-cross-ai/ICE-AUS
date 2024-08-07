@@ -1,0 +1,340 @@
+<S1A-072> <2041>
+<I><$A>   <#\>Seen any good movies lately
+<$B> <#\>Oh not good ones <#\>I saw a bad one on the weekend
+<$A> <#\>Yeah and what was that
+<$B> <#\>Toys
+<$A> <#\>Toys
+<$B> <#\>With Robin Williams in it 
+<$A> <#\>Oh yeah I've seen that one 
+<$B> <#\>And I was not impressed
+<$A> <#\>Mmm why not
+<$B> <#\>Well Robin Williams is generally a pretty good actor
+<{><[>and</[> he made a really bad movie <O>laughter</O>
+<#\>I just couldn't believe all the big names could make such
+a bad movie
+<$A> <#\><[>Yes</[></{>
+     <#\>Yes <,>
+<$B> <#\>The jokes were really offbeat <{><[>and</[> they
+happened too quickly for anyone to laugh
+<$A> <#\><[>Mmm</[></{>
+     <#\>Yeah but  they weren't they
+weren't  that strong anyway and the plot was  quite pretty  damn weak if you ask me
+<$B> <#\>There wasn't really a plot there
+<$A> <#\>No and it had  quite no  relevance
+at all  that  ah  the  anti-war
+<{1><[1>theme</[1> nowadays <#\>I mean maybe if it was during
+the time of the Gulf War or something but nowadays it's not so
+relevant <{2><[2>but</[2> mmm
+<$B> <#\><[1>Mmm</[1></{1>
+     <#\><[2>True</[2></{2> <#\>It's a very strange way to
+deal with an anti-war theme 
+<$A> <#\>Yeah anti-war <#\> It  it was a it
+was a  good idea but if the story was a bit stronger
+<{><[>maybe</[> it would've taken off 
+<$B> <#\><[>Mmm</[></{>
+     <#\>The special effects were great <{><[>the</[>
+<$A> <#\><[>Yeah</[></{> they were the only thing that
+really 
+<$B> <#\> The the  construction of the props
+being all really bright coloured and everything <#\><{><[>I thought</[>
+<$A> <#\><[>Yes that was</[></{> interesting
+<$B> <#\>Mmm I thought perhaps that the movie'd suit
+children's humour <#\>You know children have really warped
+<{1><[1>sense of</[1> humour <#\>Well perhaps that'd suit
+<{2><[2>them</[2> and they'd laugh 
+<$A> <#\><[1>Yeah yeah</[1></{1>
+     <#\><[2>Mmm</[2></{2>
+     <#\>But  that's the um that's the 
+quality that attracted me to the movie to start with <#\>Like
+I saw a preview of it and it showed  all the ah the  fold-out house <{1><[1>and</[1> things like
+that so you know I saw that and I thought oh that'd be an
+interesting movie so I went along and saw it and I was a bit
+disappointed <#\><{2><[2>Mmm</[2> but another movie with Robin
+Williams ah that ah Alladin that Disney movie 
+<$B> <#\><[1>Oh right</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\>Oh yeah <{><[>have</[> you see it yet
+<$A> <#\><[>Mmm</[></{>
+     <#\>Yeah  I saw it I went and saw it 
+with ah <@>forename1</@> just a couple of weeks ago
+<$B> <#\>Yeah I went and saw it a week ago
+<$A> <#\>Yeah did you like it
+<$B> <#\>I loved it 
+<$A> <#\>Yeah I liked it but I thought it was really really
+dominated by Robin Williams and that was not so bad
+<{><[>but you know</[> I thought mmm
+<$B> <#\><[>Yeah yeah</[></{>
+     <#\>Well the genii was the most impressive character
+<#\><{><[>Even</[>
+<$A> <#\><[>Yeah well he</[></{>  was was  the character
+<$B> <#\>Even the drawing of the genii was a lot better than
+the other characters <#\><{><[>It</[> seemed  to to  catch you in but I mean kids would've missed a
+lot of the jokes
+<$A> <#\><[>Yeah yeah</[></{> 
+     <#\>Yes and it was very very American don't you think 
+<$B> <#\>Oh definitely definitely
+<$A> <#\>Very <#\> That's  you know that that  sort of got me a bit <#\>Like  this
+Middle East this Middle East story  and then
+ very it's very  Americanised you
+<{><[>know</[> <#\>It's kind of a bit of a <O>laughter</O>
+mmm
+<$B> <#\><[>Yeah</[></{>
+     <#\>But  I loved I loved  um the little
+characters <#\>The little monkey was really good 
+<$A> <#\>Yeah he was good <#\>I liked  the  um
+ the  salesman at the beginning <quote>come
+closer</quote> <{><[><O>inaudible three syllables</O></[>
+<$B> <#\><[>Oh yeah yeah</[></{>  that that  sort of drew you <{><[>in</[> <#\>That
+made you laugh to start with
+<$A> <#\><[>Yeah</[></{> 
+     <#\>Yes that was good mmm
+<$B> <#\>Even like the music and everything wasn't that bad
+<#\> It <{1><[1>wasn't</[1> very when you used to
+watch  Walt Disney <{2><[2> musics movies </[2> the music sort of as a child
+<{3><[3>you'd</[3> sort of sit there and sing along with it
+ <{4><[4>and</[4> and  seeing it sort of
+grown up past <{5><[5>that</[5> stage the music didn't annoy
+you like it <O>laughter</O> does in most other Walt Disney
+movies 
+<$A> <#\><[1>Mmm</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\><[4>Mmm</[4></{4>
+     <#\><[5>Mmm</[5></{5>
+     <#\>Yeah right mmm compared to like  the the  Little Mermaid the music wasn't as good 
+<$B> <#\>I haven't seen that one
+<$A> <#\>You haven't seen that one <#\> That was that had  a very good music sound track 
+<$B> <#\>Mmm my brother loved that movie
+<$A> <#\>Yeah my little sister loves that movies <#\>She still
+watches it now oh too much <#\>But oh Mary Poppins was another
+good <{><[>Disney one</[>
+<$B> <#\><[>Yeah Mary</[></{> Poppins was good but  it
+wasn't it wasn't  animated <#\><{1><[1>A lot</[1>
+of the animated stuff <#\>I mean they're getting really good
+at that <{2><[2>these</[2> days <#\>I mean I haven't seen what
+is it Ferntree Gully <{3><[3><,,></[3> <#\><{4><[4>I think</[4> um it's all about saving the rainforests <#\> <{5><[5>It's</[5> it's  a sort of a didactical
+story
+<$A> <#\><[1>Oh it wasn't animation</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\><[3>No</[3></{3>
+     <#\><[4>I don't know that one</[4></{4>
+     <#\><[5>Mmm</[5></{5>
+     <#\>Is it a Disney one
+<$B> <#\>Yeah <{1><[1>it</[1> is <{2><[2>Disney</[2> <#\>It
+was brought out last year <{3><[3>I</[3> think and I haven't
+seen it but Robin's in it too <#\>He does a couple of voices
+<$A> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Animation</[2></{2>
+     <#\><[3>Oh</[3></{3>
+     <#\>Again
+<$B> <#\>Yeah he doesn't do the main character
+<{1><[1>but</[1> that was his sort of introduction to Disney
+<{2><[2>animation</[2> and apparently it's a great movie
+<{3><[3><,></[3> so  I I  want to see that
+one day <O>laughter</O>
+<$A> <#\><[1>Oh</[1></{1>
+     <#\><[2>Yeah yeah</[2></{2>
+     <#\><[3>Mmm</[3></{3>
+     <#\>Oh I went and saw um Scent Of A Woman <{1><[1>at</[1>
+Filmsoc <#\><{2><[2>Did you like that one</[2> <#\>Yeah I
+thought that was quite good 
+<$B> <#\><[1>Yeah yeah</[1></{1>
+     <#\><[2>So did I yeah</[2></{2>
+     <#\>It <{1><[1>wasn't</[1> quite what I expected in a
+<{2><[2>way</[2>
+<$A> <#\><[1>It wasn't</[1></{1>
+     <#\><[2>Yeah</[2></{2> no no it wasn't
+<$B> <#\>I mean seeing the shorts of the movie and you sit
+there and you think oh <{><[>this</[> is going to be about
+a guy who's going after women 
+<$A> <#\><[>Mmm</[></{>
+     <#\>Yeah who's blind
+<$B> <#\>A guy who's blind <{><[>who's</[> going after
+women  and and  it was just so deep 
+<$A> <#\><[>Yeah</[></{>
+     <#\>Mmm it was <#\><{><[>It was</[> interesting
+<$B> <#\><[>But it</[></{>
+     <#\>It seemed weird to me how um the bit about him going
+to kill himself <{1><[1>the</[1> suicide bit
+<{2><[2>seemed</[2> really over the top in a way
+<$A> <#\><[1>Yes</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\>Mmm yes just a  bit bit  too  dramatised dramatised <{><[>Yeah</[>
+<$B> <#\><[>Mmm</[></{> and the characters seemed to grate
+on your nerves <O>laughter</O> <#\>I mean maybe it was
+supposed to do that
+<$A> <#\>Maybe it was supposed to yes
+<$B> <#\>I mean he seemed like an annoying character but
+<{><[>sometimes</[> they do that on purpose
+<$A> <#\><[>Mmm</[></{>
+     <#\>Sometimes yeah <#\>The movie after that was um was it
+Concerning Harry or <{><[>something</[> <#\>Regarding
+Henry
+<$B> <#\><[>Oh regarding Henry</[></{>
+     <#\>Yeah did you like that
+<$A> <#\>Well it was ok <{><[>yeah</[>
+<$B> <#\><[>Yeah</[></{> <#\>Yeah I think it's really
+touching story <#\><{1><[1>I</[1> think the nurse makes it the
+occupational therapist <{2><[2>the guy who helps</[2> 
+<{3><[3>him afterwards</[3> the black <{4><[4>guy</[4> <#\>Um
+<$A> <#\><[1>Mmm</[1></{1>
+     <#\><[2>Oh yeah yeah</[2></{2>
+     <#\><[3>what's his name</[3></{3>
+     <#\><[4>Yeah</[4></{4>
+     <#\>Yeah how he keeps saying <quote>mmm I gotta get me
+some of that</quote>
+<$B> <#\>Yeah  and and  <{1><[1>without him</[1> I don't think <{2><[2>the movie</[2>  would've would've  worked as <{3><[3>much</[3>
+cos he just made it funny <#\><{4><[4> He he  had all the funny lines</[4>
+<$A> <#\><[1><quote>I already had me some of that</quote></[1></{1>
+     <#\><[2>Yeah it wouldn't've been a good movie</[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\><[4>Mmm he made it funny and he made</[4></{4> he
+gave it sort of a deepness <{><[>yeah</[>
+<$B> <#\><[>Yeah</[></{> <#\>H gave it a human touch I
+<{><[>suppose</[> you might say
+<$A> <#\><[>Yeah that's</[></{> what you yeah
+<$B> <#\>But I like him  he's he's  a really
+great character <#\><{><[>He</[> seems really fully
+developed <O>laughter</O>
+<$A> <#\><[>Mmm</[></{>
+     <#\>In  more ways  than one 
+<$B> <#\>Yes <,,>
+<$A> <#\>But yeah mmm yeah it was good <,> how Harrison Ford
+sort of becomes a child again <w>'cause</w> <{1><[1>he's got</[1> when he's asking his wife if ah the daughter can stay
+with them and not go to the school and he's lying on the bed
+and he's sort of  rocking his rocking his 
+feet back <{2><[2>and forwards</[2> <#\><quote> May maybe   she could  um  you could she could  stay here with us</quote> you know and
+he's just sort of <{3><[3>proposing</[3> it
+<$B> <#\><[1>Mmm</[1></{1>
+     <#\><[2><quote>Can she stay</quote></[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\> It's it  was really clever
+<w>'cause</w> you sort of noticed <{1><[1>the way</[1> that
+humans act <#\><{2><[2>Like</[2> what he was doing there we
+recognised it for what children  were doing <{3><[3>would</[3> do  and you sort of don't
+realise it until you actually see it <{4><[4>I think</[4>
+<#\>Whereas  you say  you know  you can  walk
+around and say to somebody oh that's really childish
+<{5><[5>but</[5> he didn't mean to do it 
+<$A> <#\><[1>Mmm</[1></{1>
+     <#\><[2>Yes</[2></{2>
+     <#\><[3>Mmm</[3></{3>
+     <#\><[4>Yeah yeah</[4></{4>
+     <#\><[5>Mmm</[5></{5>
+     <#\> Yeah it was just yeah it was just 
+that was the innocent quality <{1><[1>that</[1> and  another yeah another   interest  ah
+ innocent  thing was when they are walking through
+the park and he gets up on the seat <#\>Remember when they
+stand up on the seat and kiss each other <{2><[2>and then</[2> <#\>Remember <{3><[3>that bit</[3> <#\>They
+just stand up on the seat  and then and
+then  their two friends come along the two lawyer
+friends and they're just  so contrast <{4><[4>such a contrast</[4>  between them
+<$B> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Oh right yeah</[2></{2>
+     <#\><[3>I remember</[3></{3>
+     <#\><[4>It was</[4></{4>
+     <#\>And it was such a knock  on on 
+high society <#\><{1><[1>I mean</[1>  the whole
+thing the whole story line  <{2><[2>about</[2>
+the lawyer not being human <{3><[3>and then</[3> suddenly
+becoming human after his accident and all these other people
+saying <quote>oh don't tell anybody that you're poor don't
+<{4><[4>tell</[4> anybody</quote> and they weren't even
+poor <w>'cause</w> they were living in a huge
+<{5><[5>mansion still</[5>
+<$A> <#\><[1>Yes it was</[1></{1>
+     <#\><[2>Mmm</[2></{2>
+     <#\><[3>Yeah</[3></{3>
+     <#\><[4>Yes</[4></{4> <O>laughter</O>
+     <#\><[5>Yes <O>inaudible two syllables</O></[5></{5>
+but just compared to everyone else
+<$B> <#\>Yeah compared to what they were <{1><[1>they're</[1>
+poor and you know that they spend money all the time  <{2><[2>and</[2> and  things like that <#\> They just  you know  if you're  feeling bad  go out  go out go out  on a shopping spree
+even if you don't have the <{3><[3>money</[3> <O>laughter</O>
+<#\>It just was such a big knock  on on 
+high society  
+<$A> <#\><[1>Mmm</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\><[3>Yeah</[3></{3> <O>laughter</O>
+     <#\>Mmm
+<$B> <#\>It was really interesting but
+<$A> <#\>What's another movie
+<$B> <#\>I was just thinking that <#\>Oh Unforgiven
+<$A> <#\>Unforgiven
+<$B> <#\>Did you see that
+<$A> <#\>That was oh that Clint Eastwood one
+<#\><{1><[1>No</[1> I I  purposely stayed
+away from that <{2><[2>one</[2>
+<$B> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Oh</[2></{2> that was a good idea
+<#\><{1><[1>Gee</[1> it was a bad movie <#\>I almost fell
+asleep in it <{2><[2>I</[2> was so bored <O>laughter</O>
+<#\> It's it's  like just a cowboy movie
+<{3><[3>and</[3> the classic thing to me was is that ten
+minutes before he was going to do something he'd tell you what
+he was going to do <{4><[4>next</[4> so there were no
+surprises in the plot <#\><{5><[5>You</[5>  exac knew  exactly what was going to happen because
+whatever Clint said was going to happen <{6><[6>was going to
+happen</[6>
+<$A> <#\><[1>Mmm</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\><[3>Mmm</[3></{3>
+     <#\><[4>Yeah</[4></{4>
+     <#\><[5>Er</[5></{5>
+     <#\><[6>Was going to happen</[6></{6> because Clint
+Eastwood is the director <{><[>so of course he's going to</[> and the star 
+<$B> <#\><[>Yes and the star</[></{>
+     <#\>And he got paid a lot of money so <O>laughter</O>
+<$A> <#\>I don't know why Clint Eastwood is so successful
+<#\><{><[>I'm</[> not  sh sure <#\>I've
+never seen a Clint Eastwood movie  that was that
+was  decent 
+<$B> <#\><[>No</[></{>
+     <#\>I can't believe he talks through his teeth and people
+understand 
+<$A> <#\><O>inaudible through teeth</O> <#\><quote>Can I ask
+you son do you feel lucky</quote> <O>laughter</O>
+<$B> <#\>I mean everybody takes him off and they say that
+mimicking people is <{1><[1><,></[1> you know you're praising
+them in a <{2><[2>way</[2> but for some people I don't think
+it's true
+<$A> <#\><[1>Mmm</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\>No <O>laughter</O>
+<$B> <#\>The movie was just so boring because you knew exactly
+what was going to happen <{1><[1>and</[1> the ending was
+pretty much set out for you and <{2><[2>you know</[2> <#\>The
+only thing that was different was that there were no good guys
+and no bad guys <{3><[3>so</[3> everybody was just a person 
+<$A> <#\><[1>Mmm</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\><[3>Mmm</[3></{3>
+     <#\>A person <#\>Well I guess was <{><[>better</[>
+<$B> <#\><[>They weren't</[></{> really really good and
+they weren't really really bad like all the cartoons
+<$A> <#\>Yeah like have you seen that movie ah Rustlers
+Rhapsody
+<$B> <#\>Nope
+<$A> <#\>Oh it's a very good movie <#\> It's  um
+ it's  ah a satire  on  um  on 
+cowboys  the the  cowboy movies in the old
+days where the cowboy was you know dressed in white
+<{1><[1>and</[1> ah was very clean  and  ah
+ and  the bad guys were always in black and  they  you know  they  always chewed tobacco and
+<{2><[2>smoked</[2> and you know drank too much and the white
+guy you know 
+<$B> <#\><[1>Yeah</[1></{1>
+     <#\><[2>Yeah</[2></{2>
+     <#\>And they had stubble on their chin
+<$A> <#\>Stubble on their chin yeah and  they're they were  always you know really unclean looking
+guys and the white guy you know and there's a scene in the
+movie <#\>He comes in to the bar and he walks up to the bar
+and says ah <quote>I'd like a milkshake please</quote>  and and the  g guy and everyone just
+stops  in the bar  and then and then 
+he leans forward and you know he's looking around he leans
+forward to the barman and says <quote>is this one of those
+tough bars</quote> and  the the  barman just
+sort of nods at him and he says <quote>ok I'll have um a I'll
+have a bourbon with a human hair in it</quote> <O>laughter</O></I>
+
+

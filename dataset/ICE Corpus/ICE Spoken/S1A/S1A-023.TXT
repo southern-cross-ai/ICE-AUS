@@ -1,0 +1,341 @@
+<S1A-023>   <2003>
+<I><$A> <#\><O>laugh</O> Okay <#\>What did<,,>  <{><[>whatsaname
+say</[> 
+<$B> <#\><[>Okay</[></{> <#\>Mr No Personality rang<,,> 
+<$A> <#\>Mmhmm 
+<$B> <#\>and said that they won't be selling the house this
+year<,> <{><[>because</[>
+<$A> <#\><[>fabulous</[></{> 
+<$B> <#\>um<,> one of <@>forename1</@> 's sisters has got a malignant
+tumour<,> that will need<,> <{><[>operating</[> on
+<$A> <#\><[>Oh</[></{> 
+<$B> <#\>I didn't ask which which sister <#\>Um<,,> so<,,>
+that<,> they just won't do anything about it this year <#\>So
+we're <{><[>set</[> 
+<$A> <#\><[>Oh</[></{> that's fabulous <#\>That means we haven't got
+to keep looking for um <{><[><O>inaud</O></[> 
+<$B> <#\><[>No house searching</[></{> <,> 
+<$A> <#\>All rightie
+<$B> <#\>And<,> I guess<,> he'll advise us <#\>I also<,> put
+in a little ah thing about the bond<,,>  <#\>I <{><[>said to him</[> 
+<$A> <#\><[><O>laughs</O></[></{> 
+<$B> <#\>ah <quote>just out of curiosity I'd like to know<,,>
+whose name<,> our bond is deposited under</quote>  <#\>I said
+<quote>the reason I'm asking is that <@>forenameA</@> and myself want to
+know if <@>forename2</@> <@>surname2</@> 's <{><[>name</[> <#\>is still on the rental<,> rental bond board list and whether in fact we should remove it</quote>
+<$A>  <#\><[>Oh</[></{> <#\>Well done
+<$B> <#\>But<,> he doesn't have that information <#\><@>forename1</@> 
+is in the Philippines till Wednesday and he will ring us
+back<,>  <#\>And if he hasn't rung by Friday then I will ring
+him
+<$C> <#\>It's not with them because the interest cheque comes
+out<,> to this address
+<$B> <#\>Does it <{><[>really</[> 
+<$C> <#\><[>In whatever</[></{> name but it comes out anyway
+<$B> <#\>Is that <{><[>right</[> 
+<$A> <#\><[>Does it</[></{> <{><[>really</[> 
+<$C> <#\><[>Yeah</[></{>      <#\>Cos we used to get it something you know ten dollars
+or something <#\><{><[><O>inaud six syll</O></[> 
+<$A> <#\><[>Well we've certainly got them</[></{> by the short and
+curlies, haven't we
+<$B> <#\>So what do we do about it though if he comes wh oh
+OK <#\>Well we'll just wait till <@>forename1</@> gets back
+<$A> <#\>Mmhmm<,,>  <#\>Well it's good to know that we
+haven't gotta worry about moving
+<$C> <#\>It is rather
+<$B> <#\>So we can stop<,> looking
+<$A> <#\>Yes <#\>We <{><[>can</[> 
+<$B> <#\><[>Not</[></{> that we were doing much looking
+<$A> <#\>No <#\>We sort of went off it <{><[>in the</[> last few
+weeks
+<$C> <#\><[>Problems</[></{> <O>laughs</O>
+<$B> <#\>Yeah <#\>OK so um<,> we'll see what he says about the
+bond
+<$A> <#\>Mmm
+<$B> <#\>And whether we want ah want to attack him<,,> now
+about it I'll see what<,> <#\>But surely we're gonna have them
+worried
+<$A> <#\>Oh I think so<,> <#\>I think so
+<$C> <#\>He didn't say anything about changing the lease
+though<,> did he <#\>Interior decorating
+<$B> <#\>No <#\>All he said was <quote>oh we'd have to paint
+it before we tried to sell it</quote> and I just went
+<quote>mmm</quote> <O>ABlaugh</O>  
+<$A> <#\>I think my no must've been quite um <,>
+<$B> <#\>Well I figure that <{><[>you know</[> 
+<$A> <#\><[>sensitive</[></{> 
+<$B> <#\>when once he said that it wouldn't happen this year I
+didn't feel the need to ask
+<$A> <#\>Yeah
+<$B> <#\>Because<,> we've got the rest of this year
+<$A> <#\>Yeah brilliant<,,> <#\>Absolutely brilliant
+<$B> <#\>So<,> there you go 
+<$A> <#\>Mmm
+<$B> <#\>So let's wait and see <,>
+<$A> <#\>So you'll have somewhere to come home to
+<$B> <#\>That's right <#\>So we'll just wait and see um what
+happens about the bond board
+<$A> <#\>Mmm<,,> <#\>Fair enough  
+<$B> <#\>Yeah see so um  <,,>
+<$A> <#\>Did he tell you wh wh wh where the operation was
+going to be
+<$B> <#\>No <#\>I asked <#\>He said they didn't know 
+<#\>They're waiting for the first available private bed 
+<$A> <#\>Well I'd say in that case it's <@>forename3</@> <,,> because of
+ah um um <@>forename4</@> is in the States
+<$B> <#\>Is she
+<$A> <#\>Mmm
+<$B> <#\>It must be <@>forename3</@> then <#\>Is she the oldest
+<$A> <#\>I think she is <#\>She's the nicest too <,,>
+<$B> <#\>Mmm
+<$A> <#\>Although she is the one we had the problem with the
+ah water bed <#\>When she couldn't make a decision until
+she'd spoken to <@>forename1</@> <,,>
+<$B> <#\>Mmm <,,>
+<$C> <#\>They all own this place together do they
+<$A> <#\>The three of th ah hang on  <#\>No <#\>I think it's
+only <@>forename3</@> and <@>forename1</@> now <#\><{><[>I think</[> 
+<$B> <#\><[>Yeah</[></{> <#\>One of them sold out 
+<$A> <#\>Yeah <#\>I think <@>forename4</@> sold out when um <,> she
+went overseas  <#\>She got um<,,> she married a guy with US
+residency<,> and she's been living there ever since I believe 
+<$B> <#\>Maybe I can go and say gooday when I um go over and
+visit, huh
+<$A> <#\><O>heh heh heh</O> Sure you will
+<$C> <#\>Got a problem with our plumbing
+<$A> <#\><O>laughs</O> 
+<$B> <#\>For sure<,,> <#\>Cause I'm thinking of um going to
+the States anyway <,> even if my um cousin isn't over there
+<$C> <#\>Oh right  
+<$B> <#\>Having a wander round and having a look see<,,> 
+<$C> <#\><@>forename5</@> just came back from<,> a month in <,,> the
+east coast<,> and came back with all the normal horror stories
+about not walking down this street but you can walk down that
+one and 
+<$B> <#\>Mmm<,> 
+<$C> <#\>Sounded pretty scary  
+<$B> <#\>Yeah <#\>Oh well I'm only <,> planning to go to the
+west coast<,,> <#\>We should be fine <#\><,,> 
+<$C> <#\><O>inaudible</O> quite a lot of money <#\>I always
+get <O>inaudible</O>
+<$A> <#\>So when do you get back <#\>You get back in<,> the
+end of August
+<$B> <#\>August the twenty-seventh
+<$A> <#\>You'll be home about um
+<$B> <#\>My plane lands at a quarter to ten
+<$A> <#\>At <{><[>night</[> 
+<$B> <#\><[>At night</[></{> <,,> <#\><@>forename6</@> will pick me up
+<$A> <#\><O>laughs</O> <#\><@>forename6</@> will pick <{><[>you up</[> 
+<$B> <#\><[><O>laughs</O> <#\><@>forename6</@> will</[></{> pick me up
+<$A> <#\>Ah dear
+<$C> <#\>Just what you need <#\>A ten o'clock plane, an hour
+through customs<,> <#\>Two hour delay
+<$B> <#\>Don't make me cry
+<$C> <#\><@>forename6</@> 'll pick you up<,> <{><[>at</[> eight o'clock/in the
+morning
+<$B> <#\><[>Yeah</[></{> 
+<$A> <#\>At least you should be able to get some to sleep
+<$C> <#\>He should be really glad to see you <O>Claughs</O>
+<$A> <#\><{><[>We'll save</[> 
+<$C> <quote><[>Let's go home</[></{> I'm buggered</quote>
+<O>ABClaugh</O>
+<$A> <#\>We'll save the welcome home party till the next day 
+<#\>How <w>'bout</w> that
+<$C> <#\>I think so<,> mmm
+<$A> <#\>But do we wait that long for our pressies
+<$C> <#\>Oh that's what just what I was gonna to say
+<O>ABClaugh</O>
+<$C> <#\>Drop your pressies at the door
+<$B> <#\>Oh all right <,,> <#\>How will<{><[>I know <O>inaudible</O> anyway</[> 
+<$C> <#\><[>Don't go overboard</[></{> <#\>Don't spend more than 500
+on my part<,,> 
+<$B> <#\>Cents <O>AClaugh</O>
+<$C> <#\>Or <{><[>lira</[> 
+<$A> <#\><[>500 baht</[></{> 
+<$C> <#\>Yes <O>ABClaugh</O>
+<$A> <#\>Ah
+<$B> <#\>I'll get you a nice pressie from Thailand<,,>
+<#\>Mmm
+<$C> <#\>Get a <O>inaudible</O> or two <#\>That'd be nice
+<,,>
+<$B> <#\>Any ah preference for which one <O>Claughs</O>
+<$C> <#\>Do you have a choice <#\>Or do you just get what
+you're given<,> 
+<$B> <#\>Take what you get <#\>Yeah<,,> 
+<$A> <#\>So you'll be back about two, er six weeks, six to
+eight weeks before I go<,> <#\><w>'Cos</w> I'll probably be
+going um <,> somewhere round the fourteenth of October
+<$B> <#\>For how long
+<$A> <#\>Three weeks
+<$B> <#\>Shame you can't go longer<,> <w>'cos</w> they
+actually <{><[>start</[> 
+<$A> <#\><[>Can't</[></{> afford it <#\>But it's not that far I mean
+really
+<$B> <#\>No <#\>I guess not
+<$A> <#\>And I mean it's um<,,> if I can pick up one of those
+bargains <,>
+<$B> <#\>Flights
+<$A> <#\>Yeah<,> <#\>Flights six nights accommodation, um<,>
+entry to Disneyland, tour of Universal Studios, about fourteen
+hundred
+<$B> <#\>Uh
+<$A> <#\>And that's flying Qantas
+<$B> <#\>Is that all
+<$A> <#\>Yeah
+<$C> <#\>We'll all be going there <#\>Is it off season
+<$A> <#\>Ah no they're they they're<,> they're available till
+the end of November <,,> <#\>I figure going when I'm going
+it's going to be<,> autumn<,> over there so it shouldn't be
+too<,> <#\>It'll be between the summer and the ski seasons
+<,,>
+<$B> <#\>Um
+<$A> <#\><{><[>So that should be <O>inaudible</O></[> 
+<$B> <#\><[>You'll have a brilliant time</[></{> <#\>Disneyland is
+the most brilliant place on earth
+<$A> <#\>Yeah <#\>I'm looking forward to that<,> plus I
+figure<,,> I wanna see how the Americans celebrate Halloween
+<$B> <#\>Oh it's brilliant
+<$A> <#\>What a way to have a birthday<,,> 
+<$B> <#\>I um <,,>  I had one Halloween in Texas <,,> <&>cat
+jumps onto her lap</&> <#\>Go away Skittles <,,>  
+<$A> <#\><&>to cat</&> <#\>You opportunist <#\>I'll get the
+clothes basket out to you again  
+<$C> <#\>D'you see one of them this morning underneath the
+umbrella <#\>It did actually look quite cute <#\>The cat
+looked <{><[>cute</[> 
+<$X> <X><#\><[>Cleo</[></{> <,,></X>
+<$A> <#\>Skittles happened to be in<,,> in a very tempting
+place this morning so my clothes basket went over the top of
+it
+<$B> <#\>How unfortunate
+<$A> <#\>It was <#\>Real spooky when the clothes basket
+started to move <O>Claughs</O>
+<$B> <#\>You're cute when you wanna be <#\>Does he still
+hassle you
+<$A> <#\>Mmm<,,> <#\>Yes <#\>I'm sure he thinks he's my cat
+<$B> <#\>Does he really <#\>He hassles you that much <,>
+<#\>He's funny <#\>He's a really cuddly cat <#\>He's a lot
+more friendly than the other one
+<$X> <X><#\>Right</X>
+<$A> <#\>So if he goes missing<,> while we're gone
+<$B> <#\>I'll be asking <@>forename7</@> <O>ABlaugh</O>
+<$A> <#\><O>inaudible</O>
+<$X> <X><#\>Well I was actually worried about you moving because
+I thought<,> he might come back</X>
+<$B> <#\>Oh
+<$A> <#\>Mmm
+<$X> <X><#\>But anyway</X>
+<$B> <#\>Well<,,> I think the thing to do with cats anyway is
+you lock <w>'em</w> in the house for the first three days
+<#\>You don't let <w>'em</w> out<,,> <#\>I mean um <,>
+<$C> <#\>And if that still doesn't work try
+<{><[><O>inaudible</O></[> 
+<$B> <#\><[>And when you do let them</[></{> out you let them out
+hungry <#\>You don't feed them<,> so then they'll come back
+for their dinner and then you lock <w>'em</w> in again
+<O>Alaughs</O>
+<$A> <#\><{><[>If that's the case</[> 
+<$C> <#\><[>We guarantee then</[></{> that they will be here when you
+when
+you go away <#\>We'll lock them in the room and not feed them
+for six weeks <,>
+<$A> <#\>In your room
+<$B> <#\>Yeah<,> <#\>Stafe<,> safe stench <O>ABClaugh</O>
+<$A> <#\>They'll still be here when she comes home
+<$C> <#\>They will <#\>Just as you left <w>'em</w> <#\>Just
+where you left them anyway
+<$B> <#\>Oh you be kind<,,> <#\>They're not bad boys<,,>
+sometimes <,,>
+<$A> <#\>Some of the time
+<$B> <#\>There's been a noticeable absence of dead things
+lately I've noticed
+<$A> <#\>There has  
+<$B> <#\>It's true  
+<$A> <#\>Maybe it's something to do with you um chopping the
+bushes back  <#\>There's nowhere<,> for them to go hunting
+<$B> <#\>Mmm maybe <,,> <#\>We um often would find their gifts
+<,> out here<,> or in the laundry
+<$A> <#\>Actually we haven't had any throwing up lately either
+<O>laughter</O> which is <{><[>nice</[> 
+<$B> <#\><[>Mmm-mmm</[></{> 
+<$C> <#\>There's only the bin turned over at the moment  
+<$B> <#\>Yes <#\>They've been doing that a bit more<,> but<,>
+ah<,> if you take the rubbish out<,> at night
+<$C> <#\>I laughed this morning heh heh <#\>I came out bin was
+turned over and there was one<,> used<,> teabag in the bin and
+I went <O>ABlaugh</O> <quote>ha that must've been satisfying 
+<#\>Was it worth the effort guys</quote>
+<$A> <#\>Oh god the good old garbage bin trick<,,>  <#\>Mmm
+<O>yawn</O> <O>inaudible</O>
+<$C> <#\>I'm one step closer to getting rid of the combie
+<$A> <#\>Yeah
+<$C> <#\>I've now got a stereo working in it
+<$A> <#\>I'm offended<,>
+<$C> <#\>I should've <,> done it before we went to Coffs
+<$A> <#\>Yes
+<$C> <#\>We could've enjoyed the trip better
+<$A> <#\>So stereo's in <#\>Have you got the spotlights off
+<$C> <#\>Spotlights come off this afternoon or maybe tomorrow 
+<$B> <#\>So when are you going to advertise
+<$C> <#\>Next weekend I reckon
+<$B> <#\>Yeah
+<$C> <#\>Yeah <#\>So if you're woken up at six o'clock in the
+morning by the door being banged down by a large crowd of
+interested buyers
+<$A> <#\><{><[>Surfies hippies</[> 
+<$B> <#\><[>We'll point them in your</[></{> direction <O>Claughs</O>
+<$C> <#\>We'll auction  <O>Blaughs</O> <#\>I'm gonna put it in
+as auction to start at six grand <,,> and take no less than
+twenty <,,>
+<$A> <#\>I think he's got delusions of grandeur <{><[>if he does</[> 
+<$C> <#\><[><O>Claughs</O></[></{> 
+<$A> <#\>Just straight delusions <O>Claughs</O>
+<$B> <#\>So every bloody hippie and surfie <,,> 
+<$A> <#\>Or potential
+<$B> <#\>This side of Canberra
+<$C> <#\>God I hope so <O>Cyawns</O>
+<$B> <#\>Banging on the door
+<$C> <#\>Just wait till I what <w>'cos</w><,,> if they come
+they're not leaving till they've bought it <,,> 
+<$B> <#\>Mmm
+<$C> <#\>That's how it works <#\>If they've got twenty bucks
+in their wallet I'll take that and they can have the combie
+<$B> <#\>How much do you really think you'll get for it
+<$C> <#\>Dunno<,,> <O>inaudible</O><,> how many are for sale
+and the ones that're for sale on that week<,> <w>'cos</w> a
+lot of them are camper <{><[><,></[> 
+<$B> <#\><[>Mmm</[></{>
+<$C> <#\>campers and they go for more <,> than people like<,>
+they're gonna get one of them only want one of them<,> so this
+is different to that 
+<$B> <#\>Mmm<,,>  
+<$C> <#\>But I'm thinking of putting it in for two and a half
+then <,> I should be<,> the cheapest one in the paper 
+<$A> <#\>Well don't <{><[>you</[> 
+<$C> <#\><[>That'll</[></{> normally you get <{><[>more calls</[> 
+<$B> <#\><[>How old</[></{> is it
+<$A> <#\>Yeah<,,> 
+<$C> <#\>Eighteen, nineteen years<,> 
+<$A> <#\>Don't forget next weekend is um Anzac weekend though
+so there'll be a lot of people away <,,> <#\>Three day
+weekend <,,>
+<$B> <#\>Do they have a car section in the Courier<,>
+<$C> <#\>Oh not that anyone'd look at
+<$A> <#\>Mmm  <#\>What about Trading Post
+<$C> <#\>I'll do the Trading Post<,> on Wednesday<,> and that
+then hangs around for two weeks <,,> so I could do that <#\>I
+might do that <,,> <#\>It's cheaper <,,>
+<$A> <#\>Give that a shot first and then um<,,>  
+<$C> <#\>Could always try Victoria Street if it came to it
+<$A> <#\>Yeah<,>   
+<$B> <#\>How long does it take water and sugar to turn into
+caramel
+<$A> <#\>A long time<,> <#\>You've got and then then you've
+got to catch it at the the right time or it burns <,,> <#\>It
+just goes like a <{><[>sss</[> 
+<$B> <#\><[>It's a</[></{> <,> very very pale pale pale brown at the
+moment
+<$A> <#\>Yeah you've gotta catch it when it's just the right
+colour and get it off the heat pretty quickly  <#\>That's how
+um when I was making<,> toffee the other week <,,> <O>clears
+throat</O> ah that's how I managed to get my stomach burnt<,></I>

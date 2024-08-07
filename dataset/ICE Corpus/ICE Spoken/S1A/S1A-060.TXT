@@ -1,0 +1,343 @@
+<S1A-060> <2024>
+<I><$A> <#\>Hey <@>forename1</@> 
+<$B> <#\>What<,>
+<$A> <#\>On um<,> on the weekend<,> did you see me on TV
+<$B> <#\>Yeah right
+<$A> <#\>I'm serious<,> I really was on TV
+<$B> <#\>Pigs fly <O>Blaughs</O>
+<$A> <#\>Nah <#\>I tell you what<,,> I was in an Aussie rules
+game<,> me and <@>forename2</@> <,,> and <{><[>um</[> 
+<$B> <#\><[>You</[></{> were in the crowd or something
+<$A> <#\>Yeah <#\>We were in the crowd <O>Alaughs</O> <#\>Nah
+<#\>Seriously<,> and they they <O>inaudible</O> put it on<,>
+<#\>Like mum saw it on TV <#\>She saw me <{><[>seriously</[> 
+<$B> <#\><[>Did she</[></{> record it
+<$A> <#\>Yeah<,> <#\>No<,> <#\>No <#\>She didn't <#\><{><[>I told her to</[> Nah <#\>Seriously<,,> <#\>Heaps of times
+<$B> <#\><[><O>inaudible</O></[></{> 
+     Where were you<,> <#\>In the grandstand or just<,>
+<$A> <#\>Nah <#\>Nah <#\>Nah <#\>You know where<,> the hill<,>
+used to be<,> It's now concrete
+<$B> <#\>A concrete hill
+<$A> <#\>A concrete hill<,>
+<$B> <#\>Makes sense
+<$A> <#\>Seriously it was<,,> <{><[>movie star</[> 
+<$B> <#\><[>What<,> <@>forename2</@> </[></{> likes going to the football
+<$A> <#\>Ah<,> she did
+<$B> <#\>Oh yeah <#\>I bet you had to drag her<,> drag her to the
+football field<,>
+<$A> <#\><O>laughing</O> Ah<,> what
+<$B> <#\>How many girls like watching bloody rugby union was it
+<$A> <#\>Nah seriously<,> <#\>She loves it<,> <#\>She she loves
+watching me anyway
+<$B> <#\>Yeah<,,> <#\>You weren't playing
+<$A> <#\>Nah<,> <#\>But
+<$B> <#\>Yeah but
+<$A> <#\>She loves
+<$B> <#\>Anyway who won <#\>Who was the game against
+<$A> <#\>Um Geelong<,> <#\>That's where I'm from<,,>
+<$B> <#\>Geelong <{><[><,></[> <#\>I thought you were from South
+Australia
+<$A> <#\><[>Yeah</[></{> 
+     <#\>I was <O>Alaughs</O>
+<$B> <#\>So <{><[>you're from</[> 
+<$A> <#\><[>I'm from</[></{> Western Australia too<,> I
+<$B> <#\>No <#\>But where were you born
+<$A> <#\>I was born Geelong <{><[><,,></[> then I moved to all those
+different states<,,>
+<$B> <#\><[>Yeah</[></{> 
+     <#\><O>inaudible</O> lives in South Australia
+<$A> <#\>Have you heard about the Sydney Swans <#\>The haven't
+won a game <{><[><,></[> for about<,> twenty three games
+<$B> <#\><[>Fuck off</[></{> 
+     <#\>they've been beaten like about<,,> <#\>What was that
+thing<,> <#\>They were beaten by more points in one game than
+they've scored<,> total<,>through the whole season or something
+<$A> <#\>Something like that
+<$B> <#\>Something like that
+<$A> <#\>They're not doing good anyway
+<$B> <#\>Check out this yoghurt <#\>It's frozen to the bottom<,>
+<$A> <#\>Well that's why it's called frozen yoghurt
+<@>forename1</@> <,>
+<$B> <#\>No<,> <#\>Yoghurt's runny and this one's hard<,> <#\>But
+it's<,,> it's crystallised at the bottom <O>Alaughs</O>
+<$A> <#\>Give us a taste<,,>
+<$B> <#\>Ok I've got a new joke for ya
+<$A> <#\>What
+<$B> <#\>This one's pretty funny
+<$A> <#\>Blonde jokes<,> <#\>Tell us a blonde joke
+<{><[><O>inaudible</O></[> 
+<$B> <#\><[>Yeah <#\>I've</[></{> forgotten them all
+<$A> <#\>Go
+<$B> <#\>I'm just trying to think of a blonde joke<,,>
+<#\>Nah<,,> <#\>Oh I think you've heard it <#\>It's a Mr Wagner
+one
+<$A> <#\>Yeah <#\>Go <#\>Say it <#\>Say it anyway
+<$B> <#\>Yeah<,> <#\>Ok<,> <#\>There's these three blokes <{1><[1><,,></[1> 
+ok <#\>And they've just turned eighteen <{2><[2><,></[2> so they all so
+they all walk down to the brothel right <#\>And they're all
+pretty excited <{3><[3><,,></[3> <#\>And um<,> and they're all hanging
+outside<,> and they're all pretty nervous <#\>They don't know who
+should go in first <{4><[4><,></[4> <#\>So anyway<,> the first bloke
+goes<,> gets up enough courage<,> and he goes in<,>
+<$A> <#\><[1>Oh right</[1></{1> 
+     <#\><[2>Right</[2></{2> 
+     <#\><[3>Yeah</[3></{3> 
+     <#\><[4>Yeah</[4></{4> 
+     <#\>In a brothel
+<$B> <#\>In a brothel<,> ok <#\>And he's in there for about ten
+fifteen minutes <{1><[1><,></[1> and he comes back out and he's got a big
+smile on his face and the other two go <quote>oh what happened
+<#\>What happened <#\>What happened</quote> <#\>And she goes and
+he goes<,> <quote> oh this girl <#\>You should've seen her
+<#\>She laid me out on the bed and she she poured cream all over
+me and <O>Alaughs</O> and um<,> and the she started licking it
+all off <#\>Oh mate it was so good</quote> <#\>And the second
+bloke<,> oh he he's pretty impressed so he runs in<,,> and he's
+in there for about ten fifteen minutes and he comes out<,> big
+smile on his face and he goes<,> <quote>oh exactly the same thing
+<#\>This blonde laid me on the bed and<,,> and she poured cream
+all over me and started licking it all off</quote> <#\>And the
+third one<,> oh he's getting pretty excited if you know what I
+mean <{2><[2><,></[2> <#\>And um<,> and he's like he's as keen as
+mustard<,> so he runs in<,,> and he's in there for about twenty
+twenty five minutes<,> so the blokes outside are getting pretty
+worried<,,> <#\>Anyway he comes back out<,> big smile on his face
+and the bloke goes <quote>oh what happened <#\>What
+happened</quote> and he goes<,> <quote>oh she it was a brunette
+<#\>She laid me out on the bed<,> <#\>She poured cream all over
+me<,> <#\>She chopped up bananas and<,> poured hundreds and
+thousands on me and<,> m and m's and chocolate buds and<,,> oh<,>
+just all these different lollies</quote> <#\>And they go
+<quote>yeah yeah <#\>What happened <#\>What happened</quote>
+<#\>He said <quote>oh it looked so good I licked it off
+myself.</quote> <O>ABlaugh</O> 
+<$A> <#\><[1>Yeah</[1></{1> 
+     <#\><[2>Yeah</[2></{2> 
+     <#\>That's <O>inaudible</O> <#\>How about that one<,,>
+<#\>How does that one go about<,> the <O>inaudible</O> 
+<$B> <#\>Ah<,> that's not that good
+<$A> <#\>Have you heard the<,> green horse joke<,> <{1><[1>where</[1> he
+paints his horse <{2><[2>green</[2> 
+<$B> <#\><[1>Yeah</[1></{1> 
+     <#\><[2>Yeah<,> Yeah</[2></{2> That one<,> <O>inaudible</O> has got
+some good jokes 
+<$A> <#\><O>inaudible</O>
+<$B> <#\>What'd you do on the weekend
+<$A> <#\>Um<,,> I went out<,,> I went to the movies <{><[><,,></[> 
+<#\>Saw<quote>indecent proposal.</quote><O>inaudible</O> alright 
+<$B> <#\><[>Yeah</[></{> 
+     <#\>Yeah<,> <#\>It's got Woody Allen in it<,,>
+<$A> <#\>Sorry<,>
+<$B> <#\>What's his name <#\>Woody<,> something or other
+<#\><{><[>Not Woody Allen</[> 
+<$A> <#\><[><O>inaudible</O></[></{> Demi Moore
+<$B> <#\>No<,> <#\>Who's that bloke<,> <#\>Bloke off<quote>Whiteman
+can't jump</quote>
+<$A> <#\>Oh yeah<,> <#\>Yeah yeah <#\>It was him
+<$B> <#\>Woody <{><[><,></[> <#\>What's his last name<,>
+<$A> <#\><[>Yeah</[></{> 
+     <#\>He got jarred that bloke <{1><[1><,></[1> <#\>Jarred hard<,> I
+felt sorry for him a bit<,> <#\>Have you seen it <{2><[2><,></[2> "Indecent
+Proposal"
+<$B> <#\><[1>Did he</[1></{1> 
+     <#\><[2>Nah</[2></{2> 
+     <#\>No <#\>I've heard about it <{><[><,></[> but I haven't seen it
+yet
+<$A> <#\><[>Right</[></{> 
+     <#\>There's this guy<,> offers this chick<,> a million
+dollars <{1><[1><,,></[1> to sleep with her <#\>Like <{2><[2><O>inaudible</O></[2> 
+<$B> <#\><[1>Oh right</[1></{1> 
+     <#\><[2>What <#\>Just for</[2></{2> one night
+<$A> <#\>Yeah <#\>Just for one night<,> <{1><[1><,></[1> <#\>And then
+um<,,> like she goes back to her<,> her bloke <{2><[2><,></[2> and the guy
+asks her<,> you know <quote>was it good</quote> and she says
+<quote>yes</quote> <O>Alaughs</O> <#\>This foolish honesty<,>
+<#\>And then he rings him <{3><[3><,></[3> and he goes to this
+millionaire's house<,> for a little while<,> <#\>Then um<,> you
+know<,> they get back together at the end<,,> 
+<$B> <#\><[1>Oh yeah</[1></{1> 
+     <#\><[2>Yeah</[2></{2> 
+     <#\><[3>Yeah</[3></{3> 
+     <#\>Mmm<,,> I can't believe there's only what<,> five weeks
+left of this term<,> <#\>Four weeks actually<,,> <#\>Four weeks
+left<,,> HS the HSC is so close<,,>
+<$A> <#\>What're you doing on the holidays
+<$B> <#\>Stuffed if <{><[>I know</[> 
+<$A> <#\><[>Don't say</[></{> study<,>
+<$B> <#\>Oh I've got ah<,> the economics assessment to do<,> I
+gotta collect all these newspapers <#\>I'm s'pose to've been
+doing it for a year<,> <#\><{1><[1>S'pose</[1> to've been doing it all
+year<,,> <#\>It's about twenty percent<,> <{2><[2><O>inaudible</O> assessment</[2> 
+<$A> <#\><[1>Yeah</[1></{1> 
+     <#\><[2>So are you just</[2></{2> gonna do homework
+<$B> <#\>I probably won't <#\>I'll prob'ly end up going down the
+coast<,> go for a surf and that<,,>
+<$A> <#\>Yeah<,,> I'm going to Victoria
+<$B> <#\>See some of my old chickie-babes down the coast
+<$A> <#\>Oh you wish <O>Alaughs</O>
+<$B> <#\>Oh they love you down there <#\><{><[>No worries</[> 
+<$A> <#\><[>Ah</[></{> you wish<,> <#\>Have you got a girlfriend<,>
+<$B> <#\>Not at this present moment in time<,>
+<$A> <#\>Anyone<,> has <@>forename1</@> got a girlfriend
+<O>Blaughs</O> <O>inaudible</O><,,> I don't think you have
+<@>forename1</@> <,>
+<$B> <#\>I wouldn't want to have a girlfriend now<,> <#\>It's so
+bad<,,>
+<$A> <#\>'Scuse me
+<$B> <#\>Well you gotta sort of<,> 'cos you're<,> tryna do your
+homework and they'll be ringing you up and<,> you gotta take them
+places and <{><[>spend all your</[> 
+<$A> <#\><[>You don't</[></{> gotta take them places<,> <#\><{><[>You</[> just
+take them places 'cos you wanna<,>
+<$B> <#\><[>Yeah but</[></{> 
+     <#\>Oh but they're pretty demanding sometimes
+<$A> <#\>Oh <@>forename1</@> <,,>
+<$B> <#\>So what's <O>inaudible</O> your<,> how much has your
+work deteriorated since you got a chickie-babe<,,>
+<$A> <#\>Bullshit <O>inaudible</O><,> <#\><{><[>You've</[> heard it 
+<$B> <#\><[>No</[></{> 
+     <O>inaudible</O> do maths and all those oth physics <{><[>and</[> 
+Seriously<,> when was the last time you did your physics homework
+<$A> <#\><[>Well<,> <#\>No no</[></{> 
+     <#\>Seriously <{><[><,></[> <#\>Um<,> Last year <O>ABlaugh</O>
+<#\>No seriously about<,,> two weeks ago
+<$B> <#\><[>Yeah</[></{> 
+     <#\>It's women <@>forename3</@> <#\>Women will do it to you
+<$A> <#\>Nah nah nah nah<,> <#\>It's worth it though <#\>It's
+worth it<,,> 
+<$B> <#\>Yeah and maybe I might think<,> about it towards<,>
+maybe November when the HSC's finished<,> <#\>Sort of like at the
+uni<,> 'cos there's chickie-babes all over the place there
+<$A> <#\>What d'you wanna do<,> <#\>Environmental
+<{><[><O>inaudible</O></[> 
+<$B> <#\><[>No</[></{> <#\>Earth sciences<,> <#\>Geochemistry<,>
+<#\>Something along that line<,>
+<$A> <#\>Are you just<,,> doing that<,> just for<,,> just 'cos
+people<,> say<,> that that you are
+<$B> <#\>No <#\>I wanna go into environmental science<,> 'cos
+I<,,> I sat down and said <quote>OK what'd I wanna do</quote><,>
+<$A> <#\>You don't really wanna do that seriously
+<$B> <#\>Yeah <#\>Well I thought <#\>OK OK <#\>The type of person
+I am <#\>I don't wanna I tried accountant<,> accountancy
+<$A> <#\>What sort of person are ya<,,> <{><[><O>inaudible</O></[> 
+<O>ABlaugh</O> <#\>Oh don't<,> don't be a planner<,>
+<$B> <#\><[>I'm <O>inaudible</O></[></{> 
+     <#\>Yeah 'cos I I 
+<$A> <#\>I know <O>inaudible</O> is <#\>I know<,> two or three
+planners <{><[><,></[> and they're all dumb<,> I was surprised at how
+think they were
+<$B> <#\><[>Mmm</[></{> 
+     <#\>Yeah<,> <#\>It's a real vegie<,,> <#\>No 'cos I did the
+work experience and it was pretty bler<,> <#\>A touch easy
+<$A> <#\>Where did you do work experience
+<$B> <#\>I did accountancy and 
+<$A> <#\>So did I <#\>I went to um<,,> Westpac bank
+<$B> <#\>I did um<,> Premier Credit Union <{1><[1><,></[1> in the city
+<&>bell rings</&> <#\>Oh well <{2><[2>it looks like that's</[2> the half
+time bell <#\>I hate that half time bell <O>Alaughs</O> <#\>It's
+s'pose to be<,,> oh so all all the junior school can find out
+whether they have to go to the toilet or not <O>ABlaugh</O>
+<#\><{3><[3>You know the</[3> 
+<$A> <#\><[1>Yeah</[1></{1> 
+     <[2><O>inaudible</O></[2></{2> 
+     <#\><[3>Is that why</[3></{3> they have it
+<$B> <#\>Yeah <#\>It's true <#\><{1><[1>Do you know</[1> do you know why
+we have this really long recess<,> <#\>Um the second re ah the
+first recess <{2><[2><,,> I hate these new recesses</[2> <#\>No <#\>No
+<#\>The little one <{3><[3>in between it</[3> <#\>It's so everyone can go
+to the toilet or <{4><[4>something</[4> <#\>Ah but but<,> they won't open
+the canteen<,>because you're not suppose to be eating <#\>You're
+s'pose to just go to the toilet 
+<$A> <#\><[1>So they</[1></{1> 
+     <#\><[2>Yeah <#\>Yeah <#\>The major one</[2></{2> 
+     <#\><[3>Oh the little one</[3></{3> 
+     <#\><[4>Yeah</[4></{4> 
+     <#\>Really<,,> <#\>If everyone went to the toilet they'd be
+a long clu<,> long queue
+<$B> <#\>I know<,,> <#\>That's what I reckon<,> and I reckon
+girls get need longer to go to the toilet so they had to<,>
+extend the time so that 
+<$A> <#\>Yeah<,> <#\>They prob'ly don't go to the toilet <#\>Who
+knows what they do in there <#\>They prob'ly just
+<$B> <#\>They smoke
+<$A> <#\>Yeah <#\>I know <#\>I can't believe <O>inaudible</O>
+<$B> <#\>They've got more expensive <O>inaudible</O> out now<,,>
+<#\>What a waste<,,> <#\>Can't handle girls that smoke
+<#\>They're just full on waste<,,> <#\>Like if you see a hot
+chickie-babe and you find out she smokes you just go
+<quote>er</quote> <#\>It turns <{1><[1>you</[1> off so bad <#\><{2><[2><,></[2> What
+a waste
+<$A> <#\><[1>Yeah</[1></{1> 
+     <#\><[2>Yeah</[2></{2> 
+     <#\>Yeah <#\>So yeah
+<$B> <#\>Like you wouldn't<,> even if<,> like if you were
+seriously gonna marry and all of that<,> you wouldn't want<,,>
+you want your child to be the best you can <#\>You don't want a
+fucking smoke <O>inaudible</O> baby with<,,> half dead lungs and
+who knows what else
+<$A> <#\>It's not as bad as <O>inaudible</O>
+<$B> <#\>Yeah it is
+<$A> <#\>I agree<,>
+<$B> <#\>Like kissing bloody<,,> <{1><[1>the back of</[1> the exhaust pipe
+of a bus or something <O>Blaughs</O> <#\>It's like <{2><[2>going out</[2> 
+with a bus
+<$A> <#\><[1><O>inaudible</O></[1></{1> 
+     <#\><[2>Actually</[2></{2> 
+     <#\>Actually I don't know that I've had that experience
+myself <@>forename1</@> <O>Blaughs</O> <#\>Maybe I will one
+day<,,>
+<$B> <#\>What's that saying <#\><quote>Kiss a non-smoker and
+enjoy the difference</quote> or something
+<$A> <#\>I dunno<,> <#\><{><[>How'm I meant to know</[> 
+<$B> <#\><[>Haven't you seen that</[></{> on buses<,> <{><[><quote>Kiss</[> kiss
+a non-smoker and enjoy the difference</quote>
+<$A> <#\><[>No</[></{> 
+     <#\>Mmm mmm<,,>
+<$B> <#\>I thought your little woman was bringing you up some
+food<,>
+<$A> <#\>Well she is<,> <#\>She's very <O>inaudible</O>
+<$B> <#\>Looks like she's<,,> looks like she's losing weight or
+something
+<$A> <#\>She is
+<$B> <#\>Is she
+<$A> <#\>She goes to the gym <{1><[1><,></[1> all the time <{2><[2>and</[2> <,>
+<#\>You know what women are like<,> <#\>They just wanna lose
+weight <O>ABlaugh</O>
+<$B> <#\><[1>Right</[1></{1> 
+     <#\><[2>Right</[2></{2> 
+     <#\>Yeah <#\>I know<,>
+<$A> <#\>She's beautiful<,>
+<$B> <#\>Yeah <#\>She's not bad<,>
+<$A> <#\>Don't say she's hot though<,> because<,,> I might hit
+ya <O>Blaughs</O><,,> <#\>I wonder what I've got<,> OK ready
+<{><[><,></[> I reckon I'll have<,> um<,> sandwiches<,> OK
+<$B> <#\><[>Yeah</[></{> 
+     <#\>Does she go home and make your lunch
+<$A> <#\>Yeah
+<$B> <#\>Oh my god <O>Alaughs</O> <#\>You've got her well trained
+<@>forename3</@> <O>Blaughs</O>
+<$A> <#\>Ah shut up
+<$B> <#\>Well trained
+<$A> <#\>She offers<,,>
+<$B> <#\>What
+<$A> <#\>She offered<,> and I wasn't gonna say no
+<$B> <#\>Well does she mmm <,> shit
+<$A> <#\>Getting a haircut today
+<$B> <#\>Are ya
+<$A> <#\>Yep
+<$B> <#\>Another one
+<$A> <#\>Yep
+<$B> <#\>Why
+<$A> <#\>Don't know what type
+<$B> <#\>Why do you want a haircut you haven't got any hair
+<$A> <#\>Well what do ya reckon I should get <,> flat top crew
+cut <{><[><,> bowl</[>
+<$B> <#\><[>I thought you already had a flat top</[></{> 
+     <#\>Get a bowl cut
+<$A> <#\>Bowl cut <#\>I don't want to look like a bowl <O>B
+laughs</O> I don't wanna look like my <,> my breakfast cereal
+<$B> <#\>I wonder if they did that in the old days actually got 
+bowl and sat it on top of your head and then cut around it</I>
+
+
+

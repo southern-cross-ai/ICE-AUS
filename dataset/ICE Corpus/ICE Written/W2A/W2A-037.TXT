@@ -1,0 +1,87 @@
+<W2A-037>  <2006>
+
+<I><#\><h>Abstract</h> 
+ 
+<p><#\>Producing production quality information systems from conceptual descriptions is a time consuming process that employs many of the world's programmers. <#\>Although most of this programming is fairly routine, the process has not been amenable to simple automation because conceptual models do not provide sufficient parameters to make all the implementation decisions that are required, and numerous special cases arise in practice. <#\>Most commercial CASE tools address these problems by essentially implementing a waterfall model in which the development proceeds from analysis through design, layout and coding phases in a partially automated manner, but the analyst/programmer must heavily edit each intermediate stage.</p> 
+
+<p><#\>This paper demonstrates that by recognizing the nature of information systems, it is possible to specify applications completely using a conceptual model that has been annotated with additional parameters that guide automated implementation. <#\>More importantly, it will be argued that a manageable number of annotations are sufficient to implement realistic applications, and an architecture will be described that enabled the author's commercial CASE tool, the Intelligent Developer to automated implementation without requiring complex theorem proving technology.</p> 
+
+<p><#\>Apart from addressing the problem of maintaining systems developed using a waterfall model, this approach makes it feasible to build conceptual libraries that reduce the interactions when reused modules are combined, and can also enable more sophisticated end users to tailor applications in a controlled manner.</p> 
+ 
+<#\><bold>Keywords:</bold> Information Systems, Conceptual Models, CASE, Extended NIAM, Reuse, User Interface Design 
+ 
+<#\><h><bold>1  INTRODUCTION</bold></h> 
+ 
+<p><#\>There has been considerable research into the development of sophisticated techniques that capture abstract requirements and refine them into functional prototypes. <#\>Good examples include the programmer's apprentice [Reubenstein and Waters 91] which is concerned with resolving informal descriptions that are ambiguous, inconsistent and incomplete by referencing a library of reusable clich<*>e-acute</*>s, and the Daida project [Jarke et al. 92] which uses advanced knowledge representation techniques (Telos) to capture general requirements and map them to conceptual and implementation descriptions. <#\>Daida also uses a general system of non-functional goals to determine optimum implementations. <#\>Both of these systems describe transactions using first order logic which requires advanced theorem proving technology.</p> 
+
+<p><#\>While designing detailed conceptual models may require human like intelligence that is difficult to reproduce, much of the cost of developing applications using conventional CASE technology is incurred in the writing and maintenance of 4GL code and end user documentation that implements these models. <#\>Tools such as [Oracle 91], or described in [Ovum 92] effectively implement a waterfall model in which tools partially automate the mapping from conceptual to logical models and then 4GL code, but the programmer/analyst must extensively edit each intermediate stage. <#\>This is an expensive process and makes the resultant applications difficult to maintain.</p> 
+
+<p><#\>This paper argues that by recognizing the limited types of operations that are commonly performed by <it>information systems</it>, it is possible to largely automate the implementation of production quality applications from annotated conceptual models using well understood reasoning technologies. <#\>As well as reducing the cost of implementing and maintaining information systems, this technology enables reusable conceptual library modules to be constructed and can also be used to empower more sophisticated end users to tailor information systems to suit e their individual needs in a well defined manner.</p> 
+
+<p><#\>The next section describes the types of decisions that need to be made, how rules can be used to automate them, and mechanisms to handle exceptions. <#\>The IFIP conference example [IFIP 82] will then be used to give examples of specific annotations. <#\>Conceptual libraries will be introduced followed by techniques to manage potentially cluttered conceptual schemas. <#\>User editable schemas are discussed after an architecture to manage the rules has been described.</p> 
+ 
+<#\><h><bold>2 Decisions, Rules and Annotations</bold></h> 
+ 
+<p><#\>The decisions that are required to implement information systems may be classified in terms of where they would be made in a waterfall model, which include:<longdash>
+ 
+<*>bullet</*>	Generating Relational Schemas: When denormalizations should be introduced; whether derived facts (attributes) should be evaluated eagerly or lazily; whether constraints should be maintained in the applications or an active database; how data should be distributed over a network. <#\>
+
+<*>bullet</*>	Outlining User Interfaces: How many user interfaces there should be and the scope of each one; determining which attributes should be manipulated together; controlling end user access to sensitive data. <#\>
+
+<*>bullet</*>	Detailing User Interfaces: How many windows should be used; how should the fields be laid out within each window; which widgets<sp>1</sp> should be used for each field; how can non-form interfaces be used. <#\>
+
+<*>bullet</*>	4GL Coding: How to code unclassified business rules and special cases.</p> 
+ 
+<p><#\>Many of these decisions can be made on the basis of well defined rules. <#\>For example, the decision to select an appropriate widget largely depends on the number of valid values a field may have <longdash> a "ding bat" is good for two alternatives, "radio buttons" for up to four, thereafter a conventional text field is more appropriate. <#\>Another rule states that when a screen includes a foreign key, the attribute(s) that identify the foreign entity to a user (ie. the <it>Descriptive</it> ones) should also be displayed if there is sufficient room. <#\>For example, students' names would normally be displayed next to their number on a class list, rather than their age, say.</p> 
+
+<p><#\>At the relational level, the use of keyword tables to allow efficient searches for words within strings is a common reason to introduce denormalizations.<sp>2</sp> The decision to use one could be made by the following rule:<longdash>
+ 
+<#\>If a column is used for sub-word searching, 
+And the number of rows is <*>greater/equal to</*> 500, 
+And searching is at least four times more common than updating, 
+And this column is often used as the sole search criteria 
+Then create a keyword table.</p> 
+ 
+<p><#\>Conceptual schemas and dynamic models provide the base parameters required by the rules. <#\>Some parameters such as an attribute's data type form part of most modelling techniques while others may be introduced to the models using additional Annotations. <#\>Typical annotations indicate which attributes <it>Describe</it> foreign keys, how and when derived attributes are calculated, and when keyword searching is useful.</p> 
+ 
+<p><#\>Annotations can be loosely classified in terms of their "conceptual purity" as follows:<longdash>
+ 
+<#\><*>bullet</*>	Conceptual Constraints that are part of a NIAM model, such as uniqueness and exclusion constraints. 
+
+<#\><*>bullet</*>	Conceptual Parameters that are independent of specific implementation techniques, but do not directly affect conceptual semantics. <#\>Examples include specifying which attributes are <it>Descriptive</it>, which uniqueness constraint defines the primary key, or whether a subtype is collapsible.<sp>3</sp> 
+
+<#\><*>bullet</*>	Overrides to the standard rules. <#\>These can be quite specific, for example, to specify that a particular attribute on a specific interface should be represented using radio buttons rather than the default ding bat. 
+
+<#\><*>bullet</*>	Ad Hoc 4GL Code that can be attached to any attribute or interface.</p> 
+ 
+<p><#\>This classification is orthogonal to the waterfall approach used for decisions, and the more conceptual annotations may be used by several decisions. <#\>For example, an enumeration of the valid values an attribute may contain requires an integrity constraint to be created during table definition while also affecting the widget used in the user interface.</p> 
+
+<p><#\>While implementation rules can produce useful prototypes directly from Conceptual Constraints and Parameters, Override and Ad Hoc Code annotations enable analyst/programmers to override rules or to add arbitrary procedural extensions when developing production quality applications. <#\>Unusual modules could require numerous annotations,<sp>4</sp> but in practice most modules either require no annotations or have specific, minor idiosyncrasies. <#\>Specifying these idiosyncrasies with impure annotations at the conceptual level is undesirable, but when the need arises it is much easier to maintain a few lines of ad hoc annotations in a conceptual model than to find and understand the few changed lines interspersed amongst hundreds of lines of generated 4GL code produced by a waterfall approach. <#\>Moreover, if the schema changes in ways unrelated to the overrides, the complete 4GL program can be easily regenerated.<sp>5</sp></p> 
+ 
+<p><#\>The effectiveness of this approach is dependent upon the ability of a manageable number of conceptual annotations to provide significant automation. <#\>If new special case annotations were required to effectively implement each new application module, the problem of designing a conceptual model would degenerate into that of understanding the meaning of innumerable different annotations.</p> 
+
+<p><#\>The author's experience with the <it>Intelligent Developer</it> (ID) [Berglas 93b] [BHA 92], a commercial 4GL generator, shows that the following types of requirements account for the majority of 4GL code:<longdash>
+ 
+<#\><*>bullet</*>	Enabling rows to be selected, edited and reported within the basic relational structure. <#\>This is usually achieved through forms oriented interfaces that process related tables, with most of each form's fields corresponding directly to columns in the database. <#\>Complications include using non-standard indexing systems such as keyword tables, and looking up Descriptive values for foreign keys. 
+
+<#\><*>bullet</*>	Making salient derived data conveniently available, such as totals of detail rows. <#\>This is similar to the functionality provided by conventional views, but there are subtleties such as deciding whether to use lazy or eager evaluation, and if eager the use of delta rules<sp>6</sp>, or perhaps the derived data is a default that can be overridden. 
+
+<#\><*>bullet</*>	Different users have different access to sensitive data. <#\>This is also similar to views whose queries can relate the accessed data to user profiles, but additional details need to be addressed, such as telling a user that they have no access rather than just pretending a row does not exist. 
+
+<#\><*>bullet</*>	Triggering rules based on specific state transitions in a dynamic model. 
+
+<#\><*>bullet</*>	Producing elegant user interfaces. <#\>This involves connecting windows together, providing convenient default values, context sensitive help, and designing reasonable form layouts.</p> 
+
+<p><#\>The types of requirements are limited because most of the processing involved in an <it>information system</it> can be described in terms of accessing, updating or disseminating the information that they contain using standard algorithms contained within a database manager. <#\>Most constraints on the data are of a standard type, such as referential integrity and uniqueness, while simple finite state machines can be used to provide dynamic constraints and trigger actions upon state transitions.</p> 
+
+<p><#\>The dozen specific types of annotations described in the following sections account for most individual annotations used in practice because they correspond to these requirements. <#\>Further, the data centred approach makes it unnecessary to detail many transactions such as "Enroll a new student" if they mainly involve accessing and editing data subject to constraints, in this case editing details about each student. <#\>By capturing common constraints and implying basic transactions, annotations reduce the need for formal specifications using languages like TaxisDL (part of Daida). <#\>It is acceptable to specify remaining Ad Hoc definitions procedurally because there are not many of them in an <it>information system</it>, so the limitations of technologies that automatically refine formal specifications into production quality applications can be circumvented.</p> 
+ 
+<#\><h><bold>3  The IFIP Example</bold></h> 
+ 
+<p><#\>The IFIP example defines an information system for managing conferences. <#\>Authors submit papers, which may have been invited to conferences. <#\>The information system should keep track of papers and authors, allocate the referees, produce exception reports of overdue papers etc.</p> 
+
+<p><#\>A typical Intelligent Developer style user interface is shown in figure 1, which could be used to submit papers. <#\>The user enters the Paper Nr of an existing paper, or creates a new paper record by allowing it to default to the next available number. <#\>When the ID of the conference being submitted to is entered the conference Name is shown to the user. <#\>The paper's Title, Subjects and Authors may then be entered, the latter in scrolling regions. <#\>An acknowledgment is sent to the first author once the paper has been logged.</p> 
+
+<p><#\>If the user does not know the Conference ID, they may press the "Select" key to pop up the conference selection window shown in figure 2. <#\>Conferences may then be selected by entering a fragment of a conference name or a period during which one may have been held. <#\>Although these interfaces are fairly simple and have a common structure, they take hundreds of lines to implement properly in a conventional 4GL.</p> 
+
+<p><#\>Figure 3 shows part of the corresponding NIAM or Object Role Modelling conceptual schema [Nijssen and Halpin 89] or [Halpin and Orlowska 91]. <#\><it>Entities</it> are circled, and <it>facts</it>, the relationship between them, are represented as rectangles.</p></I>

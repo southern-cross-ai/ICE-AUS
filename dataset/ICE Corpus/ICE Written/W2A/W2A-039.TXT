@@ -1,0 +1,84 @@
+<W2A-039>  <2013>
+
+<I><#\><h><bold>Productivity of Cattle 
+under Coconuts</bold></h> 
+ 
+<#\><bold>H. M. Shelton</bold><X>*</X> 
+ 
+<#\><h><it>Abstract</it></h> 
+ 
+<p><#\>In contrast to many other plantation crops, permanent integration of cattle under coconuts is feasible because of the open canopy characteristics of coconuts. <#\>Factors such as soil type, fertilizer strategy and stocking rate affect animal productivity, and liveweight gains are reduced in plantations with low light transmission. <#\>Liveweight gains are enhanced by the planting of improved forages, particularly legumes. <#\>Long-term gains are enhanced by the planting of improved forages, particularly legumes. <#\>Long-term sustainability of improved pastures under coconuts will depend on the use of grasses, which will not only persist under low light and regular grazing but will keep pastures relatively free from the ingress of weeds.</p> 
+ 
+<p><#\>A unique quality of coconuts, compared to most other plantation crops, is that they can be intercropped on a semipermanent basis. <#\>Unlike rubber and oil palm, the light environment under coconuts is relatively constant and bright over the life of the crop which can be as long as 60 <longdash>80 years. <#\>It is therefore possible to establish a permanent pasture and animal husbandry infrastructure and to develop a stable beef production enterprise with a consistent output of animal product. <#\>Only during the very early life of new coconut plantations (<*>less than</*>5 years) will grazing cattle damage the young palms (Reynolds 1988).</p> 
+
+<p><#\>In order to successfully develop a coconut-beef enterprise, a knowledge of the costs of inputs and value of returns is required so that detailed planning can be undertaken, especially if outside finance is required. <#\>While development costs of pastures under coconuts are likely to be similar to that for pastures planted in full sunlight, the levels of beef production obtained under coconuts may be somewhat less as the productivity and persistence of pastures will be modified by a reduced light environment.</p> 
+
+<p><#\>The objective of this paper is therefore to review the data available on levels of beef production under coconuts and to estimate the influence of the reduced light environment on productivty and sustainability.</p> 
+ 
+<#\><h><bold>Productivity Levels</bold></h> 
+ 
+<p><#\>A summary of liveweight gain data obtained under coconuts is given in Table 1. <#\>Animal productivity varied from a low of 44kg/ha (Manidool 1983) to a high of 505 kg/ha (Rika et al. 1981); this variation was associated with a number of Management and environmental differences across the locations although the relative influence of these is difficult to assess. <#\>There was variation in light transmission, pasture species planted, soil type, fertilizer strategy, and stocking rate employed. <#\>These are now discussed.</p> 
+
+<p><#\>Plantation palm density, and therefore light transmission, was clearly an important factor as liveweight gains were highest in the more open plantations where forages received the highest percentage of ambient radiation (Table 1). <#\>A comparison of the productivity of shaded and full-sun pastures is possible in Solomon Islands where grazing trials were conducted concurrently in the two light environments on similarly fertile soils although at different locations. <#\>The mean optimum stocking rates and maximum liveweight gain per ha over three years and for several pasture types were 4.0 cattle/ha and 467 kg/ha for full-sun pastures (Watson and Whiteman 1981a), and 3.7 cattle/ha and 352 kg/ha for pastures under coconuts (Watson and Whiteman 1981b).</p> 
+
+<p><#\>The species present in understorey forages was also important. <#\>Both Reynolds (1981) and Manidool (1983) demonstrated substantial improvement in liveweight gain from improved over natural forages indicating the desirability of replacing natural with improved forages for maximum animal production. <#\>Although this conclusion was apparently not supported by the results of some other studies (Robinson 1981; Watson and Whiteman 1981b; Smith and Whiteman 1985), in all these cases there was a substantial proportion of naturalised legume in the pasture which clearly improved its quality for grazing animals.</p> 
+
+<p><#\>The importance of legumes to pasture quality under coconuts was demonstrated in Vanuatu where low liveweight gains were reported for animals grazing pure <foreign><it>Stenotaphrum secundatum</it></foreign> (buffalo grass) pastures (Macfarlane and Shelton 1986). <#\>Subsequent measurements of liveweight gains of smallholder cattle grazing buffalo grass containing the naturalised legumes <foreign><it>Desmodium canum</it></foreign> and <foreign><it>Vigna hosei</it></foreign> showed average gains of 0.7 kg/head/day over a 100-day measurement period (B. Mullen, pers. comm. 1990).</p> 
+
+<p><#\>Stocking rate was also an important variable in animal production although only four of the experiments reported comparative liveweight gain data obtained at different stocking rates. <#\>These were analysed using the stocking rate model of Jones and Sandland (1974), as follows: 
+
+<#\>liveweight gain/head = a-bx, and 
+liveweight gain/ha   = ax-bx<sp>2</sp>, 
+where x = stocking rate; a = y-axis intercept; b = slope; and a/2b = the optimum stocking rate.</p> 
+
+<p><#\>In interpreting these models, it is emphasised that the optimum stocking rates calculated are simply the points at which liveweight gain per ha is maximised over the period of the experiment, and do not necessarily represent the optimum stocking rate where pasture persistence and/or economic returns are maximised. <#\>Extrapolation and interpretation of results much beyond the measured points should be done with caution.</p> 
+
+<p><#\>Figures 1 <longdash>4 demonstrate the importance of stocking rate effects on liveweight gain per ha and per head. <#\>Highest liveweight gains per ha were obtained in Bali at an optimum stocking rate of 8.7 cattle/ha in an open stand of coconuts (Fig. 1, Table 2). <#\>Intermediate levels were measured in Solomon Islands (Fig. 2 and 3, Table 2), whilst productivity was lowest in the experiment reported from Thailand (Fig. 4, Table 1). <#\>Some care is needed when interpreting the data from Bali as calculated optimums were outside the actual stocking rates employed (Rika et al. 1981).</p> 
+
+<p><#\>As previously mentioned, productivity was clearly associated with light transmission which was highest in the Bali experiment and lowest in the Thailand experiment. <#\>Other aspects of the productivity relationships were less clear-cut. <#\>The intercept values (a), which indicate the liveweight gains of cattle at very low stocking rates and therefore reflect the quality of pastures, were highest in Solomon Islands experiments (Table 2). <#\>This may have been due to the higher legume contents of these pastures in Solomon Islands compared to the Bali and Thailand trials.</p> 
+
+<p><#\>On the other hand, the slope (b) of the regression line, which reflects the ability of pastures to maintain liveweight gain as stocking rate increases, was similar for the Solomon Islands and Thailand experiments (range of -23.6 to -26.2) but much lower in the Bali experiment. <#\>This latter result may have been due the replacement of the sown grasses by more grazing-tolerant grasses which were able to maintain animal productivity even at high stocking rates (Table 2) (Rika et al. 1981).</p> 
+ 
+<#\><h><bold>Sustainability of Production</bold></h> 
+ 
+<p><#\>The potential for sustainable animal production was given as one of the advantages of integration of cattle under coconuts compared with other plantation crops. <#\>However, in three of the four long-term studies quoted, the original sown grasses either did not persist or were greatly reduced as a component of the pastures (Table 2). <#\>Sown grasses tended to be replaced by more grazing-tolerant grass species such as <foreign><it>Cynodon dactylon</it></foreign> in Bali (Rika et al. 1981) and <foreign><it>Axonopus compressus</it></foreign in Solomon Islands (Watson and Whiteman 1981b), as well as dicotyledonous weeds (Rika et al. 1981). <#\>Some of the sown legumes were initially more persistent than the grasses (e.g. <foreign><it>Centrosema pubescens</it></foreign>) but declined with time with a concomitant increase in naturalised legumes such as <foreign><it>Mimosa pudica</it></foreign> (Watson and Whiteman 1981b). <#\>These studies demonstrate that persistent grasses are required to ensure that forage systems are sustainable.</p> 
+
+<p><#\>The control of unpalatable weed infestation in pastures under coconuts is another key aspect of sustainability of production (Steel, 1977), and can be related to both level of management and vigour of pastures. <#\>Good management may involve not only correct choice of pasture species to plant, but also judicious weeding of intractable weed species, fertilizer application to forages on poorer soils, and control of stocking rates to maintain vigorous pastures.</p> 
+
+<p><#\>A survey of 6-10-year-old Batiki pastures (<foreign><it>Ischaemum aristatum</it></foreign>) on Malaita Island in Solomon Islands showed an average weed content of 50% and a range up to 70% depending on the adequacy of weed management and light transmission (Litscher and Whiteman 1982). <#\>Weed infestations were higher under lower light conditions, indicating the need for vigorous and persistent species tolerant of lower light levels. <#\>It is clear that non-vigorous grasses such as para grass (<foreign><it>Brachiaria mutica</it></foreign>) were associated with high weed content (Reynolds 1980), while vigorous stoloniferous species such as buffalo grass showed low weed contents and therefore greater sustainability (Macfarlane and Shelton 1986).</p> 
+
+<#\><h><bold>Conclusions</bold></h> 
+ 
+<p><#\>It can be seen that animal production varies among plantations with liveweight gains influenced by a number of factors, particularly incident light levels. <#\>Productivity is highest in open plantations where light transmission is highest.</p> 
+
+<p><#\>Animal performance is enhanced by the planting of improved forages and particularly by the presence of legumes in the pasture. <#\>However, long-term sustainability of production will depend on the use of species which will not only persist under grazing but maintain sufficient vigour to keep pastures relatively free of weeds.</p> 
+
+<p><#\>In the past, studies have shown that grass species have been less persistent than legumes. <#\>The reasons for this are not well understood. <#\>New species are required which are adapted to the lower light regime of coconut plantations and are able to persist under regular defoliation. <#\>Compatible legumes will be a prerequisite if high liveweight gains are to be achieved.</p> 
+ 
+<#\><h><bold>Review of Forage Resources 
+in Plantation Crops of Southeast Asia 
+and the Pacific</bold></h> 
+ 
+<#\><bold>W.W.St<*>u-ulaut</*>r<X>*</X> and H.M.Shelton</bold><X>*</X> 
+ 
+<#\><h><it>Abstract</it></h> 
+ 
+<p><#\>Vast tracts of land in plantations in Southeast Asia and the Pacific sustain the growth of naturally occurring forages. <#\>The productivity of these forages under grazing is generally low, but most are persistent and well adapted to the local environmental and management conditions. <#\>No species is productive at light levels of less than 30% because of the limited production potential at low-light environments. <#\>In plantations with light transmissions of 30-50%, species such as <foreign><it>Axonopus compressus</it></foreign>, <foreign><it>Stenotaphrum secundatum</it></foreign>, <foreign><it>Ischaemum aristatum</it></foreign> and <foreign><it>Desmodium heterophyllum</it></foreign> are successful. <#\>At light levels higher than 50%,the more productive introduced species warrant consideration. <#\>A greater range of species is required which will persist and suppress weeds at moderate light intensities and low management levels.</p> 
+
+<p><#\>A brief description of the principal species currently used for forage supply in plantation crops is given.</p> 
+ 
+<p><#\>PLANTATION tree crops do not intercept all incoming light and consequently there is scope for the growth of natural vegetation or the cultivation of other useful introduced species.</p> 
+
+<p><#\>From an animal production point of view, understorey natural vegetation can be divided into species which are eaten by ruminants and those which are unpalatable. <#\>In this context, the latter will be referred to as weeds while the 'eaten' species will be called forages. <#\>Undoubtedly, many plantation managers would use a different definition of the term weed.</p> 
+
+<p><#\>The vast majority of available land in coconut, rubber and oil palm plantations is occupied by naturally occurring species. <#\>However, there are considerable areas of planted cover crops and very limited areas of planted forages.</p> 
+
+<p><#\>This article describes the environment in which the three major plantation types (coconut, rubber and oil palm) occur, discusses the adaption and value of the most frequently encountered naturally occurring and sown forage species, and reviews the potential for making best use of existing forage resources in plantation crops.</p> 
+ 
+<#\><h><bold>Distribution and Habitat of Plantation Crops</bold></h> 
+ 
+<p><#\>The climatic and edaphic requirements of rubber and oil palm (Purseglove 1968, 1972) are somewhat similar, while coconut has different requirements (Table 1). <#\>Rubber and oil palm are grown mainly in the lowlands of the humid tropics, with high rainfall and no or only short dry seasons. <#\>While these crops can be grown on a wide range of soils they are usually found on acidic soils of low fertility.</p> 
+
+<p><#\>Coconut, on the other hand, is grown chiefly along coastal belts in areas with an annual rainfall of 1300-2600 mm. <#\>Long dry periods are detrimental but can be tolerated where there is a good ground water supply. <#\>Long sunshine hours are required for high productivity. <#\>Coconut is grown on less acidic soils than rubber and oil palm, and is often found on alkaline and saline soils. <#\>The fertility of coconut soils varies from fertile volcanic soils to infertile coralline sands. <#\>The latter soils may be deficient in potassium (Macfarlane and Shelton 1986) and iron (Gutteridge 1978).</p> 
+
+<p><#\>The root distribution of coconut and oil palm is similar with the majority of roots being concentrated within 2-3m of the trunk (Purseglove 1972; Kushwah et al. <#\>1973; Steel and Humphreys 1974), although some laterals occur.</p></I>

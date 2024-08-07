@@ -1,0 +1,345 @@
+<S1B-070> <2014>
+
+
+<I><$A> <#\>Mr <@>surname1</@> since ah you became aware that 
+the commission was investigating <@>companyname1</@> have you 
+approached any former employees of <@>companyname1</@> in
+relation 
+to ah evidence they might give at the commission?
+<$B> <#\>I been talking to former employees um and employees
+a 
+number of times that's correct
+<$A> <#\>Well why have you approached former employees?
+<$B> <#\>Well the former employees have um have I
+saw one guy for example <@>fullname2</@> on the side 
+of the road one day and I just pulled up talking to him and I had 
+no idea at that stage that until he said <quote>I've been 
+approached by I C A C</quote> about any of um 
+ any of the ongoings of what I C A C have been doing
+<$A> <#\><{><[>Okay and did you</[>
+<$C> <#\><[>so so just</[></{>
+your your 
+meeting with Mr <@>surname2</@> was accidental was it ?
+<$B> <#\>Well I just saw him sir on the side of the highway
+driving a 
+bulldozer <#\>Well I just pulled up hello to <@>firstname2</@> 
+or Mr
+<@>surname</@> and um just see how he was going that's all
+<$A> <#\>When was that?
+<$B> <#\>Oh I think um <,> <#\>oh I I 
+think it 
+was about the end of February early March I think from memory
+<$A> <#\>What before the hearings commenced in
+<@>placename1</@> ?
+<$B> <#\>Yes I think so yeah <{1><[1><,></[1> from memory
+<#\>I 
+can't be a hundred percent sure exactly when Ms 
+<{2><[2><@>surname3</@> </[2>
+<$A> <#\><[1>Alright</[1></{1>
+<$C> <#\><[2>And what was</[2></{2> <#\>What conversation
+did you 
+have with Mr <@>surname2</@> insofar as it related to evidence
+or 
+possible evidence before the commission?
+<$B> <#\>Think um <,,> sir I <,> from memory
+I I was 
+just talking to him and I said <quote>oh the um</quote> <,>
+<#\>Oh 
+sir I don't think I can recall but to be accurate to the best of 
+my memory I I um was talking to 
+<@>firstname2</@> and he said <quote>oh yes</quote> he said 
+<quote> some um um I heard that that the I C A C have been there
+there</quote> <#\>And he said <quote>well that's correct you're 
+still there</quote> <#\>And he said <quote>I hear the hearing's 
+going ahead</quote> and I said <quote>that's correct</quote> 
+<#\>And ah I think that was about about it 
+<#\>I think um he might have said <quote>oh I wonder if we'll get 
+a visit from them or if we'll be spoken to</quote> something
+along 
+those lines <#\>There's nothing much I can remember
+<$C> <#\>And have you spoken to Mr <@>surname2</@> since?
+<$B> <#\>Oh just this morning sir <,> outside here
+<$C> <#\>Yes
+<$A> <#\>Anyone else any other former employees that ah 
+you've 
+spoken to since ah the investigation commenced? <,,>
+<$B> <#\>I can't recall of any others that I know of <#\>Um
+I've 
+spoken to a lot of former employees and a lot of employees um 
+<#\>That's what we always do <#\>We keep fairly close with them
+<$A> <#\>You keep fairly close with them? <#\><{><[>You 
+keep</[> contact with former employees is that right?
+<$B> <#\><[>Basically</[></{>
+  <#\>Well quite often they come back and work with us
+<#\>They 
+leave for a short period of time and then come back <#\>We've had 
+that happening a number of times
+<$C> <#\>I think I think Ms
+<@>surname3</@> 
+has in mind have you have you had any 
+conversations with employees or former employees relating to 
+evidence that ah they might give or which might be given before 
+this commission
+<$B> <#\>Sir I've spoken to employees and former employees
+um 
+about what's happening <w>'cause</w> they were all very um well 
+concerned or interested but I don't believe or know of any 
+evidence or um anything I've ever done to affect the commission
+<$A> <#\>Well for instance have you spoken to Mr
+<@>fullname4</@> 
+<,> since this investigation began
+<$B> <#\>Oh I've spoken to <@>firstname4</@> a number of
+times
+<$A> <#\>Mmhmm and have you spoken to him about any evidence
+that 
+he might give to the commission?
+<$B> <#\>Um no I don't think so <#\>If I recall I think we 
+basically talk about what's happening <,> and um how he's going
+with 
+the machinery that he's working with up on the north coast
+<$A> <#\>Did you approach Mr <@>surname4</@> or did he
+approach 
+you on this occasion that you spoke to him?
+<$B> <#\><{><[>Um</[>
+<$C> <#\><[>I</[></{> think Mr <@>surname1</@> said he'd
+spoken 
+to Mr <@>surname4</@> on a number of occasions
+<$A> <#\>You've spoken to him on a number of occasions?
+<$B> <#\>Oh yeah <#\>I've spoken to him quite regularly yes
+still
+<$A> <#\>Well what about Mr <@>surname5</@> ?
+<$B> <#\>Um yeah <@>fullname5</@> rang up and said that ah
+he'd 
+been spoken to um but nothing nothing 
+particular 
+no
+<$A> <#\><{><[>Did you say</[>
+<$C> <#\><[>When when</[></{> was that?
+<$B> <#\>Oh sir I think it was early this year some time
+from 
+memory or some time <#\>I can't be a hundred percent sure
+<$C> <#\>Well let's let's try Mr 
+<@>surname1</@> 
+<$B> <#\><{><[>Well</[>
+<$C> <#\><[>I'll give you the point</[></{> Mr
+<@>surname5</@> 
+rang you up and talked to you about the ICAC inquiry is that 
+right? <,>
+<$B> <#\>Mr <@>surname5</@> rang up um just just I think to see how we were going in New Guinea 
+<{><[>um</[> if we had any work <#\>He rang up to say I think 
+he's um he's um looking for some looking for work at this stage and um I think he said 
+<quote>oh I was talking to somebody from I C A C some of the 
+investigators </quote> and I said <quote>oh is everything 
+alright?</quote> or something along those lines <#\>I can't think 
+<#\>And he said <quote>oh as far as I know</quote> <#\>So that
+was 
+about it sir
+<$C> <#\><[>Yes</[></{>
+  <#\>Did he tell you what he had been talking about to the 
+ICAC investigators?
+<$B> <#\>No not to my memory no
+<$A> <#\><{><[>Did you suggest to</[>
+<$C> <#\><[><O>inaudible four syllables</O></[></{>
+<#\>Sorry 
+you go ahead
+<$A> <#\>Did you suggest to Mr <@>surname5</@> what he
+should or 
+should not say top the I C A C investigators?
+<$B> <#\>No I don't think so Ms <@>surname3</@> <#\>I can't
+even 
+recall saying of um saying it 
+<$A> <#\>What about Mr <@>surname6</@> ? <#\>Have you spoken
+to him 
+since the er investigation began?
+<$B> <#\>Yes I've spoken to him a number of times as well
+<$A> <#\>Have you ever suggested to Mr <@>surname6</@> what
+he 
+should or should not say to I C A C investigators?
+<$B> <#\>No I don't I don't think so
+<#\>I 
+have never ever mentioned anything to <@>fullname6</@> to my 
+knowledge of what he should say or shouldn't say <#\>I don't know 
+what he's what questions he's gonna be asked 
+or what he should say or not say
+<$C> <#\>When was the last time you spoke to Mr
+<@>surname6</@> ?
+<$B> <#\>Ahh we had a look at a job at <@>placename2</@> um
+on 
+Saturday sir <#\>One which we're looking at tendering for at one 
+of <{><[>the coalmines</[>
+<$C> <#\><[>The day before</[></{> yesterday?
+<$B> <#\>That's correct
+<$C> <#\>So you were with Mr <@>surname6</@> in
+<@>placename2</@> ?
+<$B> <#\>That's correct
+<$C> <#\>And the purpose of your meeting with Mr 
+<@>surname6</@> was to see whether you should tender for a job at 
+<@>placename2</@> ?
+<$B> <#\>Well we were looking at tendering for it <#\>We had
+to 
+look at the plans and the site and everything else um to tender 
+for a ah job for the coal-mine <#\>Yeah that's correct
+<$C> <#\>Right where did you meet Mr <@>surname6</@> ?
+<$B> <#\>On the site which is up on top of <@>placename3</@> 
+somewhere
+<$C> <#\>Mr <@>surname6</@> lives near <@>placename2</@> 
+does he?
+<$B> <#\>Ah yes he lives at <@>placename2</@> somewhere sir 
+<#\>I 
+don't know exactly where
+<$C> <#\>So what which was the site
+exactly 
+that you met him?
+<$B> <#\>Ah on top of <@>placaename3</@> um coal-mine there
+sir
+<$C> <#\><{><[>Yes</[>
+<$A> <#\><[>What's</[></{>the name of the mine?
+<$B> <#\>Um I'm not a hundred percent sure <#\>I think it's 
+<@>placename4</@> 
+<$A> <#\>And what's the job that you were tendering for?
+<$B> <#\>It's a um it's a new conveyor
+system 
+going in ah new loading bins going in and the earth works on 
+either side of the ridge to be um to be 
+taken 
+out
+<$A> <#\>And ah you you were looking at
+that 
+job with Mr <@>surname6</@> is that right?
+<$B> <#\>Yes we that's <{><[>correct</[>
+<$C> <#\><[>Did you ah</[></{> in the course of this ah 
+conversation with Mr <@>surname6</@> that took place at the top
+of 
+<@>placename3</@> talk about ah the evidence that had been given 
+at the commission towards the end of last week?
+<$B> <#\>No sir I ah just <#\>He asked how it was going and
+he 
+said <quote>I saw in the paper that that </quote> ah my name was in the paper <#\>I said 
+that's correct but it's um a lot of paperwork getting thrown 
+around but ah you know that's about all that was said <#\>I said 
+<quote>I can't talk about it</quote> <#\>It's it's um
+<$C> <#\>You said you can'[t talk about it?
+<$B> <#\>Yes true
+<$C> <#\>When did you arrange to meet ah Mr <@>surname6</@> ?
+<$B> <#\>Um he was away somewhere and um contacted me on
+Friday 
+afternoon Friday night
+<$C> <#\>He contacted you did he?
+<$B> <#\>That's correct
+<$C> <#\>You had no contact with him?
+<$B> <#\>No <#\>He said that we'd better come and <quote>if you want to tender for this job better come down
+and 
+look at it</quote> <#\>I said <quote>well um I'd better 
+make it tomorrow while I've got a chance</quote> <#\>So that's 
+what happened
+<$C> <#\>So if I understood correctly you made no attempt
+after 
+the evidence on Thursday relating to these charts and so forth
+you 
+made no attempt to contact Mr <@>surname6</@> ?
+<$B> <#\>No sir I didn't
+<$C> <#\>You did not attempt to contact his family?
+<$B> <#\>No
+<$C> <#\>And Mr <@>surname6</@> just happened to contact you
+on 
+Friday about the job at ah <@>placename3</@> 
+<$B> <#\>Sir I think he <@>firstname6</@> was travelling
+back from 
+<@>placename5</@> somewhere
+<$C> <#\>Did he he telephoned you did he?
+<$B> <#\>He called in at <@>placename6</@> <#\>He called in
+as he 
+was going through <@>placename6</@> <{><[>on the way</[>
+ <$C>  <#\><[>I see</[></{> <#\>And when was that?
+<$B> <#\>Oh Friday late Friday six seven o'clock or
+something 
+Friday
+<$C> <#\>And that was unexpected as far as you were
+concerned was 
+it?
+<$B> <#\>Yes sir <#\>I I didn't know
+exactly 
+where <@>firstname6</@> was <#\>As far as I knew he was on 
+holidays and he was just coming back
+<$C> <#\>So
+<@>firstname6</@> <@>firstname6</@> 
+just turned up at your home <#\>Is that you home in 
+<@>placename6</@> ?
+<$B> <#\>Ah he went to the office and I'd just gone home and
+he he came to call around at the house and I
+<$C> <#\>Alright so he turned up on Friday at about six or
+seven 
+o'clock at home <{><[>and you had made no</[> alright and you 
+had made no prior contact with Mr <@>surname6</@> as far as that 
+meeting was concerned? <#\>This was something that just happened 
+out of the blue?
+<$B> <#\><[>I think it was about seven</[></{>
+  <#\>Yes that's correct <#\>He was on his on his way back
+from 
+up <@>placename5</@> somewhere
+<$C> <#\>What was he doing up in <@>placename5</@> ?
+<$B> <#\>Oh I think he was on holidays or looking for ah
+work or 
+whatever <#\>I didn't really ask him <#\>He just said <quote>I've 
+got this job down there and</quote> ah which I knew about and ah 
+<quote>if you want to have a look you'd better have
+a 
+look at it</quote> 
+<$C> <#\>When was the last time you'd spoken to Mr
+<@>surname6</@> 
+before Friday?
+<$B> <#\>Oh sir<,,> possibly a fortnight ago or something
+<#\>I can't 
+remember exactly when <,>
+<$C> <#\>You'd had no contact with Mr <@>surname6</@> in the 
+intervening two weeks since that previous contact?
+<$B> <#\>No I don't recall sir having any no
+<$C> <#\>And your evidence is that Mr <@>surname6</@> having 
+dropped in <O>cough</O>and having said he'd seen his name in the 
+paper <#\>Is that what he said to you?
+<$B> <#\>He said he read
+his had had 
+read the paper and his name was in there but um more importantly 
+was to look at this <{><[>um</[> contract job
+<$C> <#\><[>Yes</[></{>
+  <#\>Which paper had he had he read?
+<$B> <#\>The um Herald I think on his way back down from
+the 
+coast the north coast 
+<$C> <#\>Yes and
+<$B> <#\>Or <@>placename5</@> somewhere <#\>I
+didn't I 
+didn't ask him any of those questions
+<$C> <#\>You didn't ask him alright <#\>And in this
+conversation 
+at seven o'clock on Friday you you're quite 
+sure you did not discuss the evidence that was being given on the 
+Thursday about Mr <@>surname6</@> 's possible involvement in the
+ah 
+ dockets and invoicing?
+<$B> <#\>No sir I um I didn't discuss
+anything 
+with him on what was going on <#\>We weren't don't know the laws or the rules so I wasn't taking
+the 
+risk there
+<$C> <#\>So yes
+<$A> <#\>And on Saturday you say you saw him ah on the top
+of 
+<@>placename3</@> ?
+<$B> <#\>That's correct
+<$A> <#\>Did you have any conversation with him about the 
+investigation then?
+<$B> <#\>No I um <,> looked at the plans of the of <#\>I think I was only there for a short period
+of 
+time <#\>Looked at the plans um walked over the site looked at 
+what we'd need to what machinery we required 
+things like that
+<$A> <#\>Didn't have any conversation that you can recall
+about 
+the I C A C hearing or investigation
+<$B> <#\>No I think <@>firstname6</@> just asked how it was
+going 
+and I said <quote>as far as I was concerned everything was ok 
+and</quote></I>
+
+

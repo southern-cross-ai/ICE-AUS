@@ -1,0 +1,201 @@
+<S2A-022> <2003>
+<I><#\>So in order to explain differences of meaning, it's not
+enough
+to just talk about such classes as nouns and verbs <#\>You need
+to look at the functions that these classes have in a
+particular sequence <#\>So there's two types of information that
+you need to build into a tree, or a tree diagram <,> <#\>And
+a full description of the various categories you will find in
+the chapter in the textbook, the photocopied chapter <#\>We need
+to say that John is the subject and Fred is the object <O>cough</O>
+and for the purposes of this discussion I'll just talk about
+John as a noun, it as a verb and Fred as a noun <,> <#\>So
+what is the function of <mention>it</mention> if the function of Fred is
+object, and the function of John is subject <#\>The term that is
+sometimes used is predicate or <&>pause while writing on board</&>
+<#\>In other words a verb is something that tells you something,
+it predicates something <#\>It ah expresses some ah notion about
+ah usually the subject <#\>And so where <mention>v</mention> stands for the
+particular class that <mention>hit</mention> belongs to <#\><mention>Hit</mention> belongs to a
+class that includes words like <mention>hit</mention> and <mention><O>inaudible</O></mention> and <mention><O>inaudible</O></mention> and
+<mention><O>inaudible</O></mention> and <O>inaudible</O> and <#\><mention>P</mention> standing for predictor tells you
+what the function that those sorts of verbs play in the
+sentence <,> <#\>Notice that instead of John you could have
+had something more than a single phrase <,,> <#\>You
+could have had <mention>the aggressive teacher hit John</mention> <#\>No Fred
+<,,> <#\>In that case Fred is still the object and hit
+is
+still, no <,> the verb and it's still a predictor <#\>But
+now you have something else that is the subject <#\>And it's not
+a single noun, it's a group of words clearly with a noun as
+its, as its main word and we call this a noun phrase <#\>And
+within any phrase there will be an internal structure
+consisting of the main word, usually referred to as the head
+and the subordinate words or the dependent words <#\>And there
+are different types of dependents according to what type of
+phrase it is <#\>In noun phrases there are two main types
+<#\>There
+are what are, what are known as modifiers and ag, ag,
+aggressive is <,,> <#\>I actually am starting to reverse
+the order now in the, the customary way <#\>Instead of having the
+class first and then the the function, class function, it's
+more customary to have the function first <#\>So subject is a
+function label and that will typically um precede the class
+label <#\>So I'd better be consistent here and have <,>
+<#\>So
+from now on it'll be the function followed by the class <,,> <#\>So the function of <mention>aggressive</mention> is a modifier <#\>It
+modifies teacher, tells you something about the teacher <#\>The
+teacher ah is characterised by the property of ah being
+aggressive <#\>And then <,> the function of words like <mention>the</mention>
+and <mention>a</mention> and <mention>this</mention> is said to be that of a determiner <#\>Quite
+literally words like <mention>a</mention> and <mention>this</mention> and <mention>that</mention> determine the
+type of noun that will be selected to go with them <#\>For
+example if you if you select <mention>these</mention> this will determine that
+the noun that goes with it must be a plural type of noun <#\>You
+can't say <mention>these hat</mention>, you have to <mention>this hat</mention> <#\>Conversely, if
+you selected <mention>this</mention>, you must, <mention>this</mention> will determine that the
+noun that goes with it is a singular type of noun <#\><mention>This hat</mention>
+but you can't say <mention>this hats</mention><#\>So then the function of
+<mention>teacher</mention> is that of the head of the phrase <,> <#\>Given a
+particular phrase, how do you know what's the head and what
+what is not the head, what what are the dependents <#\>Well there
+are two sorts of considerations <#\>One is omissibility
+<#\>Usually
+if you leave the head out, the phrase will make very little
+sense in the context of the sentence <#\>So that if you said <quote>the
+aggressive hit Fred</quote> , it would be extremely odd <#\>But if you
+said <quote>teacher hit Fred</quote> , it wouldn't be proper English but it
+would make a lot more sense so that the head is the most
+crucial element within the phrase <#\>It it carries the main
+meaning of the phrase and for the that reason you can't leave
+it out without doing a lot of damage <#\>The the second
+consideration is that it's the head word that selects what
+type of dependents can go with it <#\>So that if you had ah a
+noun like say <mention>beauty</mention>, that would um <,> <#\><mention>Beauty</mention> as an
+abstract noun um would only very rarely allow a determiner
+with it, or if it did it would be a determiner of a particular
+type <#\>You could talk about um <,>um <mention>all beauty</mention> or <mention>some
+beauty</mention> um but you certainly couldn't say <mention>a beauty</mention> <#\>If you
+did, <mention>beauty</mention> would have a different meaning <#\>Well let's
+let's make it <mention>truth</mention> <,> <#\><mention>Truth</mention> as a noun um <,>
+as
+as the head of a noun phrase would dictate that, ah I think
+this is true, you couldn't use the determiner <mention>a</mention> with it <#\><mention>A
+truth</mention> is not going to be acceptable English <O>Extra corpus text</O>
+<#\>Alright, how about another example <#\>It's true that there
+are
+different uses of words and to the extent that truth is
+normally an abstract mass noun, you're normally thinking of it
+of it as a as a sort of indivisible entity <#\>Ah, it will have
+the properties I am talking about <#\>But to the the extent that
+it comes it can sometimes be used as what is sometimes called
+a <O>inaudible</O> noun <#\>In other words, referring to a particular instance
+of the the total idea, <mention>a home truth</mention> or a a particular type
+of truth then it will have those properties <#\>So it wasn't a
+good choice <#\>How about <mention>wetness</mention> <#\><mention>Wetness</mention> is a noun, but
+I
+think can only have that global, mass, general sort of use
+<#\>Um, am I right <#\>Could you talk about <mention>a wetness</mention> <#\><mention>Oh
+sorry
+mum, last night ah in my bed, a wetness</mention> <#\>No <#\>You can talk
+about <mention>the wetness</mention> of something but not <mention>a wetness</mention> <,>
+<#\>In a similar way, let's let's think about another type of
+phrase <#\>Whenever you've got a so-called node in a tree, it
+calls out for labels and in this case <,,> we have a
+type of phrase that is called a verb phrase <#\>So <mention>hit Fred</mention> is
+a phrase where the verb is the head word, namely <mention>hit</mention> <#\>And
+I
+think far more it's easy to argue that ah the verb is the head
+of a verb phrase following this line of argumentation <#\>For
+example, if you choose the verb <mention>give</mention> <,>, this will
+select usually two types of entity within the verb phrase
+<#\>Usually you give something to somebody <#\>Whereas if you
+choose
+the verb <mention>hit</mention> it will only select one entity <#\>That entity
+referring to the person who suffers the hitting <#\>Whereas if
+you choose, for example, the verb <mention>faint</mention>, <mention>to faint</mention>, this in
+a sense dictates that you don't have any entity with it <#\>When
+somebody faints, the action doesn't affect another entity
+It's as it were a self-contained sort of process <#\>So the
+subject simply faints <#\>Or for example if you choose the verb
+<mention>put</mention> <#\>This will be the head of the verb phrase in the sense
+that it will ah dictate that you have an entity plus some
+indication of location <#\>You don't just ah <mention>put the salt</mention> and
+you don't just <mention>put on the table</mention>, you <mention>put the salt on the
+table</mention> so there's um a set of ah restrictions or selections
+that that are associated with heads within phrases <,>
+<#\>Again you could invoke the omissibility criteria <#\>If you
+omit
+<mention>Fred</mention> from your  verb phrase, it won't do great damage to the
+sense <#\>You could say <mention>the aggressive teacher hit</mention> but it would
+be far more odd if you left the head out and you said <mention>the
+aggressive teacher Fred</mention> <#\>So it's a more essential part of the
+meaning of the phrase <,> <#\>What is the function of the
+verb phrase <#\>What term do we put here <#\>Well there's a good
+traditional term for this <#\>Um corresponding to the subject of
+a sentence we have the predicate and so why not use that
+traditional term <,,> <#\>There's a further issue and
+that is whether we've meant something by calling <mention>Fred</mention> a
+noun <#\>Certainly as it stands Fred is a sing a single noun
+<#\>But
+this slot within the sentence has the same sort of potential
+as does this slot to be expanded into more than one word <#\>You
+could say <mention>the aggressive teacher hit the naughty pupil</mention> <#\>No
+<mention>hit the table with his fist</mention> <#\>Where <mention>the naughty pupil</mention> or
+<mention>the table</mention> is clearly a noun phrase <#\>And so in contemporary
+linguistics <,> we have a situation which may seem odd to
+a traditional grammarian but which um is um arguably
+preferable to the traditional approach <,> whereby if you
+have a slot in a sentence which could be filled by a phrase,
+you associate it with the name of that phrase <#\>So a phrase can
+be a group of words or it can be just a single word <#\>A single
+word, phrase, being a phrase on the grounds that it is
+potentially able to be expanded into more than one word <#\>So
+<mention>Fred</mention> here will be classified as a phrase just like <mention>the
+aggressive teacher</mention> functioning as the subject <,> <#\>Oh,
+we
+haven't filled in the class labels here <#\>What class of words
+does <mention>teacher</mention> belong to <O>Extra corpus text</O> <#\>Nouns are words,
+think not about what a word refers to because that's going to
+get you into problems <#\>Think about the way these types of
+words <#\>Words like <mention>teacher</mention> and <mention>stone</mention> and <mention>rock</mention> and
+<mention>beauty</mention> behave in the language <#\>It could be modified by a
+<mention>the</mention> type of word or by and <mention>aggressive</mention> type word <#\>And that
+will certainly differentiate it from from these <#\>You can't
+talk about um ah <mention>aggressive stupid</mention> or <mention>aggressive</mention> um <mention>he
+aggressive jump</mention> you couldn't say he <mention>aggressive jump</mention> or
+subject <mention>he aggressive jumps</mention> where I'm taking <mention>jumps</mention> to be a
+verb <#\>But what about the the form of the word <#\>Are there
+any
+endings you can add to it that you can't add to other words
+<#\>How do <#\>We all have some sort of intuitive sense through
+our
+learning of English that this this word belongs to a different
+class than those, but but can you explicate that <#\>Can you say
+where your intuitions come from <O>Extra corpus text</O> <#\>Now well
+that's the sort of um definition that I'm trying to get away
+from <#\>I I'm trying to get away from a definition in terms of
+the meanings, what words refer to <O>Extra corpus text</O> <#\>The <mention>s</mention> that
+you add to a noun like <mention>teacher</mention> or <mention>chair</mention> means more than
+one <#\>Um <#\>I had one teacher in primary school <#\>I had
+several
+teachers <#\>What does what does the <mention>s</mention> that goes on verbs mean
+<#\>Or when do you use it <#\>You use it with certain types of
+subjects <#\>So it it means, it's not just singular but also that
+the subject ah will be, as a grammarian'd say, third person
+<#\>Not the speaker, not the addressee but somebody else, so
+<#\>You
+can't say <mention>they sings</mention> or <mention>we sings</mention>, only <mention>he sings</mention> or <mention>she
+sings</mention> or <mention>it sings</mention> but the meaning is certainly not plural
+as it is in nouns <#\>There's another ending that nouns can take,
+and only nouns <,> <O>Extra corpus text</O> <#\>This lead <O>cough</O> this
+leads me to make a more general observation about how we can
+ah describe the difference between verbs and nouns and
+adjectives <#\>In traditional grammars there's a strong tendency
+to use definitions of the type that you started to give me <#\>Oh
+we know that's a noun 'cause it refers to a person <#\>Or you
+would probably s, if I said <mention>How do you know that sing is a
+verb?</mention>, you'd probably s you'd probably say <mention>Oh, it's a doing
+word, it refers to something you do</mention> <#\>Or if, or how do you
+know that <mention>stupid</mention> is an adjective <#\>What would your first
+impulse be <#\>It's a describing word</I>

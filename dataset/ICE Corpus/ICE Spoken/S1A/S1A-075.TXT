@@ -1,0 +1,307 @@
+ <S1A-075> <2000>
+<I><$A> <#\>So mum<,> how was your day
+<$B> <#\>Oh pretty good thanks <@>forename1</@> <#\>How was
+yours
+<$A> <#\>Oh not too bad actually
+<$B> <#\>You did some study did you
+<$A> <#\>Yeah <#\>I did actually <#\>I went to the library for
+once <#\>It
+was pretty
+<$B> <#\>That was good wasn't it
+<$A> <#\>Yeah <#\>S'pose it was
+<$B> <#\>What did you study <#\>When are when do your exams
+actually
+start
+<$A> <#\>Oh they start on<,> <#\>I'm not quite sure twenty
+third<,,> <#\>I think June twenty third they start<,> <#\>But I'm
+not looking forward to them <#\>Needs a bit more study<,,>
+<#\>But<,> it'll be cool <#\>So how was your day <#\>What'd you
+do
+<$B> <#\>Oh the usual
+<$A> <#\>How were the kids <#\>Nasty little kids
+<$B> <#\>Um<,> they were all being good today <#\><{><[>I</[> had to go
+out and play soccer with<,> half a dozen three year olds <#\>It was really exciting
+<$A> <#\><[>Yeah</[></{> 
+     <#\>Oh I bet it was <#\>Are they any good at soccer
+<$B> <#\>Most of them could kick the ball which was good
+<$A> <#\>Do they understand the rules
+<$B> <#\>Oh come on <@>forename1</@> <#\>These are the three
+year
+olds we're talking about <{><[><O>Blaughs</O></[> 
+<$A> <#\><[>Oh yeah <#\>True</[></{> <#\>True <#\>I can't wait till
+tonight<,>
+<#\>It's so exciting
+<$B> <#\>Wonderful isn't it
+<$A> <#\>Oh<,> it is rather<,,> I'm not quite sure about
+<@>forename2</@> <@>surname2</@> as<,> as Joseph<,,> <#\>Wasn't he dark
+<#\>Dark<,>
+long hair<,,>
+<$B> <#\>I don't think they're worried about making it like<,>
+real life it really would've been
+<$A> <#\>Really would've been <#\>Yeah <#\>True
+<$B> <#\><O>inaudible</O> when he started singing his voice was
+a
+bit weak
+<$A> <#\>Really
+<$B> <#\>It starts of quite softly and he really doesn't have
+strong voice at a<,> at a lower<,> level <{><[><,></[> <#\>When he got
+into it<,> he started using it
+<$A> <#\><[>Oh</[></{> 
+     <#\>Oh that's good<,,> <#\>Oh yeah <#\>It should be good 
+<$B> <#\>Apparently Joseph becomes Elvis Presley at one stage<,>
+<$A> <#\>Elvis Presley<,> <#\>Oh yeah <#\>That's really typical
+isn't
+it <O>Alaughs</O><#\>I can see that happening<,> <#\>Probably get
+somebody saying Elvis is alive<,,> <#\>Blond hair<,,>
+<$B> <#\>Did you eat your salad today dear
+<$A> <#\>Actually the salad today was very good <#\>I had to
+do<,> I
+had to fight very hard to get <@>forename3</@> <,> not to eat
+it for me<,> <#\>Actually I forgot it <#\>Oh I was so mad <#\>I
+was
+going to be right on time to get one of those brilliant
+parking spots and um<,> I<,> got to<,> got to where I had to
+had to pick <@>forename3</@> up from and<,> I realised I
+didn't have my lunch <#\>Oh I was so mad<,> <#\>So and I had to
+wait
+for <@>forename3</@> <#\>He was late 
+<$B> <#\>And so you usually pick him up in the morning
+<$A> <#\>Yeah <#\>I pick him up in the morning<,> <#\>And he was
+late<,>
+so I had to<,> um sit around and wait for him<,> which was<,>
+pretty ok I s'pose but um<,> I had nothing to do or
+anything<,> and um<,> and then I realised like I I'd left my
+lunch at home so I had to go and get it and<,,> <#\>Oh<,> I tell
+you what<,> I was late then<,> <#\>And there was traff <,> <#\>Oh
+you
+know if there's one thing I hate ok<,> on my way to uni<,,>
+you know how when I go down Ryde Road<,> and the right hand
+lane<,> is always blocked off <#\>It's always stopped<,> <#\>Well
+anytime I go ok I into the left hand lane because the right
+hand lane always stops<,> I get in the left hand lane and
+while the other lane's roaring past I'm stuck in the left
+lane <#\>I hopeless at picking the right lane <#\>The correct
+lane
+that is<,> <#\>So I was sitting in the right lane today and ah
+I
+missed like every<,> you know how you look behind you and
+think <quote>ok you can slip can go out now</quote> <#\>Every
+time I went to
+do that the cars would start moving<,> <#\>And I'd go ok well
+they're on their way now <#\>I can<,> just keep on going
+<#\>It'll
+be fine and then we'd stop and a whole stream would go past on
+the left hand side and I couldn't get in 'cos they're<,> <#\>Like
+that early in the morning Daisy there is no way Daisy would've
+got into that lane of traffic without stalling<,,> so
+<$B> <#\>She hadn't warmed up enough hey
+<$A> <#\>No<,> I left her out <O>Alaughs</O> <O>inaudible</O>
+her away tonight actually<,> which I was quite impressed
+about
+<$B> <#\>Mmm <#\>So will your dad be
+<$A> <#\>Yeah <#\>He will won't he <#\>Yeah<,> indeed
+<$B> <#\><@>forename4</@> rang me at work today
+<$A> <#\>Yeah<,> <#\>What'd she say
+<$B> <#\>Oh<,> well she's coming to visit us at kindy<,,>
+<#\>She's
+going to visit us at kindy I mean<,> <#\>On Friday I think it is
+<$A> <#\>Oh that should be good
+<$B> <#\>Yeah
+<$A> <#\>For lunch<,,>
+<$B> <#\>Oh<,> I hope she brings some afternoon tea actually
+<$A> <#\>For all of you
+<$B> <#\>I didn't tell her that<,> only that she'd be teaching
+<$A> <#\>Yeah<,> yeah <#\>I know <{><[><O>inaudible</O></[> 
+<$B> <#\><[><O>inaudible</O></[> </{>you know
+<$A> <#\>Oh well that's good <#\>You'd better remind her <#\>She
+mightn't<,,> remember <#\>She mightn't think
+<$B> <#\>Perhaps I'd better <{><[>give her a ring</[> 
+<$A> <#\><[>Perhaps you'd better</[></{> <#\>Yeah <#\>That's probably a
+really good idea <#\>Who'll be <#\>Oh no <@>forename5</@> 'll be in
+won't she <{1><[1><,></[1> <#\>Oh that's good <{2><[2><,></[2> <#\>So she'll<,> she'll be
+studying I take it<,> <#\>She's taking time out from her study is she
+<$B> <#\><[1>Mmm</[1></{1> 
+     <#\><[2>Mmm</[2></{2> 
+     <#\>Definitely <#\>She's taking a whole weekend off from her
+study
+<$A> <#\>Yeah <#\>That's a bit <{><[>crazy</[> 
+<$B> <#\><[>That's not</[></{> a good idea is it
+<$A> <#\>No <#\>Not a good idea at all
+<$B> <#\>You wouldn't do that <@>forename6</@> would you
+<#\>Organise a weekend away<,> just before your exams started
+<$A> <#\>Do they start<,> do they start on Monday mum
+<$B> <#\>No <#\>Tuesday
+<$A> <#\>They start on Tuesday <#\>Guess who's going away for the
+weekend<,> <#\>And she's going away to the bush<,> where she
+can't take any<,> any textbooks or anything<,> <#\>And she's
+going to she's gonna to <O>inaudible</O> with her
+apparently<,> but um<,> mmm I don't know how it's gonna go<,>
+<#\>Oh well <#\>It can't be helped 
+<$B> <#\>No<,,> <#\>Because the Macquarie exams are much later
+aren't
+they
+<$A> <#\>Yeah<,> <#\>Yeah<,> <#\>But we don't get stuvac<,> which
+I must
+add's very unfair <O>Alaughs</O> <#\>Emphasis on that<,> <#\>Oh
+it's
+terrible <#\>All those universities are finished<,> and there we
+are going to lectures and tutorials <#\>I think it's disgusting
+<$B> <#\>But you had you had an extra two weeks holiday last
+holiday
+<$A> <#\>Yeah <#\>But of course they don't tell you that ya
+suppose
+to use those two weeks holiday<,> to study do they
+<$B> <#\>Yes you <#\>I remember you saying at the time<,><quote>we're
+suppose to study.</quote>
+<$A> <#\>Oh did I <{1><[1><,></[1> <#\>Slip of the tongue <{2><[2><O>Alaughs</O></[2>  <#\>Oh<,> <#\>Well it's still not fair<,,>
+<$B> <#\><[1>Mmm</[1></{1> 
+     <#\><[2>Oh yeah <#\>Definitely</[2></{2> 
+    <#\>I can just picture all the Macquarie people studying
+madly <{><[><O>inaudible</O> before the exams</[> 
+<$A> <#\><[>Oh definitely <#\>Can't I</[></{> too <#\>Actually<,> you
+know the
+library<,> and it's unbelievable how many people<,> seriously
+study heaps<,> like even before the exams
+<$B> <#\>That surprises you
+<$A> <#\>Yeah <{><[><O>Alaughs</O></[> 
+<$B> <#\><[>That's what</[></{> unis are all about <@>forename1</@> 
+<#\>Studying<,> <#\>Doing well<,> <#\>You know
+<$A> <#\>Yeah <#\>I know <#\>I know<,> I'm not quite used to that
+yet
+<O>Alaughs</O> <#\>I will one day <#\>I'll get used to it I'm
+sure
+<$B> <#\><O>inaudible</O>
+<$A> <#\>Yes<,> Oh the dog's not coming in tonight is he
+<$B> <#\>No <#\>We haven't taken his <O>inaudible</O> stitch out
+<$A> <#\>Oh my gosh<,,> <#\>Ages and ages ago he was<,> done
+<{><[><O>Alaughs</O></[> 
+<$B> <#\><[>Are you any</[></{> good at taking stitches out
+<@>forename6</@> <,> <#\>Are you
+<$A> <#\>Oh good <#\>Do you wanna take <@>familiarname1</@> 's out
+<O>ABlaugh</O> <#\>I get home the other night<,> and mum goes
+um<,> <quote>oh how're you feeling tonight <@>forename1</@> 
+<#\>Are you you know are you feeling</quote> <#\>What did you say <{1><[1><,,></[1> 
+<#\>She goes <quote>oh are you feeling strong tonight</quote> <#\>I said
+<quote>no</quote> <#\>I was a bit suspicious at this stage <#\>And she goes <quote>I want you to take the dog's stitches out</quote> <#\>I'm going <quote>uhuh <#\>no way</quote><,> <#\>Oh<,> do you remember that time<,> ah <O>sneeze</O> at bible study<,>
+<O>sneeze</O> um<,,> Australian sneezes <O>Alaughs</O> <#\>I'm sorry <#\>Um<,> ah where at bible study where<,,> <@>forename7</@> <,> like got<,,> hit<,> in the face<,> <#\>He got hit in the face with the tip of a surfboard<,,> <#\>No <#\>He got hit in the nose <#\>That's right <#\>So he had this gaping hole in <{2><[2>his nose<,></[2> and like he had all these stitches<,> and and he likes taking the stitches out himself<,> <#\>He says he
+likes he likes the feel as it pulls through the skin <#\><{3><[3>Oh</[3>  <#\>It's disgusting <#\>It is so gross <{4><[4><,></[4> <#\>But um<,,> <#\>No mum asked dad if he would<,> if he would ah<,,> take the dog's stitches out but<,,> he's pretty weak in the stomach<,,> <#\>Did
+I <#\>Yeah <#\>Did I tell you what happened when he came to see me
+when I was in hospital<,> <#\>Yeah <#\>Well they told him to lay
+down <O>Alaughs</O> <#\>What a woos <#\><{5><[5>I didn't look that bad</[5> 
+<$B> <#\><[1>I forget</[1></{1> 
+     <#\><[2>That's terrible</[2></{2> 
+     <#\><[3>Oh</[3></{3> 
+     <#\><[4>Yuck</[4></{4> 
+     <#\><[5><O>Inaudible</O></[5></{5> <#\>It wasn't that you looked bad
+but
+that he was thinking what had happened to you
+<$A> <#\>Oh yes <#\>I know
+<$B> <#\>He felt very sorry for his little girl
+<$A> <#\>Self inflicted <O>Alaughs</O>
+<$B> <#\>It was rather wasn't it
+<$A> <#\>Yeah <#\>It was <O>Alaugh</O> <#\>I was the one that did
+this
+to myself
+<$B> <#\>And you didn't take your own stitches out did you
+<$A> <#\>No<,> no <#\>I didn't <O>inaudible</O> <#\>I thought I
+needed
+help <#\>Yeah <#\>It's all over now<,,> <#\>Thank goodness<,,>
+<#\>It was
+a big build up <#\>I'd been thinking of doing this<,> doing
+that<,> for years and years and years<,> <#\>Like<,,> in year
+ten<,> we mum and I discussed it<,,> but um<,,> it never got
+done<,,>
+<$B> <#\>The new teen medical<,> industry it is
+<$A> <#\>Yes <#\>It is<,,> <#\>But don't let them know what it
+is
+<O>Alaughs</O> <#\>I don't want the whole world to know<,>
+<#\>Yeah<,> <#\>Absolutely 
+<$B> <#\><O>inaudible</O>
+<$A> <#\>Sorry
+<$B> <#\>Nothing
+<$A> <#\>The dog's gonna be extra hyper tonight tomorrow night.
+If
+he goes a night without coming in<,> the next time he comes in
+he will be unbelievable <#\>You can't stop him <#\>He won't sit
+down <#\>He'll be jumping up all over everybody all over
+everything <#\>Oh he was really cute<,> last night<,> <#\>That
+must
+be dad <#\>He was really cute last night<,> <#\>We were all
+watching
+television<,> and he came he came in<,> and I got up to<,> to
+change the channel<,> and<,> 'cos you know how the remote's
+broken<,> <#\>Well I got up to change the channel<,> and ah<,>
+I
+turned around<,> and he bounded onto the seat exactly where I
+was sitting <#\>Like<,> 'cos where it was warm<,> <#\>And he
+curled
+up <#\>He looked really cute<,,> but um<,> no matter how cute he
+was I still took him off<,> <O>inaudible</O> at the door
+
+                    <&>BREAK IN RECORDING</&>
+
+<$B> <#\>Sure you don't mind with that cake
+<$C> <#\>No
+<$A> <#\>Oh <#\>Didn't you eat any cake <#\>Oh my gosh<,> talking
+about
+the cake<,,> <#\>Well no<,> <#\>Talking about anything<,> I
+haven't <{><[>bought <@>forename8</@> 's present yet</[> 
+<$B> <#\><[>I know that</[></{> I was going to ask you today and I thought<,> <quote>why embarrass <@>forename1</@> </quote> not
+that it does
+embarrass you 
+<$A> <#\>What<,> <#\>That I haven't bought <@>forename8</@> a
+present yet<,> I know exactly what I'm buying
+<@>forename8</@> <,> <#\>It's just that I have to go and<,> buy
+it
+<$?> <#\>I wanna know <#\>Tell me
+<$A> <#\>No <#\>You can't know <#\>It's a secret <O>inaudible</O>
+<$C> <#\>What's all this about
+<$A> <#\>What's it all about
+<$B> <#\>There's something wrong with the answering <{1><[1>machine</[1>  I
+rewound it <{2><[2><,></[2> and then when you play it back <{3><[3><,></[3> it
+just goes on and on
+<$C> <#\><[1>Oh no</[1></{1> 
+     <#\><[2>Yeah</[2></{2> 
+     <#\><[3>Yeah</[3></{3> 
+     <#\>Yeah <#\>It won't stop
+<$B> <#\><{><[>It won't stop</[> 
+<$A> <#\><[>Yeah <#\>It won't stop</[></{> after you <#\>Yeah<,>
+<#\>Maybe the
+tape's<,> maybe the tape like has has <{><[>had it</[> 
+<$C> <#\><[>Has it</[></{> wiped out that other thing with that person's
+voice on it <O>inaudible</O> to tape it
+<$A> <#\>Do you know what I did <O>ABlaugh</O> <#\>From you<,>
+from<,> last year<,> my birthday <#\>Mum was it my birthday last
+year or my birthday this year<,,> I can't remember<,> but
+<@>forename9</@> rang<,> and left a message on the answering
+machine
+<$C> <#\>Well wipe it now
+<$A> <#\>And I <O>inaudible</O> <#\>Isn't that sad <#\>That was
+really
+sad <#\>It was sad <#\>I agree <#\>It's pretty sad <{><[><,,> <#\>Last year</[> 
+<#\>Oh my gosh<,> <#\>What
+<$C> <#\><[><O>inaudible</O></[>
+<$B> <#\><[><O>inaudible</O></[></{> 
+     <#\>Because you haven't been in his<,> bible study this year
+<$A> <#\>No <#\>I haven't <#\>No
+<$B> <#\>We assumed <O>inaudible</O>
+<$A> <#\>Actually<,,> considering we're going to see
+<@>forename10</@> this weekend aren't we<,> <#\>Yeah <#\>Well
+maybe
+like 
+<$B> <#\>I don't know <O>Beeping sound in background</O>
+<$A> <#\><O>inaudible</O> <#\>Dad<,,> <#\>Sorry about that
+<$B> <#\>Carry on <@>forename1</@> 
+<$A> <#\>Oh right <#\>Yeah
+<$C> <#\><O>inaudible</O>
+<$A> <#\>That's right dad <#\>Um<,> somebody rang which reminds
+me um
+<#\>It's written down here
+<$B> <#\>The first message on that machine made no sense to me
+<$A> <#\>Well you'd better <{><[>keep it</[> 
+<$B> <#\><[>What happened</[></{> last Friday of last
+<$C> <#\><{><[><O>inaudible</O></[> 
+<$B> <#\><[><O>inaudible</O></[></{> 
+<$A> <#\>Rachel Harris</I>
+
+

@@ -1,0 +1,214 @@
+<S2A-051> <2008>
+<S2A-051a> <1710>
+<I><#\>This is the Macquarie Uni text-to-speech system, um,
+developed
+at Macquarie University by Robert Mannell and John Clarke and
+also myself over approximately the last ten years <#\>Um, the
+software you're seeing at the moment is running on a Sun Spark
+Station <#\>Um, it's written completely in C so it's portable and
+um <#\>At the moment we've got it running on Sun Spark Station
+under Unix, a Vax work station under V M S, and an I B M P C,
+um, running in 386 technimode <#\>The idea of the text-to-speech
+system is to um, take orthographic text and convert it into
+parameters which are suitable for a formant speech
+synthesiser <#\>We have um, several such devices available
+<#\>Um,
+the original being the original Macquarie Uni text-to-speech
+synthesiser which was developed by Clive Sommerfield and John
+Clarke under a Telecom grant <#\>The one that we use at the
+moment is a velarise synthesiser designed by Clive
+Sommerfield and implemented by him <#\>And that's um, the
+hardware design of that is a lot cleaner than the original and
+the um, final spectral parameter output is slightly different
+<#\>Um in the main menu of the text-to-speech system at the
+moment, you can see there's several options <#\>Um, the first of
+which is to input a text file into the system <#\>The second is
+to input a sentence, that is, you type a sentence in <#\>Your
+third and fourth options um, relate to um, inputting a S B R
+file <#\>The fifth option relates to the internal language of the
+text-to-speech system which some of the um, language modules
+are written in <#\>And um, the other options relate to grapheme
+to phoneme translation <#\>I'll put a sentence through, one that
+has been pre-calculated, oh sorry, typed in already <#\>Um <,>
+<#\>The sentence is <quote>The number that you have dialled has
+been disconnected <#\>Please contact directory assistance for
+further information</quote> <#\>The project is sponsored at the
+moment by O T C so it's, this is a reasonable demonstration
+sentence as it, as you could expect that, um, that would be
+one of the things that the text-to-speech system employed in a
+telecommunications um, area might be asked to say <#\>Um, there
+are many stages involved in the translation from orthographic
+text to synthesis parameters <#\>First, the text is pre-
+processed <#\>Um, the pre-processor determines where the sentence
+boundaries and the word boundaries lie, and also expands any
+non-lexical information out into um, word form <#\>For instance
+a
+number might get expanded into a word um <#\>Also it handles
+abbreviations and turns them into um, translates them
+phonemically <#\>Um, once the um, pre-processing has occurred,
+each of the words can then be translated into their phonetic
+equivalents <#\>Um, sorry to say um all the time <#\>This is
+done
+using a a dictionary and grapheme to phoneme software <#\>The
+dictionary contains about thirteen thousand entries which ah,
+have been, has things like the endings taken off them so that
+they're basically base words <#\>For instance <mention>run</mention> would
+be in the dictionary but <mention>running</mention> or <mention>runs</mention>
+wouldn't be <#\>Those um are handled by a separate module which
+tends to morphologically analyse the word <#\>If that all fails
+and the word is not found in the dictionary, then the phonemic
+translation is created using grapheme to phoneme rules which
+were developed by John <?>Lavar</?> and John Clarke from the Naval
+Research Rules <#\>Once the the orthographic text has been
+translated into phonemes, um, then intrusive approximates can
+be generated and function words can be reduced <#\>Then the
+syllable level can be generated <#\>The syllables are marked out
+using a principle known as the Maximum o Onset Principle which
+states that there are already valid, certain valid consonant
+clusters in a syllable and that um, given that you know where
+the, what the consonant clusters are, you can then work out
+where the syllable boundaries are <#\>Jonothan Harrington helped
+with that side of the research <#\>The tonal phrases can then be
+marked intonational intermediate phrases <#\>Those are used to
+help determine where the pitch events are located once we get
+down to producing the <O>inaudible 1 word</O> contour <#\>Um, the feet
+phrases are also marked, then the pitch events are placed on
+the, on the map so to speak <#\>All the pitch events are marked
+and then some of them are pinned out depending on whether a
+word is repeated twice in a sentence, whether a word is
+perhaps not deserving of of so much stress <,> <#\>Once that has
+been done the F nought contour can then be interpolated
+between each of the pitch events <#\>That gives you your pitch
+<#\>The syllables, the duration of each of the syllables is
+calculated using, um a a neural network <#\>A neural network is
+basically a connections model which <#\>It's basically a black
+box which you put inputs in and it gives you an out, gives you
+the output based on past experience <#\>The syllable neural
+network was trained using data from the Macquarie Uni speech
+database called the Scribe Project which <,> has about five
+speakers and we we concentrated on one speaker and found out
+all the, we accepted all the syllable durations and all the
+contexts and we produced, we trained the neural network on
+that data <#\>You can see here that ah each of the syllables has
+been assigned a duration from the neural network and it's
+based on the context of the syllable <#\>Like for instance if the
+syllable was at the end of an intonational phrase boundary,
+it's going to be longer than one which is at the start of an
+intonational phrase boundary <,> <#\>That is how the syllable
+lengths are determined <#\>The phoneme lengths are determined by
+a by a hypotheses known as the Elasticity Hypothesis, which
+states that given a certain context, the number of standard
+deviations of each phoneme away from its mean will be similar
+for ea, will be identical for each syllable <#\>So for instance
+you take, look at one syllable and say it has five phonemes in
+it, then for each syllable it is K number of standard
+deviations away from the meaning of that syl, of that phoneme
+<&>Interruption - break in recording</&> <#\>The speech parameters
+have been calculated now and they've been sent to the
+synthesis device which you can't hear 'cause I had the volume
+turned down <#\>Um, we're now at the second menu which is the
+speak menu <#\>There are various options <#\>One is to play the
+utterance again <#\>Um others pertain to the graphing and viewing
+of the data <#\>I'll graph the knowledge tree which is the centre
+of the entire text-to-speech system, which it shows, there's a
+hierarchical knowledge tree which contains all the, most of
+the information about how the the speech parameters have been
+calculated <#\>I'll just zoom into the <O>inaudible 3 words</O>
+<#\>You
+can see that, there there are actually about twelve or
+thirteen hierarchical levels which are all bounded by one
+another <#\>You can only look at a certain number each time
+because the tree's actually three dimensional, and this lev,
+the the version I'm looking at here um shows the paragraph
+onto the synthesis level then onto the intertwine level which
+consists of words and punctuation <#\>Then it shows the
+phonetics, the um, syllable boundaries <#\><&>Interruption - break
+in recording</&> <#\>It shows the group phonetic level and then
+syllable level and then how each of the syllables are broken
+up into individual phonetics <#\>By clicking on each object you
+can find out more about it <#\>For instance, by clicking on the
+phon, on a phonetic element you can find out how long it is
+<#\>Um, you can find out how many standard deviations it is away
+from the mean <#\>So, you can also find out things like phonetic
+class <#\>You can click on any item to find out basically what
+the system has decided to do with it <#\>To change, you can
+change the view and then have a look at something like the the
+tonal elements <#\>This is a graph showing how the intonational
+boundaries and intermediate boundaries and <?>fifth</?> boundaries
+have been solved <#\>You can look at that in relation to the <,>
+to the sentences and words by loading in another different
+template which shows how they, how the intermediate boundaries
+are derived from the intertwined level <#\>Once we get down to
+the group phonetic level we can start generating the actual
+speech parameters <#\>The F nought generation has already been
+discussed <#\>Um, the system at the moment is designed as a
+diphenyl system where it takes diphenyl templates and
+calculates them to form the parameters which are then sent out
+to the device <#\>I'll graph some of the parameters and you can
+see that <,> <#\>This is the F nought curve <,> <#\>If I zoom in
+a
+bit you can actually see the phonemes <#\>Those are the S B R
+phonemes which are being superseded by the diphenyl approach
+I can play that data <#\>You can see the cursor zoom across the
+screen <#\>Although this computer is capable of playing the
+speech it's not capable of playing it in real time because we
+don't have a hardware synthesiser hooked up to it <#\>It's all
+done in software <#\>You can <O>inaudible 4 words</O> software
+<#\>Eventually Robert Mannells' software will be hooked up to it
+<#\>We hope to hope um output via the the twenty <?>kilograph</?>
+<O>inaudible 3 words</O> <#\>I can change the view and have a look at
+some of the other parameters <#\>I'll look at them, all of them
+together <#\>This is showing formants <#\>You can see you've got
+um
+nasal, F one, F two, F three, F four and F five coming up <#\>The
+computer's running slightly slow at the moment because Steve
+is running his neural net, network on it, and <O>inaudible 2
+words</O> software <#\>This is the <?>gains</?> <#\>You can see they're
+all
+from zero to a negative number representing the number of
+decibels <#\>Zero being the highest intensity <#\>Using this
+software you can actually modify any numbers should you wish
+to experiment or try out something different <,> <#\>This is the
+the bandwidth curves and <O>inaudible 1 word</O> parameters which
+tell you whether the signal is voiced or or voiceless, voiced
+or noise <,> <#\>You can zoom in or out <O>inaudible 6 words</O> to
+the other piece of software and <O>inaudible 5 words</O>
+information pertaining to where the current value of the the
+cursor <#\>Um, you can load in a different template</I> 
+
+
+
+<S2A-051b> <298>
+<I><$A> <#\>This here is the <,> the 
+headphones<,> <#\>I<,> dismantle the headphones<,,> so that I
+can get to the<,,> central part of the<,,> <O>inaudible</O>
+because these have to be removed<,> and fitted onto another <,> another part of the instrument
+<#\>That part there is <,> is the driver
+and these are a teledime<,> telephonics<,> T D H tele teledime dynamic headphone<,> model fifty three.
+<#\>Each different headphone that's used<,> has a different
+calibration<,> <#\>That is ah they have different threshold
+levels<,,> <#\>That would then be fitted<,> to<,> this<,>
+device here which is called an artificial ear<,,> <#\>Now I'll
+show you in a minute what that other device is for <#\>The
+artificial ear is ah <,,> doesn't look
+very much like an ear at all<,> but the reason they use this
+is because<,> it gives an approximation of a human ear<,>
+<#\>There's special little cavities <O>inaudible</O> into this
+um the shape of it the mass of it and gives the gives characteristics similar to a human ear but<,>
+mainly<,> it's<,> a common instrument between<,>
+calibrators<,> <#\>So between here<,> <#\>I'll calibrate<,>
+these on this type of instrument with that type of
+measurement<,,> sound level meter <#\>And somebody else would
+calibrate this with exactly the same type<,> so we have
+consistency between calibrations<,> <#\>Um<,> the<,,>
+artificial ear<,> has fitted to it a microphone<,> <#\>A
+very<,> very accurate and very sensitive microphone<,> and
+very costly <#\>Um it's worth about fifteen hundred dollars<,>
+for just the little microphone okay and this is a little guard
+over the top <#\>I've taken it off <#\>Don't touch the top
+<w>'cos</w> it's very sensitive <#\>I've actually had people
+throw<,> these to me and say <quote>here <@>firstnameA</@> 
+catch</quote> and then I show them the bill later and they go
+<quote>ah ah</quote> and breathe very heavily for a little
+while<,,> <#\>The microphone's fitted on top of there<,,> and
+then<,></I>
