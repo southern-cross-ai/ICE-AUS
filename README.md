@@ -83,6 +83,9 @@ ICE Corpus
 
 ```
 
+A cleaned dataset by [Xinyu Mao](https://github.com/Xinyu990511) is available under `ICE-AUS_clean`. You can also use this dataset directly from [Hugging Face - SouthernCrossAI/ICE-AUS-International-Corpus-of-English](https://huggingface.co/datasets/SouthernCrossAI/ICE-AUS-International-Corpus-of-English).
+
+
 ## Download
 
 You can download it directly from [Macquarie University Research Data - Australian component of the International Corpus of English (ICE-AUS)](https://figshare.mq.edu.au/articles/dataset/International_Corpus_of_English_ICE_/24769173?file=43778337).
